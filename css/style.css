@@ -4,9 +4,17 @@ body {
 }
 .justify {
   text-align: justify;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
 }
 .justify h1, .justify h2, .justify h3, .justify h4, .justify h5, .justify h6 {
   text-align: left;
+  -moz-hyphens: none;
+  -webkit-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
 }
 
 
