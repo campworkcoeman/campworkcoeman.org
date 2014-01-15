@@ -2,7 +2,7 @@
 published: true
 layout: generic
 title: Boy Scout Resident Camp
-keywords: Boy Scout, resident camp
+keywords: "Boy Scout, resident camp"
 ---
 
 <div class="alert alert-info">
@@ -89,6 +89,7 @@ register your troop to attend Camp Workcoeman in 2014</a>.
  40    | Hudson Valley Council
  1028  | Western Massachusetts Council
  24    | Mattabesett Trail
+ 26    | Jersey Shore Council
 
 ### Week 4
 
@@ -102,6 +103,7 @@ register your troop to attend Camp Workcoeman in 2014</a>.
  22    | Northwest Hills
  258   | Mad River
  3026  | Hudson Valley Council
+ 18    | Mattabesett Trail
 
 ### Week 5
 
