@@ -1,0 +1,6 @@
+pygments: false
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: pretty
+url: //campworkcoeman.org

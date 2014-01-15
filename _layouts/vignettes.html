@@ -1,0 +1,67 @@
+{% include header.html %}
+{% include navbar.html %}
+
+<!-- Main content -->
+<div class="container main">
+
+<ol class="breadcrumb">
+  <li><a href="{{ site.url }}/about/history/">History</a></li>
+  <li><a href="{{ site.url }}/about/history/vignettes/">Vignettes</a></li>
+  <li class="active">{{ page.title }}</li>
+</ol>
+
+<!-- Main column -->
+<div class="col-sm-8">
+
+<h1>{{ page.title }}</h1>
+
+<div class="justify">
+{{ content }}
+</div>
+
+{% comment %} Calculate number of vignettes {% endcomment %}
+{% for vignette in site.pages %}
+  {% if vignette.layout == 'vignettes' %}
+    {% capture vignette_count %} {{ vignette_count | plus: 1 }} {% endcapture %}
+  {% endif %}
+{% endfor %}
+{% comment %} Calculate if last vignette hack http://ecommerce.shopify.com/c/ecommerce-design/t/comparing-numbers-with-string-variables-in-liquid-37229 {% endcomment %}
+{% capture difference %}{{ vignette_count | minus: page.number }}{% endcapture %}
+{% capture difference %}{{ difference | minus: 1 }}{% endcapture %}
+
+<ul class="pager">
+{% unless page.number == 1 %}
+  <li class="previous"><a href="{{ site.url }}/about/history/vignettes/{{ page.number | minus: 1 }}/">&larr; Previous</a></li>
+{% endunless %}
+{% unless difference contains '-' %}
+  <li class="next"><a href="{{ site.url }}/about/history/vignettes/{{ page.number | plus: 1 }}/">Next &rarr;</a></li>
+{% endunless %}
+</ul>
+
+</div>
+
+<div class="col-sm-4" id="sidebar" role="navigation">
+<h4>Vignettes</h4>
+          <div class="list-group">
+{% for i in (1..vignette_count) %}
+  {% for p in site.pages %}
+    {% if p.layout == 'vignettes' and p.number == i %}
+      {% capture diffA %}{{ page.number | minus: i }}{% endcapture %}
+      {% capture diffA %}{{ diffA | minus: 1 }}{% endcapture %}
+      {% capture diffB %}{{ page.number | minus: i }}{% endcapture %}
+      {% capture diffB %}{{ diffB | times: -1 }}{% endcapture %}
+      {% capture diffB %}{{ diffB | minus: 1 }}{% endcapture %}
+      {% if diffA contains '-' and diffB contains '-' %}
+            <a href="{{ site.url }}{{ p.url }}" class="list-group-item active">{{ p.title }}</a>
+      {% else %}
+            <a href="{{ site.url }}{{ p.url }}" class="list-group-item">{{ p.title }}</a>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+          </div>
+</div><!--/span-->
+
+</div>
+
+{% include footer.html %}
