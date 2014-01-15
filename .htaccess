@@ -154,7 +154,6 @@ Header set Cache-Control "public, must-revalidate, proxy-revalidate"
 </FilesMatch>
 
 # 2006 site redirects
-Redirect 301 /index.html /
 Redirect 301 /camp_history.htm /about/history/
 Redirect 301 /west_hill_pond.htm /about/west-hill-pond/
 Redirect 301 /camp_map.htm /about/map/
