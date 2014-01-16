@@ -99,11 +99,11 @@ register your troop to attend Camp Workcoeman in 2014</a>.
  29    | Northwest Hills
  50    | Mark Twain
  92    | Mad River
+ 18    | Mattabesett Trail
  517   | Theodore Roosevelt Council
  22    | Northwest Hills
  258   | Mad River
  3026  | Hudson Valley Council
- 18    | Mattabesett Trail
 
 ### Week 5
 
@@ -122,6 +122,7 @@ register your troop to attend Camp Workcoeman in 2014</a>.
  95    | Hudson Valley Council
  55    | Northwest Hills
  75    | Mattabesett Trail
+ 425   | Mark Twain
  215   | Theodore Roosevelt Council
 
 ## Promotional Video
