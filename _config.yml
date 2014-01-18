@@ -3,4 +3,4 @@ markdown: rdiscount
 rdiscount:
   extensions: [smart]
 permalink: pretty
-url: //campworkcoeman.org
+url: http://campworkcoeman.org
