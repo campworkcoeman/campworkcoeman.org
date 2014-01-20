@@ -16,7 +16,7 @@ keywords: forms, medical forms, camperships
 ## 2014 Campership Application
 
 > %list-group%
-> <a href="#" class="list-group-item">Coming Soon</a>
+> <a href="http://www.ctrivers.org/Camping/CampershipsandCampCards/ApplyforaCampership" class="list-group-item">Apply for a Campership</a>
 
 ## Other Forms
 

@@ -82,6 +82,7 @@ the opportunity to see what awaits them in the Boy Scout program.
 > <a href="{{ site.url }}/pdf/2014/CRC_Health_Form_2013.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-MedicationAuthorization.pdf" class="list-group-item">Medication Order Form</a>
+> <a href="http://www.ctrivers.org/Camping/CampershipsandCampCards/ApplyforaCampership" class="list-group-item">Apply for a Campership</a>
 
 For more information, contact Director of Cub Scout Programs, Jeff Seiser at
 [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org).
