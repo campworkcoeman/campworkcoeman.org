@@ -35,8 +35,8 @@ Year(s)         | Name                  | Scout Executive             | District
 
 Years           | Name                 | Ranger                      | Caretaker
 ----------------|----------------------|:---------------------------:|:---------------------------:
-1969 -- 1977    | Richard H. Boisclair | <i class="fa fa-check"></i> |
-1978 -- 1980    | Mark St. Jacques     | <i class="fa fa-check"></i> |
+1971 -- 1977    | Richard H. Boisclair | <i class="fa fa-check"></i> |
+1979 -- 1980    | Mark St. Jacques     | <i class="fa fa-check"></i> |
 1981 -- 1983    | Sherwood "Bud" Nase  |                             | <i class="fa fa-check"></i>
 1984 -- 1986    | Michael Gundersen    |                             | <i class="fa fa-check"></i>
 1987 -- 1992    | Wesley Marsh         |                             | <i class="fa fa-check"></i>
