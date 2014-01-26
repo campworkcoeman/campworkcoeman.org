@@ -38,7 +38,7 @@ register your troop to attend Camp Workcoeman in 2014</a>.
 >>> July 13--19, 2014
 >>
 >>> %col-xs-6%
->>> **Trail to Eagle Camp**  
+>>> **[Trail to Eagle Camp]({{ site.url }}/boy-scouts/trail-to-eagle/)**  
 >>> August 3--8, 2014
 
 > %list-group%
@@ -90,6 +90,7 @@ register your troop to attend Camp Workcoeman in 2014</a>.
  1028  | Western Massachusetts Council
  24    | Mattabesett Trail
  26    | Jersey Shore Council
+ 104   | Mad River
 
 ### Week 4
 
