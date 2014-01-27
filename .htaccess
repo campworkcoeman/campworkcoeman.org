@@ -51,13 +51,3 @@ Redirect 301 /shorttermcamping/kitchen.html /short-term-camping/kitchen/
 Redirect 301 /shorttermcamping/conferencerooms.html /short-term-camping/conference-rooms/
 Redirect 301 /shorttermcamping/pavilion.html /short-term-camping/parade-ground-pavilion/
 Redirect 301 /shorttermcamping/chapel.html /short-term-camping/chapel/
-
-Redirect 301 /history/ /about/history/vignettes/
-Redirect 301 /history/vignettes/1/ /about/history/vignettes/1/
-Redirect 301 /history/vignettes/2/ /about/history/vignettes/2/
-Redirect 301 /history/vignettes/3/ /about/history/vignettes/3/
-Redirect 301 /history/vignettes/4/ /about/history/vignettes/4/
-Redirect 301 /history/vignettes/5/ /about/history/vignettes/5/
-Redirect 301 /history/vignettes/6/ /about/history/vignettes/6/
-Redirect 301 /history/vignettes/7/ /about/history/vignettes/7/
-Redirect 301 /history/vignettes/8/ /about/history/vignettes/8/
