@@ -105,6 +105,7 @@ register your troop to attend Camp Workcoeman in 2014</a>.
  22    | Northwest Hills
  258   | Mad River
  3026  | Hudson Valley Council
+ 123   | Mohegan
 
 ### Week 5
 
