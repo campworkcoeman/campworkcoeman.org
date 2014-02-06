@@ -42,7 +42,7 @@ activities they would like to do.
 
 ## Cub Scout Mini Week
 
-#### June 29--July 2 and August 3--5, 2014
+#### June 29--July 1 and August 3--5, 2014
 
 This is a shorter overnight experience for Cubs and their adult partners. Cub
 Scouts will get a taste of those great summer camp programs. This opportunity

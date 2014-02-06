@@ -6,7 +6,7 @@ description: Cub Experience Camp is a 3 day, 2 night mini camp especially design
 keywords: Cub Scout, mini week
 ---
 
-### June 29--July 2 and August 3--5, 2014
+### June 29--July 1 and August 3--5, 2014
 
 <div class="alert alert-info">
 Visit the Connecticut Rivers Council site to
