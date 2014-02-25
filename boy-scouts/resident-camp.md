@@ -74,6 +74,7 @@ register your troop to attend Camp Workcoeman in 2014</a>.
  1443  | Mark Twain
  66    | Mark Twain
  214   | Theodore Roosevelt Council
+ 21    | Mark Twain
 
 ### Week 3
 
