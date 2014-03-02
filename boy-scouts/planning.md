@@ -8,7 +8,7 @@ keywords: pre-camp, planning, meetings
 
 ## Pre-Camp Leaders Meeting
 
-Two pre-camp planning meetings are scheduled for Sunday, May 4 and Saturday,
+Two pre-camp planning meetings are scheduled for Saturday, May 3 and Saturday,
 May 17. All pre-camp planning information will be discussed related to
 programs, medical form requirements, and the Sunday check-in process. All
 troops should be represented at one of these meetings.
