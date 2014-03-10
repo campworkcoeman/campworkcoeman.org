@@ -37,3 +37,6 @@ for Scouts wishing to attend Trail to Eagle Camp.
 
 For questions specific to Trail to Eagle camp contact Program Director Tom
 Leisten at [tleisten@campworkcoeman.org](mailto:tleisten@campworkcoeman.org).
+
+> %list-group%
+> <a href="{{ site.url }}/pdf/2014/2014_T2E_Guide.pdf" class="list-group-item">2014 Trail to Eagle Guide</a>
