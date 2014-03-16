@@ -14,6 +14,7 @@ var sunTimes = SunCalc.getTimes(date, lat, lon),
 // Position sun and moon
 if (date - sunTimes.sunrise > 0 && date - sunTimes.sunset < 0) {
     sunPos = (date - sunTimes.sunrise) / (sunTimes.sunset - sunTimes.sunrise) * 120 + 30;
+    sun.style.webkitTransform='rotate(' + sunPos + 'deg)';
     sun.style.transform='rotate(' + sunPos + 'deg)';
 } else {
     // Night
@@ -46,6 +47,7 @@ if (moonIllum.fraction > 0.05) {
         crescent = '0';
         amount = moonIllum.fraction * 200 - 100;
     }
+    moon.style.webkitTransform='rotate(' + moonIllum.angle + 'rad)';
     moon.style.transform='rotate(' + moonIllum.angle + 'rad)';
     var path = 'M100,0 a100,100 0 1,0 0,200 a' + String(amount) + ',100 0 1,' + crescent + '0,-200 z';
     document.getElementById('phase').setAttribute('d', path);
