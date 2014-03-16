@@ -4,7 +4,7 @@ layout: news-item
 title: Trail Crew a Success
 ---
 
-The trail crew held this weekend was a success. Despite the snow cover hinding
+The trail crew held this weekend was a success. Despite the snow cover hindering
 what could be done, crews using axes and two-man crosscut saws cleared the vast
 majority of trees that had fallen on the trails over the past few years, and
 others posted signs delineating Workcoeman's western and northern property
