@@ -1,0 +1,40 @@
+{% include header.html %}
+{% include navbar.html %}
+
+<!-- Main content -->
+<div class="container main">
+
+  <!-- Main column -->
+  <div class="col-sm-8 col-sm-push-4">
+    
+    <ol class="breadcrumb">
+      <li><a href="{{ site.url }}/about/news/">News & Events</a></li>
+      <li class="active">{{ page.title }}</li>
+    </ol>
+    
+    <h1>{{ page.title }}</h1>
+    
+    <div class="post-date">
+      {{ page.date | date_to_string }}
+    </div>
+    
+    <div class="justify">
+      {{ content | bootstrapTables }}
+    </div>
+    
+    <ul class="pager">
+    {% if page.previous %}
+      <li class="previous"><a href="{{ page.previous.url }}">&larr; {{ page.previous.title }}</a></li>
+    {% endif %}
+    {% if page.next %}
+      <li class="next"><a href="{{ page.next.url }}">{{ page.next.title }} &rarr;</a></li>
+    {% endif %}
+    </ul>
+    
+  </div>
+
+{% include sidebar.html %}
+
+</div>
+
+{% include footer.html %}

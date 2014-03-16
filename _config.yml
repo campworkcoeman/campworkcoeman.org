@@ -3,4 +3,6 @@ markdown: rdiscount
 rdiscount:
   extensions: [smart]
 permalink: pretty
+paginate: 5
+paginate_path: about/news/page:num/
 url: http://campworkcoeman.org

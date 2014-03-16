@@ -37,6 +37,23 @@ priority: 1
     <p>During the six week summer camp season, over 1,200 Scouts enjoy unforgettable Scouting experiences. The summer camp season consists of 5 weeks of <a href="{{ site.url }}/boy-scouts/resident-camp/">Boy Scout Resident Camp</a> and one week of <a href="{{ site.url }}/cub-scouts/webelos-resident-camp/">Webelos Resident Camp</a> and <a href="{{ site.url }}/cub-scouts/day-camp/">Cub Scout Day Camp</a>. It is also home to <a href="http://www.laurelmusiccamp.com/">Laurel Music Camp</a>.</p>
     <div class="panel panel-default">
       <div class="panel-heading">
+        <h3 class="panel-title">News & Events</h3>
+      </div>
+      <ul class="list-group">
+        {% for post in site.posts limit: 3 %}
+        <li href="{{ post.url }}" class="list-group-item">
+          <h4 class="list-group-item-heading"><a href="{{ post.url }}">{{ post.title }}</a> <span class="post-date-home">{{ post.date | date_to_string }}</span></h4>
+          {{ post.excerpt }}
+          <a class="btn btn-default btn-sm" href="{{ post.url }}" role="button">Read more &raquo;</a>
+        </li>
+        {% endfor %}
+        <a href="about/news/" class="list-group-item">
+          More news &raquo;
+        </a>
+      </ul>
+    </div>
+    <div class="panel panel-default">
+      <div class="panel-heading">
         <h3 class="panel-title">Why should your troop attend summer camp at Camp Workcoeman?</h3>
       </div>
       <ul class="list-group">
