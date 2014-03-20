@@ -8,28 +8,29 @@ keywords: camp directors, camp rangers, Lou Seiser
 
 ### Camp Directors
 
-Year(s)         | Name                  | Scout Executive             | District Executive
-----------------|-----------------------|:---------------------------:|:---------------------------:
-1924            | Earle C. Beebe        | <i class="fa fa-check"></i> |
-1925 -- 1926    | Herbert McLeod        | <i class="fa fa-check"></i> |
-1927            | Alex Goodskey         |                             |
-1928 -- 1935    | Edward J. Jacot       | <i class="fa fa-check"></i> |
-1936 -- 1940    | Palmer D. Liddle      | <i class="fa fa-check"></i> |
-1941 -- 1942    | Clarence Rosenbeck    |                             |
-1943 -- 1946    | E. Merle Hildreth     | <i class="fa fa-check"></i> |
-1947 -- 1949    | Douglas R. Crichton   |                             | <i class="fa fa-check"></i>
-1950 -- 1953    | Albert Thompson       |                             | <i class="fa fa-check"></i>
-1954 -- 1963    | Lloyd "Skipper" Noyes | <i class="fa fa-check"></i> |
-1964 -- 1965    | Albert Thompson       | <i class="fa fa-check"></i> |
-1966 -- 1969    | Charles M. Chase      |                             | <i class="fa fa-check"></i>
-1970            | Herbert McKinney      |                             | <i class="fa fa-check"></i>
-1971            | David Johnson         |                             |
-1972            | Richard McKie         |                             |
-1973 -- 1974    | Myron Rust            |                             |
-1975 -- 1976    | Steven Belmore        |                             |
-1977 -- 1979    | David Wilson          |                             |
-1980            | Carlos Santiago       |                             | <i class="fa fa-check"></i>
-1981 -- present | Lou Seiser            |                             |
+Year(s)         | Name                  | Position
+----------------|-----------------------|---------------------------
+1924            | Earle C. Beebe        | Scout Executive
+1925 -- 1926    | Herbert McLeod        | Scout Executive
+1927            | Alex Goodskey         | 
+1928 -- 1935    | Edward J. Jacot       | Scout Executive
+1936 -- 1940    | Palmer D. Liddle      | Scout Executive
+1941 -- 1942    | Clarence Rosenbeck    | 
+1942            | Carl Bergquist        | 
+1943 -- 1946    | E. Merle Hildreth     | Scout Executive
+1947 -- 1949    | Douglas R. Crichton   | District Executive, Asst. Scout Executive
+1950 -- 1953    | Albert Thompson       | District Executive
+1954 -- 1963    | Lloyd "Skipper" Noyes | Scout Executive
+1964 -- 1965    | Albert Thompson       | Scout Executive, Field Executive
+1966 -- 1969    | Charles M. Chase      | District Executive
+1970            | Herbert McKinney      | District Executive
+1971            | David Johnson         | 
+1972            | Richard McKie         | 
+1973 -- 1974    | Myron Rust            | 
+1975 -- 1976    | Steven Belmore        | 
+1977 -- 1979    | David Wilson          | 
+1980            | Carlos Santiago       | District Executive, Field Director
+1981 -- present | Lou Seiser            | 
 
 ### Camp Rangers and Caretakers
 
