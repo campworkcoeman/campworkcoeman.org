@@ -15,13 +15,13 @@ Year(s)         | Name                  | Position
 1927            | Alex Goodskey         | 
 1928 -- 1935    | Edward J. Jacot       | Scout Executive
 1936 -- 1940    | Palmer D. Liddle      | Scout Executive
-1941 -- 1942    | Clarence Rosenbeck    | 
+1941            | Clarence Rosenbeck    | 
 1942            | Carl Bergquist        | 
 1943 -- 1946    | E. Merle Hildreth     | Scout Executive
-1947 -- 1949    | Douglas R. Crichton   | District Executive, Asst. Scout Executive
-1950 -- 1953    | Albert Thompson       | District Executive
+1947 -- 1949    | Douglas R. Crichton   | Asst. Scout Executive
+1950 -- 1953    | Albert Thompson       | Field Executive
 1954 -- 1963    | Lloyd "Skipper" Noyes | Scout Executive
-1964 -- 1965    | Albert Thompson       | Scout Executive, Field Executive
+1964 -- 1965    | Albert Thompson       | Scout Executive
 1966 -- 1969    | Charles M. Chase      | District Executive
 1970            | Herbert McKinney      | District Executive
 1971            | David Johnson         | 
@@ -29,7 +29,7 @@ Year(s)         | Name                  | Position
 1973 -- 1974    | Myron Rust            | 
 1975 -- 1976    | Steven Belmore        | 
 1977 -- 1979    | David Wilson          | 
-1980            | Carlos Santiago       | District Executive, Field Director
+1980            | Carlos Santiago       | Field Director
 1981 -- present | Lou Seiser            | 
 
 ### Camp Rangers and Caretakers
