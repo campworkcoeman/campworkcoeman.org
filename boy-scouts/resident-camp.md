@@ -20,7 +20,6 @@ register your troop to attend Camp Workcoeman in 2014</a>.
 >>> %col-xs-6%
 >>> **Week #4**  
 >>> July 20--26, 2014  
->>> [PADI Scuba Certification]({{ site.url }}/boy-scouts/special-programs/scuba/)
 >
 >> %row%
 >>> %col-xs-6%
@@ -36,10 +35,12 @@ register your troop to attend Camp Workcoeman in 2014</a>.
 >>> %col-xs-6%
 >>> **Week #3**  
 >>> July 13--19, 2014
+>>> [PADI Scuba Certification]({{ site.url }}/boy-scouts/special-programs/scuba/)
 >>
 >>> %col-xs-6%
 >>> **[Trail to Eagle Camp]({{ site.url }}/boy-scouts/trail-to-eagle/)**  
 >>> August 3--8, 2014
+>>> [PADI Scuba Certification]({{ site.url }}/boy-scouts/special-programs/scuba/)
 
 > %list-group%
 > <a href="#" class="list-group-item">Daily Program Schedule Coming Soon</a>

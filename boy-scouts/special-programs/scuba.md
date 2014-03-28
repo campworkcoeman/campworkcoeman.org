@@ -64,4 +64,5 @@ For additional information contact Program Director Tom Leisten at
 (860) 379-2207 or [tleisten@campworkcoeman.org](mailto:tleisten@campworkcoeman.org).
 
 > %list-group%
+> <a href="http://www.ctrivers.org/Camping/PADI-Scuba-Certification/" class="list-group-item">Register for a PADI Scuba Certification Week</a>
 > <a href="http://www.enfieldscuba.com/" class="list-group-item">Enfield Dive Shop Website</a>
