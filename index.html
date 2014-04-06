@@ -42,7 +42,7 @@ priority: 1
         {% for post in site.posts limit: 3 %}
         <li href="{{ post.url }}" class="list-group-item">
           <h4 class="list-group-item-heading"><a href="{{ post.url }}">{{ post.title }}</a> <span class="post-date-home">{{ post.date | date_to_string }}</span></h4>
-          {{ post.excerpt }}
+          {{ post.excerpt | markdownify }}
           <a class="btn btn-default btn-sm" href="{{ post.url }}" role="button">Read more &raquo;</a>
         </li>
         {% endfor %}
