@@ -36,7 +36,7 @@ keywords: history, vignettes
     {% if p.layout == 'vignettes' and p.number == number %}
 <div class="col-6 col-sm-6 col-lg-4">
   <h2>{{ p.title }}</h2>
-  <p>{{ p.content | truncatewords: 40 | markdownify }}</p>
+  {{ p.content | markdownify | truncatewords: 40 }}</p>
   <p><a class="btn btn-default" href="{{ site.url }}{{ p.url }}" role="button">Read more &raquo;</a></p>
 </div><!--/span-->
       {% cycle '','','</div><div class="row">' %}
