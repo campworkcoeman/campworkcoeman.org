@@ -26,3 +26,4 @@ keywords: forms, medical forms, camperships
 > <a href="{{ site.url }}/pdf/2014/off_camp_permission.pdf" class="list-group-item">Off Camp Permission Form</a>
 > <a href="{{ site.url }}/pdf/2014/2012_scouterresourceform.pdf" class="list-group-item">Scouter Resource Form</a>
 > <a href="{{ site.url }}/pdf/2014/camper_release.pdf" class="list-group-item">Camper Release Form</a>
+> <a href="{{ site.url }}/pdf/2014/Pistol_Pilot_Program_Release_Agreement.pdf" class="list-group-item">Pistol Pilot Program Release Agreement</a>
