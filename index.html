@@ -38,18 +38,18 @@ priority: 1
       <div class="panel-heading">
         <h3 class="panel-title">News & Events</h3>
       </div>
-      <ul class="list-group">
+      <div class="list-group">
         {% for post in site.posts limit: 3 %}
-        <li href="{{ post.url }}" class="list-group-item">
+        <div class="list-group-item">
           <h4 class="list-group-item-heading"><a href="{{ post.url }}">{{ post.title }}</a> <span class="post-date-home">{{ post.date | date_to_string }}</span></h4>
           {{ post.excerpt | markdownify }}
           <a class="btn btn-default btn-sm" href="{{ post.url }}" role="button">Read more &raquo;</a>
-        </li>
+        </div>
         {% endfor %}
         <a href="about/news/" class="list-group-item">
           More news &raquo;
         </a>
-      </ul>
+      </div>
     </div>
     <div class="panel panel-default">
       <div class="panel-heading">
