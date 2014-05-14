@@ -51,3 +51,6 @@ Redirect 301 /shorttermcamping/kitchen.html /short-term-camping/kitchen/
 Redirect 301 /shorttermcamping/conferencerooms.html /short-term-camping/conference-rooms/
 Redirect 301 /shorttermcamping/pavilion.html /short-term-camping/parade-ground-pavilion/
 Redirect 301 /shorttermcamping/chapel.html /short-term-camping/chapel/
+
+# Temporary 90th anniversary reunion redirect
+Redirect 302 /reunion /about/news/2014/05/13/ninetieth-anniversary-reunion/
