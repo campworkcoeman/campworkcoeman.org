@@ -46,7 +46,7 @@ Space is limited.
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2014/14_Webelos_Resident_Camp.pdf" class="list-group-item">2014 Webelos Resident Camp Flier</a>
-> <a href="#" class="list-group-item">Coming Soon: 2014 Cub Scout Program Guide</a>
+> <a href="{{ site.url }}/pdf/2014/2014_CW_Cub_Leaders_Guide.pdf" class="list-group-item">2014 Cub Scout Program Guide</a>
 > <a href="{{ site.url }}/pdf/2014/CRC_Health_Form_2013.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-MedicationAuthorization.pdf" class="list-group-item">Medication Order Form</a>
