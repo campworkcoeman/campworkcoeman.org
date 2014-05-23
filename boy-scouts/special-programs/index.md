@@ -8,14 +8,20 @@ keywords: special programs, programs
 ## Merit Badge Completion Day
 
 > %list-group%
-> <a href="#" class="list-group-item">Flier Coming Soon</a>
+> <a href="{{ site.url }}/pdf/2014/14_MB_completion.pdf" class="list-group-item">Merit Badge Completion Day Flier</a>
 
-## Discover Scuba
+## Search and Rescue Merit Badge Weekend
+
+> %list-group%
+> <a href="{{ site.url }}/pdf/2014/SAR_flier.pdf" class="list-group-item">Search and Rescue Merit Badge Weekend Flier</a>
+
+## Scuba
 
 A new challenge for older Scouts who would like to discover the depths of West
 Hill Pond. Every week a professional instructor will come to camp to teach
 Scouts 13 and older about scuba diving. All participants will have a chance to
-spend time under water to see what it is all about.
+spend time under water to see what it is all about. Additionally, a PADI
+certification course will be offered during week 3.
 
 > %list-group%
 > <a href="scuba/" class="list-group-item">More Information</a>
