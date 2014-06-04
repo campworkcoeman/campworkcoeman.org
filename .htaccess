@@ -12,7 +12,7 @@ ErrorDocument 404 /404/
 
 # Browser cache
 ExpiresActive On
-ExpiresDefault "access plus 1 year"
+ExpiresDefault "access plus 6 hours"
 
 # 2006 site redirects
 Redirect 301 /camp_history.htm /about/history/
