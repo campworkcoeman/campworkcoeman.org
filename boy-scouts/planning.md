@@ -38,8 +38,8 @@ the appropriate forms found in the leaders' guide.
 ## Things to Remember
 
 * Troop photos are taken Tuesday during lunch.
-* The Court of Honor is Saturday at 11:00 a.m.
-* The family BBQ is Saturday at 12:00 noon
+* The Court of Honor is Saturday at 10:00 a.m.
+* The family BBQ is immediately following the Court of Honor
 * If your troop's leadership will change during the week, a roster indicating
   leader names and arrival and departure times must be submitted at your Sunday
   arrival.
