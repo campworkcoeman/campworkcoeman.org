@@ -7,9 +7,8 @@ keywords: history
 ---
 
 <div class="alert alert-info">
-In recognition of Camp Workcoeman&rsquo;s Ninetieth Anniversary, we will post
-a <a href="vignettes/">historical vignette each week from now until the summer
-camp season opens</a>.
+In recognition of Camp Workcoeman&rsquo;s Ninetieth Anniversary, we present
+a series of <a href="vignettes/">historical vignettes of camp&rsquo;s early history</a>.
 </div>
 
 ## The Founding of Camp Workcoeman
