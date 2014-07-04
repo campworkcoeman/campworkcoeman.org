@@ -12,7 +12,7 @@ keywords: map, trail map
 
 ### Topographic Map
 
-[<img src="{{ site.url }}/about/files/camp-area-topo.png" alt="Camp Area" style="max-width: 550px; width: 100%;"/>]({{ site.url }}/pdf/2014/camp-map-metric_2013-07-03.pdf)
+[<img src="{{ site.url }}/about/files/camp-area-topo.png" alt="Camp Area" style="max-width: 470px; width: 100%;"/>]({{ site.url }}/pdf/2014/camp-map-metric_2013-07-03.pdf)
 
 ## Trail Map
 
