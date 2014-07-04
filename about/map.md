@@ -10,6 +10,10 @@ keywords: map, trail map
 
 [<img src="{{ site.url }}/about/files/camp-area.png" alt="Camp Area" style="max-width: 550px; width: 100%;"/>]({{ site.url }}/pdf/2014/camp-area-bw_2013-12-09.pdf)
 
+### Topographic Map
+
+[<img src="{{ site.url }}/about/files/camp-area-topo.png" alt="Camp Area" style="max-width: 550px; width: 100%;"/>]({{ site.url }}/pdf/2014/camp-map-metric_2013-07-03.pdf)
+
 ## Trail Map
 
 [<img src="{{ site.url }}/about/files/trail-map.png" alt="Trail Map" style="max-width: 470px; width: 100%;"/>]({{ site.url }}/pdf/2014/trail-map-metric_2013-07-03.pdf)
