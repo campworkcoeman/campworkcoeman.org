@@ -13,7 +13,7 @@ keywords: special programs, programs
 ## Search and Rescue Merit Badge Weekend
 
 > %list-group%
-> <a href="http://www.ctrivers.org/event.aspx?id=6437" class="list-group-item">Search and Rescue Merit Badge Weekend</a>
+> <a href="http://www.ctrivers.org/event.aspx?id=9154" class="list-group-item">Search and Rescue Merit Badge Weekend</a>
 
 ## Scuba
 
