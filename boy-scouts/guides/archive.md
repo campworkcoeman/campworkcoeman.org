@@ -5,6 +5,12 @@ title: Past Program Guides
 keywords: program guides, guides, archive
 ---
 
+## 2014
+
+> %list-group%
+> <a href="{{ site.url }}/pdf/2014/14_program_guide.pdf" class="list-group-item">Program Guide</a>
+> <a href="{{ site.url }}/pdf/2014/2014_T2E_Guide.pdf" class="list-group-item">Trail to Eagle Camp Guide</a>
+
 ## 2013
 
 > %list-group%

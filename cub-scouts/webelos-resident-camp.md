@@ -6,12 +6,12 @@ description: This action-packed 6 day, 5 night resident camp is designed for fir
 keywords: Webelos, resident camp
 ---
 
-### June 29--July 4 and August 3--8, 2014
+### July 5--10 and August 9--14, 2015
 
 <div class="alert alert-info">
 Visit the Connecticut Rivers Council site to
-<a href="http://www.ctrivers.org/Camping/CubScoutCamping/WebelosResidentCamp/">
-register your son for Webelos Resident Camp at Camp Workcoeman in 2014</a>.
+<a href="http://www.ctrivers.org/Events/UnitSign-upfor2015CubWebelosSummerCamp">
+register your son for Webelos Resident Camp at Camp Workcoeman in 2015</a>.
 </div>
 
 Fun, adventure, and excitement await all Webelos Scouts at Camp Workcoeman!
@@ -45,8 +45,8 @@ Space is limited.
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2014/14_Webelos_Resident_Camp.pdf" class="list-group-item">2014 Webelos Resident Camp Flier</a>
-> <a href="{{ site.url }}/pdf/2014/2014_CW_Cub_Leaders_Guide.pdf" class="list-group-item">2014 Cub Scout Program Guide</a>
+> <a href="#" class="list-group-item">2015 Webelos Resident Camp Flier Coming Soon</a>
+> <a href="#" class="list-group-item">2015 Cub Scout Program Guide Coming Soon</a>
 > <a href="{{ site.url }}/pdf/2014/2014_Med_Form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-MedicationAuthorization.pdf" class="list-group-item">Medication Order Form</a>

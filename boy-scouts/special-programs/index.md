@@ -7,13 +7,7 @@ keywords: special programs, programs
 
 ## Merit Badge Completion Day
 
-> %list-group%
-> <a href="{{ site.url }}/pdf/2014/14_MB_completion.pdf" class="list-group-item">Merit Badge Completion Day Flier</a>
-
-## Search and Rescue Merit Badge Weekend
-
-> %list-group%
-> <a href="http://www.ctrivers.org/event.aspx?id=9154" class="list-group-item">Search and Rescue Merit Badge Weekend</a>
+The 2015 Merit Badge Completion Day will be held Thursday, August 13.
 
 ## Scuba
 

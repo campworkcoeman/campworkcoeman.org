@@ -1,17 +1,17 @@
 ---
 published: true
 layout: generic
-title: Baloo&rsquo;s Family Camping Weekend
-description: Baloo's Family Camp at Camp Workcoeman is a great opportunity for Cub Scouts to enjoy a summer camp experience without the worries of being away from home.
+title: Family Camping Weekend
+description: Family Camp at Camp Workcoeman is a great opportunity for Cub Scouts to enjoy a summer camp experience without the worries of being away from home.
 keywords: Cub Scout, family, weekend
 ---
 
-### July 26--27, 2014
+### July 18--19, 2015
 
 <div class="alert alert-info">
 Visit the Connecticut Rivers Council site to
-<a href="http://www.ctrivers.org/Event.aspx?id=8951">
-register for Baloo&rsquo;s Family Camping Weekend at Camp Workcoeman in 2014</a>.
+<a href="http://www.ctrivers.org/Event.aspx?id=11375">
+register for the Family Camping Weekend at Camp Workcoeman in 2015</a>.
 </div>
 
 Summer camp is not just for Scouts...it's for families too! Baloo's Family Camp
@@ -52,8 +52,8 @@ Be sure to sign up to sign up today and don't miss out!
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2014/14_Baloo_Family_Weekend.pdf" class="list-group-item">2014 Baloo&rsquo;s Family Camping Weekend Flier</a>
-> <a href="{{ site.url }}/pdf/2014/2014_CW_Cub_Leaders_Guide.pdf" class="list-group-item">2014 Cub Scout Program Guide</a>
+> <a href="#" class="list-group-item">2015 Family Camping Weekend Flier Coming Soon</a>
+> <a href="#" class="list-group-item">2015 Cub Scout Program Guide Coming Soon</a>
 > <a href="{{ site.url }}/pdf/2014/2014_Med_Form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-MedicationAuthorization.pdf" class="list-group-item">Medication Order Form</a>

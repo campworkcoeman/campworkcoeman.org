@@ -6,12 +6,12 @@ description: Cub Scout Day Camp is a 5 day program perfect for Tiger, Wolf, and 
 keywords: Cub Scout, day camp
 ---
 
-### August 4--8, 2014
+### August 17--21, 2015
 
 <div class="alert alert-info">
 Visit the Connecticut Rivers Council site to
-<a href="http://www.ctrivers.org/Event.aspx?id=8760">
-register your son for Cub Scout Day Camp at Camp Workcoeman in 2014</a>.
+<a href="http://www.ctrivers.org/Event.aspx?id=11377">
+register your son for Cub Scout Day Camp at Camp Workcoeman in 2015</a>.
 </div>
 
 Camp Workcoeman will once again host a week long Cub Scout Day Camp!
@@ -35,8 +35,8 @@ Be sure to sign up for this summer blast today!
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2014/14_CW_Day_Camp.pdf" class="list-group-item">2014 Cub Scout Day Camp Flier</a>
-> <a href="{{ site.url }}/pdf/2014/2014_CW_Cub_Leaders_Guide.pdf" class="list-group-item">2014 Cub Scout Program Guide</a>
+> <a href="{{ site.url }}/pdf/2015/cub-scout-camp-preview.pdf" class="list-group-item">2015 Cub Scout Day Camp Preview Flier</a>
+> <a href="#" class="list-group-item">2015 Cub Scout Program Guide Coming Soon</a>
 > <a href="{{ site.url }}/pdf/2014/2014_Med_Form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-MedicationAuthorization.pdf" class="list-group-item">Medication Order Form</a>

@@ -6,12 +6,12 @@ description: Fun, adventure, and excitement await all Cub Scouts at Camp Workcoe
 keywords: Cub Scout, resident camp
 ---
 
-### August 3--8, 2014
+### August 9--14, 2015
 
 <div class="alert alert-info">
 Visit the Connecticut Rivers Council site to
-<a href="http://www.ctrivers.org/Event.aspx?id=8957">
-register your son for Cub Scout Resident Camp at Camp Workcoeman in 2014</a>.
+<a href="http://www.ctrivers.org/Event.aspx?id=10246">
+register your son for Cub Scout Resident Camp at Camp Workcoeman in 2015</a>.
 </div>
 
 Fun, adventure, and excitement await all Cub Scouts at Camp Workcoeman! This
@@ -46,8 +46,8 @@ opportunity to work on belt loops and pins as well.
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2014/14_Cub_Scout_Resident_Camp.pdf" class="list-group-item">2014 Cub Scout Resident Camp Flier</a>
-> <a href="{{ site.url }}/pdf/2014/2014_CW_Cub_Leaders_Guide.pdf" class="list-group-item">2014 Cub Scout Program Guide</a>
+> <a href="#" class="list-group-item">2015 Cub Scout Resident Camp Flier Coming Soon</a>
+> <a href="#" class="list-group-item">2015 Cub Scout Program Guide Coming Soon</a>
 > <a href="{{ site.url }}/pdf/2014/2014_Med_Form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-MedicationAuthorization.pdf" class="list-group-item">Medication Order Form</a>

@@ -6,12 +6,12 @@ description: Cub Experience Camp is a 3 day, 2 night mini camp especially design
 keywords: Cub Scout, mini week
 ---
 
-### June 29--July 1 and August 3--5, 2014
+### July 5--7 and August 9--11, 2015
 
 <div class="alert alert-info">
 Visit the Connecticut Rivers Council site to
-<a href="http://www.ctrivers.org/Camping/CubScoutCamping/CubScoutMiniWeekResidentCamp/">
-register your son for Cub Scout Mini Week at Camp Workcoeman in 2014</a>.
+<a href="http://www.ctrivers.org/Events/UnitSign-upfor2015CubWebelosSummerCamp">
+register your son for Cub Scout Mini Week at Camp Workcoeman in 2015</a>.
 </div>
 
 Cub Experience Camp is a 3 day, 2 night mini camp that is great for all Cub
@@ -48,8 +48,8 @@ Be sure to sign up today and don't miss out!
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2014/14_Cub_Mini_week.pdf" class="list-group-item">2014 Cub Scout Mini Week Flier</a>
-> <a href="{{ site.url }}/pdf/2014/2014_CW_Cub_Leaders_Guide.pdf" class="list-group-item">2014 Cub Scout Program Guide</a>
+> <a href="#" class="list-group-item">2015 Cub Scout Mini Week Flier Coming Soon</a>
+> <a href="#" class="list-group-item">2015 Cub Scout Program Guide Coming Soon</a>
 > <a href="{{ site.url }}/pdf/2014/2014_Med_Form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-MedicationAuthorization.pdf" class="list-group-item">Medication Order Form</a>

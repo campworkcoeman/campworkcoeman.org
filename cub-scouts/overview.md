@@ -8,8 +8,8 @@ keywords: Cub Scout, Webelo
 
 <div class="alert alert-info">
 Visit the Connecticut Rivers Council site to
-<a href="http://www.ctrivers.org/Camping/cubcamp2014">
-register your son for Cub camping at Camp Workcoeman in 2014</a>.
+<a href="http://www.ctrivers.org/Events/UnitSign-upfor2015CubWebelosSummerCamp">
+register your son for Cub camping at Camp Workcoeman in 2015</a>.
 </div>
 
 Located in New Hartford, Connecticut, Camp Workcoeman is the place for **all**
@@ -18,7 +18,7 @@ scheduled throughout the summer.
 
 ## Cub Scout Day Camp
 
-#### August 4--8, 2014
+#### August 17--21, 2015
 
 Day Camp features all the fun and excitement of summer camp without the
 overnight element. Scouts are introduced to the Cub Scout summer camp program
@@ -28,9 +28,9 @@ and some advancement.
 > %list-group%
 > <a href="{{ site.url }}/cub-scouts/day-camp/" class="list-group-item">Learn more&hellip;</a>
 
-## Baloo's Family Camping Weekend
+## Family Camping Weekend
 
-#### July 26--27, 2014
+#### July 18--19, 2015
 
 This program is for all Cub Scouts and their families. This allows Scouts to
 get a taste of what summer camp is like without the worries of being away for
@@ -42,7 +42,7 @@ activities they would like to do.
 
 ## Cub Scout Mini Week
 
-#### June 29--July 1 and August 3--5, 2014
+#### July 5--7 and August 9--11, 2015
 
 This is a shorter overnight experience for Cubs and their adult partners. Cub
 Scouts will get a taste of those great summer camp programs. This opportunity
@@ -53,7 +53,7 @@ will allow for some advancement but the main emphasis is **fun**!
 
 ## Cub Scout Resident Camp
 
-#### August 3--8, 2014
+#### August 9--14, 2015
 
 This action-packed 6 day, 5 night resident camp is designed for Cubs entering
 first through third grades. Activities are planned for each den so you know the
@@ -64,7 +64,7 @@ program is always age-appropriate.
 
 ## Webelos Resident Camp
 
-#### June 29--July 4 and August 3--8, 2014
+#### July 5--10 and August 9--14, 2015
 
 An action packed week for 4^th and 5^th graders who are ready for a week-long
 camp experience. The program focuses on the Adventure of Scouting where Scouts
@@ -77,8 +77,8 @@ the opportunity to see what awaits them in the Boy Scout program.
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2014/CW_Cub_Camping_Flier_2014.pdf" class="list-group-item">2014 Cub Camping Flier</a>
-> <a href="{{ site.url }}/pdf/2014/2014_CW_Cub_Leaders_Guide.pdf" class="list-group-item">2014 Cub Scout Program Guide</a>
+> <a href="{{ site.url }}/pdf/2015/cub-scout-camp-preview.pdf" class="list-group-item">2015 Cub Camping Preview Flier</a>
+> <a href="#" class="list-group-item">2015 Cub Scout Program Guide Coming Soon</a>
 > <a href="{{ site.url }}/pdf/2014/2014_Med_Form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-MedicationAuthorization.pdf" class="list-group-item">Medication Order Form</a>
