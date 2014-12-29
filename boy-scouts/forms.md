@@ -2,7 +2,7 @@
 published: true
 layout: generic
 title: Camp Forms
-description: This page list forms that are required to attend Camp Workcoeman, including the required medical forms.
+description: This page lists forms that are required to attend Camp Workcoeman, including the required medical forms.
 keywords: forms, medical forms, camperships
 ---
 
