@@ -7,4 +7,4 @@ gems:
 permalink: pretty
 paginate: 5
 paginate_path: about/news/page:num/
-url: //campworkcoeman.org
+url: http://campworkcoeman.org
