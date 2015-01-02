@@ -2,6 +2,8 @@ highlighter: false
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
+gems:
+  - jekyll-sitemap
 permalink: pretty
 paginate: 5
 paginate_path: about/news/page:num/
