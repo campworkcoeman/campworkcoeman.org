@@ -17,10 +17,10 @@ Early Fee: $390
   $440.
 
 Regular Fee: $415
-: A $50 deposit per **named** Scout added to your camp roster after March 5,
-  2015. If paid in full by May 15, 2015, the fee will be $415. Payments
-  received after May 15, 2015 will be charged a late fee of $50, making the
-  total fee $465.
+: A $50 deposit per **named** Scout added to your camp roster after
+  March 5, 2015. If paid in full by May 15, 2015, the fee will be $415.
+  Payments received after May 15, 2015 will be charged a late fee of $50,
+  making the total fee $465.
 
 ### Discounts for Scouts
 
