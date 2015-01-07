@@ -75,6 +75,17 @@ through your MyCouncil page on the Connecticut Rivers Council web site.
 Payments may be in the form of an E-Check or credit card. There is no charge to
 the unit using this method of payment.
 
+### Camp Cards Are Back For 2015
+
+The Connecticut Rivers Council is happy to offer Camp Cards again in 2015. For
+$5.00, each camp card provides over $100 in value with coupon specials from
+area businesses offering fast food, travel, recreation, and more. Sale ends
+May 1, 2015. The program provides a benefit to the individual units and helps
+the Council in providing programs. Units participating in this program will
+earn a $2.00 commission on each $5 Camp Card they sell (if paid for by May 15).
+The program is open to all packs, troops, crews, and posts. For more
+information, see [ctrivers.org](http://www.ctrivers.org/Council/ElectronicScouter/CampCards15).
+
 ### FAQs
 
 Question
