@@ -8,7 +8,7 @@ keywords: Cub Scout, Webelo
 
 <div class="alert alert-info">
 Visit the Connecticut Rivers Council site to
-<a href="http://www.ctrivers.org/Events/UnitSign-upfor2015CubWebelosSummerCamp">
+<a href="{{ site.url }}/cub-scouts/cub-register/">
 register your son for Cub camping at Camp Workcoeman in 2015</a>.
 </div>
 
