@@ -36,7 +36,7 @@ recommended that you submit your application early. Applicants will be notified
 of the interview schedule by the Camp Director.
 
 > %list-group%
-> <a href="http://www.ctrivers.org/pubs/Camp_Staff_Application_pub_0002.pdf" class="list-group-item">Online Staff Application</a>
+> <a href="https://docs.google.com/forms/d/1DaGOo5a-yHds65lz16gP5FUHSdDFr5J4rTtS8-JbrfM/viewform" class="list-group-item">Online Staff Application</a>
 
 If you are interested in working at camp this summer, please contact Camp
 Director Lou Seiser at [lseiser@campworkcoeman.org](mailto:lseiser@campworkcoeman.org).
