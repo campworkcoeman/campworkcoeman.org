@@ -33,4 +33,4 @@ Chicken Dinner! We do not collect dues from the membership.
 ## How do I join?
 
 You can become a member of the Citizens of Shawtown by contacting the group's
-chairman, Brian Cornell, at [bcornell54@gmail.com](mailto:bcornell54@gmail.com).
+chairman, Dan Bielefield, at [danb63@optonline.net](mailto:danb63@optonline.net).
