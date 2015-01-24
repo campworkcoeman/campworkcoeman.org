@@ -7,9 +7,8 @@ keywords: Cub Scout, Webelo
 ---
 
 <div class="alert alert-info">
-Visit the Connecticut Rivers Council site to
 <a href="{{ site.url }}/cub-scouts/cub-register/">
-register your son for Cub camping at Camp Workcoeman in 2015</a>.
+Click here</a> to register your son for Cub camping at Camp Workcoeman in 2015.
 </div>
 
 Located in New Hartford, Connecticut, Camp Workcoeman is the place for **all**
