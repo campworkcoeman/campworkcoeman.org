@@ -6,9 +6,9 @@ keywords: "Boy Scout, resident camp"
 ---
 
 <div class="alert alert-info">
-Visit the Connecticut Rivers Council site to
-<a href="http://www.ctrivers.org/Events/Unitsignupfor2015BoyScoutSummerCamp">
-register your troop to attend Camp Workcoeman in 2015</a>.
+Registration for 2015 camp season is now open.
+<a href="http://campworkcoeman.org/summer-camp/register/">
+Sign up today!</a>.
 </div>
 
 > %text-center%
