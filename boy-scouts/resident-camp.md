@@ -35,9 +35,11 @@ Sign up today!</a>
 >>> %col-xs-6%
 >>> **Week #3**  
 >>> July 19--25, 2015
+>>> **[PADI Scuba Camp]({{ site.url }}/boy-scouts/specialty/)**
 >>
 >>> %col-xs-6%
 >>> **[Trail to Eagle Camp]({{ site.url }}/boy-scouts/trail-to-eagle/)**  
+>>> **[Specialty Camps]({{ site.url }}/boy-scouts/specialty/)**  
 >>> August 9--15, 2015
 
 > %list-group%
