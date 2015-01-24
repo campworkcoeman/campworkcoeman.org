@@ -9,7 +9,7 @@ keywords: Webelos, resident camp
 ### July 5--10 and August 9--14, 2015
 
 <div class="alert alert-info">
-Visit the Connecticut Rivers Council site to register your son for Webelos Resident Camp at Camp Workcoeman in 2015: <a href="http://www.ctrivers.org/Event.aspx?id=11379">July 5--10</a> or <a href="http://www.ctrivers.org/Event.aspx?id=10246">August 9--14</a>.
+Visit the Connecticut Rivers Council site to register your son for Webelos Resident Camp at Camp Workcoeman in 2015: <a href="http://www.ctrivers.org/Event.aspx?id=11379">July 5&ndash;10</a> or <a href="http://www.ctrivers.org/Event.aspx?id=10246">August 9&ndash;14</a>.
 </div>
 
 Fun, adventure, and excitement await all Webelos Scouts at Camp Workcoeman!
