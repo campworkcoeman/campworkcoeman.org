@@ -34,7 +34,7 @@ Sign up today!</a>
 >> %row%
 >>> %col-xs-6%
 >>> **Week #3**  
->>> July 19--25, 2015
+>>> July 19--25, 2015<br/>
 >>> **[PADI Scuba Camp]({{ site.url }}/boy-scouts/specialty/)**
 >>
 >>> %col-xs-6%
