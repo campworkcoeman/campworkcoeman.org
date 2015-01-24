@@ -9,9 +9,7 @@ keywords: Cub Scout, mini week
 ### July 5--7 and August 9--11, 2015
 
 <div class="alert alert-info">
-Visit the Connecticut Rivers Council site to
-<a href="http://www.ctrivers.org/Events/UnitSign-upfor2015CubWebelosSummerCamp">
-register your son for Cub Scout Mini Week at Camp Workcoeman in 2015</a>.
+Visit the Connecticut Rivers Council site to register your son for Cub Scout Mini Week at Camp Workcoeman in 2015: <a href="http://www.ctrivers.org/Event.aspx?id=11392">July 5--7</a> or <a href="http://www.ctrivers.org/Event.aspx?id=11393">August 9--11</a>.
 </div>
 
 Cub Experience Camp is a 3 day, 2 night mini camp that is great for all Cub
