@@ -77,6 +77,7 @@ the opportunity to see what awaits them in the Boy Scout program.
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2015/cub-scout-camp-preview.pdf" class="list-group-item">2015 Cub Camping Preview Flier</a>
+> <a href="{{ site.url }}/pdf/2015/cub-overview.pdf" class="list-group-item">2015 Cub Camping Overview Flier</a>
 > <a href="#" class="list-group-item">2015 Cub Scout Program Guide Coming Soon</a>
 > <a href="{{ site.url }}/pdf/2014/2014_Med_Form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>

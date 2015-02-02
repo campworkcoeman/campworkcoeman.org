@@ -20,6 +20,28 @@ certification course will be offered during week 3.
 > %list-group%
 > <a href="scuba/" class="list-group-item">More Information</a>
 
+## Pistol Shooting Program
+
+Camp Workcoeman has been chosen as one of twelve camps in the country to pilot
+a Boy Scout Summer Camp Pistol Shooting Program. This program is open to Scouts
+who are thirteen years old and have completed the eighth grade. For more
+information, see the flier below.
+
+> %list-group%
+> <a href="{{ site.url }}/pdf/2015/pistol-shooting-program-flier.pdf" class="list-group-item">Pistol Shooting Flier</a>
+> <a href="{{ site.url }}/pdf/2015/pistol-pilot-program-release-agreement.pdf" class="list-group-item">Pistol Program Release Agreement</a>
+
+## Search and Rescue Weekend
+
+This overnight program is designed to introduce Scouts the various skills
+required in Search and Rescue. A series of stations will teach the skills
+required to complete the merit badge. The program will culminate with a search
+and rescue drill allowing Scouts to demonstrate the skills learned.
+
+> %list-group%
+> <a href="{{ site.url }}/pdf/2015/sar-flier.pdf" class="list-group-item">Search and Rescue Weekend Flier</a>
+> <a href="http://ctrivers.org/Event.aspx?id=12243" class="list-group-item">Register for Search and Rescue Weekend</a>
+
 ## Shawtown Wilderness Trek
 
 The Shawtown Wilderness Trek is a challenging opportunity for older Scouts. It

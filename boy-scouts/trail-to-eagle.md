@@ -39,4 +39,5 @@ For questions specific to Trail to Eagle camp contact Program Director Tom
 Leisten at [tleisten@campworkcoeman.org](mailto:tleisten@campworkcoeman.org).
 
 > %list-group%
+> <a href="{{ site.url }}/pdf/2015/t2e.pdf" class="list-group-item">2015 Trail to Eagle Flier</a>
 > <a href="#" class="list-group-item">2015 Trail to Eagle Guide Coming Soon</a>

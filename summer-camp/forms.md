@@ -13,10 +13,10 @@ keywords: forms, medical forms, camperships
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-MedicationAuthorization.pdf" class="list-group-item">Medication Order Form</a>
 
-## 2014 Campership Application
+## 2015 Campership Application
 
 > %list-group%
-> <a href="http://www.ctrivers.org/Camping/CampershipsandCampCards/ApplyforaCampership" class="list-group-item">Apply for a Campership</a>
+> <a href="#" class="list-group-item">Apply for a Campership (Coming Soon)</a>
 
 ## Other Forms
 
@@ -26,4 +26,4 @@ keywords: forms, medical forms, camperships
 > <a href="{{ site.url }}/pdf/2014/off_camp_permission.pdf" class="list-group-item">Off Camp Permission Form</a>
 > <a href="{{ site.url }}/pdf/2014/2012_scouterresourceform.pdf" class="list-group-item">Scouter Resource Form</a>
 > <a href="{{ site.url }}/pdf/2014/camper_release.pdf" class="list-group-item">Camper Release Form</a>
-> <a href="{{ site.url }}/pdf/2014/Pistol_Pilot_Program_Release_Agreement.pdf" class="list-group-item">Pistol Pilot Program Release Agreement</a>
+> <a href="{{ site.url }}/pdf/2015/pistol-pilot-program-release-agreement.pdf" class="list-group-item">Pistol Program Release Agreement</a>

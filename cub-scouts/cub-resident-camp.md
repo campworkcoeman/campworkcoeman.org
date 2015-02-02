@@ -46,7 +46,7 @@ opportunity to work on belt loops and pins as well.
 ## More Information
 
 > %list-group%
-> <a href="#" class="list-group-item">2015 Cub Scout Resident Camp Flier Coming Soon</a>
+> <a href="{{ site.url }}/pdf/2015/cub-scout-resident-camp.pdf" class="list-group-item">2015 Cub Scout Resident Camp Flier</a>
 > <a href="#" class="list-group-item">2015 Cub Scout Program Guide Coming Soon</a>
 > <a href="{{ site.url }}/pdf/2014/2014_Med_Form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>

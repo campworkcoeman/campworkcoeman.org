@@ -64,7 +64,6 @@ For additional information contact Program Director Tom Leisten at
 (860) 379-2207 or [tleisten@campworkcoeman.org](mailto:tleisten@campworkcoeman.org).
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2014/scuba2014.pdf" class="list-group-item">Scuba Flier</a>
-> <a href="{{ site.url }}/pdf/2014/2014_Scuba_programs.pdf" class="list-group-item">PADI Flier</a>
-> <a href="http://www.ctrivers.org/Camping/PADI-Scuba-Certification/" class="list-group-item">Register for a PADI Scuba Certification Week</a>
+> <a href="{{ site.url }}/pdf/2015/scuba-programs.pdf" class="list-group-item">Scuba Flier</a>
+> <a href="{{ site.url }}/summer-camp/register/" class="list-group-item">Register for a PADI Scuba Certification Week</a>
 > <a href="http://www.enfieldscuba.com/" class="list-group-item">Enfield Dive Shop Website</a>
