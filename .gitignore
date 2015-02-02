@@ -1,6 +1,2 @@
 # Ignore built site
 _site/
-
-# Ignore scripts
-*.sh
-*.bat
