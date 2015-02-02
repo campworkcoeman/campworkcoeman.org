@@ -7,7 +7,7 @@ keywords: Cub Scout, Webelo
 ---
 
 <div class="alert alert-info">
-<a href="{{ site.url }}/cub-scouts/cub-register/">
+<a href="{{ site.url }}/cub-scouts/register/">
 Click here</a> to register your son for Cub camping at Camp Workcoeman in 2015.
 </div>
 
