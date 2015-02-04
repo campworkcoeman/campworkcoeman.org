@@ -1,4 +1,5 @@
 module Jekyll
+  # Can be replaced with {{'now' | date: "%Y" | minus: 1924 }}
   class CampYearsTag < Liquid::Tag
 
     def initialize(tag_name, text, tokens)
@@ -11,6 +12,7 @@ module Jekyll
     end
   end
   
+  # Can be replaced with {{'now' | date: "%Y" | minus: 1980 }}
   class LouYearsTag < Liquid::Tag
 
     def initialize(tag_name, text, tokens)
