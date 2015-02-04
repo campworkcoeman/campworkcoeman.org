@@ -1,15 +1,15 @@
 ---
 published: true
 layout: generic
-title: 2014 Summer Camp Planning Information
+title: 2015 Summer Camp Planning Information
 description: At pre-camp planning meetings, all pre-camp planning information will be discussed. All troops should be represented at one of these meetings.
 keywords: pre-camp, planning, meetings
 ---
 
 ## Pre-Camp Leaders Meeting
 
-Two pre-camp planning meetings are scheduled for Saturday, May 3 and Saturday,
-May 17. All pre-camp planning information will be discussed related to
+Two pre-camp planning meetings are scheduled for Saturday, May 2 and Saturday,
+May 16. All pre-camp planning information will be discussed related to
 programs, medical form requirements, and the Sunday check-in process. All
 troops should be represented at one of these meetings.
 
