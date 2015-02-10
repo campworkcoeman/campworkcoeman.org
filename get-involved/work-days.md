@@ -1,14 +1,14 @@
 ---
 published: true
 layout: generic
-title: 2014 Work Days
-description: Members of the camp community who are currently retired gather at camp on the first and third Tuesday of every month to work on small projects. Your help is greatly appreciated!
+title: 2015 Work Days
+description: Members of the camp community who are currently retired gather at camp on the second and fourth Tuesday of every month to work on small projects. Your help is greatly appreciated!
 keywords: work days, volunteer
 ---
 
 ## Beaver Day
 
-June 7, 2014
+June 6, 2015
 
 ## Retiree Corp
 
