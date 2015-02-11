@@ -44,28 +44,28 @@ Director Lou Seiser at [lseiser@campworkcoeman.org](mailto:lseiser@campworkcoema
 ## Counselor In Training Program
 
 The CIT program offers an exciting opportunity for those who would like to
-learn about the camp operation form the staff viewpoint. As a CIT, you will
+learn about the camp operation from the staff viewpoint. As a CIT, you will
 learn leadership skills, will become knowledgeable of camp operations, and
-develop teaching Scouting skills.
+will develop teaching skills.
 
 The CIT Program is a one (1) week commitment. The program is designed to
-instill the knowledge and values that is expected of all Camp Workcoeman staff
+instill the knowledge and values that are expected of all Camp Workcoeman staff
 members. Participants will work in all areas of camp and gain first-hand
 experiences to understand what it really takes to operate the high-quality
 programs of Camp Workcoeman.
 
-The cost of the program is $125. Participants must be at least 14 years old.
+The cost of the program is $150. Participants must be at least 14 years old.
 All participants will be evaluated at the end of the week and could be offered
 to stay for another week based on their performance.
 
 Those who successfully complete this program will be seriously considered for
 future camp staff positions. Those that participate in the CIT Program enhance
-their possibility of being hired to the staff but participation does not
+their possibility of being hired to the staff, but participation does not
 guarantee a position. Please understand that participation in the CIT program
 in no way guarantees employment.
 
 > %list-group%
-> <a href="http://www.ctrivers.org/pubs/Counselor_in_Training_Application.pdf" class="list-group-item">Online CIT Application</a>
+> <a href="https://docs.google.com/forms/d/1Brf1j9gwBAQEvg-I_xJomPX3nGs7RmlgKKu4wcp0rtc/viewform" class="list-group-item">2015 Online CIT Application</a>
 
 If you are interested in being a CIT, please contact Camp Director Lou Seiser
 at [lseiser@campworkcoeman.org](mailto:lseiser@campworkcoeman.org).
