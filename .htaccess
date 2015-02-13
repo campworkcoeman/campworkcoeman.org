@@ -70,6 +70,8 @@ SetEnvIfNoCase Referer buttons-for-website.com spammer=yes
 SetEnvIfNoCase Referer 7makemoneyonline.com spammer=yes
 SetEnvIfNoCase Referer darodar.com spammer=yes
 SetEnvIfNoCase Referer bestwebsitesawards.com spammer=yes
+SetEnvIfNoCase Referer hulfingtonpost.com spammer=yes
+SetEnvIfNoCase Referer cenoval.ru spammer=yes
 
 Order allow,deny
 Allow from all
