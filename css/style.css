@@ -27,7 +27,7 @@ body {
   background: #87cefa;
   display: none;
 }
-@media (min-width: 767px) {
+@media (min-width: 768px) {
   .cw-header {
     display: block;
   }
@@ -258,7 +258,7 @@ body {
 .navbar-brand {
   margin-left: -15px;
 }
-@media (min-width: 767px) {
+@media (min-width: 768px) {
   .navbar-brand {
     display: none;
   }
@@ -340,11 +340,13 @@ html, body {
  * Bootstrap fixes
  */
 
-.dropdown:hover {
-  background: #e7e7e7;
-}
-.dropdown:hover > .dropdown-menu {
-  display: block;
+@media (min-width: 768px) {
+  .dropdown:hover {
+    background: #e7e7e7;
+  }
+  .dropdown:hover > .dropdown-menu {
+    display: block;
+  }
 }
 .nav > li > div {
   position: relative;
@@ -363,8 +365,8 @@ html, body {
 .navbar-collapse.collapse {
   display: none;
 }
-.navbar-collapse.in {
-  overflow-y: visible;
+.dropdown-open {
+  background: #e7e7e7;
 }
 
 
