@@ -72,6 +72,7 @@ SetEnvIfNoCase Referer darodar.com spammer=yes
 SetEnvIfNoCase Referer bestwebsitesawards.com spammer=yes
 SetEnvIfNoCase Referer hulfingtonpost.com spammer=yes
 SetEnvIfNoCase Referer cenoval.ru spammer=yes
+SetEnvIfNoCase Referer o-o-6-o-o.com spammer=yes
 
 Order allow,deny
 Allow from all
