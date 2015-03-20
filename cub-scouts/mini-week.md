@@ -48,9 +48,9 @@ Be sure to sign up today and don't miss out!
 > %list-group%
 > <a href="{{ site.url }}/pdf/2015/cub-mini-week.pdf" class="list-group-item">2015 Cub Scout Mini Week Flier</a>
 > <a href="#" class="list-group-item">2015 Cub Scout Program Guide Coming Soon</a>
-> <a href="{{ site.url }}/pdf/2014/2014_Med_Form.pdf" class="list-group-item">Medical Form</a>
+> <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
-> <a href="{{ site.url }}/pdf/2014/2011_Med-MedicationAuthorization.pdf" class="list-group-item">Medication Order Form</a>
+> <a href="{{ site.url }}/pdf/2015/med-admin.pdf" class="list-group-item">Medication Order Form</a>
 
 For more information, contact Director of Cub Scout Programs, Jeff Seiser at
 [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org).

@@ -9,9 +9,9 @@ keywords: forms, medical forms, camperships
 ## Resident Camp Medical Forms
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2014/2014_Med_Form.pdf" class="list-group-item">Resident Camp Medical Form</a>
+> <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item">Resident Camp Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
-> <a href="{{ site.url }}/pdf/2014/2011_Med-MedicationAuthorization.pdf" class="list-group-item">Medication Order Form</a>
+> <a href="{{ site.url }}/pdf/2015/med-admin.pdf" class="list-group-item">Medication Order Form</a>
 
 ## 2015 Campership Application
 
