@@ -20,23 +20,23 @@ if (document.getElementById('sImgNavHolderO')) {
 
 // Load image sequentially after page load
 function imgLoad() {
-	if (load == 1) {
-		setTimeout(nextImg, delay);
-	}
-	
-	var img = document.getElementById('sImg' + load);
-	img.onload = function() {
-		loaded[load] = true;
-		if (goToNext) {
-			goToNext = false;
-			nextImg();
-		}
-		load++;
-		if (load < total) {
-			imgLoad();
-		}
-	}
-	img.src = img.getAttribute('data-src');
+    if (load == 1) {
+        setTimeout(nextImg, delay);
+    }
+    
+    var img = document.getElementById('sImg' + load);
+    img.onload = function() {
+        loaded[load] = true;
+        if (goToNext) {
+            goToNext = false;
+            nextImg();
+        }
+        load++;
+        if (load < total) {
+            imgLoad();
+        }
+    }
+    img.src = img.getAttribute('data-src');
 }
 
 // Transition to next image

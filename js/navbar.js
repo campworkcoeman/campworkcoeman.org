@@ -1,6 +1,6 @@
 var navbar = document.getElementById('navbar'),
     toggle = document.getElementsByClassName('navbar-toggle')[0],
-	collapse = document.getElementsByClassName('navbar-collapse')[0];
+    collapse = document.getElementsByClassName('navbar-collapse')[0];
 
 switchScroll();
 
@@ -15,8 +15,8 @@ function switchScroll() {
 }
 
 function toggleMenu() {
-	collapse.classList.toggle('collapse');
-	collapse.classList.toggle('in');
+    collapse.classList.toggle('collapse');
+    collapse.classList.toggle('in');
 }
 
 var dropdowns = document.getElementsByClassName('dropdown');
@@ -45,7 +45,7 @@ function closeMenusOnResize() {
     if (document.body.clientWidth >= 768) {
         closeMenus();
         collapse.classList.add('collapse');
-	    collapse.classList.remove('in');
+        collapse.classList.remove('in');
     }
 }
 
