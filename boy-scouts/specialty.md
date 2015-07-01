@@ -39,10 +39,3 @@ Scouts spend an entire week at camp devoted to becoming PADI certified scuba div
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2015/scuba-programs.pdf" class="list-group-item">Scuba Programs Flier</a>
-
-## Horsemanship Camp
-
-This week-long horse program is an adventure-filled experience. Scouts will earn the Horsemanship Merit Badge while learning the fundamentals of riding while developing skills, coordination, and confidence. In addition, Scouts will learn skills needed to care and manage your own horse. Some of the week’s activities include: learning about feed, how to groom a horse, how horses are judged in competitions, how to clean and condition saddles and bridles, how to clean a stall, and everything else involved in complete horse care and showing. This special opportunity is limited to 10 Scouts age 13+, so sign up early!
-
-> %list-group%
-> <a href="{{ site.url }}/pdf/2015/horsemanship.pdf" class="list-group-item">Horsemanship Camp Flier</a>
