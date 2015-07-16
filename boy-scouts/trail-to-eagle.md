@@ -40,4 +40,4 @@ Leisten at [tleisten@campworkcoeman.org](mailto:tleisten@campworkcoeman.org).
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2015/t2e.pdf" class="list-group-item">2015 Trail to Eagle Flier</a>
-> <a href="#" class="list-group-item">2015 Trail to Eagle Guide Coming Soon</a>
+> <a href="{{ site.url }}/pdf/2015/t2e-program-guide.pdf" class="list-group-item">2015 Trail to Eagle Guide</a>
