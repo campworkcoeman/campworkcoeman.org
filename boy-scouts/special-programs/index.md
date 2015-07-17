@@ -7,7 +7,7 @@ keywords: special programs, programs
 
 ## Merit Badge Completion Day
 
-The 2015 Merit Badge Completion Day will be held Thursday, August 13.
+The 2015 Merit Badge Completion Day will be held Thursday, August 13. <a href="http://www.ctrivers.org/Event.aspx?id=13062">Register here</a>. Please email program director Tom Leisten at <a href="mailto:tleisten@campworkcoeman.org">tleisten@campworkcoeman.org</a> with merit badges to be worked on.
 
 ## Scuba
 
