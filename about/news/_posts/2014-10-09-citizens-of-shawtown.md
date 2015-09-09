@@ -2,7 +2,6 @@
 published: true
 layout: news-item
 title: Citizens of Shawtown
-excerpt: The Citizens of Shawtown is Camp Workcoeman's volunteer support group. Over the last 30 years, the group has provided tremendous contributions of skill, materials, and labor for new camp projects as well as maintaining the existing camp facility. To become a member, contact [Brian Cornell](mailto:bcornell54@gmail.com).
 ---
 
 The Citizens of Shawtown is Camp Workcoeman's volunteer support group. Over the
