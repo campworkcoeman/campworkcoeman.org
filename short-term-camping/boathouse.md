@@ -16,4 +16,6 @@ keywords: boathouse, cabin, rental
 
 ### Exterior
 
-<img class="img-rounded" src="{{ site.url }}/short-term-camping/files/boathouse1.jpg" alt="{{ page.title }} exterior" style="max-width: 433px; width: 100%;"/>
+<img class="img-rounded" src="{{ site.url }}/short-term-camping/files/boathouse1.jpg" alt="{{ page.title }} exterior" style="max-width: 750px; width: 100%;"/>
+
+<img class="img-rounded" src="{{ site.url }}/short-term-camping/files/boathouse2.jpg" alt="{{ page.title }} exterior" style="max-width: 750px; width: 100%;"/>

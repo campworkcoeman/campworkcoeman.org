@@ -14,8 +14,6 @@ keywords: adirondack shelters, shelters, rental
 
 ### Exterior
 
-<img class="img-rounded" src="{{ site.url }}/short-term-camping/files/shelter1.jpg" alt="{{ page.title }} exterior" style="max-width: 300px; width: 100%;"/>
+<img class="img-rounded" src="{{ site.url }}/short-term-camping/files/shelter1.jpg" alt="{{ page.title }} exterior" style="max-width: 750px; width: 100%;"/>
 
-### Interior
-
-<img class="img-rounded" src="{{ site.url }}/short-term-camping/files/shelter2.jpg" alt="{{ page.title }} interior" style="max-width: 300px; width: 100%;"/>
+<img class="img-rounded" src="{{ site.url }}/short-term-camping/files/shelter2.jpg" alt="{{ page.title }} interior" style="max-width: 750px; width: 100%;"/>

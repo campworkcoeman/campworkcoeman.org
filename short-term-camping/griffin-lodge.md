@@ -16,8 +16,10 @@ keywords: Griffin Lodge, cabin, rental
 
 ### Exterior
 
-<img class="img-rounded" src="{{ site.url }}/short-term-camping/files/griffin1.jpg" alt="{{ page.title }} exterior" style="max-width: 433px; width: 100%;"/>
+<img class="img-rounded" src="{{ site.url }}/short-term-camping/files/griffin1.jpg" alt="{{ page.title }} exterior" style="max-width: 750px; width: 100%;"/>
 
 ### Interior
 
-<img class="img-rounded" src="{{ site.url }}/short-term-camping/files/griffin2.jpg" alt="{{ page.title }} interior" style="max-width: 433px; width: 100%;"/>
+<img class="img-rounded" src="{{ site.url }}/short-term-camping/files/griffin2.jpg" alt="{{ page.title }} interior" style="max-width: 750px; width: 100%;"/>
+
+<img class="img-rounded" src="{{ site.url }}/short-term-camping/files/griffin3.jpg" alt="{{ page.title }} interior" style="max-width: 750px; width: 100%;"/>
