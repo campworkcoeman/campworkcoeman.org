@@ -294,12 +294,6 @@ body {
   min-height: calc(100% - 277px);
 }
 
-@media (min-width: 1024px) {
-  .container {
-    max-width: 900px;
-  }
-}
-
 
 
 /*
@@ -375,8 +369,8 @@ html, body {
  */
 
 .sImgContainer {
-  max-height: 185px;
-  max-width: 550px;
+  max-height: 325px;
+  max-width: 877px;
   position: relative;
   display: block;
   height: auto;

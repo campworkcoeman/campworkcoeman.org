@@ -9,15 +9,16 @@ priority: 1
 
 <!-- Main content -->
 <div class="container main">
+<div class="row">
 
   <!-- Main column -->
-  <div class="col-sm-8 col-sm-push-4 justify">
+  <div class="col-sm-8 col-sm-push-4 col-lg-9 col-lg-push-3 justify">
     <div class="sImgContainer">
-      <img src="slider-images/0.jpg" alt="" id="sImg0" class="sImg sImgFirst img-rounded" width="550" height="185">
-      <img src="slider-images/0.jpg" data-src="slider-images/1.jpg" alt="" id="sImg1" class="sImg img-rounded" width="550" height="185">
-      <img src="slider-images/0.jpg" data-src="slider-images/2.jpg" alt="" id="sImg2" class="sImg img-rounded" width="550" height="185">
-      <img src="slider-images/0.jpg" data-src="slider-images/3.jpg" alt="" id="sImg3" class="sImg img-rounded" width="550" height="185">
-      <img src="slider-images/0.jpg" data-src="slider-images/4.jpg" alt="" id="sImg4" class="sImg img-rounded" width="550" height="185">
+      <img src="slider-images/0.jpg" alt="" id="sImg0" class="sImg sImgFirst img-rounded" width="877" height="325">
+      <img src="slider-images/0.jpg" data-src="slider-images/1.jpg" alt="" id="sImg1" class="sImg img-rounded" width="877" height="325">
+      <img src="slider-images/0.jpg" data-src="slider-images/2.jpg" alt="" id="sImg2" class="sImg img-rounded" width="877" height="325">
+      <img src="slider-images/0.jpg" data-src="slider-images/3.jpg" alt="" id="sImg3" class="sImg img-rounded" width="877" height="325">
+      <img src="slider-images/0.jpg" data-src="slider-images/4.jpg" alt="" id="sImg4" class="sImg img-rounded" width="877" height="325">
       <div id="sImgNavHolderO">
         <div class="sImgNavHolderI">
           <div id="sImgNav0" class="sImgNav sImgNavFirst"></div>
@@ -29,10 +30,18 @@ priority: 1
       </div>
     </div>
     <br/>
-    <div class="alert alert-info"><a href="{{ site.url }}/2016/" class="alert-link">Click here</a> to reserve a campsite for 2016.</div>
-    <img src="files/2015_patch.svg" alt="Camp Patch" class="pull-right" style="max-width: 200px; width: 50%; padding-left: 10px;">
-    <p>Camp Workcoeman is used year-round for short-term camping for all Scouting Cub Packs, Scout Troops, and Venture Crews, as well as for district and Order of the Arrow activities.</p>
-    <p>During the six week summer camp season, over 1,200 Scouts enjoy unforgettable Scouting experiences. The summer camp season consists of 5 weeks of <a href="{{ site.url }}/boy-scouts/resident-camp/">Boy Scout Resident Camp</a> and one week of <a href="{{ site.url }}/cub-scouts/webelos-resident-camp/">Webelos Resident Camp</a> and <a href="{{ site.url }}/cub-scouts/day-camp/">Cub Scout Day Camp</a>. It is also home to <a href="http://www.laurelmusiccamp.com/">Laurel Music Camp</a>.</p>
+    <div class="row">
+      <div class="col-md-8 col-lg-push-3 col-lg-9">
+        <div class="alert alert-info"><a href="{{ site.url }}/2016/" class="alert-link">Click here</a> to reserve a campsite for 2016.</div>
+        <p>Camp Workcoeman is used year-round for short-term camping for all Scouting Cub Packs, Scout Troops, and Venture Crews, as well as for district and Order of the Arrow activities.</p>
+        <p>During the six week summer camp season, over 1,200 Scouts enjoy unforgettable Scouting experiences. The summer camp season consists of 5 weeks of <a href="{{ site.url }}/boy-scouts/resident-camp/">Boy Scout Resident Camp</a> and one week of <a href="{{ site.url }}/cub-scouts/webelos-resident-camp/">Webelos Resident Camp</a> and <a href="{{ site.url }}/cub-scouts/day-camp/">Cub Scout Day Camp</a>. It is also home to <a href="http://www.laurelmusiccamp.com/">Laurel Music Camp</a>.</p>
+      </div>
+      <div class="col-md-4 col-lg-pull-9 col-lg-3 text-center">
+        <img src="files/2016_patch.svg" alt="Camp Patch" style="max-width: 225px; width: 100%; padding-bottom: 15px;">
+      </div>
+    </div>
+    <div class="row">
+    <div class="col-lg-8">
     <div class="panel panel-default">
       <div class="panel-heading">
         <h3 class="panel-title">News & Events</h3>
@@ -49,6 +58,8 @@ priority: 1
         </a>
       </div>
     </div>
+    </div>
+    <div class="col-lg-4">
     <div class="panel panel-default">
       <div class="panel-heading">
         <h3 class="panel-title">Why should your troop attend summer camp at Camp Workcoeman?</h3>
@@ -68,10 +79,13 @@ priority: 1
         </li>
       </ul>
     </div>
+    </div>
+    </div>
   </div>
 
 {% include sidebar.html %}
 
+</div>
 </div>
 
 {% include footer.html %}
