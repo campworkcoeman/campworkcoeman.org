@@ -6,7 +6,7 @@ keywords: "Boy Scout, resident camp"
 ---
 
 <div class="alert alert-info">
-Registration for the 2015 camp season is now open.
+Registration for the 2016 camp season is now open.
 <a href="{{ site.url }}/summer-camp/register/">
 Sign up today!</a>
 </div>
