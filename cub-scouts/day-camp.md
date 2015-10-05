@@ -6,13 +6,7 @@ description: Cub Scout Day Camp is a 5 day program perfect for Tiger, Wolf, and 
 keywords: Cub Scout, day camp
 ---
 
-### August 17--21, 2015
-
-<div class="alert alert-info">
-Visit the Connecticut Rivers Council site to
-<a href="http://www.ctrivers.org/Event.aspx?id=11377">
-register your son for Cub Scout Day Camp at Camp Workcoeman in 2015</a>.
-</div>
+### August 15--19, 2016
 
 Camp Workcoeman will once again host a week long Cub Scout Day Camp!
 

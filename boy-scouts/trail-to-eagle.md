@@ -7,7 +7,7 @@ keywords: Trail to Eagle, Eagle Scout
 ---
 
 <div class="alert alert-info">
-The 2015 Trail to Eagle Camp will be held from August 9&ndash;14, 2015. <a href="http://www.ctrivers.org/Event.aspx?id=12235">Sign up today!</a>
+The 2016 Trail to Eagle Camp will be held from July 31&ndash;August 6.
 </div>
 
 The Trail to Eagle (T2E) Program is designed for the Scout who has set his goal

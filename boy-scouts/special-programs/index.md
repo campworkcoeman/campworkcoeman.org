@@ -7,15 +7,14 @@ keywords: special programs, programs
 
 ## Merit Badge Completion Day
 
-The 2015 Merit Badge Completion Day will be held Thursday, August 13. [Register here](http://www.ctrivers.org/Event.aspx?id=13062). Please email program director Tom Leisten at [tleisten@campworkcoeman.org](mailto:tleisten@campworkcoeman.org) with merit badges to be worked on.
+The 2016 Merit Badge Completion Day will be held Thursday, August 11.
 
 ## Scuba
 
 A new challenge for older Scouts who would like to discover the depths of West
 Hill Pond. Every week a professional instructor will come to camp to teach
 Scouts 13 and older about scuba diving. All participants will have a chance to
-spend time under water to see what it is all about. Additionally, a PADI
-certification course will be offered during week 3.
+spend time under water to see what it is all about.
 
 > %list-group%
 > <a href="scuba/" class="list-group-item">More Information</a>
@@ -36,11 +35,11 @@ information, see the flier below.
 This overnight program is designed to introduce Scouts the various skills
 required in Search and Rescue. A series of stations will teach the skills
 required to complete the merit badge. The program will culminate with a search
-and rescue drill allowing Scouts to demonstrate the skills learned.
+and rescue drill allowing Scouts to demonstrate the skills learned. The 2016
+Search and Rescue Weekend will be held July 16--17.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2015/sar-flier.pdf" class="list-group-item">Search and Rescue Weekend Flier</a>
-> <a href="http://ctrivers.org/Event.aspx?id=12243" class="list-group-item">Register for Search and Rescue Weekend</a>
+> <a href="{{ site.url }}/pdf/2015/sar-flier.pdf" class="list-group-item">2015 Search and Rescue Weekend Flier</a>
 
 ## Shawtown Wilderness Trek
 

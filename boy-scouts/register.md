@@ -11,19 +11,8 @@ Below, you will find links to the council website to register for each camp prog
 ## Boy Scout Summer Camp
 
 > %list-group%
-> <a href="http://www.ctrivers.org/Event.aspx?id=9109" class="list-group-item">Week 1 --- July 5--11, 2015</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=9110" class="list-group-item">Week 2 --- July 12--18, 2015</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=9111" class="list-group-item">Week 3 --- July 19--25, 2015</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=9112" class="list-group-item">Week 4 --- July 26--August 1, 2015</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=10151" class="list-group-item">Week 5 --- August 2--8, 2015</a>
-
-## Boy Scout Speciality Camps
-
-> %list-group%
-> <a href="http://www.ctrivers.org/Event.aspx?id=12243" class="list-group-item">Search & Rescue Weekend --- July 18--19, 2015</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=12233" class="list-group-item">PADI Scuba Certification Camp --- July 19--25, 2015</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=12234" class="list-group-item">PADI Scuba Certification Camp --- August 9--14, 2015</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=12235" class="list-group-item">Trail to Eagle Camp --- August 9--14, 2015</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=12230" class="list-group-item">Emergency & Medical Services Camp --- August 9--14, 2015</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=12231" class="list-group-item">Workcoeman Wilderness Experience --- August 9--14, 2015</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=12232" class="list-group-item">Shooting Sports Week --- August 9--14, 2015</a>
+> <a href="http://www.ctrivers.org/Event.aspx?id=13033" class="list-group-item">Week 1 --- July 3--9, 2016</a>
+> <a href="http://www.ctrivers.org/Event.aspx?id=13039" class="list-group-item">Week 2 --- July 10--16, 2016</a>
+> <a href="http://www.ctrivers.org/Event.aspx?id=13035" class="list-group-item">Week 3 --- July 17--23, 2016</a>
+> <a href="http://www.ctrivers.org/Event.aspx?id=13036" class="list-group-item">Week 4 --- July 24--30, 2016</a>
+> <a href="http://www.ctrivers.org/Event.aspx?id=13037" class="list-group-item">Week 5 --- July 31--August 6, 2016</a>

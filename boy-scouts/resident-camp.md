@@ -14,37 +14,34 @@ Sign up today!</a>
 > %text-center%
 >> %row%
 >>> %col-xs-6%
->>> **Week #1**  
->>> July 5--11, 2015
+>>> **Week #1**
+>>> July 3--9, 2016
 >>
 >>> %col-xs-6%
->>> **Week #4**  
->>> July 26--August 1, 2015
+>>> **Week #2**
+>>> July 10--16, 2016
 >
 >> %row%
 >>> %col-xs-6%
->>> **Week #2**  
->>> July 12--18, 2015
->>> &nbsp;
+>>> **Week #3**
+>>> July 17--23, 2016
 >>
 >>> %col-xs-6%
->>> **Week #5**  
->>> August 2--8, 2015
+>>> **Week #4**
+>>> July 24--30, 2016
 >
 >> %row%
 >>> %col-xs-6%
->>> **Week #3**  
->>> July 19--25, 2015<br/>
+>>> **Week #5**
+>>> July 31--August 6, 2016<br/>
+>>> **[Trail to Eagle Camp]({{ site.url }}/boy-scouts/trail-to-eagle/)**<br/>
+>>> **[Specialty Camps]({{ site.url }}/boy-scouts/specialty/)**<br/>
 >>> **[PADI Scuba Camp]({{ site.url }}/boy-scouts/specialty/)**
->>
->>> %col-xs-6%
->>> **[Trail to Eagle Camp]({{ site.url }}/boy-scouts/trail-to-eagle/)**  
->>> **[Specialty Camps]({{ site.url }}/boy-scouts/specialty/)**  
->>> August 9--15, 2015
+
 
 > %list-group%
 > <a href="#" class="list-group-item">Daily Program Schedule Coming Soon</a>
-> <a href="{{ site.url }}/pdf/2015/boy-scout-camp-preview.pdf" class="list-group-item">2015 Resident Camp Preview Flier</a>
+> <a href="{{ site.url }}/pdf/2016/boy-scout-camp-preview.pdf" class="list-group-item">2016 Resident Camp Preview Flier</a>
 
 ## Promotional Video
 
