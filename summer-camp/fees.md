@@ -110,11 +110,11 @@ will be for the amount paid minus $125.
 All requests for refund consideration are to be in writing and sent either in
 the form of a letter or email to:
 
-Connecticut Rivers Council
-Attn: Jim Waters  
-60 Darlin St  
-East Hartford, CT 06108  
-(860) 913-2750  
+Connecticut Rivers Council<br>
+Attn: Jim Waters<br>
+60 Darlin St<br>
+East Hartford, CT 06108<br>
+(860) 913-2750<br>
 [jawaters@bsamail.org](jawaters@bsamail.org)
 
 ### More information
