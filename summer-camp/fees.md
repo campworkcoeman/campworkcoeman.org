@@ -1,30 +1,30 @@
 ---
 published: true
 layout: generic
-title: 2015 Connecticut Rivers Council Camp Fees
-description: This page list the fees to attend week-long Resident Summer Camp in 2015 at Connecticut Rivers Council Scout Camps.
+title: 2016 Connecticut Rivers Council Camp Fees
+description: This page list the fees to attend week-long Resident Summer Camp in 2016 at Connecticut Rivers Council Scout Camps.
 keywords: fees
 ---
 
-The fees to attend week-long Resident Summer Camp in 2015 are as follows.
+The fees to attend week-long Resident Summer Camp in 2016 are as follows.
 
 ### Scout Fees
 
-Early Fee: $390
-: A $50 deposit per **named** Scout camper is due no later than March 4, 2015.
-  If paid in full by May 15, 2015, the fee will be $390; payments received
-  after May 15, 2015 will be charged a late fee of $50, making the total fee
-  $440.
+Early Fee: $405
+: A $50 deposit per **named** Scout camper is due no later than March 2, 2016.
+  If paid in full by May 15, 2016, the fee will be $405; payments received
+  after May 15, 2016 will be charged a late fee of $50, making the total fee
+  $455.
 
-Regular Fee: $415
+Regular Fee: $430
 : A $50 deposit per **named** Scout added to your camp roster after
-  March 5, 2015. If paid in full by May 15, 2015, the fee will be $415.
-  Payments received after May 15, 2015 will be charged a late fee of $50,
-  making the total fee $465.
+  March 2, 2016. If paid in full by May 15, 2016, the fee will be $430.
+  Payments received after May 15, 2016 will be charged a late fee of $50,
+  making the total fee $480.
 
 ### Discounts for Scouts
 
-Encore (2^nd week of camp): $290
+Encore (2^nd week of camp): $305
 : The registration process will require the Scout's other camp/week to be
   identified. To qualify, a Scout must have already spent a week in a
   Connecticut Rivers Council Scout Camp, and the discount applies to a
@@ -47,9 +47,9 @@ Scouters may be free according to the schedule below:
 
 These Scouts are always afforded the lowest possible camp fee rate. Because
 many troops don't know what Webelos will be joing their troop until after the
-March 4 deposit date, a special registration category will be established for
+March 2 deposit date, a special registration category will be established for
 them. This will also include any boys who join the troop as new Scouts between
-March 5 and the beginning of the troop's week at camp. This registration will
+March 2 and the beginning of the troop's week at camp. This registration will
 be available May 16.
 
 ### Camperships
@@ -75,22 +75,11 @@ through your MyCouncil page on the Connecticut Rivers Council web site.
 Payments may be in the form of an E-Check or credit card. There is no charge to
 the unit using this method of payment.
 
-### Camp Cards Are Back For 2015
-
-The Connecticut Rivers Council is happy to offer Camp Cards again in 2015. For
-$5.00, each camp card provides over $100 in value with coupon specials from
-area businesses offering fast food, travel, recreation, and more. Sale ends
-May 1, 2015. The program provides a benefit to the individual units and helps
-the Council in providing programs. Units participating in this program will
-earn a $2.00 commission on each $5 Camp Card they sell (if paid for by May 15).
-The program is open to all packs, troops, crews, and posts. For more
-information, see [ctrivers.org](http://www.ctrivers.org/Council/ElectronicScouter/CampCards15).
-
 ### FAQs
 
 Question
 : I don't know what Scouts in my troop are going to attend camp by the March
-4^th Early Fee deposit date. Why should I make a deposit for the "unknown"?
+2^nd Early Fee deposit date. Why should I make a deposit for the "unknown"?
 
 Answer
 : Camp promotion is a year round process. The unit's camp plans should already
@@ -102,28 +91,30 @@ Answer
 <br/>
 Question
 : We know our troop has Scouts that need Campership assistance in order to
-  attend camp. Should we register them with a $50 deposit by March 4^th?
+  attend camp. Should we register them with a $50 deposit by March 2^nd?
 
 Answer
 : Yes, but not necessarily. As stated above, campership applicants are always
-  afforded the lowest possible camp fee. Naming them by March 4 helps the Camp
+  afforded the lowest possible camp fee. Naming them by March 2 helps the Camp
   Directors in planning for a great summer program.
 
-### 2015 Connecticut Rivers Council Summer Camp Refund Policy
+### 2016 Connecticut Rivers Council Summer Camp Refund Policy
 
 The Connecticut Rivers Council must commit financial resources to purchase
 equipment, hire staff, and otherwise prepare to provide the high quality
-programs in our camps they have come to be expected. Participants therefore
+programs in our camps they have come to be expected well in advance of the camps opening for the summer. Participants therefore
 must also make a financial commitment to attend. Refund requests made before
-June 15^th will be for the amount paid minus $50. Requests after June 15^th
-will be for the amount paid minus $75.
+July 1^st will be for the amount paid minus the cencellation fee of $75. Requests after July 1^st
+will be for the amount paid minus $125.
 
 All requests for refund consideration are to be in writing and sent either in
 the form of a letter or email to:
 
+Connecticut Rivers Council
 Attn: Jim Waters  
 60 Darlin St  
 East Hartford, CT 06108  
+(860) 913-2750  
 [jawaters@bsamail.org](jawaters@bsamail.org)
 
 ### More information
