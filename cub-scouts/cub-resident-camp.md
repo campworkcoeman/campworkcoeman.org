@@ -6,13 +6,7 @@ description: Fun, adventure, and excitement await all Cub Scouts at Camp Workcoe
 keywords: Cub Scout, resident camp
 ---
 
-### August 9--14, 2015
-
-<div class="alert alert-info">
-Visit the Connecticut Rivers Council site to
-<a href="http://www.ctrivers.org/Event.aspx?id=10246">
-register your son for Cub Scout Resident Camp at Camp Workcoeman in 2015</a>.
-</div>
+### August 7--12, 2016
 
 Fun, adventure, and excitement await all Cub Scouts at Camp Workcoeman! This
 action-packed 6 day, 5 night resident camp is designed for Cubs entering first
