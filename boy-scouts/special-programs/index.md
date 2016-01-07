@@ -28,7 +28,7 @@ information, see the flier below.
 
 > %list-group%
 > <a href="{{ site.url }}/#" class="list-group-item">Pistol Shooting Flier Coming Soon</a>
-> <a href="{{ site.url }}/#" class="list-group-item">Pistol Program Release Agreement Coming Soon</a>
+> <a href="{{ site.url }}/pdf/2016/2016-pistol-pilot-program-release-agreement.pdf" class="list-group-item">2016 Pistol Program Release Agreement</a>
 
 ## Search and Rescue Weekend
 

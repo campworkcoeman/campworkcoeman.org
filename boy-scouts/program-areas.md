@@ -27,6 +27,7 @@ all of the live exhibits in the Nature Lodge.
 ## Shooting Sports
 
 Rifle shooting, shotgun shooting, and archery are always popular activities.
+Older Scouts can participate in the pilot Pistol Shooting Program.
 Muzzle loading rifle shooting and tomahawk throwing are a great part of the
 Shawtown Wilderness Trek for older Scouts.
 
