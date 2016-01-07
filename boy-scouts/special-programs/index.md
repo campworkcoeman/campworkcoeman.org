@@ -27,8 +27,8 @@ who are thirteen years old and have completed the eighth grade. For more
 information, see the flier below.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2015/pistol-shooting-program-flier.pdf" class="list-group-item">Pistol Shooting Flier</a>
-> <a href="{{ site.url }}/pdf/2015/pistol-pilot-program-release-agreement.pdf" class="list-group-item">Pistol Program Release Agreement</a>
+> <a href="{{ site.url }}/#" class="list-group-item">Pistol Shooting Flier Coming Soon</a>
+> <a href="{{ site.url }}/#" class="list-group-item">Pistol Program Release Agreement Coming Soon</a>
 
 ## Search and Rescue Weekend
 
@@ -39,7 +39,7 @@ and rescue drill allowing Scouts to demonstrate the skills learned. The 2016
 Search and Rescue Weekend will be held July 16--17.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2015/sar-flier.pdf" class="list-group-item">2015 Search and Rescue Weekend Flier</a>
+> <a href="{{ site.url }}/#" class="list-group-item">2016 Search and Rescue Weekend Flier Coming Soon</a>
 
 ## Shawtown Wilderness Trek
 

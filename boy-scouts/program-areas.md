@@ -14,7 +14,7 @@ is also a great place to try your hand at sailing and kayaking. The swimming
 opportunities are superb, offering a world of water fun and knowledge always
 under the utmost safety. Mile Swim, Snorkeling BSA, Kayaking BSA, and
 Life-Guard BSA are among the special awards instructed by our trained aquatic
-staff.
+staff. New additions include stand-up paddle boards and a water trampoline.
 
 ## Nature / Ecology
 
@@ -33,7 +33,8 @@ Shawtown Wilderness Trek for older Scouts.
 ## Field Sports
 
 This is the camp's center for fitness development. Activities are inter-troop,
-patrol, or individually centered. Our basketball court is a real hit.
+patrol, or individually centered. Our basketball court is a real hit. Other
+popular activities include gaga ball, earth ball, and our new KnockerBalls.
 
 ## Scoutcraft
 
@@ -57,12 +58,11 @@ finished work to show others.
 
 ## Climbing and COPE
 
-
-Workcoeman has a three-sided, 32' tall rock climbing and rappelling wall for
-Scouts 13 years and older. The climbing wall is located at the Activities
-Field, where Scouts are shown the proper use of technical climbing equipment,
-including climbing harnesses, ropes, and belay devices. Scouters are welcome to
-give it try too!
+Refurbished and expanded for the 2016 season, Workcoeman has a four-sided, 32'
+tall rock climbing and rappelling wall for Scouts 13 years and older. The
+climbing wall is located at the Sports Field, where Scouts are shown the proper
+use of technical climbing equipment, including climbing harnesses, ropes, and
+belay devices. Scouters are welcome to give it try too!
 
 Project COPE is a national program of the Boy Scouts of America. Challenge your
 Scouts with group initiative games, trust elements, low-course events, and
@@ -72,6 +72,3 @@ jump, rappel, and devise solutions to a variety of problems. Most participants
 achieve much more than they imagined they could. Workcoeman has a low ropes
 course, and the COPE program often uses the high ropes course at nearby Camp
 Mattatuck.
-
-> %list-group%
-> <a href="#" class="list-group-item">COPE Flier Coming Soon</a>

@@ -1,15 +1,14 @@
 ---
 published: true
 layout: generic
-title: 2015 Summer Camp Planning Information
+title: 2016 Summer Camp Planning Information
 description: At pre-camp planning meetings, all pre-camp planning information will be discussed. All troops should be represented at one of these meetings.
 keywords: pre-camp, planning, meetings
 ---
 
 ## Pre-Camp Leaders Meeting
 
-Two pre-camp planning meetings are scheduled for Saturday, May 2 and Saturday,
-May 16. All pre-camp planning information will be discussed related to
+Two pre-camp planning meetings will be scheduled for May; dates TBD. All pre-camp planning information will be discussed related to
 programs, medical form requirements, and the Sunday check-in process. All
 troops should be represented at one of these meetings.
 
@@ -33,7 +32,7 @@ time.
 ### Photo and BBQ Payments
 
 Troop photo payments and BBQ reservations are due Tuesday morning. Please use
-the appropriate forms found in the leaders' guide.
+the appropriate forms found in the program guide.
 
 ## Things to Remember
 

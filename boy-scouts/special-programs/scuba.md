@@ -65,5 +65,5 @@ For additional information contact Program Director Tom Leisten at
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2015/scuba-programs.pdf" class="list-group-item">Scuba Flier</a>
-> <a href="{{ site.url }}/summer-camp/register/" class="list-group-item">Register for a PADI Scuba Certification Week</a>
+> <a href="{{ site.url }}/boy-scouts/register/" class="list-group-item">Register for a PADI Scuba Certification Week</a>
 > <a href="http://www.enfieldscuba.com/" class="list-group-item">Enfield Dive Shop Website</a>
