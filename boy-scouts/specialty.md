@@ -22,12 +22,15 @@ The Trail to Eagle (T2E) Program is designed for the Scout who has set his goal 
 
 This is not a typical week of camp. It is a special week where Scouts will concentrate on all shooting sports: Rifle Shooting, Shotgun Shooting, and Archery Merit Badges; Muzzleloaders; and Tomahawks. Scouts will have the opportunity to earn a series of NRA Marksmanship Awards. Scouts age 14+ will also participate in the BSA Pistol Shooting Program. In addition, Scouts participate in a special fly fishing adventure on the Farmington River - BIG FUN!
 
+> %list-group%
+> <a href="{{ site.url }}/pdf/2016/2016-shooting-sports-camp.pdf" class="list-group-item">2016 Shooting Sports Camp Flier</a>
+
 ## PADI Scuba Certification Week --- July 17--23, 2016 and July 31--August 6, 2016
 
 Scouts spend an entire week at camp devoted to becoming PADI certified scuba divers. Scouts who complete all requirements throughout the week will also earn the Scuba Diving Merit Badge. There is no age requirement; however Scouts under the age of 16 are only eligible to earn a PADI Junior Diver certification. Scouts who are already certified divers can expand their diving experience by earning additional certifications such as: Digital Underwater Photographer, Underwater Naturalist, and Advanced Open Water Diver.
 
 > %list-group%
-> <a href="{{ site.url }}/#" class="list-group-item">2016 Scuba Programs Flier Coming Soon</a>
+> <a href="{{ site.url }}/pdf/2016/2016-scuba.pdf" class="list-group-item">2016 Scuba Programs Flier</a>
 
 ## Emergency and Medical Services Camp --- July 31--August 6, 2016
 
@@ -36,3 +39,6 @@ Experience what it's like to be blind and/or disabled. Learn about careers in th
 ## Workcoeman Wilderness Experience --- July 31--August 6, 2016
 
 Spend a week in the wilderness of Camp Workcoeman putting to use those Scoutcraft skills. Scouts will visit the Shawtown settlement and work on Archeology, Forestry, and Wilderness Survival Merit Badges all while learning how to build a Mahoosuc shelter. The program will include an advancement component, a skill component, and a backpacking component. Other activities will include black powder shooting and tomahawk throwing as part of a pioneer experience!
+
+> %list-group%
+> <a href="{{ site.url }}/pdf/2016/2016-woodsman.pdf" class="list-group-item">2016 Workcoeman Wilderness Experience Flier</a>

@@ -39,5 +39,5 @@ For questions specific to Trail to Eagle camp contact Program Director Tom
 Leisten at [tleisten@campworkcoeman.org](mailto:tleisten@campworkcoeman.org).
 
 > %list-group%
-> <a href="{{ site.url }}/#" class="list-group-item">2016 Trail to Eagle Flier Coming Soon</a>
+> <a href="{{ site.url }}/pdf/2016/2016-t2e-flier.pdf" class="list-group-item">2016 Trail to Eagle Flier</a>
 > <a href="{{ site.url }}/#" class="list-group-item">2016 Trail to Eagle Guide Coming Soon</a>

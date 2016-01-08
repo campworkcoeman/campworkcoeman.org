@@ -32,7 +32,7 @@ medical history and informed consent form (provided from camp).
 
 During the fourth week of Scout camp, instructors from the Enfield Scuba and
 Watersports will also offer a full PADI Open Water certification course. The
-cost of the full certification course is $450, which includes the course fee
+cost of the full certification course is $530, which includes the course fee
 and covers a full week's stay at camp.
 
 Scouts will also work on BSA's Scuba Merit Badge and have the opportunity to
@@ -64,6 +64,6 @@ For additional information contact Program Director Tom Leisten at
 (860) 379-2207 or [tleisten@campworkcoeman.org](mailto:tleisten@campworkcoeman.org).
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2015/scuba-programs.pdf" class="list-group-item">Scuba Flier</a>
+> <a href="{{ site.url }}/pdf/2016/2016-scuba.pdf" class="list-group-item">Scuba Flier</a>
 > <a href="{{ site.url }}/boy-scouts/register/" class="list-group-item">Register for a PADI Scuba Certification Week</a>
 > <a href="http://www.enfieldscuba.com/" class="list-group-item">Enfield Dive Shop Website</a>
