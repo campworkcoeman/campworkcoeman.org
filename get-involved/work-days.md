@@ -10,6 +10,9 @@ keywords: work days, volunteer
 
 June 4, 2016
 
+> %list-group%
+> <a href="{{ site.url }}/pdf/2016/2016-beaver-day.pdf" class="list-group-item">2016 Beaver Day Flier</a>
+
 ## Retiree Corp
 
 Members of the camp community who are currently retired gather at camp on the
