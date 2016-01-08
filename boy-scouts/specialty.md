@@ -31,7 +31,7 @@ Scouts spend an entire week at camp devoted to becoming PADI certified scuba div
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2016/2016-scuba.pdf" class="list-group-item">2016 Scuba Programs Flier</a>
-> <a href="{{ site.url }}/boy-scouts/special-programs/scuba/" class="list-group-item">Click here for more information</a>
+> <a href="{{ site.url }}/boy-scouts/special-programs/scuba/" class="list-group-item">More Information</a>
 
 ## Emergency and Medical Services Camp --- July 31--August 6, 2016
 
