@@ -6,6 +6,10 @@ description: Fun, adventure, and excitement await all Cub Scouts at Camp Workcoe
 keywords: Cub Scout, resident camp
 ---
 
+<div class="alert alert-info">
+<a href="http://www.ctrivers.org/Event.aspx?id=13038">Click here</a> to visit the Connecticut Rivers Council website to sign your son up for Cub Scout Resident Camp at Camp Workcoeman. Sign up today!
+</div>
+
 ### August 7--12, 2016
 
 Fun, adventure, and excitement await all Cub Scouts at Camp Workcoeman! This

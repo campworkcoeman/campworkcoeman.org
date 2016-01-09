@@ -55,7 +55,7 @@ Certifications:
 Scouts and Scouters who would like to take advantage of the Adventure Diving
 Certifications must provide their Open Water Certification or Junior Water
 Certification at the start of the course. Adventure Diving Certifications are
-scheduled for Sunday--Wednesday for an additional fee of $295 per course.
+scheduled for Sunday--Wednesday for an additional fee of $350 per course.
 
 Interested Scouts can sign up using the Connecticut Rivers Council Summer Camp
 Registration Form or can contact camp directly.

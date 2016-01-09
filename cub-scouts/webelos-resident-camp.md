@@ -6,6 +6,10 @@ description: This action-packed 6 day, 5 night resident camp is designed for fir
 keywords: Webelos, resident camp
 ---
 
+<div class="alert alert-info">
+<a href="{{ site.url }}/cub-scouts/register/">Click here</a> to sign your son up for Webelos Resident Camp at Camp Workcoeman. Sign up today!
+</div>
+
 ### July 3--8 and August 7--12, 2016
 
 Fun, adventure, and excitement await all Webelos Scouts at Camp Workcoeman!

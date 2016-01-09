@@ -6,6 +6,10 @@ description: Cub Experience Camp is a 3 day, 2 night mini camp especially design
 keywords: Cub Scout, mini week
 ---
 
+<div class="alert alert-info">
+<a href="{{ site.url }}/cub-scouts/register/">Click here</a> to sign your son up for a Cub Scout Mini Week at Camp Workcoeman. Sign up today!
+</div>
+
 ### July 3--5 and August 7--9, 2016
 
 Cub Experience Camp is a 3 day, 2 night mini camp that is great for all Cub

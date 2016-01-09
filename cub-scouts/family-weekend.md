@@ -6,6 +6,10 @@ description: Family Camp at Camp Workcoeman is a great opportunity for Cub Scout
 keywords: Cub Scout, family, weekend
 ---
 
+<div class="alert alert-info">
+<a href="http://www.ctrivers.org/Event.aspx?id=13809">Click here</a> to visit the Connecticut Rivers Council website to sign your family up for the Family Camping Weekend at Camp Workcoeman. Sign up today!
+</div>
+
 ### July 16--17, 2016
 
 Summer camp is not just for Scouts...it's for families too! Baloo's Family Camp
