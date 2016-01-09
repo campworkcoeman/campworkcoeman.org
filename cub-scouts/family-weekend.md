@@ -7,7 +7,7 @@ keywords: Cub Scout, family, weekend
 ---
 
 <div class="alert alert-info">
-<a href="http://www.ctrivers.org/Event.aspx?id=13809">Click here</a> to visit the Connecticut Rivers Council website to sign your family up for the Family Camping Weekend at Camp Workcoeman. Sign up today!
+<a href="http://www.ctrivers.org/Event.aspx?id=13809">Click here</a> to visit the council website to sign your family up for the Family Camping Weekend at Camp Workcoeman. Sign up today!
 </div>
 
 ### July 16--17, 2016

@@ -7,7 +7,7 @@ keywords: Cub Scout, day camp
 ---
 
 <div class="alert alert-info">
-<a href="http://www.ctrivers.org/Event.aspx?id=13612">Click here</a> to visit the Connecticut Rivers Council website to sign your son up for Cub Scout Day Camp at Camp Workcoeman. Sign up today!
+<a href="http://www.ctrivers.org/Event.aspx?id=13612">Click here</a> to visit the council website to sign your son up for Cub Scout Day Camp at Camp Workcoeman. Sign up today!
 </div>
 
 ### August 15--19, 2016
