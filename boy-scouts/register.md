@@ -25,7 +25,7 @@ Below, you will find links to the council website to register for each camp prog
 > <a href="http://www.ctrivers.org/Event.aspx?id=13927" class="list-group-item">Aquatics Camp --- July 31--August 3, 2016</a>
 > <a href="http://www.ctrivers.org/Event.aspx?id=13926" class="list-group-item">Shooting Sports Camp --- July 31--August 6, 2016</a>
 > <a href="http://www.ctrivers.org/Event.aspx?id=13925" class="list-group-item">Workcoeman Wilderness Experience --- July 31--August 6, 2016</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=14010" class="list-group-item">PADI Scuba Certification --- July 13--23, 2016</a>
+> <a href="http://www.ctrivers.org/Event.aspx?id=14010" class="list-group-item">PADI Scuba Certification --- July 17--23, 2016</a>
 > <a href="http://www.ctrivers.org/Event.aspx?id=13929" class="list-group-item">PADI Scuba Certification --- July 31--August 6, 2016</a>
 > <a href="http://www.ctrivers.org/Event.aspx?id=14012" class="list-group-item">Adventure Diving Certificate Program --- July 17--20, 2016</a>
 > <a href="http://www.ctrivers.org/Event.aspx?id=14011" class="list-group-item">Adventure Diving Certificate Program --- July 31--August 3, 2016</a>
