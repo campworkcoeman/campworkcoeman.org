@@ -50,7 +50,7 @@ Be sure to sign up to sign up today and don't miss out!
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2016/2016-bub-family-weelend.pdf" class="list-group-item">2016 Family Camping Weekend Flier</a>
+> <a href="{{ site.url }}/pdf/2016/2016-cub-family-weekend.pdf" class="list-group-item">2016 Family Camping Weekend Flier</a>
 > <a href="{{ site.url }}/pdf/2015/cub-leaders-guide.pdf" class="list-group-item">2016 Cub Scout Program Guide Coming Soon</a>
 > <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
