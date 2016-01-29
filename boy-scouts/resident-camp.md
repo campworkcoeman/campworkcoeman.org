@@ -7,7 +7,7 @@ keywords: "Boy Scout, resident camp"
 
 <div class="alert alert-info">
 Registration for the 2016 camp season is now open.
-<a href="{{ site.url }}/summer-camp/register/">
+<a href="{{ site.url }}/boy-scouts/register/">
 Sign up today!</a>
 </div>
 
