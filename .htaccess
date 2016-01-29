@@ -56,9 +56,11 @@ Redirect 301 /shorttermcamping/chapel.html /short-term-camping/chapel/
 Redirect 301 /boy-scouts/fees/ /summer-camp/fees/
 Redirect 301 /boy-scouts/forms/ /summer-camp/forms/
 Redirect 301 /boy-scouts/menus/ /summer-camp/menus/
+Redirect 301 /summer-camp/register/ /boy-scouts/register/
 
 # 2016 redirect
 Redirect 301 /2016/ /boy-scouts/register/
+Redirect 301 /2016 /boy-scouts/register/
 
 # Block SEMalt botnet and other referral spam
 SetEnvIfNoCase Referer fbdownloader.com spammer=yes
