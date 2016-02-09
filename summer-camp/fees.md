@@ -54,12 +54,14 @@ be available May 16.
 
 ### Camperships
 
-The Connecticut Rivers Council will continue to award camperships to assist
-Scouts in need of funds to attend camp who might not otherwise do so. The
-annual campership fund is limited and fluctuates from year to year. Similar to
-Webelos crossovers and new Scouts, campership Scouts will also be afforded the
-lowest possible rate to attend camp. The unit process for paying for these
-Scouts is to be determined.
+The Connecticut Rivers Council is pleased to offer camperships to Scouts who are members of the Connecticut Rivers Council who attend Connecticut Rivers Council Camp.  Camperships are subject to available funding. Camperships are the equivalent of a school scholarship but for summer camp. They are awarded based upon financial need as determined by the most recent 1040 tax form.  Extenuating circumstances may be considered.   
+
+**Except** on rare occasions, Camperships are **NOT** granted for amounts greater than 50% of the camp fee.  Camperships are awarded for ONE (1) camp session per Scout.  Camperships are not transferrable between Scouts.  Please file a separate application for EACH individual in a household requesting a Campership (however only one tax form is required to be provided to the council per family).  
+
+The deadline for the submissions is April 1^st.  Any Campership applications received after April 1^st (or incomplete campership applications not completed before April 1^st) will be put into a pool for consideration of any remaining funds.
+
+> %list-group%
+> <a href="http://www.ctrivers.org/Camping/CampershipsandCampCards/" class="list-group-item">Apply for a Campership</a>
 
 ### Specialty Camp Programs
 
