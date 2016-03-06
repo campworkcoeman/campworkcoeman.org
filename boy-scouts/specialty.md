@@ -22,6 +22,9 @@ The Trail to Eagle (T2E) Program is designed for the Scout who has set his goal 
 
 **New for 2016!** This program focuses on all of the aquatic merit badges, awards, and related certifications. The week is completely dedicated to swimming and watercraft skills. Participants will experience Workcoeman's vast sailing fleet as well as scuba and other exciting experiences both in and out of camp. Space is limited so sign up early.
 
+> %list-group%
+> <a href="{{ site.url }}/pdf/2016/2016-aquatics-camp-flier.pdf" class="list-group-item">2016 Aquatics Camp Flier</a>
+
 ## Shooting Sports Camp --- July 31--August 6, 2016
 
 This is not a typical week of camp. It is a special week where Scouts will concentrate on all shooting sports: Rifle Shooting, Shotgun Shooting, and Archery Merit Badges; Muzzleloaders; and Tomahawks. Scouts will have the opportunity to earn a series of NRA Marksmanship Awards. Scouts age 14+ will also participate in the BSA Pistol Shooting Program. In addition, Scouts participate in a special fly fishing adventure on the Farmington River - BIG FUN!
