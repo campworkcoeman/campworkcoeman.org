@@ -45,4 +45,4 @@ Sign up today!</a>
 
 ## Promotional Video
 
-<iframe style="max-width: 550px; width: 100%; height: 309px; border: none;" src="//www.youtube-nocookie.com/embed/oAwqKy70Io4?rel=0" allowfullscreen></iframe>
+<iframe style="max-width: 640px; width: 100%; height: 360px; border: none;" src="//www.youtube-nocookie.com/embed/mBW3OGLBcIc?rel=0" allowfullscreen></iframe>
