@@ -35,7 +35,7 @@ Shawtown Wilderness Trek for older Scouts.
 
 This is the camp's center for fitness development. Activities are inter-troop,
 patrol, or individually centered. Our basketball court is a real hit. Other
-popular activities include gaga ball, earth ball, and our new KnockerBalls.
+popular activities include gaga ball and earth ball.
 
 ## Scoutcraft
 
