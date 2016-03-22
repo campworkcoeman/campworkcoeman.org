@@ -6,6 +6,11 @@ description: Camp Workcoeman consists of approximately 427 acres on the shore of
 keywords: map, trail map
 ---
 
+A Camp Workcoeman map is available for mobile devices as an
+[Android app](https://play.google.com/store/apps/details?id=net.mpetroff.campworkcoemanmap)
+and as a [web app](https://map.campworkcoeman.org/) (which can be added to the
+home screen on iOS).
+
 ## Camp Area
 
 [<img src="{{ site.url }}/about/files/camp-area.png" alt="Camp Area" style="max-width: 550px; width: 100%;"/>]({{ site.url }}/pdf/2014/camp-area-bw_2013-12-09.pdf)
