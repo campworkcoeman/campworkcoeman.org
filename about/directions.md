@@ -12,7 +12,7 @@ Workcoeman Road.
 #### From the south (Middletown, Waterbury, etc.)
 
 Take Route 8 North to Pinewoods Road, Exit 46. Go right at the end of the exit
-ramp past the Cornucopia Banqueting Hall to the intersection of Route 183,
+ramp past the Chatterley's Banqueting Hall to the intersection of Route 183,
 where you will see a sign for camp. Go left on Route 183 and take the next
 right onto West Hill Road. Proceed about one mile and take a left across from
 the Camp Sequassen parking lot, following the sign to Camp Workcoeman. Camp
