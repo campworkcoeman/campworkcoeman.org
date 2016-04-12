@@ -44,6 +44,9 @@ Scouts spend an entire week at camp devoted to becoming PADI certified scuba div
 
 Experience what it's like to be blind and/or disabled. Learn about careers in the medical field. Find out how to keep the public safe from bacteria. Is it true that a dog with a wet nose is healthy? Participate in a camp-wide search and rescue; learn fire safety, first aid, and experience emergency vehicles. Merit badges offered may include: Crime Prevention, Dentistry, Disability Awareness, Fire Safety, First Aid, Medicine, Public Health, Search& Rescue, Fingerprinting, and/or Veterinary Medicine.
 
+> %list-group%
+> <a href="{{ site.url }}/pdf/2016/2016-EMS-medical.pdf" class="list-group-item">2016 Emergency and Medical Services Camp Flier</a>
+
 ## Workcoeman Wilderness Experience --- July 31--August 6, 2016
 
 Spend a week in the wilderness of Camp Workcoeman putting to use those Scoutcraft skills. Scouts will visit the Shawtown settlement and work on Archeology, Forestry, and Wilderness Survival Merit Badges all while learning how to build a Mahoosuc shelter. The program will include an advancement component, a skill component, and a backpacking component. Other activities will include black powder shooting and tomahawk throwing as part of a pioneer experience!
