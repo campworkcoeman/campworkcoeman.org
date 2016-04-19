@@ -40,7 +40,7 @@ Sign up today!</a>
 
 
 > %list-group%
-> <a href="#" class="list-group-item">Daily Program Schedule Coming Soon</a>
+> <a href="{{ site.url }}/pdf/2016/2016-schedule.pdf" class="list-group-item">Daily Program Schedule</a>
 > <a href="{{ site.url }}/pdf/2016/boy-scout-camp-preview.pdf" class="list-group-item">2016 Resident Camp Preview Flier</a>
 
 ## Promotional Video
