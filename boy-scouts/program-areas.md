@@ -45,7 +45,7 @@ of the environment, all while having fun. Many of these activities include
 demonstrations that show Scouts the techniques of camping, ranging from basic
 cooking to advanced survival. The Scoutcraft Staff offers training for both
 youth leaders and Scouters, with a special emphasis on Leave No Trace. Most
-Scoutcraft activities occur at the Stuge B. Shields Campcraft Area, located
+Scoutcraft activities occur at the Sturge B. Shields Campcraft Area, located
 near the beginning of the Red Trail; however, many activities can be conducted
 in your campsite.
 
