@@ -7,7 +7,7 @@ keywords: special programs, programs
 
 ## Merit Badge Completion Day
 
-The 2016 Merit Badge Completion Day will be held Thursday, August 11.
+The date of the 2016 Merit Badge Completion Day is to be determined; it will most likely occur in September.
 
 ## Scuba
 
