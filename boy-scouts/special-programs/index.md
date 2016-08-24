@@ -7,10 +7,11 @@ keywords: special programs, programs
 
 ## Merit Badge Completion Day
 
-The 2016 Merit Badge Completion Day will be held on Saturday, September 10^th at camp. The cost to attend is $15 and registration can be completed on the council website. The deadline to register is September 1^st. Stay tuned for merit badge selection instructions.
+The 2016 Merit Badge Completion Day will be held at camp on Saturday, September 10^th beginning at 10 AM. The cost to attend is $15 and registration must be completed on the council website. The deadline to register is September 1^st. Stay tuned for merit badge selection instructions.
 
 > %list-group%
 > <a href="http://www.ctrivers.org/Event.aspx?id=14912" class="list-group-item">Register for Merit Badge Completion Day</a>
+> <a href="{{ site.url }}/pdf/2016/mb-completion-day.pdf" class="list-group-item">Merit Badge Completion Day Flier</a>
 
 ## Scuba
 
