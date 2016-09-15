@@ -4,6 +4,7 @@ rdiscount:
   extensions: [smart]
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
 permalink: pretty
 paginate: 5
 paginate_path: about/news/page:num/
