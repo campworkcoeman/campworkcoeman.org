@@ -36,3 +36,4 @@ Camp Workcoeman facility for your next outing</a>.</p></div>
 > <a href="parade-ground-pavilion/" class="list-group-item">Parade Ground Pavilion</a>
 > <a href="chapel/" class="list-group-item">Chapel Pavilion</a>
 > <a href="shooting-ranges/" class="list-group-item">Shooting Ranges</a>
+> <a href="{{ site.url }}/pdf/2017/climbing-flier.pdf" class="list-group-item">Climbing Wall</a>
