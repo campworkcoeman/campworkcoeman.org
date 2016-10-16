@@ -36,6 +36,7 @@ function imgLoad() {
             imgLoad();
         }
     }
+    img.srcset = img.getAttribute('data-srcset');
     img.src = img.getAttribute('data-src');
 }
 
