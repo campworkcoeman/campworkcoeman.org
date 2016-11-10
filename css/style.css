@@ -362,7 +362,7 @@ html, body {
 .dropdown-open {
   background: #e7e7e7;
 }
-td {
+td, th {
   padding-right: 1em;
 }
 
