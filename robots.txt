@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /slider-images/
 /pdf/2014/CRC_Health_Form_2013.pdf
 
-Sitemap: http://campworkcoeman.org/sitemap.xml
+Sitemap: https://campworkcoeman.org/sitemap.xml
