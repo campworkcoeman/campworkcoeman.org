@@ -13,7 +13,7 @@ keywords: "Cub Scout, camp, 2017"
 > July 2--4, 2017
 >
 > **Cub Scout Family Weekend**</br>
-> July 9--10, 2017
+> July 8--9, 2017
 >
 > **Cub/Webelos Resident Camp**</br>
 > August 6--11, 2017
