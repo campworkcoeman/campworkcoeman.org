@@ -23,7 +23,7 @@ The Trail to Eagle (T2E) Program is designed for the Scout who has set his goal 
 **Back for 2017!** This program focuses on all of the aquatic merit badges, awards, and related certifications. The week is completely dedicated to swimming and watercraft skills. Participants will experience Workcoeman's vast sailing fleet as well as scuba and other exciting experiences both in and out of camp. Space is limited so sign up early.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2017/2017-aquatics-camp-flier.pdf" class="list-group-item">2017 Aquatics Camp Flier</a>
+> <a href="{{ site.url }}/pdf/2017/2017-aquatics-camp.pdf" class="list-group-item">2017 Aquatics Camp Flier</a>
 
 ## Shooting Sports Camp --- July 30--August 5, 2017
 
