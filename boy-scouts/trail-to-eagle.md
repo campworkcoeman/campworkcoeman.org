@@ -7,7 +7,7 @@ keywords: Trail to Eagle, Eagle Scout
 ---
 
 <div class="alert alert-info">
-The 2016 Trail to Eagle Camp will be held from July 31&ndash;August 6.
+The 2017 Trail to Eagle Camp will be held from July 30&ndash;August 5.
 </div>
 
 The Trail to Eagle (T2E) Program is designed for the Scout who has set his goal
@@ -39,5 +39,5 @@ For questions specific to Trail to Eagle camp contact Program Director Tom
 Leisten at [tleisten@campworkcoeman.org](mailto:tleisten@campworkcoeman.org).
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2016/2016-t2e-flier.pdf" class="list-group-item">2016 Trail to Eagle Flier</a>
-> <a href="{{ site.url }}/#" class="list-group-item">2016 Trail to Eagle Guide Coming Soon</a>
+> <a href="{{ site.url }}/pdf/2017/2017-trail-to-eagle.pdf" class="list-group-item">2017 Trail to Eagle Flier</a>
+> <a href="{{ site.url }}/#" class="list-group-item">2017 Trail to Eagle Guide Coming Soon</a>

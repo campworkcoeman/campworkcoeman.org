@@ -1,14 +1,14 @@
 ---
 published: true
 layout: generic
-title: 2016 Summer Camp Planning Information
+title: 2017 Summer Camp Planning Information
 description: At pre-camp planning meetings, all pre-camp planning information will be discussed. All troops should be represented at one of these meetings.
 keywords: pre-camp, planning, meetings
 ---
 
 ## Pre-Camp Leaders Meeting
 
-Pre-camp planning meetings are scheduled for Saturday, April 23^rd and Saturday, May 7^th; both meeting will begin at 1:30 PM in the camp Dining Hall. Each troop should send their camp Scoutmaster and Senior Patrol Leader to *one* of these meetings. All pre-camp planning information will be discussed related to
+Two pre-camp planning meetings will be scheduled for late Spring (dates TBD). Each troop should send their camp Scoutmaster and Senior Patrol Leader to *one* of these meetings. All pre-camp planning information will be discussed related to
 programs, medical form requirements, and the Sunday check-in process. All
 troops should be represented at one of these meetings.
 
