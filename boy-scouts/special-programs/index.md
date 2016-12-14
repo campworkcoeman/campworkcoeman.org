@@ -60,11 +60,11 @@ only for them.
 
 Your troop can arrange for a tubing trip down the Farmington River through
 Satan's Kingdom---a great way to spend a hot summer afternoon! Reservations
-must be made in advance at your Tuesday planning meeting. Transportation to and
+must be made in advance at the pre-camp planning meeting. Transportation to and
 from the river is up to the troop. An additional fee and a completed parental
 permission form is required for all youth participants. As this is considered
 an individual troop activity, a Tour Permit must be submitted; this can be done
 at the Camp Office. Please visit the
 [Farmington River Tubing website](http://www.farmingtonrivertubing.com/) for
-more information. A link to the parental waiver is located at the bottom of the
+more information. A link to the parental waiver is located at the top of the
 page.
