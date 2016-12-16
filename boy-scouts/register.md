@@ -34,7 +34,7 @@ Below, you will find links to the council website to reserve a campsite for 2017
 > Trail to Eagle Camp<br/>
 > Other Specialty Camps
 
-## 2017 Troop Registrations (as of November 10)
+## 2017 Troop Registrations (as of December 16)
 
 ### Week 1
 
@@ -96,9 +96,9 @@ Troop   | Town
 --------|-----------------------
 1       | Torrington, CT
 3       | Torrington, CT
-7       | St. James, NY
 33      | Pleasant Valley, NY
 41      | Berlin, CT
 85      | Wethersfield, CT
 105     | Hartford, CT
 177     | Canton, CT
+261     | Farmingdale, NY
