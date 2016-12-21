@@ -7,10 +7,9 @@ keywords: Cub Scout, family, weekend
 ---
 
 <div class="alert alert-info">
-<a href="http://www.ctrivers.org/Event.aspx?id=13809">Click here</a> to visit the council website to sign your family up for the Family Camping Weekend at Camp Workcoeman. Sign up today!
-</div>
+Registration will open shortly.</div>
 
-### July 16--17, 2016
+### July 8--9, 2017
 
 Summer camp is not just for Scouts...it's for families too! Baloo's Family Camp
 at Camp Workcoeman is a great opportunity for Cub Scouts to enjoy a summer camp
@@ -50,8 +49,8 @@ Be sure to sign up to sign up today and don't miss out!
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2016/2016-cub-family-weekend.pdf" class="list-group-item">2016 Family Camping Weekend Flier</a>
-> <a href="{{ site.url }}/pdf/2016/2016-cub-leader-guide.pdf" class="list-group-item">2016 Cub Scout Leader Guide</a>
+> <a href="{{ site.url }}/pdf/2017/2017-cub-family-weekend.pdf" class="list-group-item">2017 Family Camping Weekend Flier</a>
+> <a href="{{ site.url }}/#" class="list-group-item">2017 Cub Scout Leader Guide (Coming Soon)</a>
 > <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2015/med-admin.pdf" class="list-group-item">Medication Order Form</a>

@@ -5,14 +5,6 @@ title: Special Programs
 keywords: special programs, programs
 ---
 
-## Merit Badge Completion Day
-
-The 2016 Merit Badge Completion Day will be held at camp on Saturday, September 10^th beginning at 10 AM. The cost to attend is $15 and registration must be completed on the council website. The deadline to register is September 1^st. Stay tuned for merit badge selection instructions.
-
-> %list-group%
-> <a href="http://www.ctrivers.org/Event.aspx?id=14912" class="list-group-item">Register for Merit Badge Completion Day</a>
-> <a href="{{ site.url }}/pdf/2016/mb-completion-day.pdf" class="list-group-item">Merit Badge Completion Day Flier</a>
-
 ## Scuba
 
 A new challenge for older Scouts who would like to discover the depths of West
@@ -31,19 +23,19 @@ who are thirteen years old and have completed the eighth grade. For more
 information, see the flier below.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2016/2016-pistol-flier.pdf" class="list-group-item">2016 Pistol Shooting Flier</a>
-> <a href="{{ site.url }}/pdf/2016/2016-pistol-pilot-program-release-agreement.pdf" class="list-group-item">2016 Pistol Program Release Agreement</a>
+> <a href="{{ site.url }}/pdf/2017/2017-pistol-flier.pdf" class="list-group-item">2017 Pistol Shooting Flier</a>
+> <a href="{{ site.url }}/pdf/2017/2017-pistol-pilot-program-release-agreement.pdf" class="list-group-item">2017 Pistol Program Release Agreement</a>
 
 ## Search and Rescue Weekend
 
 This overnight program is designed to introduce Scouts the various skills
 required in Search and Rescue. A series of stations will teach the skills
 required to complete the merit badge. The program will culminate with a search
-and rescue drill allowing Scouts to demonstrate the skills learned. The 2016
-Search and Rescue Weekend will be held July 16--17.
+and rescue drill allowing Scouts to demonstrate the skills learned. The 2017
+Search and Rescue Weekend will be held July 8--9.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2016/2016-sar-flier.pdf" class="list-group-item">2016 Search and Rescue Weekend Flier</a>
+> <a href="{{ site.url }}/pdf/2017/2017-sar-flier.pdf" class="list-group-item">2016 Search and Rescue Weekend Flier</a>
 
 ## Shawtown Wilderness Trek
 

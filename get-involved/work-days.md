@@ -1,17 +1,17 @@
 ---
 published: true
 layout: generic
-title: 2016 Work Days
+title: 2017 Work Days
 description: Members of the camp community who are currently retired gather at camp on the second and fourth Tuesday of every month to work on small projects. Your help is greatly appreciated!
 keywords: work days, volunteer
 ---
 
 ## Beaver Day
 
-June 4, 2016
+June 3, 2017
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2016/2016-beaver-day.pdf" class="list-group-item">2016 Beaver Day Flier</a>
+> <a href="{{ site.url }}/pdf/2017/2017-beaver-day.pdf" class="list-group-item">2017 Beaver Day Flier</a>
 
 ## Retiree Corp
 

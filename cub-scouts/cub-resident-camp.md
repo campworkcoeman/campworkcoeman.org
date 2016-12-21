@@ -7,10 +7,9 @@ keywords: Cub Scout, resident camp
 ---
 
 <div class="alert alert-info">
-<a href="http://www.ctrivers.org/Event.aspx?id=13038">Click here</a> to visit the council website to sign your son up for Cub Scout Resident Camp at Camp Workcoeman. Sign up today!
-</div>
+Registration will open shortly.</div>
 
-### August 7--12, 2016
+### August 6--11, 2017
 
 Fun, adventure, and excitement await all Cub Scouts at Camp Workcoeman! This
 action-packed 6 day, 5 night resident camp is designed for Cubs entering first
@@ -44,8 +43,8 @@ opportunity to work on belt loops and pins as well.
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2016/2016-cub-resident.pdf" class="list-group-item">2016 Cub Scout Resident Camp Flier</a>
-> <a href="{{ site.url }}/pdf/2016/2016-cub-leader-guide.pdf" class="list-group-item">2016 Cub Scout Leader Guide</a>
+> <a href="{{ site.url }}/pdf/2017/2017-cub-resident.pdf" class="list-group-item">2017 Cub Scout Resident Camp Flier</a>
+> <a href="{{ site.url }}/#" class="list-group-item">2017 Cub Scout Leader Guide (Coming Soon)</a>
 > <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2015/med-admin.pdf" class="list-group-item">Medication Order Form</a>

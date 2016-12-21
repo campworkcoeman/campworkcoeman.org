@@ -11,11 +11,11 @@ Cub Scouts to have fun and adventure! Below are the various programs that are
 scheduled throughout the summer.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2016/2016-cub-leader-guide.pdf" class="list-group-item">2016 Cub Scout Leader Guide</a>
+> <a href="{{ site.url }}/#" class="list-group-item">2017 Cub Scout Leader Guide (Coming Soon)</a>
 
 ## Cub Scout Day Camp
 
-#### August 15--19, 2016
+#### August 14--18, 2017
 
 Day Camp features all the fun and excitement of summer camp without the
 overnight element. Scouts are introduced to the Cub Scout summer camp program
@@ -27,7 +27,7 @@ and some advancement.
 
 ## Family Camping Weekend
 
-#### July 16--17, 2016
+#### July 8--9, 2017
 
 This program is for all Cub Scouts and their families. This allows Scouts to
 get a taste of what summer camp is like without the worries of being away for
@@ -39,7 +39,7 @@ activities they would like to do.
 
 ## Cub Scout Mini Week
 
-#### July 3--5 and August 7--9, 2016
+#### July 2--4 and August 6--8, 2017
 
 This is a shorter overnight experience for Cubs and their adult partners. Cub
 Scouts will get a taste of those great summer camp programs. This opportunity
@@ -50,7 +50,7 @@ will allow for some advancement but the main emphasis is **fun**!
 
 ## Cub Scout Resident Camp
 
-#### August 7--12, 2016
+#### August 6--11, 2017
 
 This action-packed 6 day, 5 night resident camp is designed for Cubs entering
 first through third grades. Activities are planned for each den so you know the
@@ -61,7 +61,7 @@ program is always age-appropriate.
 
 ## Webelos Resident Camp
 
-#### July 3--8 and August 7--12, 2016
+#### July 2--7 and August 6--11, 2016
 
 An action packed week for 4^th and 5^th graders who are ready for a week-long
 camp experience. The program focuses on the Adventure of Scouting where Scouts
@@ -74,9 +74,9 @@ the opportunity to see what awaits them in the Boy Scout program.
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2016/cub-scout-camp-preview.pdf" class="list-group-item">2016 Cub Camping Preview Flier</a>
-> <a href="{{ site.url }}/pdf/2016/2016-cub-overview.pdf" class="list-group-item">2016 Cub Camping Overview Flier</a>
-> <a href="{{ site.url }}/pdf/2016/2016-cub-leader-guide.pdf" class="list-group-item">2016 Cub Scout Leader Guide</a>
+> <a href="{{ site.url }}/pdf/2017/2017-cub-scout-brochure.pdf" class="list-group-item">2017 Cub Camping Preview Flier</a>
+> <a href="{{ site.url }}/pdf/2017/2017-cub-overview.pdf" class="list-group-item">2017 Cub Camping Overview Flier</a>
+> <a href="{{ site.url }}/#" class="list-group-item">2017 Cub Scout Leader Guide (Coming Soon)</a>
 > <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2015/med-admin.pdf" class="list-group-item">Medication Order Form</a>
