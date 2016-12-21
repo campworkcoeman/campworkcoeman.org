@@ -35,7 +35,7 @@ and rescue drill allowing Scouts to demonstrate the skills learned. The 2017
 Search and Rescue Weekend will be held July 8--9.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2017/2017-sar-flier.pdf" class="list-group-item">2016 Search and Rescue Weekend Flier</a>
+> <a href="{{ site.url }}/pdf/2017/2017-sar-flier.pdf" class="list-group-item">2017 Search and Rescue Weekend Flier</a>
 
 ## Shawtown Wilderness Trek
 

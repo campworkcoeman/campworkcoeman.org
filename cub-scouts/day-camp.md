@@ -33,7 +33,7 @@ Be sure to sign up for this summer blast today!
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2017/2017-cub-day-camp.pdf" class="list-group-item">2017 Cub Scout Day Camp Preview Flier</a>
+> <a href="{{ site.url }}/pdf/2017/2017-cub-day-camp.pdf" class="list-group-item">2017 Cub Scout Day Camp Flier</a>
 > <a href="{{ site.url }}/#" class="list-group-item">2017 Cub Scout Leader Guide (Coming Soon)</a>
 > <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
