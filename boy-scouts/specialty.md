@@ -9,6 +9,7 @@ keywords: Trail to Eagle, Eagle Scout
 > %list-group%
 > <a href="{{ site.url }}/pdf/2017/2017-specialty-flier.pdf" class="list-group-item">2017 Specialty Camps Flier</a>
 > <a href="{{ site.url }}/boy-scouts/register/" class="list-group-item">Click here to register for Specialty Camps</a>
+> <a href="{{ site.url }}/pdf/2017/2017-encore-week.pdf" class="list-group-item">$100 Encore Week Discount</a>
 
 ## Trail to Eagle Camp --- July 30--August 5, 2017
 

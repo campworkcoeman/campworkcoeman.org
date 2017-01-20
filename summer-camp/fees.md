@@ -30,6 +30,9 @@ Encore (2^nd week of camp): $305
   Connecticut Rivers Council Scout Camp, and the discount applies to a
   second week at one of the Connecticut Rivers Council's camps.
 
+> %list-group%
+> <a href="{{ site.url }}/pdf/2017/2017-encore-week.pdf" class="list-group-item">More Information</a>
+
 ### Adult Scouter Fees
 
 Fees for extra Scouters are calculated at $15 per day/$90 per week. Names of
