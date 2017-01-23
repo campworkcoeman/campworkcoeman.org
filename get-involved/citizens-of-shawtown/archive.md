@@ -5,6 +5,11 @@ title: Newsletter Archive
 keywords: newsletter, Citizens of Shawtown, archive
 ---
 
+## 2017
+
+> %list-group%
+> <a href="{{ site.url }}/pdf/2017/shawtown-winter-2017.pdf" class="list-group-item">Winter 2017 Newsletter</a>
+
 ## 2016
 
 > %list-group%
