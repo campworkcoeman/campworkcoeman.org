@@ -13,10 +13,10 @@ keywords: forms, medical forms, camperships
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2015/med-admin.pdf" class="list-group-item">Medication Order Form</a>
 
-## 2016 Campership Application
+## 2017 Campership Application
 
 > %list-group%
-> <a href="http://www.ctrivers.org/Camping/CampershipsandCampCards/" class="list-group-item">Apply for a Campership</a>
+> <a href="{{ site.url }}/summer-camp/fees/camperships/" class="list-group-item">Apply for a Campership</a>
 
 ## Other Forms
 

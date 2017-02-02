@@ -64,7 +64,7 @@ The Connecticut Rivers Council is pleased to offer camperships to Scouts who are
 The deadline for the submissions is April 1^st.  Any Campership applications received after April 1^st (or incomplete campership applications not completed before April 1^st) will be put into a pool for consideration of any remaining funds.
 
 > %list-group%
-> <a href="http://www.ctrivers.org/Camping/CampershipsandCampCards/" class="list-group-item">Apply for a Campership</a>
+> <a href="{{ site.url }}/summer-camp/fees/camperships/" class="list-group-item">Apply for a Campership</a>
 
 ### Specialty Camp Programs
 
