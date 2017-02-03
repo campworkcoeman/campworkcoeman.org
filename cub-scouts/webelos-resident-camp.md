@@ -7,7 +7,7 @@ keywords: Webelos, resident camp
 ---
 
 <div class="alert alert-info">
-Registration will open shortly.
+<a href="{{ site.url }}/cub-scouts/register/">Click here</a> to sign your son up for Webelos Resident Camp at Camp Workcoeman. Sign up today!
 </div>
 
 ### July 2--7 and August 6--11, 2017

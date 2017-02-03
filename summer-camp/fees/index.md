@@ -1,6 +1,6 @@
 ---
 published: true
-layout: fees
+layout: generic
 title: 2017 Connecticut Rivers Council Camp Fees
 description: This page list the fees to attend week-long Resident Summer Camp in 2017 at Connecticut Rivers Council Scout Camps.
 keywords: fees

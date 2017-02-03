@@ -7,7 +7,8 @@ keywords: Cub Scout, family, weekend
 ---
 
 <div class="alert alert-info">
-Registration will open shortly.</div>
+<a href="http://www.ctrivers.org/Event.aspx?id=15517">Click here</a> to visit the council website to sign your family up for the Family Camping Weekend at Camp Workcoeman. Sign up today!
+</div>
 
 ### July 8--9, 2017
 

@@ -61,7 +61,7 @@ program is always age-appropriate.
 
 ## Webelos Resident Camp
 
-#### July 2--7 and August 6--11, 2016
+#### July 2--7 and August 6--11, 2017
 
 An action packed week for 4^th and 5^th graders who are ready for a week-long
 camp experience. The program focuses on the Adventure of Scouting where Scouts
@@ -80,7 +80,7 @@ the opportunity to see what awaits them in the Boy Scout program.
 > <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2015/med-admin.pdf" class="list-group-item">Medication Order Form</a>
-> <a href="http://www.ctrivers.org/Camping/CampershipsandCampCards/ApplyforaCampership" class="list-group-item">Apply for a 2016 Campership</a>
+> <a href="{{ site.url }}/summer-camp/fees/camperships/" class="list-group-item">Apply for a Campership</a>
 
 For more information, contact Director of Cub Scout Programs, Jeff Seiser at
 [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org).

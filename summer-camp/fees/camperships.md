@@ -1,6 +1,6 @@
 ---
 published: true
-layout: generic
+layout: fees
 title: 2017 Camperships
 description: This page lists information and links for applying for 2017 camperships at Connecticut Rivers Council Scout Camps.
 keywords: fees, camperships
