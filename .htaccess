@@ -61,6 +61,10 @@ Redirect 301 /summer-camp/register/ /boy-scouts/register/
 # 2017 redirect
 Redirect 301 /2017/ /boy-scouts/register/
 Redirect 301 /2017 /boy-scouts/register/
+Redirect 301 /cubcamp2017/ /cub-scouts/register/
+Redirect 301 /cubcamp2017 /cub-scouts/register/
+Redirect 301 /CubCamp2017/ /cub-scouts/register/
+Redirect 301 /CubCamp2017 /cub-scouts/register/
 
 # Block SEMalt botnet and other referral spam
 SetEnvIfNoCase Referer fbdownloader.com spammer=yes
