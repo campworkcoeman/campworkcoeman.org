@@ -11,6 +11,17 @@ keywords: Trail to Eagle, Eagle Scout
 > <a href="{{ site.url }}/boy-scouts/register/" class="list-group-item">Click here to register for Specialty Camps</a>
 > <a href="{{ site.url }}/pdf/2017/2017-encore-week.pdf" class="list-group-item">$100 Encore Week Discount</a>
 
+## Search and Rescue Weekend --- July 8--9, 2017
+
+This overnight program is designed to introduce Scouts the various skills
+required in Search and Rescue. A series of stations will teach the skills
+required to complete the merit badge. The program will culminate with a search
+and rescue drill allowing Scouts to demonstrate the skills learned. The 2017
+Search and Rescue Weekend will be held July 8--9.
+
+> %list-group%
+> <a href="{{ site.url }}/pdf/2017/2017-sar-flier.pdf" class="list-group-item">2017 Search and Rescue Weekend Flier</a>
+
 ## Trail to Eagle Camp --- July 30--August 5, 2017
 
 The Trail to Eagle (T2E) Program is designed for the Scout who has set his goal on reaching the rank of Eagle Scout. It is a unique camping and advancement opportunity to work on Eagle required badges. Guidance on how to select, plan and complete your Eagle Service Project will be featured during the week. All Scouts are placed in a “Trail to Eagle” troop with an experienced staff member as the T2E Scoutmaster. The T2E Camp is open to all Scouts who have earned the First Class rank.

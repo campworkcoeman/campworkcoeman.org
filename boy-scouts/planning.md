@@ -8,9 +8,16 @@ keywords: pre-camp, planning, meetings
 
 ## Pre-Camp Leaders Meeting
 
-Two pre-camp planning meetings will be scheduled for late Spring (dates TBD). Each troop should send their camp Scoutmaster and Senior Patrol Leader to *one* of these meetings. All pre-camp planning information will be discussed related to
+Pre-camp planning meetings will be held Saturday, May 6^th and Saturday, May 20^th; both meetings will begin at 1:30 PM in the Dining Hall. Each troop should send their camp Scoutmaster and Senior Patrol Leader to *one* of these meetings. All pre-camp planning information will be discussed related to
 programs, medical form requirements, and the Sunday check-in process. All
 troops should be represented at one of these meetings.
+
+An additional pre-camp planning meeting will be held on Long Island:
+> %text-center%
+> Saturday, May 13^th at 10:00 AM<br/>
+> Notre Dame Parish Rectory<br/>
+> 45 Mayfair Road<br/>
+> New Hyde Park, NY 11040
 
 ### Medical Forms
 

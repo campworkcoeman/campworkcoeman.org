@@ -6,16 +6,7 @@ description: This page contains links to the council website to register to atte
 keywords: register, sign up, camp
 ---
 
-Below, you will find links to the council website to reserve a campsite for 2017 or to register for each camp program. Troops that have made campsite reservations are listed at the bottom of the page.
-
-## Campsite Reservation
-
-> %list-group%
-> <a href="http://www.ctrivers.org/Event.aspx?id=14855" class="list-group-item">Week 1 --- July 2--8, 2017</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=14858" class="list-group-item">Week 2 --- July 9--15, 2017</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=14868" class="list-group-item">Week 3 --- July 16--22, 2017</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=14867" class="list-group-item">Week 4 --- July 23--29, 2017</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=14865" class="list-group-item">Week 5 --- July 30--August 5, 2017</a>
+Below, you will find links to the council website to register to attend Camp Workcoeman in 2017. Troops that have made campsite reservations are listed at the bottom of the page.
 
 ## Boy Scout Summer Camp
 
@@ -28,18 +19,24 @@ Below, you will find links to the council website to reserve a campsite for 2017
 
 ## Specialty Programs
 
-> %text-center%
-> **Week #5**
-> July 30--August 5, 2017<br/>
-> Trail to Eagle Camp<br/>
-> Other Specialty Camps
+> %list-group%
+> <a href="{{ site.url }}/boy-scouts/specialty/" class="list-group-item">More information on specialty camps.</a>
 
-## 2017 Troop Registrations (as of December 16)
+> %list-group%
+> <a href="http://www.ctrivers.org/Event.aspx?id=13839" class="list-group-item">Search & Rescue Weekend--- July 8--9, 2017</a>
+> <a href="http://www.ctrivers.org/Event.aspx?id=15574" class="list-group-item">PADI Scuba Certification Week --- July 16--22, 2017</a>
+> <a href="http://www.ctrivers.org/Event.aspx?id=15575" class="list-group-item">PADI Scuba Certification Week --- July 30--August 5, 2017</a>
+> <a href="http://www.ctrivers.org/Event.aspx?id=15576" class="list-group-item">Trail to Eagle Camp --- July 30--August 5, 2017</a>
+> <a href="http://www.ctrivers.org/Event.aspx?id=13926" class="list-group-item">Shooting Sports Camp --- July 30--August 5, 2017</a>
+> <a href="http://www.ctrivers.org/Event.aspx?id=13927" class="list-group-item">Aquatics Camp --- July 30--August 5, 2017</a>
+
+## 2017 Troop Registrations (as of February 8)
 
 ### Week 1
 
 Troop   | Town
 --------|-----------------------
+6       | Bristol, CT
 29      | Bantam, CT
 31      | New Canaan, CT
 121     | Rocky Hill, CT
