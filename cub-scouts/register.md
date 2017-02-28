@@ -15,7 +15,7 @@ Below, you will find links to the council website to register for each camp prog
 
 > %list-group%
 > <a href="http://www.ctrivers.org/Event.aspx?id=15466" class="list-group-item">Webelos Resident Camp --- July 2--7, 2017</a>
-> <a href="{{ site.url }}/#" class="list-group-item">Cub Scout Mini Week --- July 2--4, 2017 (Coming Soon)</a>
+> <a href="http://www.ctrivers.org/Event.aspx?id=15610" class="list-group-item">Cub Scout Mini Week --- July 2--4, 2017</a>
 > <a href="http://www.ctrivers.org/Event.aspx?id=15517" class="list-group-item">Cub Scout Family Weekend --- July 8--9, 2017</a>
 > <a href="http://www.ctrivers.org/Event.aspx?id=15467" class="list-group-item">Cub Resident Camp --- August 6--11, 2017</a>
 > <a href="http://www.ctrivers.org/Event.aspx?id=15467" class="list-group-item">Webelos Resident Camp --- August 6--11, 2017</a>
