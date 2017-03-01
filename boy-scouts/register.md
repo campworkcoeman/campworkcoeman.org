@@ -93,6 +93,7 @@ Troop   | Town
 --------|-----------------------
 1       | Torrington, CT
 3       | Torrington, CT
+32      | Greenlawn, NY
 33      | Pleasant Valley, NY
 41      | Berlin, CT
 85      | Wethersfield, CT
