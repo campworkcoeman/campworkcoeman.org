@@ -3,7 +3,7 @@ published: true
 layout: short-term-facility
 title: Griffin Lodge
 capitalize: yes
-rentalURL: http://www.ctrivers.org/Camping/CampWorkcoeman/Rentals/Product?p=95
+rentalURL: https://www.ctrivers.org/rentals/periods?filter_by_location=3
 keywords: Griffin Lodge, cabin, rental
 ---
 

@@ -11,7 +11,7 @@ meeting areas. Click on the links below for a description for each short term
 facility.
 
 <div class="alert alert-info"><p>Visit the Connecticut Rivers Council site to
-<a href="http://www.ctrivers.org/Camping/CampWorkcoeman/Rentals/">reserve any
+<a href="https://www.ctrivers.org/rentals/periods?filter_by_location=3">reserve any
 Camp Workcoeman facility for your next outing</a>.</p></div>
 
 > %list-group%

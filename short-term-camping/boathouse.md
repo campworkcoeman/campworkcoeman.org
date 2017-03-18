@@ -3,7 +3,7 @@ published: true
 layout: short-term-facility
 title: Boathouse
 capitalize: no
-rentalURL: http://www.ctrivers.org/Camping/CampWorkcoeman/Rentals/Product?p=94
+rentalURL: https://www.ctrivers.org/rentals/periods?filter_by_location=3
 keywords: boathouse, cabin, rental
 ---
 

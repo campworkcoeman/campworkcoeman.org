@@ -11,11 +11,11 @@ Below, you will find links to the council website to register to attend Camp Wor
 ## Boy Scout Summer Camp
 
 > %list-group%
-> <a href="http://www.ctrivers.org/Event.aspx?id=14855" class="list-group-item">Week 1 --- July 2--8, 2017</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=14858" class="list-group-item">Week 2 --- July 9--15, 2017</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=14868" class="list-group-item">Week 3 --- July 16--22, 2017</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=14867" class="list-group-item">Week 4 --- July 23--29, 2017</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=14865" class="list-group-item">Week 5 --- July 30--August 5, 2017</a>
+> <a href="https://www.ctrivers.org/event/camp-workcoeman-session-1/4817" class="list-group-item">Week 1 --- July 2--8, 2017</a>
+> <a href="https://www.ctrivers.org/event/camp-workcoeman-session-2/4818" class="list-group-item">Week 2 --- July 9--15, 2017</a>
+> <a href="https://www.ctrivers.org/event/camp-workcoeman-session-3/4855" class="list-group-item">Week 3 --- July 16--22, 2017</a>
+> <a href="https://www.ctrivers.org/event/camp-workcoeman-session-4/4856" class="list-group-item">Week 4 --- July 23--29, 2017</a>
+> <a href="https://www.ctrivers.org/event/camp-workcoeman-session-5/4857" class="list-group-item">Week 5 --- July 30--August 5, 2017</a>
 
 ## Specialty Programs
 
@@ -23,12 +23,12 @@ Below, you will find links to the council website to register to attend Camp Wor
 > <a href="{{ site.url }}/boy-scouts/specialty/" class="list-group-item">More information on specialty camps.</a>
 
 > %list-group%
-> <a href="http://www.ctrivers.org/Event.aspx?id=13839" class="list-group-item">Search & Rescue Weekend--- July 8--9, 2017</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=15574" class="list-group-item">PADI Scuba Certification Week --- July 16--22, 2017</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=15575" class="list-group-item">PADI Scuba Certification Week --- July 30--August 5, 2017</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=15576" class="list-group-item">Trail to Eagle Camp --- July 30--August 5, 2017</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=13926" class="list-group-item">Shooting Sports Camp --- July 30--August 5, 2017</a>
-> <a href="http://www.ctrivers.org/Event.aspx?id=13927" class="list-group-item">Aquatics Camp --- July 30--August 5, 2017</a>
+> <a href="https://www.ctrivers.org/event/camp-workcoeman-specialty-camp-search-and-rescue-weekend/6463" class="list-group-item">Search & Rescue Weekend--- July 8--9, 2017</a>
+> <a href="https://www.ctrivers.org/event/camp-workcoeman-specialty-camp-padi-scub-certification/6460" class="list-group-item">PADI Scuba Certification Week --- July 16--22, 2017</a>
+> <a href="https://www.ctrivers.org/event/camp-workcoeman-specialty-camp-padi-scub-certification/6461" class="list-group-item">PADI Scuba Certification Week --- July 30--August 5, 2017</a>
+> <a href="https://www.ctrivers.org/event/trail-to-eagle-camp-workcoeman/4873" class="list-group-item">Trail to Eagle Camp --- July 30--August 5, 2017</a>
+> <a href="https://www.ctrivers.org/event/camp-workcoeman-specialty-camp-shooting-sports-camp/6462" class="list-group-item">Shooting Sports Camp --- July 30--August 5, 2017</a>
+> <a href="https://www.ctrivers.org/event/camp-workcoeman-specialty-week-aquatics-week/6459" class="list-group-item">Aquatics Camp --- July 30--August 5, 2017</a>
 
 ## 2017 Troop Registrations (as of February 8)
 

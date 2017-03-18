@@ -3,7 +3,7 @@ published: true
 layout: short-term-facility
 title: Scoutmasters&rsquo; Cabin
 capitalize: yes
-rentalURL: http://www.ctrivers.org/Camping/CampWorkcoeman/Rentals/Product?p=96
+rentalURL: https://www.ctrivers.org/rentals/periods?filter_by_location=3
 keywords: Scoutmasters' Cabin, cabin, rental
 ---
 

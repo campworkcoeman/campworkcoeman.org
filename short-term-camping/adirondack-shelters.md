@@ -3,7 +3,7 @@ published: true
 layout: short-term-facility
 title: Adirondack Shelters
 capitalize: no
-rentalURL: http://www.ctrivers.org/Camping/CampWorkcoeman/Rentals/Product?p=963
+rentalURL: https://www.ctrivers.org/rentals/periods?filter_by_location=3
 keywords: adirondack shelters, shelters, rental
 ---
 

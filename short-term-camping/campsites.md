@@ -3,7 +3,7 @@ published: true
 layout: short-term-facility
 title: Campsites
 capitalize: no
-rentalURL: http://www.ctrivers.org/Camping/CampWorkcoeman/Rentals/
+rentalURL: https://www.ctrivers.org/rentals/periods?filter_by_location=3
 keywords: campsites, rental
 ---
 

@@ -7,7 +7,7 @@ keywords: Cub Scout, resident camp
 ---
 
 <div class="alert alert-info">
-<a href="http://www.ctrivers.org/Event.aspx?id=15467">Click here</a> to visit the council website to sign your son up for Cub Scout Resident Camp at Camp Workcoeman. Sign up today!
+<a href="https://www.ctrivers.org/event/camp-workcoeman-cub-scout-resident-camp/4870">Click here</a> to visit the council website to sign your son up for Cub Scout Resident Camp at Camp Workcoeman. Sign up today!
 </div>
 
 ### August 6--11, 2017

@@ -7,7 +7,7 @@ keywords: Trail to Eagle, Eagle Scout
 ---
 
 <div class="alert alert-info">
-The 2017 Trail to Eagle Camp will be held from July 30&ndash;August 5.
+The 2017 Trail to Eagle Camp will be held from July 30&ndash;August 5. [Sign up today!]({{ site.url }}/boy-scouts/register/)
 </div>
 
 The Trail to Eagle (T2E) Program is designed for the Scout who has set his goal

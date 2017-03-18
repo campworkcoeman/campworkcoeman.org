@@ -3,7 +3,7 @@ published: true
 layout: short-term-facility
 title: Chapel Pavilion
 capitalize: no
-rentalURL: http://www.ctrivers.org/Camping/CampWorkcoeman/Rentals/Product?p=369
+rentalURL: https://www.ctrivers.org/rentals/periods?filter_by_location=3
 keywords: Chapel Pavilion, pavilion, rental
 ---
 
