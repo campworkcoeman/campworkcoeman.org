@@ -9,6 +9,6 @@ Workcoeman Dining Hall. Hors d'oeuvres will be served at 5:30, and the main
 meal begins at 6:00. All proceeds from the dinner and extensive selection of
 door prizes directly benefit camp improvement projects. Please register online
 and find further information on the
-[CT Rivers website](http://www.ctrivers.org/Camping/CampWorkcoeman/Events/CitizensofShawtownDinner).
+[CT Rivers website](http://web.archive.org/web/20140824230431/http://www.ctrivers.org/Camping/CampWorkcoeman/Events/CitizensofShawtownDinner).
 For more information, email Lou Seiser at
 [lseiser@campworkcoeman.org](mailto:lseiser@campworkcoeman.org).
