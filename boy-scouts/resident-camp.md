@@ -41,6 +41,7 @@ Register today!</a>
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2016/2016-schedule.pdf" class="list-group-item">Daily Program Schedule (2017 Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2017/2017-merit-badges.pdf" class="list-group-item">2017 Merit Badge Selections</a>
 > <a href="{{ site.url }}/pdf/2017/2017-boy-scout-brochure.pdf" class="list-group-item">2017 Resident Camp Preview Flier</a>
 
 ## Promotional Video
