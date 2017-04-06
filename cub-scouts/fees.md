@@ -40,7 +40,7 @@ Early Fee: $250
 Regular Fee: $300
 : For payments made after May 15, 2017 the fee is $300.
 
-If Packs have one adult attend camp each day for every eight Scouts it sends (or portion of [i.e. 1 adult for 8 Scouts, 2 adults for 10 Scouts]), each Scout in the Pack that attends camp will receive a $50 refund after camp.
+For Day Camp, if Packs have one adult attend camp each day for every eight Scouts it sends (or portion of [i.e. 1 adult for 8 Scouts, 2 adults for 10 Scouts]), each Scout in the Pack that attends camp will receive a $50 refund after camp.
 
 ### Camperships
 

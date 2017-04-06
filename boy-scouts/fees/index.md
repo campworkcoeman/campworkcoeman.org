@@ -76,7 +76,7 @@ programs.
 ### Payments
 
 **All** deposits and subsequent payments for camp **must** be made online
-through your MyCouncil page on the Connecticut Rivers Council web site.
+through the Connecticut Rivers Council web site.
 Payments may be in the form of an E-Check or credit card. There is no charge to
 the unit using this method of payment.
 

@@ -6,9 +6,9 @@ keywords: "Boy Scout, resident camp"
 ---
 
 <div class="alert alert-info">
-Campsite reservation for the 2017 camp season is now open.
-<a href="{{ site.url }}/2017/">
-Register today!</a>
+Registration for the 2017 camp season is now open.
+<a href="{{ site.url }}/boy-scouts/register/">
+Sign up today!</a>
 </div>
 
 > %text-center%
@@ -40,7 +40,8 @@ Register today!</a>
 
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2016/2016-schedule.pdf" class="list-group-item">Daily Program Schedule (2017 Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2017/2017-program-guide.pdf" class="list-group-item">2017 Program Guide</a>
+> <a href="{{ site.url }}/pdf/2017/2017-schedule.pdf" class="list-group-item">2017 Daily Program Schedule</a>
 > <a href="{{ site.url }}/pdf/2017/2017-merit-badges.pdf" class="list-group-item">2017 Merit Badge Selections</a>
 > <a href="{{ site.url }}/pdf/2017/2017-boy-scout-brochure.pdf" class="list-group-item">2017 Resident Camp Preview Flier</a>
 
