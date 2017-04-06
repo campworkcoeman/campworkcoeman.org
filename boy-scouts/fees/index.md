@@ -1,12 +1,12 @@
 ---
 published: true
 layout: generic
-title: 2017 Connecticut Rivers Council Camp Fees
-description: This page list the fees to attend week-long Resident Summer Camp in 2017 at Connecticut Rivers Council Scout Camps.
+title: 2017 CT Rivers Council Boy Scout Camp Fees
+description: This page list the fees to attend week-long Boy Scout Resident Summer Camp in 2017 at Connecticut Rivers Council Scout Camps.
 keywords: fees
 ---
 
-The fees to attend week-long Resident Summer Camp in 2017 are as follows. **There is no fee increase for 2017.**
+The fees to attend week-long Boy Scout Resident Summer Camp in 2017 are as follows. **There is no fee increase for 2017.**
 
 ### Scout Fees
 
@@ -64,7 +64,7 @@ The Connecticut Rivers Council is pleased to offer camperships to Scouts who are
 The deadline for the submissions is April 1^st.  Any Campership applications received after April 1^st (or incomplete campership applications not completed before April 1^st) will be put into a pool for consideration of any remaining funds.
 
 > %list-group%
-> <a href="{{ site.url }}/summer-camp/fees/camperships/" class="list-group-item">Apply for a Campership</a>
+> <a href="{{ site.url }}/boy-scouts/fees/camperships/" class="list-group-item">Apply for a Campership</a>
 
 ### Specialty Camp Programs
 

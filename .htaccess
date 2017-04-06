@@ -58,6 +58,10 @@ Redirect 301 /boy-scouts/forms/ /summer-camp/forms/
 Redirect 301 /boy-scouts/menus/ /summer-camp/menus/
 Redirect 301 /summer-camp/register/ /boy-scouts/register/
 
+# 2017-04-05 page moves
+Redirect 301 /summer-camp/fees/ /boy-scouts/fees/
+Redirect 301 /summer-camp/fees/camperships/ /boy-scouts/fees/camperships/
+
 # 2017 redirect
 Redirect 301 /2017/ /boy-scouts/register/
 Redirect 301 /2017 /boy-scouts/register/

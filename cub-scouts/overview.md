@@ -80,7 +80,8 @@ the opportunity to see what awaits them in the Boy Scout program.
 > <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2015/med-admin.pdf" class="list-group-item">Medication Order Form</a>
-> <a href="{{ site.url }}/summer-camp/fees/camperships/" class="list-group-item">Apply for a Campership</a>
+> <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">Cub Camp Fee Information</a>
+> <a href="{{ site.url }}/boy-scouts/fees/camperships/" class="list-group-item">Apply for a Campership</a>
 
 For more information, contact Director of Cub Scout Programs, Jeff Seiser at
 [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org).

@@ -16,7 +16,7 @@ keywords: forms, medical forms, camperships
 ## 2017 Campership Application
 
 > %list-group%
-> <a href="{{ site.url }}/summer-camp/fees/camperships/" class="list-group-item">Apply for a Campership</a>
+> <a href="{{ site.url }}/boy-scouts/fees/camperships/" class="list-group-item">Apply for a Campership</a>
 
 ## Other Forms
 

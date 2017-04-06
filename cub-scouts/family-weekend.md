@@ -7,7 +7,7 @@ keywords: Cub Scout, family, weekend
 ---
 
 <div class="alert alert-info">
-<a href="{{ site.url }}/#">Click here</a> to visit the council website to sign your family up for the Family Camping Weekend at Camp Workcoeman. Sign up today!
+<a href="{{ site.url }}/#">Click here</a> to visit the council website to sign your family up for the Family Camping Weekend at Camp Workcoeman. Sign up today! <a href="{{ site.url }}/cub-scouts/fees/">Click here</a> for camp fee information.
 </div>
 
 ### July 8--9, 2017

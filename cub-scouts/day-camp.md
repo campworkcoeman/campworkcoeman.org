@@ -7,7 +7,7 @@ keywords: Cub Scout, day camp
 ---
 
 <div class="alert alert-info">
-<a href="https://www.ctrivers.org/event/workcoeman-day-camp/6362">Click here</a> to visit the council website to sign your son up for Cub Scout Day Camp at Camp Workcoeman. Sign up today!
+<a href="https://www.ctrivers.org/event/workcoeman-day-camp/6362">Click here</a> to visit the council website to sign your son up for Cub Scout Day Camp at Camp Workcoeman. Sign up today! <a href="{{ site.url }}/cub-scouts/fees/">Click here</a> for camp fee information.
 </div>
 
 ### August 14--18, 2017
