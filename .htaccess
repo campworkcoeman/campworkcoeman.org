@@ -53,7 +53,6 @@ Redirect 301 /shorttermcamping/pavilion.html /short-term-camping/parade-ground-p
 Redirect 301 /shorttermcamping/chapel.html /short-term-camping/chapel/
 
 # 2015-01-05 page moves
-Redirect 301 /boy-scouts/fees/ /summer-camp/fees/
 Redirect 301 /boy-scouts/forms/ /summer-camp/forms/
 Redirect 301 /boy-scouts/menus/ /summer-camp/menus/
 Redirect 301 /summer-camp/register/ /boy-scouts/register/
