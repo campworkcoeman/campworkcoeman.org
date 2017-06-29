@@ -6,6 +6,9 @@ description: This page list the fees to attend Cub Scout Summer Camp programs in
 keywords: fees
 ---
 
+> %list-group%
+> <a href="{{ site.url }}/cub-scouts/register/" class="list-group-item">Register for Cub Scout Camp</a>
+
 The fees to attend Cub Scout Summer Camp programs in 2017 are as follows.
 
 ### Full Week (Including Webelos Week)
