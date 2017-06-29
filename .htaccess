@@ -69,6 +69,10 @@ Redirect 301 /cubcamp2017 /cub-scouts/register/
 Redirect 301 /CubCamp2017/ /cub-scouts/register/
 Redirect 301 /CubCamp2017 /cub-scouts/register/
 
+#2018 redirect
+Redirect 301 /CubCamp2018/ /cubcamp2018/
+Redirect 301 /CubCamp2018 /cubcamp2018/
+
 # Block SEMalt botnet and other referral spam
 SetEnvIfNoCase Referer fbdownloader.com spammer=yes
 SetEnvIfNoCase Referer descargar-musicas-gratis.com spammer=yes
