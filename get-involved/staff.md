@@ -6,6 +6,9 @@ description: Opportunities to serve Scouting as a member of the Summer Camp staf
 keywords: staff, counselor In training, CIT
 ---
 
+> %list-group%
+> <a href="https://docs.google.com/forms/d/e/1FAIpQLSerjMi4JNkrFxehHkcpK-zhEo_JLYUJcYmGYRypH9JJnU4zsg/viewform" class="list-group-item">2018 Staff/CIT Interest Form</a>
+
 ## Camp Staff
 
 Opportunities to serve Scouting as a member of the Summer Camp staff at Camp
