@@ -15,6 +15,6 @@ Archery, Basketry, Camping, Canoeing, Climbing, Fishing, Forestry, Leatherwork, 
 
 Please email with requests for different merit badges as staff or materials may not be available. Questions should be directed to Program Director, Tom Leisten at [tleisten@campworkcoeman.org](mailto:tleisten@campworkcoeman.org).
 
-Registration for Merit Badge Completion Day can be completed [here]().
+Registration for Merit Badge Completion Day can be completed [here](https://docs.google.com/forms/d/e/1FAIpQLScYF_1uPup-YJDEi0AMina6bW9zmF_IrzJlAasseptQMAx_6Q/viewform).
 
 Fee for the day is $15 and includes lunch. The fee will be collected upon check-in Friday. No new merit badges may be started.
