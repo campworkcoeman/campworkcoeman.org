@@ -14,7 +14,7 @@ Early Fee: $415
 : A $50 deposit per **named** Scout camper is due no later than **Wednesday March 7, 2018**.
   If paid in full by **May 15, 2018, the fee will be $415**; payments received
   after **May 15, 2018** will be charged a **late fee of $50**, making the total fee
-  $465.
+  **$465**.
 
 Regular Fee: $440
 : A $50 deposit per **named** Scout added to your camp roster after
