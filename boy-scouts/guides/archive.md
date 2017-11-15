@@ -5,6 +5,10 @@ title: Past Program Guides
 keywords: program guides, guides, archive
 ---
 
+## 2017
+> %list-group%
+> <a href="{{ site.url }}/pdf/2017/2017-program-guide.pdf" class="list-group-item">2017 Program Guide</a>
+
 ## 2016
 > %list-group%
 > <a href="{{ site.url }}/pdf/2016/2016-program-guide.pdf" class="list-group-item">Program Guide</a>
