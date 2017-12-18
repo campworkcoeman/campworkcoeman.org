@@ -6,6 +6,9 @@ description: This page lists Cub Camp dates for the 2018 Camp Workcoeman season.
 keywords: "Cub Scout, camp, 2018"
 ---
 
+> %list-group%
+> <a href="{{ site.url }}/pdf/2018/2018-cub-scout-flier.pdf" class="list-group-item">2018 Cub Camping Preview Flier</a>
+
 > %text-center%
 > **Webelos Resident Camp**</br>
 > July 1--6, 2018

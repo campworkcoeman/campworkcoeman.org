@@ -7,27 +7,26 @@ keywords: staff, counselor In training, CIT
 ---
 
 > %list-group%
-> <a href="https://docs.google.com/forms/d/e/1FAIpQLSerjMi4JNkrFxehHkcpK-zhEo_JLYUJcYmGYRypH9JJnU4zsg/viewform" class="list-group-item">2018 Staff/CIT Interest Form</a>
+> <a href="https://docs.google.com/forms/d/e/1FAIpQLSerjMi4JNkrFxehHkcpK-zhEo_JLYUJcYmGYRypH9JJnU4zsg/viewform" class="list-group-item">2018 CIT Interest Form</a>
 
 ## Camp Staff
 
-Opportunities to serve Scouting as a member of the Summer Camp staff at Camp
-Workcoeman are available to outstanding applicants. Competition for employment
+Opportunities to serve Scouting as a member of the Connecticut Rivers Council Summer Camp staff at Camp
+Workcoeman are available to outstanding applicants who are members of the Boy Scouts of America. Competition for employment
 is rigorous; the jobs demanding; the experience exhilarating.
 
 The camp is dedicated to supporting each unit's outdoor and advancement program
 while giving each boy an enriching long term camping experience.
 
 Applicants are considered for positions without regard to race, color,
-religion, sex, national origin, age (if over 18), marital status, veteran
-status, or the presence of a health problem or handicap that is unrelated to
-your ability to perform the job requested.
+religion, sex, sexual orientation, genetic information, gender identity or expression, national origin, age, marital status, veteran
+status, or the presence of a disability or any category protected by applicable law.
 
 * The minimum age accepted is 15; however, it is strongly recommended that
   those who seek a camp staff position should have previously participated in
   the Counselors in Training (CIT) Program. Boy Scouts of America standards
   require ages 18 and 21 minimum for some positions.
-* Applicants must be registered members of the Boy Scouts of America.
+* All staff, as a condition of employment, are required to be registered members of the Boy Scouts of America.
 * The principles of the Scout Oath and Law must be practiced as a way of life.
 * The staff is expected to set an example of excellence in Scouting, which
   includes the proper wearing of the Scout uniform.
@@ -39,7 +38,7 @@ recommended that you submit your application early. Applicants will be notified
 of the interview schedule by the Camp Director.
 
 > %list-group%
-> <a href="{{ site.url }}/#" class="list-group-item">2018 Online Staff Application (Coming Soon)</a>
+> <a href="https://goo.gl/forms/JOHUTPtXHSg11AK82" class="list-group-item">2018 Online Staff Application</a>
 
 If you are interested in working at camp this summer, please contact Camp
 Director Lou Seiser at [lseiser@campworkcoeman.org](mailto:lseiser@campworkcoeman.org).

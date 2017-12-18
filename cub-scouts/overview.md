@@ -74,7 +74,7 @@ the opportunity to see what awaits them in the Boy Scout program.
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2017/2017-cub-scout-brochure.pdf" class="list-group-item">2017 Cub Camping Preview Flier</a>
+> <a href="{{ site.url }}/pdf/2018/2018-cub-scout-flier.pdf" class="list-group-item">2018 Cub Camping Preview Flier</a>
 > <a href="{{ site.url }}/pdf/2017/2017-cub-overview.pdf" class="list-group-item">2017 Cub Camping Overview Flier</a>
 > <a href="{{ site.url }}/pdf/2017/2017-cub-leader-guide.pdf" class="list-group-item">2017 Cub Scout Leader Guide</a>
 > <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item">Medical Form</a>

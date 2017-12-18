@@ -40,3 +40,4 @@ Leisten at [tleisten@campworkcoeman.org](mailto:tleisten@campworkcoeman.org).
 
 > %list-group%
 > <a href="{{ site.url }}/#" class="list-group-item">2018 Trail to Eagle Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2018/2018-encore-week.pdf" class="list-group-item">$100 Encore Week Discount</a>

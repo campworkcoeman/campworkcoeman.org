@@ -6,6 +6,9 @@ description: This page list the fees to attend week-long Boy Scout Resident Summ
 keywords: fees
 ---
 
+> %list-group%
+> <a href="{{ site.url }}/pdf/2018/2018-encore-week.pdf" class="list-group-item">$100 Encore Week Discount</a>
+
 The fees to attend week-long Boy Scout Resident Summer Camp in 2018 are as follows.
 
 ### Scout Fees

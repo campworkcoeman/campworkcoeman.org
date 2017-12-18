@@ -7,7 +7,8 @@ keywords: "Boy Scout, resident camp, 2018, registration, reservation"
 ---
 
 > %list-group%
-> <a href="https://docs.google.com/forms/d/e/1FAIpQLSerjMi4JNkrFxehHkcpK-zhEo_JLYUJcYmGYRypH9JJnU4zsg/viewform" class="list-group-item">2018 Staff/CIT Interest Form</a>
+> <a href="https://goo.gl/forms/JOHUTPtXHSg11AK82" class="list-group-item">2018 Staff Application</a>
+> <a href="https://docs.google.com/forms/d/e/1FAIpQLSerjMi4JNkrFxehHkcpK-zhEo_JLYUJcYmGYRypH9JJnU4zsg/viewform" class="list-group-item">2018 CIT Interest Form</a>
 
 Below, you will find links to the council website to reserve a campsite for the 2018 Camp Workcoeman season.
 
@@ -21,6 +22,10 @@ Below, you will find links to the council website to reserve a campsite for the 
 > <a href="https://ctrivers.org/event/2018-camp-workcoeman-week-5-registration-july-29-august-4-2018/7380" class="list-group-item">Week 5 --- July 29--August 4, 2018</a>
 
 ## Boy Scout Specialty Camps
+
+> %list-group%
+> <a href="{{ site.url }}/pdf/2018/2018-encore-week.pdf" class="list-group-item">$100 Encore Week Discount</a>
+
 > %text-center%
 > **Week #5**
 > July 29--August 4, 2018<br/>
