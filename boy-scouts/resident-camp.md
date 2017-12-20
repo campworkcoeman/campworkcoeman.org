@@ -14,28 +14,28 @@ Reserve one today!</a>
 > %text-center%
 >> %row%
 >>> %col-xs-6%
->>> **Week #1**
+>>> **Week #1**<br/>
 >>> July 1--7, 2018
 >>
 >>> %col-xs-6%
->>> **Week #2**
+>>> **Week #2**<br/>
 >>> July 8--14, 2018
 >
 >> %row%
 >>> %col-xs-6%
->>> **Week #3**
->>> July 15--21, 2018
+>>> **Week #3**<br/>
+>>> July 15--21, 2018<br/>
 >>> **[Handyman Week]({{ site.url }}/boy-scouts/specialty/)**<br/>
 >>> **[Conservation Week]({{ site.url }}/boy-scouts/specialty/)**<br/>
 >>> **[PADI Scuba Camp]({{ site.url }}/boy-scouts/specialty/)**
 >>
 >>> %col-xs-6%
->>> **Week #4**
+>>> **Week #4**<br/>
 >>> July 22--28, 2018
 >
 >> %row%
 >>> %col-xs-6%
->>> **Week #5**
+>>> **Week #5**<br/>
 >>> July 29--August 4, 2018<br/>
 >>> **[Trail to Eagle Camp]({{ site.url }}/boy-scouts/trail-to-eagle/)**<br/>
 >>> **[Shooting Sports Camp]({{ site.url }}/boy-scouts/specialty/)**<br/>
