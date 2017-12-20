@@ -27,7 +27,7 @@ Reserve one today!</a>
 >>> July 15--21, 2018
 >>> **[Handyman Week]({{ site.url }}/boy-scouts/specialty/)**<br/>
 >>> **[Conservation Week]({{ site.url }}/boy-scouts/specialty/)**<br/>
->>> **[PADI Scuba Camp]({{ site.url }}/boy-scouts/specialty/)**<br/>
+>>> **[PADI Scuba Camp]({{ site.url }}/boy-scouts/specialty/)**
 >>
 >>> %col-xs-6%
 >>> **Week #4**
