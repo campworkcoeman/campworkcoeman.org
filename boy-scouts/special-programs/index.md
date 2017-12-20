@@ -31,11 +31,11 @@ information, see the flier below.
 This overnight program is designed to introduce Scouts the various skills
 required in Search and Rescue. A series of stations will teach the skills
 required to complete the merit badge. The program will culminate with a search
-and rescue drill allowing Scouts to demonstrate the skills learned. The 2017
-Search and Rescue Weekend will be held July 8--9.
+and rescue drill allowing Scouts to demonstrate the skills learned. The 2018
+Search and Rescue Weekend will be held July 7--8.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2017/2017-sar-flier.pdf" class="list-group-item">2017 Search and Rescue Weekend Flier</a>
+> <a href="{{ site.url }}/#" class="list-group-item">2018 Search and Rescue Weekend Flier (Coming Soon)</a>
 
 ## Shawtown Wilderness Trek
 

@@ -8,7 +8,7 @@ keywords: "Boy Scout, resident camp, 2018, registration, reservation"
 
 > %list-group%
 > <a href="https://goo.gl/forms/JOHUTPtXHSg11AK82" class="list-group-item">2018 Staff Application</a>
-> <a href="https://docs.google.com/forms/d/e/1FAIpQLSerjMi4JNkrFxehHkcpK-zhEo_JLYUJcYmGYRypH9JJnU4zsg/viewform" class="list-group-item">2018 CIT Interest Form</a>
+> <a href="https://goo.gl/forms/ojJAUZwGMrqhBqkA3" class="list-group-item">2018 CIT Application</a>
 
 Below, you will find links to the council website to reserve a campsite for the 2018 Camp Workcoeman season.
 
@@ -27,7 +27,13 @@ Below, you will find links to the council website to reserve a campsite for the 
 > <a href="{{ site.url }}/pdf/2018/2018-encore-week.pdf" class="list-group-item">$100 Encore Week Discount</a>
 
 > %text-center%
-> **Week #5**
-> July 29--August 4, 2018<br/>
+> **Week #3**<br/>
+> July 15--20, 2018<br/>
+> Handyman Week<br/>
+> Conservation Week<br/>
+> PADI Scuba Camp<br/>
+> **Week #5**<br/>
+> July 29--August 3, 2018<br/>
 > Trail to Eagle Camp<br/>
-> Other Specialty Camps
+> Shooting Sports Camp<br/>
+> PADI Scuba Camp

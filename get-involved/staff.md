@@ -6,9 +6,6 @@ description: Opportunities to serve Scouting as a member of the Summer Camp staf
 keywords: staff, counselor In training, CIT
 ---
 
-> %list-group%
-> <a href="https://docs.google.com/forms/d/e/1FAIpQLSerjMi4JNkrFxehHkcpK-zhEo_JLYUJcYmGYRypH9JJnU4zsg/viewform" class="list-group-item">2018 CIT Interest Form</a>
-
 ## Camp Staff
 
 Opportunities to serve Scouting as a member of the Connecticut Rivers Council Summer Camp staff at Camp
@@ -67,7 +64,7 @@ guarantee a position. Please understand that participation in the CIT program
 in no way guarantees employment.
 
 > %list-group%
-> <a href="{{ site.url }}/#" class="list-group-item">2018 Online CIT Application (Coming Soon)</a>
+> <a href="https://goo.gl/forms/ojJAUZwGMrqhBqkA3" class="list-group-item">2018 Online CIT Application</a>
 
 If you are interested in being a CIT, please contact Camp Director Lou Seiser
 at [lseiser@campworkcoeman.org](mailto:lseiser@campworkcoeman.org).
