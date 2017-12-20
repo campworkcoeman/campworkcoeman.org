@@ -31,7 +31,7 @@ Below, you will find links to the council website to reserve a campsite for the 
 > Handyman Week<br/>
 > Conservation Week<br/>
 > PADI Scuba Camp<br/>
-> <br/>
+> 
 > **Week #5** --- July 29--August 3, 2018<br/>
 > Trail to Eagle Camp<br/>
 > Shooting Sports Camp<br/>
