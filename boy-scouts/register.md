@@ -27,13 +27,12 @@ Below, you will find links to the council website to reserve a campsite for the 
 > <a href="{{ site.url }}/pdf/2018/2018-encore-week.pdf" class="list-group-item">$100 Encore Week Discount</a>
 
 > %text-center%
-> **Week #3**<br/>
-> July 15--20, 2018<br/>
+> **Week #3** --- July 15--20, 2018<br/>
 > Handyman Week<br/>
 > Conservation Week<br/>
 > PADI Scuba Camp<br/>
-> **Week #5**<br/>
-> July 29--August 3, 2018<br/>
+> <br/>
+> **Week #5** --- July 29--August 3, 2018<br/>
 > Trail to Eagle Camp<br/>
 > Shooting Sports Camp<br/>
 > PADI Scuba Camp
