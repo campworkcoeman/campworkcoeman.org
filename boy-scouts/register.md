@@ -27,7 +27,7 @@ Below, you will find links to the council website to reserve a campsite for the 
 > <a href="{{ site.url }}/pdf/2018/2018-encore-week.pdf" class="list-group-item">$100 Encore Week Discount</a>
 
 > %list-group%
-> <a href="{{ site.url }}/#" class="list-group-item">Search and Rescue Weekend --- July 7--8, 2018 (Coming Soon)</a>
+> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-search-and-rescue-merit-badge-weekend/8292" class="list-group-item">Search and Rescue Weekend --- July 7--8, 2018</a>
 > <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-handyman-specialty-week/8293" class="list-group-item">Handyman Week --- July 15--20, 2018</a>
 > <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-conservation-specialty-week/8294" class="list-group-item">Conservation Week --- July 15--20, 2018</a>
 > <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-padi-scuba-instruction-specialty-week-session-1/8260" class="list-group-item">PADI Scuba Camp --- July 15--20, 2018</a>
