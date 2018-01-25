@@ -15,6 +15,7 @@ facility.
 Camp Workcoeman facility for your next outing</a>.</p></div>
 
 > %list-group%
+> <a href="{{ site.url }}/pdf/2018/facility-usage-policy.pdf" class="list-group-item">Camp Property Usage Guidelines for Short Term Camping</a>
 > <a href="{{ site.url }}/pdf/2014/weekendcamping.pdf" class="list-group-item">Weekend Camping Guide</a>
 
 ### Camping Facilities

@@ -1,8 +1,8 @@
 ---
 published: true
 layout: fees
-title: 2017 Camperships
-description: This page lists information and links for applying for 2017 camperships at Connecticut Rivers Council Scout Camps.
+title: 2018 Camperships
+description: This page lists information and links for applying for 2018 camperships at Connecticut Rivers Council Scout Camps.
 keywords: fees, camperships
 ---
 
@@ -13,9 +13,9 @@ The Connecticut Rivers Council is pleased to offer camperships to Scouts who are
 The deadline for the submissions is April 1^st.  Any Campership applications received after April 1^st (or incomplete campership applications not completed before April 1^st) will be put into a pool for consideration of any remaining funds.
 
 > %list-group%
-> <a href="https://goo.gl/forms/tNbzS2TNS6cvOnT42" class="list-group-item">Apply for a 2017 Boy Scout Resident Camp Campership</a>
-> <a href="https://goo.gl/forms/YmO9To6fytX135oX2" class="list-group-item">Apply for a 2017 Cub Scout or Webelos Resident Camp Campership</a>
-> <a href="https://goo.gl/forms/KnwSVQNKZSeemIfW2" class="list-group-item">Apply for a 2017 Cub Scout Day Camp Campership</a>
+> <a href="https://goo.gl/forms/tNbzS2TNS6cvOnT42" class="list-group-item">Apply for a 2018 Boy Scout Resident Camp Campership</a>
+> <a href="https://goo.gl/forms/YmO9To6fytX135oX2" class="list-group-item">Apply for a 2018 Cub Scout or Webelos Resident Camp Campership</a>
+> <a href="https://goo.gl/forms/KnwSVQNKZSeemIfW2" class="list-group-item">Apply for a 2018 Cub Scout Day Camp Campership</a>
 
 
 ### More information
