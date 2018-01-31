@@ -6,9 +6,9 @@ keywords: "Boy Scout, resident camp"
 ---
 
 <div class="alert alert-info">
-Campsite reservations for the 2018 camp season are now open.
+Registration for the 2018 camp season is now open.
 <a href="{{ site.url }}/boy-scouts/register/">
-Reserve one today!</a>
+Sign up today!</a>
 </div>
 
 > %text-center%
@@ -44,7 +44,7 @@ Reserve one today!</a>
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2018/2018-program-guide.pdf" class="list-group-item">2018 Program Guide</a>
-> <a href="{{ site.url }}/#" class="list-group-item">2018 Daily Program Schedule (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2018/2018-schedule.pdf" class="list-group-item">2018 Daily Program Schedule</a>
 > <a href="{{ site.url }}/pdf/2018/2018-merit-badges.pdf" class="list-group-item">2018 Merit Badge Selections</a>
 > <a href="{{ site.url }}/pdf/2018/2018-boy-scout-flier.pdf" class="list-group-item">2018 Resident Camp Preview Flier</a>
 

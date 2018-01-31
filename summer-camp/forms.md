@@ -13,7 +13,7 @@ keywords: forms, medical forms, camperships
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2015/med-admin.pdf" class="list-group-item">Medication Order Form</a>
 
-## 2017 Campership Application
+## 2018 Campership Application
 
 > %list-group%
 > <a href="{{ site.url }}/boy-scouts/fees/camperships/" class="list-group-item">Apply for a Campership</a>
@@ -26,5 +26,5 @@ keywords: forms, medical forms, camperships
 > <a href="{{ site.url }}/pdf/2014/off_camp_permission.pdf" class="list-group-item">Off Camp Permission Form</a>
 > <a href="{{ site.url }}/pdf/2014/2012_scouterresourceform.pdf" class="list-group-item">Scouter Resource Form</a>
 > <a href="{{ site.url }}/pdf/2014/camper_release.pdf" class="list-group-item">Camper Release Form</a>
-> <a href="{{ site.url }}/pdf/2017/2017-pistol-pilot-program-release-agreement.pdf" class="list-group-item">2017 Pistol Program Release Agreement</a>
+> <a href="{{ site.url }}/pdf/2017/2017-pistol-pilot-program-release-agreement.pdf" class="list-group-item">Pistol Program Release Agreement</a>
 > <a href="{{ site.url }}/pdf/2014/2014_T2E-SMendorsement.pdf" class="list-group-item">Trail to Eagle Scoutmaster Endorsement Form</a>
