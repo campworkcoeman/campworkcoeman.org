@@ -1,34 +1,34 @@
 ---
 published: true
 layout: generic
-title: 2017 CT Rivers Council Cub Camp Fees
-description: This page list the fees to attend Cub Scout Summer Camp programs in 2017 at Connecticut Rivers Council Scout Camps.
+title: 2018 CT Rivers Council Cub Camp Fees
+description: This page list the fees to attend Cub Scout Summer Camp programs in 2018 at Connecticut Rivers Council Scout Camps.
 keywords: fees
 ---
 
 > %list-group%
 > <a href="{{ site.url }}/cub-scouts/register/" class="list-group-item">Register for Cub Scout Camp</a>
 
-The fees to attend Cub Scout Summer Camp programs in 2017 are as follows.
+The fees to attend Cub Scout Summer Camp programs in 2018 are as follows.
 
 ### Full Week (Including Webelos Week)
 
-Early Fee: $405
-: If paid in full by May 15, 2017, the fee will be $405.
+Early Fee: $415
+: If paid in full by May 15, 2018, the fee will be $415.
 
-Regular Fee: $450
-: If paid in full between May 16, 2017 and June 15, 2017, the fee will be $450.
+Regular Fee: $460
+: If paid in full between May 16, 2018 and June 15, 2018, the fee will be $460.
 
-Late Fee: $480
-: For payments made after June 15, 2017 the fee is $480.
+Late Fee: $490
+: For payments made after June 15, 2018 the fee is $490.
 
 ### Mini Week
 
-Early Fee: $205
-: If paid in full by May 15, 2017, the fee will be $205.
+Early Fee: $215
+: If paid in full by May 15, 2018, the fee will be $215.
 
-Regular Fee: $230
-: For payments made after May 15, 2017 the fee is $230.
+Regular Fee: $240
+: For payments made after May 15, 2018 the fee is $240.
 
 ### Family Camping Weekend
 
@@ -38,10 +38,10 @@ Camp Fee: $45
 ### Day Camp
 
 Early Fee: $250
-: If paid in full by May 15, 2017, the fee will be $250.
+: If paid in full by May 15, 2018, the fee will be $250.
 
 Regular Fee: $300
-: For payments made after May 15, 2017 the fee is $300.
+: For payments made after May 15, 2018 the fee is $300.
 
 For Day Camp, if Packs have one adult attend camp each day for every eight Scouts it sends (or portion of [i.e. 1 adult for 8 Scouts, 2 adults for 10 Scouts]), each Scout in the Pack that attends camp will receive a $50 refund after camp.
 
@@ -62,7 +62,7 @@ The deadline for the submissions is April 1^st.  Any Campership applications rec
 through the Connecticut Rivers Council web site.
 Payments may be in the form of an E-Check or credit card.
 
-### 2017 Connecticut Rivers Council Summer Camp Refund Policy
+### 2018 Connecticut Rivers Council Summer Camp Refund Policy
 
 The Connecticut Rivers Council must commit financial resources to purchase
 equipment, hire staff, and otherwise prepare to provide the high quality
