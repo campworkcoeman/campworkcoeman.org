@@ -16,8 +16,8 @@ Below, you will find links to the council website to register for each camp prog
 
 > %list-group%
 > <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-webelos-only-week/8284" class="list-group-item">Webelos Resident Camp --- July 1--6, 2018</a>
-> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-cub-scout-mini-week-session-1/8526" class="list-group-item">Cub Scout Mini Week --- July 1--3, 2018</a>
-> <a href="https://www.ctrivers.org/" class="list-group-item">Cub Scout Family Weekend --- July 7--8, 2018 (Coming Soon)</a>
+> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-cub-scout-mini-week-session-1/8526" class="list-group-item">Cub Scout Mini Week --- July 1--4, 2018</a>
+> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-cub-scout-family-camp/8576" class="list-group-item">Cub Scout Family Weekend --- July 7--8, 2018</a>
 > <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-cub-scout-resident-camp/8302" class="list-group-item">Cub/Webelos Resident Camp --- August 5--10, 2018</a>
-> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-cub-scout-mini-week-session-2/8527" class="list-group-item">Cub Scout Mini Week --- August 5--7, 2018</a>
+> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-cub-scout-mini-week-session-2/8527" class="list-group-item">Cub Scout Mini Week --- August 5--8, 2018</a>
 > <a href="https://www.ctrivers.org/event/workcoeman-day-camp/8289" class="list-group-item">Cub Scout Day Camp --- August 13--17, 2018</a>

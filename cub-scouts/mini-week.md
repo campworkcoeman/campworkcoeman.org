@@ -10,7 +10,7 @@ keywords: Cub Scout, mini week
 <a href="{{ site.url }}/cub-scouts/register/">Click here</a> to sign your son up for a Cub Scout Mini Week at Camp Workcoeman. Sign up today! <a href="{{ site.url }}/cub-scouts/fees/">Click here</a> for camp fee information.
 </div>
 
-### July 1--3 and August 5--7, 2018
+### July 1--4 and August 5--8, 2018
 
 Cub Experience Camp is a 3 day, 2 night mini camp that is great for all Cub
 Scouts who are looking to try a resident camp with their adult partner. This

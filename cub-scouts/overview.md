@@ -39,7 +39,7 @@ activities they would like to do.
 
 ## Cub Scout Mini Week
 
-#### July 1--3 and August 5--7, 2018
+#### July 1--4 and August 5--8, 2018
 
 This is a shorter overnight experience for Cubs and their adult partners. Cub
 Scouts will get a taste of those great summer camp programs. This opportunity

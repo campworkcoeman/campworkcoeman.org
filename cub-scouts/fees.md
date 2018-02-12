@@ -16,8 +16,8 @@ The fees to attend Cub Scout Summer Camp programs in 2018 are as follows.
 Early Fee: $415
 : If paid in full by May 15, 2018, the fee will be $415.
 
-Regular Fee: $460
-: If paid in full between May 16, 2018 and June 15, 2018, the fee will be $460.
+Regular Fee: $440
+: If paid in full between May 16, 2018 and June 15, 2018, the fee will be $440.
 
 Late Fee: $490
 : For payments made after June 15, 2018 the fee is $490.
