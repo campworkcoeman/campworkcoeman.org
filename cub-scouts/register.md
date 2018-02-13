@@ -10,6 +10,7 @@ Below, you will find links to the council website to register for each camp prog
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2018/2018-cub-scout-flier.pdf" class="list-group-item">2018 Cub Camp Preview Flier</a>
+> <a href="{{ site.url }}/pdf/2018/2018-cub-mailer.pdf" class="list-group-item">2018 CT Rivers Council Cub Camping Overview</a>
 > <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">2018 Cub Camp Fee Information</a>
 
 ## Cub Scout Programs

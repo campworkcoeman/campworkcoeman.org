@@ -11,6 +11,8 @@ Cub Scouts to have fun and adventure! Below are the various programs that are
 scheduled throughout the summer.
 
 > %list-group%
+> <a href="{{ site.url }}/pdf/2018/2018-cub-scout-flier.pdf" class="list-group-item">2018 Cub Camping Preview Flier</a>
+> <a href="{{ site.url }}/pdf/2018/2018-cub-mailer.pdf" class="list-group-item">2018 CT Rivers Council Cub Camping Overview</a>
 > <a href="{{ site.url }}/pdf/2017/2017-cub-leader-guide.pdf" class="list-group-item">2018 Cub Scout Leader Guide (Coming Soon)</a>
 
 ## Cub Scout Day Camp
@@ -75,6 +77,7 @@ the opportunity to see what awaits them in the Boy Scout program.
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2018/2018-cub-scout-flier.pdf" class="list-group-item">2018 Cub Camping Preview Flier</a>
+> <a href="{{ site.url }}/pdf/2018/2018-cub-mailer.pdf" class="list-group-item">2018 CT Rivers Council Cub Camping Overview</a>
 > <a href="{{ site.url }}/pdf/2017/2017-cub-overview.pdf" class="list-group-item">2018 Cub Camping Overview Flier (Coming Soon)</a>
 > <a href="{{ site.url }}/pdf/2017/2017-cub-leader-guide.pdf" class="list-group-item">2018 Cub Scout Leader Guide (Coming Soon)</a>
 > <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item">Medical Form</a>
