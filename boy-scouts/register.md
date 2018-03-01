@@ -1,10 +1,14 @@
 ---
 published: true
 layout: generic
-title: 2018 Boy Scout Campsite Reservation
-description: This page contains links to the council website to reserve campsites for the 2018 Camp Workcoeman season.
+title: 2018 Boy Scout Camp Registration
+description: This page contains links to the council website to register for the 2018 Camp Workcoeman season.
 keywords: "Boy Scout, resident camp, 2018, registration, reservation"
 ---
+
+<div class="alert alert-info">
+Having trouble registering? Visit the <a href="https://www.ctrivers.org/registration-help">registration help page</a> on the Council website for a step-by-step guide.
+</div>
 
 > %list-group%
 > <a href="https://goo.gl/forms/JOHUTPtXHSg11AK82" class="list-group-item">2018 Staff Application</a>
