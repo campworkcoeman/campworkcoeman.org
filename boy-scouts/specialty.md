@@ -73,5 +73,5 @@ This is not a typical week of camp. It is a special week where Scouts will conce
 Scouts spend an entire week at camp devoted to becoming PADI certified scuba divers. Scouts who complete all requirements throughout the week will also earn the Scuba Diving Merit Badge. There is no age requirement; however Scouts under the age of 16 are only eligible to earn a PADI Junior Diver certification. Scouts who are already certified divers can expand their diving experience by earning additional certifications such as: Digital Underwater Photographer, Underwater Naturalist, and Advanced Open Water Diver.
 
 > %list-group%
-> <a href="{{ site.url }}/#" class="list-group-item">2018 Scuba Programs Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2018/2018-scuba-flier.pdf" class="list-group-item">2018 Scuba Programs Flier</a>
 > <a href="{{ site.url }}/boy-scouts/special-programs/scuba/" class="list-group-item">More Information</a>
