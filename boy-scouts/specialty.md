@@ -7,7 +7,7 @@ keywords: Trail to Eagle, Eagle Scout
 ---
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/#" class="list-group-item">2018 Specialty Camps Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2018/2018-specialty-flier.pdf" class="list-group-item">2018 Specialty Camps Flier</a>
 > <a href="{{ site.url }}/boy-scouts/register/" class="list-group-item">Click here to register for Specialty Camps</a>
 > <a href="{{ site.url }}/pdf/2018/2018-encore-week.pdf" class="list-group-item">$100 Encore Week Discount</a>
 
