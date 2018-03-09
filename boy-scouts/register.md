@@ -32,9 +32,9 @@ Below, you will find links to the council website to reserve a campsite for the 
 
 > %list-group%
 > <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-search-and-rescue-merit-badge-weekend/8292" class="list-group-item">Search and Rescue Weekend --- July 7--8, 2018</a>
-> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-handyman-specialty-week/8293" class="list-group-item">Handyman Week --- July 15--20, 2018</a>
-> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-conservation-specialty-week/8294" class="list-group-item">Conservation Week --- July 15--20, 2018</a>
-> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-padi-scuba-instruction-specialty-week-session-1/8260" class="list-group-item">PADI Scuba Camp --- July 15--20, 2018</a>
-> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-trail-2-eagle-specialty-week/8261" class="list-group-item">Trail to Eagle Camp --- July 29--August 3, 2018</a>
-> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-shooting-sports-specialty-camp/8257" class="list-group-item">Shooting Sports Camp --- July 29--August 3, 2018</a>
-> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-padi-scuba-instruction-specialty-week-session-2/8259" class="list-group-item">PADI Scuba Camp --- July 29--August 3, 2018</a>
+> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-handyman-specialty-week/8293" class="list-group-item">Handyman Week --- July 15--21, 2018</a>
+> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-conservation-specialty-week/8294" class="list-group-item">Conservation Week --- July 15--21, 2018</a>
+> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-padi-scuba-instruction-specialty-week-session-1/8260" class="list-group-item">PADI Scuba Camp --- July 15--21, 2018</a>
+> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-trail-2-eagle-specialty-week/8261" class="list-group-item">Trail to Eagle Camp --- July 29--August 4, 2018</a>
+> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-shooting-sports-specialty-camp/8257" class="list-group-item">Shooting Sports Camp --- July 29--August 4, 2018</a>
+> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-padi-scuba-instruction-specialty-week-session-2/8259" class="list-group-item">PADI Scuba Camp --- July 29--August 4, 2018</a>
