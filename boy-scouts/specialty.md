@@ -20,7 +20,7 @@ and rescue drill allowing Scouts to demonstrate the skills learned. The 2018
 Search and Rescue Weekend will be held July 7--8.
 
 > %list-group%
-> <a href="{{ site.url }}/#" class="list-group-item">2018 Search and Rescue Weekend Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2018/2018-sar-flier.pdf" class="list-group-item">2018 Search and Rescue Weekend Flier</a>
 
 ## Handyman Week --- July 15--21, 2018
 
