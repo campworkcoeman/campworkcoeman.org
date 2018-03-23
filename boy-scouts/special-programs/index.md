@@ -37,16 +37,16 @@ Search and Rescue Weekend will be held July 7--8.
 > %list-group%
 > <a href="{{ site.url }}/pdf/2018/2018-sar-flier.pdf" class="list-group-item">2018 Search and Rescue Weekend Flier</a>
 
-## Shawtown Wilderness Trek
+## Shawtown Outpost Trek
 
-The Shawtown Wilderness Trek is a challenging opportunity for older Scouts. It
+The Shawtown Outpost Trek is a challenging opportunity for older Scouts. It
 all happens along Camp Workcoeman's hiking trails, where Scouts will complete a
 special task that tests their skills in survival, pioneering, and teamwork. The
 trek leads to the Shawtown Wilderness Outpost where all will spend the night
-learning about the Shawntown folklore. While there, Scouts will try their hand
+learning about the Shawtown folklore. While on the trek, Scouts will try their hand
 at muzzleloading rifles and tomahawk throwing. All Scouts who successfully
-complete the program will be awarded a special Wilderness Trek patch reserved
-only for them.
+complete the program will be awarded a special patch reserved
+just for them.
 
 ## Huck Finn Tube Ride
 
