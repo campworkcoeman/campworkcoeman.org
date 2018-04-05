@@ -51,7 +51,7 @@ Be sure to sign up to sign up today and don't miss out!
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2017/2017-cub-family-weekend.pdf" class="list-group-item">2018 Family Camping Weekend Flier (Coming Soon)</a>
-> <a href="{{ site.url }}/pdf/2017/2017-cub-leader-guide.pdf" class="list-group-item">2018 Cub Scout Leader Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2018/2018-cub-leader-guide.pdf" class="list-group-item">2018 Cub Scout Leader Guide</a>
 > <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2015/med-admin.pdf" class="list-group-item">Medication Order Form</a>

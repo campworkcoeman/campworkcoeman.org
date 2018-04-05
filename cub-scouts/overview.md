@@ -13,7 +13,7 @@ scheduled throughout the summer.
 > %list-group%
 > <a href="{{ site.url }}/pdf/2018/2018-cub-scout-flier.pdf" class="list-group-item">2018 Cub Camping Preview Flier</a>
 > <a href="{{ site.url }}/pdf/2018/2018-cub-mailer.pdf" class="list-group-item">2018 CT Rivers Council Cub Camping Overview</a>
-> <a href="{{ site.url }}/pdf/2017/2017-cub-leader-guide.pdf" class="list-group-item">2018 Cub Scout Leader Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2018/2018-cub-leader-guide.pdf" class="list-group-item">2018 Cub Scout Leader Guide</a>
 
 ## Cub Scout Day Camp
 
@@ -79,7 +79,7 @@ the opportunity to see what awaits them in the Boy Scout program.
 > <a href="{{ site.url }}/pdf/2018/2018-cub-scout-flier.pdf" class="list-group-item">2018 Cub Camping Preview Flier</a>
 > <a href="{{ site.url }}/pdf/2018/2018-cub-mailer.pdf" class="list-group-item">2018 CT Rivers Council Cub Camping Overview</a>
 > <a href="{{ site.url }}/pdf/2017/2017-cub-overview.pdf" class="list-group-item">2018 Cub Camping Overview Flier (Coming Soon)</a>
-> <a href="{{ site.url }}/pdf/2017/2017-cub-leader-guide.pdf" class="list-group-item">2018 Cub Scout Leader Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2018/2018-cub-leader-guide.pdf" class="list-group-item">2018 Cub Scout Leader Guide</a>
 > <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2015/med-admin.pdf" class="list-group-item">Medication Order Form</a>
