@@ -7,7 +7,7 @@ keywords: Cub Scout, family, weekend
 ---
 
 <div class="alert alert-info">
-<a href="{{ site.url }}/cub-scout/register/">Click here</a> to sign your family up for the Family Camping Weekend at Camp Workcoeman. Sign up today! <a href="{{ site.url }}/cub-scouts/fees/">Click here</a> for camp fee information.
+<a href="{{ site.url }}/cub-scouts/register/">Click here</a> to sign your family up for the Family Camping Weekend at Camp Workcoeman. Sign up today! <a href="{{ site.url }}/cub-scouts/fees/">Click here</a> for camp fee information.
 </div>
 
 ### July 7--8, 2018
