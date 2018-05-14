@@ -12,7 +12,7 @@ keywords: Cub Scout, mini week
 
 ### July 1--4 and August 5--8, 2018
 
-Cub Experience Camp is a 3 day, 2 night mini camp that is great for all Cub
+Cub Experience Camp is a 4 day, 3 night mini camp that is great for all Cub
 Scouts who are looking to try a resident camp with their adult partner. This
 camp is especially designed for Cubs who have never been away at camp and will
 have a blast experiencing all that camp has to offer.
