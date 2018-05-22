@@ -61,6 +61,12 @@ Redirect 301 /summer-camp/register/ /boy-scouts/register/
 Redirect 301 /summer-camp/fees/ /boy-scouts/fees/
 Redirect 301 /summer-camp/fees/camperships/ /boy-scouts/fees/camperships/
 
+# Citizens of Shawtown Redirect
+Redirect 301 /shawtown /get-involved/citizens-of-shawtown/
+Redirect 301 /shawtown/ /get-involved/citizens-of-shawtown/
+Redirect 301 /Shawtown /get-involved/citizens-of-shawtown/
+Redirect 301 /Shawtown/ /get-involved/citizens-of-shawtown/
+
 #2018 redirect
 Redirect 301 /2018/ /boy-scouts/register/
 Redirect 301 /2018 /boy-scouts/register/
