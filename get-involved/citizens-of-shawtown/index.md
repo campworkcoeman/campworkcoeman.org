@@ -41,4 +41,4 @@ The Citizens of Shawtown periodically publishes a newsletter updating its member
 ## How do I join?
 
 You can become a member of the Citizens of Shawtown by contacting the group's
-chairman, Dan Bielefield, at [danb63@optonline.net](mailto:danb63@optonline.net).
+Membership Chair, Brian Cornell, at [bcornell@campworkcoeman.org](mailto:bcornell@campworkcoeman.org).
