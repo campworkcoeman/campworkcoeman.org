@@ -1,7 +1,7 @@
 ---
 published: true
 layout: generic
-title: Register for More Scouting Memories at Camp Workcoeman
+title: Register for More Scouting Memories at Workcoeman
 description: This page contains links to sign up for more activities at Camp Workcoeman.
 keywords: "WiFi landing, specialty camp, off-season, next year"
 ---
