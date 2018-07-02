@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /slider-images/
 /pdf/2014/CRC_Health_Form_2013.pdf
+/wifi-landing/
 
 Sitemap: https://campworkcoeman.org/sitemap.xml
