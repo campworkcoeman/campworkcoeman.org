@@ -8,7 +8,7 @@ keywords: "WiFi landing, specialty camp, off-season, next year"
 
 ## Boy Scout Specialty Camps
 
-Did you know Camp Workcoeman offers exciting specialty camps? Scouts can return later this summer for even more fun! Offerings include Search & Rescue Weekend, Scuba, Trail to Eagle, and more! A $100 Encore Week discount is offered for Scouts that return for a second week of camp.
+Did you know Camp Workcoeman offers exciting specialty camps? Scouts can return later this summer for even more fun! Offerings include Scuba, Trail to Eagle, and more! A $100 Encore Week discount is offered for Scouts that return for a second week of camp.
 
 > %list-group%
 > <a href="{{ site.url }}/boy-scouts/specialty/" class="list-group-item">Learn More About Specialty Camps</a>
