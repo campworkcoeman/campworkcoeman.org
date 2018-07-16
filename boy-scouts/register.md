@@ -11,6 +11,9 @@ Having trouble registering? Visit the <a href="https://www.ctrivers.org/registra
 </div>
 
 > %list-group%
+> <a href="{{ site.url }}/2019/" class="list-group-item">2019 Campsite Reservations</a>
+
+> %list-group%
 > <a href="https://goo.gl/forms/JOHUTPtXHSg11AK82" class="list-group-item">2018 Staff Application</a>
 > <a href="https://goo.gl/forms/ojJAUZwGMrqhBqkA3" class="list-group-item">2018 CIT Application</a>
 
