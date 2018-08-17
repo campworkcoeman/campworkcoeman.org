@@ -12,6 +12,10 @@ March 31, 2018
 
 Come at 9 AM to help raise the roof of our pole barn. Lunch will be provided.
 
+September 15, 2018
+
+Come at 9 AM to help finish the roof of our pole barn and wrap up any remaining summer projects. Lunch will be provided. Please confirm attendance to either Ranger Frank or Lou Seiser.
+
 ## Beaver Day
 
 June 2, 2018
