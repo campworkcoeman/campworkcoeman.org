@@ -21,7 +21,8 @@ Now is the time to start planning your troop's return to Camp Workcoeman next su
 
 > %list-group%
 > <a href="{{ site.url }}/2019/" class="list-group-item">2019 Campsite Reservations</a>
-> <a href="https://docs.google.com/forms/u/2/d/e/1FAIpQLSdisFN4HJJKKY8jHmg2UYLYo8eJg19bDLQCyjSX8Mpp-SjyFA/viewform" class="list-group-item">2019 Staff/CIT Interest Form</a>
+> <a href="https://docs.google.com/forms/d/e/1FAIpQLScOknNJ9BTHiZdkF57je9tBqPU_jTjJdfR3pm-hQ_VyQnE37A/viewform" class="list-group-item">2019 Online Staff Application</a>
+> <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8B2iVWv9Ujfc5gLHb35dWL_DVO6EEh80SJmPyl5liy35sLQ/viewform" class="list-group-item">2019 Online CIT Application</a>
 
 ## Find Out About Cub Camp 2019
 

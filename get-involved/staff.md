@@ -35,8 +35,8 @@ recommended that you submit your application early. Applicants will be notified
 of the interview schedule by the Camp Director.
 
 > %list-group%
-> <a href="https://goo.gl/forms/JOHUTPtXHSg11AK82" class="list-group-item">2018 Online Staff Application</a>
-> <a href="https://docs.google.com/forms/u/2/d/e/1FAIpQLSdisFN4HJJKKY8jHmg2UYLYo8eJg19bDLQCyjSX8Mpp-SjyFA/viewform" class="list-group-item">2019 Staff/CIT Interest Form</a>
+> <a href="https://docs.google.com/forms/d/e/1FAIpQLScOknNJ9BTHiZdkF57je9tBqPU_jTjJdfR3pm-hQ_VyQnE37A/viewform" class="list-group-item">2019 Online Staff Application</a>
+> <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8B2iVWv9Ujfc5gLHb35dWL_DVO6EEh80SJmPyl5liy35sLQ/viewform" class="list-group-item">2019 Online CIT Application</a>
 
 If you are interested in working at camp this summer, please contact Camp
 Director Lou Seiser at [lseiser@campworkcoeman.org](mailto:lseiser@campworkcoeman.org).
