@@ -14,6 +14,9 @@ settlement that is located on the outer area of Camp Workcoeman. Many members
 of the group attended Workcoeman as youth or as adults, and some even served on
 the camp staff.
 
+> %list-group%
+> <a href="{{ site.url }}/pdf/2018/shawtown-brochure-FINAL.pdf" class="list-group-item">Promotional Brochure</a>
+
 ## What we do...
 
 The purpose of the Citizens of Shawtown is to organize and complete projects at
@@ -35,7 +38,7 @@ Chicken Dinner! We do not collect dues from the membership.
 The Citizens of Shawtown periodically publishes a newsletter updating its members about the organization's activities and about happenings at camp. The newsletter is sent to members and posted on the camp website.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2018/shawtown-spring-2018.pdf" class="list-group-item">Spring 2018 Newsletter</a>
+> <a href="{{ site.url }}/pdf/2018/shawtown-fall-2018.pdf" class="list-group-item">Fall 2018 Newsletter</a>
 > <a href="{{ site.url }}/get-involved/citizens-of-shawtown/archive/" class="list-group-item">Newsletter Archive</a>
 
 ## How do I join?
