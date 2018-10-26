@@ -15,7 +15,7 @@ of the group attended Workcoeman as youth or as adults, and some even served on
 the camp staff.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2018/shawtown-brochure-FINAL.pdf" class="list-group-item">Promotional Brochure</a>
+> <a href="{{ site.url }}/pdf/2018/shawtown-brochure-FINAL-v2.pdf" class="list-group-item">Promotional Brochure</a>
 
 ## What we do...
 
