@@ -97,6 +97,8 @@ During the week prior to your arrival at camp, Troop leadership will be provided
 
 Email all medical related questions to [nurse@campworkcoeman.org](mailto:nurse@campworkcoeman.org) or call (860) 379-1756 (after June 22).
 
+## Medical Forms
+
 > %list-group%
 > <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item"><strong>Camp Medical Form</strong></a>
 > <a href="{{ site.url }}/pdf/2015/med-admin.pdf" class="list-group-item">Authorization for Administration of Medication</a>
