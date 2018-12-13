@@ -29,7 +29,7 @@ Reserve your site today!</a>
 >>
 >>> %col-xs-6%
 >>> **Week #4**<br/>
->>> July 21--27, 2019
+>>> July 21--27, 2019<br/>
 >>> **[Shooting Sports Camp]({{ site.url }}/boy-scouts/specialty/)**<br/>
 >>> **[Conservation Camp]({{ site.url }}/boy-scouts/specialty/)**<br/>
 >

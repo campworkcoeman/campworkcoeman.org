@@ -81,7 +81,7 @@ Attn: Michele Soboslai<br>
 60 Darlin St<br>
 East Hartford, CT 06108<br>
 (860) 913-2752<br>
-[Michele.Soboslai@scouting.org](Michele.Soboslai@scouting.org)
+[Michele.Soboslai@scouting.org](mailto:Michele.Soboslai@scouting.org)
 
 ### More information
 

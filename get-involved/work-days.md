@@ -17,7 +17,7 @@ Work days are held periodically to complete various projects at camp.
 June 2019 (Exact date TBA)
 
 > %list-group%
-> <a href="{{ site.url }}/#" class="list-group-item">2019 Beaver Day Flier (Coming Soon)</a>
+> <a href="" class="list-group-item">2019 Beaver Day Flier (Coming Soon)</a>
 
 ## Retiree Corp
 

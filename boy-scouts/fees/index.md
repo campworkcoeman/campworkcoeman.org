@@ -118,7 +118,7 @@ Attn: Jim Waters<br>
 60 Darlin St<br>
 East Hartford, CT 06108<br>
 (860) 913-2750<br>
-[jawaters@bsamail.org](jawaters@bsamail.org)
+[jawaters@bsamail.org](mailto:jawaters@bsamail.org)
 
 ### More information
 
