@@ -34,7 +34,7 @@ Be sure to sign up for this summer blast today!
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2018/2018-cub-leader-guide.pdf" class="list-group-item">2019 Cub Scout Leader Guide (Coming Soon)</a>
-> <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Camp Medical Forms and Information (Part C (Physical) not Required for Day Camp)</a>
+> <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Camp Medical Forms and Information (Part C [Physical] not Required for Day Camp)</a>
 > <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">Cub Camp Fee Information</a>
 
 For more information, contact Director of Cub Scout Programs, Jeff Seiser at

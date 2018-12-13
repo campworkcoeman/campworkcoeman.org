@@ -9,7 +9,7 @@ keywords: med, form, medical
 ## Who Needs a Completed Medical Form?
 
 <div class="alert alert-info">
-<strong>Medical forms are found on the bottom of this page.</strong> <em>Please use only the medical forms founds on this site.</em>
+<strong>Medical forms are found on the bottom of this page.</strong> <em>Please use only the medical forms found on this site.</em>
 </div>
 
 All Scouts and Scouters staying at camp more than 24 hours need parts A, B, C and D of the **BSA Annual Health and Medical Record** form completed and submitted along with any applicable **Medication Administration** and **Food Allergy Treatment Plan** forms.
@@ -98,7 +98,7 @@ During the week prior to your arrival at camp, Troop leadership will be provided
 Email all medical related questions to [nurse@campworkcoeman.org](mailto:nurse@campworkcoeman.org) or call (860) 379-1756 (after June 22).
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item">Camp Medical Form</a>
+> <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item"><strong>Camp Medical Form</strong></a>
 > <a href="{{ site.url }}/pdf/2015/med-admin.pdf" class="list-group-item">Authorization for Administration of Medication</a>
 > <a href="" class="list-group-item">Emergency Treatment Plan for Allergic Reactions (Coming Soon)</a>
 > <a href="" class="list-group-item">Camp Food Accommodation Request (Coming Soon)</a>
