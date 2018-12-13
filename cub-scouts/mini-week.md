@@ -7,7 +7,7 @@ keywords: Cub Scout, mini week
 ---
 
 <div class="alert alert-info">
-<a href="{{ site.url }}/cub-scouts/register/">Click here</a> to sign your son up for a Cub Scout Mini Week at Camp Workcoeman. Sign up today! <a href="{{ site.url }}/cub-scouts/fees/">Click here</a> for camp fee information.
+<a href="{{ site.url }}/cub-scouts/register/">Click here</a> to sign your Scout up for a Cub Scout Mini Week at Camp Workcoeman. Sign up today! <a href="{{ site.url }}/cub-scouts/fees/">Click here</a> for camp fee information.
 </div>
 
 ### June 30--July 3 and August 4--7, 2019

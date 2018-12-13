@@ -7,7 +7,7 @@ keywords: Webelos, resident camp
 ---
 
 <div class="alert alert-info">
-<a href="{{ site.url }}/cub-scouts/register/">Click here</a> to sign your son up for Webelos Resident Camp at Camp Workcoeman. Sign up today! <a href="{{ site.url }}/cub-scouts/fees/">Click here</a> for camp fee information.
+<a href="{{ site.url }}/cub-scouts/register/">Click here</a> to sign your Scout up for Webelos Resident Camp at Camp Workcoeman. Sign up today! <a href="{{ site.url }}/cub-scouts/fees/">Click here</a> for camp fee information.
 </div>
 
 ### June 30--July 5 and August 4--9, 2019
@@ -15,7 +15,7 @@ keywords: Webelos, resident camp
 Fun, adventure, and excitement await all Webelos Scouts at Camp Workcoeman!
 This action-packed 6 day, 5 night resident camp is designed for first and
 second year Webelos Scouts as they complete their Cub Scout journey and prepare
-for transition to Boy Scouts. The Camp Workcoeman Staff has prepared a variety
+for the transition to Boy Scouts. The Camp Workcoeman Staff has prepared a variety
 of activities for Scouts to enjoy including:
 
 * Swimming
