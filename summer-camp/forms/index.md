@@ -9,14 +9,12 @@ keywords: forms, medical forms, camperships
 ## Resident Camp Medical Forms
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item">Resident Camp Medical Form</a>
-> <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
-> <a href="{{ site.url }}/pdf/2015/med-admin.pdf" class="list-group-item">Medication Order Form</a>
+> <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Resident Camp Medical Form and Information</a>
 
-## 2018 Campership Application
+## 2019 Campership Application
 
 > %list-group%
-> <a href="{{ site.url }}/boy-scouts/fees/camperships/" class="list-group-item">Apply for a Campership</a>
+> <a href="{{ site.url }}/boy-scouts/fees/camperships/" class="list-group-item">Apply for a Campership (Coming Soon)</a>
 
 ## Other Forms
 
