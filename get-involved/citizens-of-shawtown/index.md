@@ -38,7 +38,7 @@ Chicken Dinner! We do not collect dues from the membership.
 The Citizens of Shawtown periodically publishes a newsletter updating its members about the organization's activities and about happenings at camp. The newsletter is sent to members and posted on the camp website.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2018/shawtown-fall-2018.pdf" class="list-group-item">Fall 2018 Newsletter</a>
+> <a href="{{ site.url }}/pdf/2018/shawtown-winter-2018.pdf" class="list-group-item">Winter 2018/2019 Newsletter</a>
 > <a href="{{ site.url }}/get-involved/citizens-of-shawtown/archive/" class="list-group-item">Newsletter Archive</a>
 
 ## How do I join?

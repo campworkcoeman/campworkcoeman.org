@@ -11,13 +11,13 @@ Cub Scouts to have fun and adventure! Below are the various programs that are
 scheduled throughout the summer.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2018/2018-cub-scout-flier.pdf" class="list-group-item">2018 Cub Camping Preview Flier</a>
-> <a href="{{ site.url }}/pdf/2018/2018-cub-mailer.pdf" class="list-group-item">2018 CT Rivers Council Cub Camping Overview</a>
-> <a href="{{ site.url }}/pdf/2018/2018-cub-leader-guide.pdf" class="list-group-item">2018 Cub Scout Leader Guide</a>
+> <a href="{{ site.url }}/pdf/2019/2019-cub-scout-flier.pdf" class="list-group-item">2019 Cub Camping Preview Flier</a>
+> <a href="{{ site.url }}/pdf/2019/2019-crc-cub.pdf" class="list-group-item">2019 CT Rivers Council Cub Camping Overview</a>
+> <a href="{{ site.url }}/pdf/2018/2018-cub-leader-guide.pdf" class="list-group-item">2019 Cub Scout Leader Guide (Coming Soon)</a>
 
 ## Cub Scout Day Camp
 
-#### August 13--17, 2018
+#### August 12--16, 2019
 
 Day Camp features all the fun and excitement of summer camp without the
 overnight element. Scouts are introduced to the Cub Scout summer camp program
@@ -29,7 +29,7 @@ and some advancement.
 
 ## Family Camping Weekend
 
-#### July 7--8, 2018
+#### July 6--7, 2019
 
 This program is for all Cub Scouts and their families. This allows Scouts to
 get a taste of what summer camp is like without the worries of being away for
@@ -41,7 +41,7 @@ activities they would like to do.
 
 ## Cub Scout Mini Week
 
-#### July 1--4 and August 5--8, 2018
+#### June 30--July 3 and August 4--7, 2019
 
 This is a shorter overnight experience for Cubs and their adult partners. Cub
 Scouts will get a taste of those great summer camp programs. This opportunity
@@ -52,7 +52,7 @@ will allow for some advancement but the main emphasis is **fun**!
 
 ## Cub Scout Resident Camp
 
-#### August 5--10, 2018
+#### August 4--9, 2019
 
 This action-packed 6 day, 5 night resident camp is designed for Cubs entering
 first through third grades. Activities are planned for each den so you know the
@@ -63,7 +63,7 @@ program is always age-appropriate.
 
 ## Webelos Resident Camp
 
-#### July 1--6 and August 5--10, 2018
+#### June 30--July 5 and August 4--9, 2019
 
 An action packed week for 4^th and 5^th graders who are ready for a week-long
 camp experience. The program focuses on the Adventure of Scouting where Scouts
@@ -76,10 +76,9 @@ the opportunity to see what awaits them in the Boy Scout program.
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2018/2018-cub-scout-flier.pdf" class="list-group-item">2018 Cub Camping Preview Flier</a>
-> <a href="{{ site.url }}/pdf/2018/2018-cub-mailer.pdf" class="list-group-item">2018 CT Rivers Council Cub Camping Overview</a>
-> <a href="{{ site.url }}/pdf/2017/2017-cub-overview.pdf" class="list-group-item">2018 Cub Camping Overview Flier (Coming Soon)</a>
-> <a href="{{ site.url }}/pdf/2018/2018-cub-leader-guide.pdf" class="list-group-item">2018 Cub Scout Leader Guide</a>
+> <a href="{{ site.url }}/pdf/2019/2019-cub-scout-flier.pdf" class="list-group-item">2019 Cub Camping Preview Flier</a>
+> <a href="{{ site.url }}/pdf/2019/2019-crc-cub.pdf" class="list-group-item">2019 CT Rivers Council Cub Camping Overview</a>
+> <a href="{{ site.url }}/pdf/2018/2018-cub-leader-guide.pdf" class="list-group-item">2019 Cub Scout Leader Guide (Coming Soon)</a>
 > <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2015/med-admin.pdf" class="list-group-item">Medication Order Form</a>

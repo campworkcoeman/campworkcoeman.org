@@ -1,9 +1,9 @@
 ---
 published: true
 layout: generic
-title: 2018 Boy Scout Camp Registration
-description: This page contains links to the council website to register for the 2018 Camp Workcoeman season.
-keywords: "Boy Scout, resident camp, 2018, registration, reservation"
+title: 2019 Boy Scout Camp Registration
+description: This page contains links to the council website to register for the 2019 Camp Workcoeman season.
+keywords: "Boy Scout, resident camp, 2019, registration, reservation"
 ---
 
 <div class="alert alert-info">
@@ -14,30 +14,29 @@ Having trouble registering? Visit the <a href="https://www.ctrivers.org/registra
 > <a href="{{ site.url }}/2019/" class="list-group-item">2019 Campsite Reservations</a>
 
 > %list-group%
-> <a href="https://goo.gl/forms/JOHUTPtXHSg11AK82" class="list-group-item">2018 Staff Application</a>
-> <a href="https://goo.gl/forms/ojJAUZwGMrqhBqkA3" class="list-group-item">2018 CIT Application</a>
+> <a href="https://docs.google.com/forms/d/e/1FAIpQLScOknNJ9BTHiZdkF57je9tBqPU_jTjJdfR3pm-hQ_VyQnE37A/viewform" class="list-group-item">2019 Online Staff Application</a>
+> <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8B2iVWv9Ujfc5gLHb35dWL_DVO6EEh80SJmPyl5liy35sLQ/viewform" class="list-group-item">2019 Online CIT Application</a>
 
-Below, you will find links to the council website to reserve a campsite for the 2018 Camp Workcoeman season.
+Below, you will find links to the council website to register for the 2019 Camp Workcoeman season (registration links will go live in early January).
 
 ## Boy Scout Summer Camp
 
 > %list-group%
-> <a href="https://ctrivers.org/event/2018-camp-workcoeman-week-1-registration-july-1-7-2018/7376" class="list-group-item">Week 1 --- July 1--7, 2018</a>
-> <a href="https://ctrivers.org/event/2018-camp-workcoeman-week-2-registration-july-8-14-2018/7377" class="list-group-item">Week 2 --- July 8--14, 2018</a>
-> <a href="https://ctrivers.org/event/2018-camp-workcoeman-week-3-registration-july-15-21-2018/7378" class="list-group-item">Week 3 --- July 15--21, 2018</a>
-> <a href="https://ctrivers.org/event/2018-camp-workcoeman-week-4-registration-july-22-28-2018/7379" class="list-group-item">Week 4 --- July 22--28, 2018</a>
-> <a href="https://ctrivers.org/event/2018-camp-workcoeman-week-5-registration-july-29-august-4-2018/7380" class="list-group-item">Week 5 --- July 29--August 4, 2018</a>
+> <a href="https://ctrivers.org/event/2019-camp-workcoeman-week-1/9054" class="list-group-item">Week 1 --- June 30--6, 2019 (Coming Soon)</a>
+> <a href="https://ctrivers.org/event/2019-camp-workcoeman-week-2/9059" class="list-group-item">Week 2 --- July 7--13, 2019 (Coming Soon)</a>
+> <a href="https://ctrivers.org/event/2019-camp-workcoeman-week-3/9062" class="list-group-item">Week 3 --- July 14--20, 2019 (Coming Soon)</a>
+> <a href="https://ctrivers.org/event/2019-camp-workcoeman-week-4/9068" class="list-group-item">Week 4 --- July 21--27, 2019 (Coming Soon)</a>
+> <a href="https://ctrivers.org/2019-camp-workcoeman-week-5/9069" class="list-group-item">Week 5 --- July 28--August 3, 2019 (Coming Soon)</a>
 
 ## Boy Scout Specialty Camps
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2018/2018-encore-week.pdf" class="list-group-item">$100 Encore Week Discount</a>
+> <a href="{{ site.url }}/boy-scouts/fees/" class="list-group-item">$100 Encore Week Discount</a>
 
 > %list-group%
-> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-search-and-rescue-merit-badge-weekend/8292" class="list-group-item">Search and Rescue Weekend --- July 7--8, 2018</a>
-> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-handyman-specialty-week/8293" class="list-group-item">Handyman Week --- July 15--21, 2018</a>
-> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-conservation-specialty-week/8294" class="list-group-item">Conservation Week --- July 15--21, 2018</a>
-> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-padi-scuba-instruction-specialty-week-session-1/8260" class="list-group-item">PADI Scuba Camp --- July 15--21, 2018</a>
-> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-trail-2-eagle-specialty-week/8261" class="list-group-item">Trail to Eagle Camp --- July 29--August 4, 2018</a>
-> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-shooting-sports-specialty-camp/8257" class="list-group-item">Shooting Sports Camp --- July 29--August 4, 2018</a>
-> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-padi-scuba-instruction-specialty-week-session-2/8259" class="list-group-item">PADI Scuba Camp --- July 29--August 4, 2018</a>
+> <a href="https://ctrivers.org/event/2019-camp-workcoeman-search-and-rescue-weekend/9544" class="list-group-item">Search and Rescue Weekend --- July 6--7, 2019 (Coming Soon)</a>
+> <a href="https://ctrivers.org/event/2019-camp-workcoeman-padi-scuba-certification-camp/9542" class="list-group-item">PADI Scuba Camp --- July 14--20, 2019 (Coming Soon)</a>
+> <a href="https://ctrivers.org/event/2019-camp-workcoeman-conservation-camp/9547" class="list-group-item">Conservation Week --- July 21--27, 2019 (Coming Soon)</a>
+> <a href="https://ctrivers.org/event/2019-camp-workcoeman-shooting-sports-camp/9545" class="list-group-item">Shooting Sports Camp --- July 21--27, 2019 (Coming Soon)</a>
+> <a href="https://ctrivers.org/event/2019-camp-workcoeman-trail-to-eagle-camp/9546" class="list-group-item">Trail to Eagle Camp --- July 28--August 3, 2019 (Coming Soon)</a>
+> <a href="https://ctrivers.org/event/2019-camp-workcoeman-padi-scuba-certification-camp/9543" class="list-group-item">PADI Scuba Camp --- July 28--August 3, 2019 (Coming Soon)</a>

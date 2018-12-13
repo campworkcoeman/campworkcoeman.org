@@ -10,7 +10,7 @@ keywords: Cub Scout, family, weekend
 <a href="{{ site.url }}/cub-scouts/register/">Click here</a> to sign your family up for the Family Camping Weekend at Camp Workcoeman. Sign up today! <a href="{{ site.url }}/cub-scouts/fees/">Click here</a> for camp fee information.
 </div>
 
-### July 7--8, 2018
+### July 6--7, 2019
 
 Summer camp is not just for Scouts...it's for families too! Baloo's Family Camp
 at Camp Workcoeman is a great opportunity for Cub Scouts to enjoy a summer camp
@@ -50,8 +50,7 @@ Be sure to sign up to sign up today and don't miss out!
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2017/2017-cub-family-weekend.pdf" class="list-group-item">2018 Family Camping Weekend Flier (Coming Soon)</a>
-> <a href="{{ site.url }}/pdf/2018/2018-cub-leader-guide.pdf" class="list-group-item">2018 Cub Scout Leader Guide</a>
+> <a href="{{ site.url }}/pdf/2018/2018-cub-leader-guide.pdf" class="list-group-item">2019 Cub Scout Leader Guide (Coming Soon)</a>
 > <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2015/med-admin.pdf" class="list-group-item">Medication Order Form</a>

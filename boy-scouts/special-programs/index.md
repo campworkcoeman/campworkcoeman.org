@@ -23,7 +23,7 @@ who are thirteen years old and have completed the eighth grade. For more
 information, see the flier below.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2018/2018-pistol-flier.pdf" class="list-group-item">2018 Pistol Shooting Flier</a>
+> <a href="{{ site.url }}/pdf/2018/2018-pistol-flier.pdf" class="list-group-item">2019 Pistol Shooting Flier (Coming Soon)</a>
 > <a href="{{ site.url }}/pdf/2017/2017-pistol-pilot-program-release-agreement.pdf" class="list-group-item">Pistol Program Release Agreement</a>
 
 ## Search and Rescue Weekend
@@ -31,11 +31,11 @@ information, see the flier below.
 This overnight program is designed to introduce Scouts the various skills
 required in Search and Rescue. A series of stations will teach the skills
 required to complete the merit badge. The program will culminate with a search
-and rescue drill allowing Scouts to demonstrate the skills learned. The 2018
-Search and Rescue Weekend will be held July 7--8.
+and rescue drill allowing Scouts to demonstrate the skills learned. The 2019
+Search and Rescue Weekend will be held July 6--7.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2018/2018-sar-flier.pdf" class="list-group-item">2018 Search and Rescue Weekend Flier</a>
+> <a href="{{ site.url }}/pdf/2019/2019-sar-flier.pdf" class="list-group-item">2019 Search and Rescue Weekend Flier</a>
 
 ## Shawtown Outpost Trek
 

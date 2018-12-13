@@ -8,6 +8,7 @@ keywords: newsletter, Citizens of Shawtown, archive
 ## 2018
 
 > %list-group%
+> <a href="{{ site.url }}/pdf/2018/shawtown-winter-2018.pdf" class="list-group-item">Winter 2018 Newsletter</a>
 > <a href="{{ site.url }}/pdf/2018/shawtown-fall-2018.pdf" class="list-group-item">Fall 2018 Newsletter</a>
 > <a href="{{ site.url }}/pdf/2018/shawtown-spring-2018.pdf" class="list-group-item">Spring 2018 Newsletter</a>
 

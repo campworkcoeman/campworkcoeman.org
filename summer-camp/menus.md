@@ -5,7 +5,7 @@ title: Menus
 keywords: menus, food
 ---
 
-## 2018 Menus (Coming Soon)
+## 2019 Menus (Coming Soon)
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2017/2017-lmc-menu.pdf" class="list-group-item">Laurel Music Camp (Coming Soon)</a>

@@ -11,18 +11,18 @@ Having trouble registering? Visit the <a href="https://www.ctrivers.org/registra
 </div>
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2018/2018-cub-scout-flier.pdf" class="list-group-item">2018 Cub Camp Preview Flier</a>
-> <a href="{{ site.url }}/pdf/2018/2018-cub-mailer.pdf" class="list-group-item">2018 CT Rivers Council Cub Camping Overview</a>
-> <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">2018 Cub Camp Fee Information</a>
+> <a href="{{ site.url }}/pdf/2019/2019-cub-scout-flier.pdf" class="list-group-item">2019 Cub Camp Flier</a>
+> <a href="{{ site.url }}/pdf/2019/2019-crc-cub.pdf" class="list-group-item">2019 CT Rivers Council Cub Camping Overview</a>
+> <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">2019 Cub Camp Fee Information</a>
 
-Below, you will find links to the council website to register for each camp program.
+Below, you will find links to the council website to register for each camp program (registration links will go live in early January).
 
 ## Cub Scout Programs
 
 > %list-group%
-> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-webelos-only-week/8284" class="list-group-item">Webelos Resident Camp --- July 1--6, 2018</a>
-> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-cub-scout-mini-week-session-1/8526" class="list-group-item">Cub Scout Mini Week --- July 1--4, 2018</a>
-> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-cub-scout-family-camp/8576" class="list-group-item">Cub Scout Family Weekend --- July 7--8, 2018</a>
-> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-cub-scout-resident-camp/8302" class="list-group-item">Cub/Webelos Resident Camp --- August 5--10, 2018</a>
-> <a href="https://www.ctrivers.org/event/2018-camp-workcoeman-cub-scout-mini-week-session-2/8527" class="list-group-item">Cub Scout Mini Week --- August 5--8, 2018</a>
-> <a href="https://www.ctrivers.org/event/workcoeman-day-camp/8289" class="list-group-item">Cub Scout Day Camp --- August 13--17, 2018</a>
+> <a href="https://ctrivers.org/event/2019-camp-workcoeman-webelos-camp/9457" class="list-group-item">Webelos Resident Camp --- June 30--July 5, 2019 (Coming Soon)</a>
+> <a href="https://ctrivers.org/event/2019-camp-workcoeman-webelos-mini-week/9458" class="list-group-item">Cub Scout Mini Week --- June 30--July 3, 2019 (Coming Soon)</a>
+> <a href="https://ctrivers.org/event/2019-camp-workcoeman-family-camp/9449" class="list-group-item">Cub Scout Family Weekend --- July 6--7, 2019 (Coming Soon)</a>
+> <a href="https://ctrivers.org/event/2019-camp-workcoeman-cub-scoutwebelos-resident-camp/9451" class="list-group-item">Cub/Webelos Resident Camp --- August 4--9, 2019 (Coming Soon)</a>
+> <a href="https://ctrivers.org/event/2019-camp-workcoeman-cub-scout-mini-week/9450" class="list-group-item">Cub Scout Mini Week --- August 4--7, 2019 (Coming Soon)</a>
+> <a href="https://www.ctrivers.org/" class="list-group-item">Cub Scout Day Camp --- August 12--16, 2019 (Coming Soon)</a>

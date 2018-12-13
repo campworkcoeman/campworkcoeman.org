@@ -6,47 +6,46 @@ keywords: "Boy Scout, resident camp"
 ---
 
 <div class="alert alert-info">
-Registration for the 2018 camp season is now open.
+Campsite reservations for the 2019 camp season are now open.
 <a href="{{ site.url }}/boy-scouts/register/">
-Sign up today!</a>
+Reserve your site today!</a>
 </div>
 
 > %text-center%
 >> %row%
 >>> %col-xs-6%
 >>> **Week #1**<br/>
->>> July 1--7, 2018
+>>> June 30--July 6, 2019
 >>
 >>> %col-xs-6%
 >>> **Week #2**<br/>
->>> July 8--14, 2018
+>>> July 7--13, 2019
 >
 >> %row%
 >>> %col-xs-6%
 >>> **Week #3**<br/>
->>> July 15--21, 2018<br/>
->>> **[Handyman Week]({{ site.url }}/boy-scouts/specialty/)**<br/>
->>> **[Conservation Week]({{ site.url }}/boy-scouts/specialty/)**<br/>
+>>> July 14--20, 2019<br/>
 >>> **[PADI Scuba Camp]({{ site.url }}/boy-scouts/specialty/)**
 >>
 >>> %col-xs-6%
 >>> **Week #4**<br/>
->>> July 22--28, 2018
+>>> July 21--27, 2019
+>>> **[Shooting Sports Camp]({{ site.url }}/boy-scouts/specialty/)**<br/>
+>>> **[Conservation Camp]({{ site.url }}/boy-scouts/specialty/)**<br/>
 >
 >> %row%
 >>> %col-xs-6%
 >>> **Week #5**<br/>
->>> July 29--August 4, 2018<br/>
+>>> July 28--August 3, 2019<br/>
 >>> **[Trail to Eagle Camp]({{ site.url }}/boy-scouts/trail-to-eagle/)**<br/>
->>> **[Shooting Sports Camp]({{ site.url }}/boy-scouts/specialty/)**<br/>
 >>> **[PADI Scuba Camp]({{ site.url }}/boy-scouts/specialty/)**
 
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2018/2018-program-guide.pdf" class="list-group-item">2018 Program Guide</a>
-> <a href="{{ site.url }}/pdf/2018/2018-schedule.pdf" class="list-group-item">2018 Daily Program Schedule</a>
-> <a href="{{ site.url }}/pdf/2018/2018-merit-badges.pdf" class="list-group-item">2018 Merit Badge Selections</a>
-> <a href="{{ site.url }}/pdf/2018/2018-boy-scout-flier.pdf" class="list-group-item">2018 Resident Camp Preview Flier</a>
+> <a href="{{ site.url }}/boy-scouts/guides/" class="list-group-item">2019 Program Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2018/2018-schedule.pdf" class="list-group-item">2019 Daily Program Schedule (Coming Soon)</a>
+> <a href="{{ site.url }}/#" class="list-group-item">2019 Merit Badge Selections (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2019/2019-boy-scout-flier.pdf" class="list-group-item">2019 Resident Camp Preview Flier</a>
 
 ## Promotional Video
 

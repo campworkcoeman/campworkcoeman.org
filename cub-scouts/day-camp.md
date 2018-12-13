@@ -10,7 +10,7 @@ keywords: Cub Scout, day camp
 <a href="{{ site.url }}/cub-scouts/register/">Click here</a> to sign your son up for Cub Scout Day Camp at Camp Workcoeman. Sign up today! <a href="{{ site.url }}/cub-scouts/fees/">Click here</a> for camp fee information.
 </div>
 
-### August 13--17, 2018
+### August 12--16, 2019
 
 Camp Workcoeman will once again host a week long Cub Scout Day Camp!
 
@@ -33,8 +33,7 @@ Be sure to sign up for this summer blast today!
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2017/2017-cub-day-camp.pdf" class="list-group-item">2018 Cub Scout Day Camp Flier (Coming Soon)</a>
-> <a href="{{ site.url }}/pdf/2018/2018-cub-leader-guide.pdf" class="list-group-item">2018 Cub Scout Leader Guide</a>
+> <a href="{{ site.url }}/pdf/2018/2018-cub-leader-guide.pdf" class="list-group-item">2019 Cub Scout Leader Guide (Coming Soon)</a>
 > <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item">Medical Form</a>
 > <a href="{{ site.url }}/pdf/2014/2011_Med-AllergeyTreatment.pdf" class="list-group-item">Allergy Treatment Plan</a>
 > <a href="{{ site.url }}/pdf/2015/med-admin.pdf" class="list-group-item">Medication Order Form</a>

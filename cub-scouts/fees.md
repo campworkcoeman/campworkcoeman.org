@@ -1,57 +1,53 @@
 ---
 published: true
 layout: generic
-title: 2018 CT Rivers Council Cub Camp Fees
-description: This page list the fees to attend Cub Scout Summer Camp programs in 2018 at Connecticut Rivers Council Scout Camps.
+title: 2019 CT Rivers Council Cub Camp Fees
+description: This page list the fees to attend Cub Scout Summer Camp programs in 2019 at Connecticut Rivers Council Scout Camps.
 keywords: fees
 ---
 
 > %list-group%
 > <a href="{{ site.url }}/cub-scouts/register/" class="list-group-item">Register for Cub Scout Camp</a>
 
-The fees to attend Cub Scout Summer Camp programs in 2018 are as follows.
+The fees to attend Cub Scout Summer Camp programs in 2019 are as follows.
 
-### Full Week (Including Webelos Week)
+### Full Week (Including Webelos Week) --- $425
 
-Early Fee: $415
-: If paid in full by May 15, 2018, the fee will be $415.
+A $50 deposit per **named** Scout camper is due no later than **Wednesday May 1, 2019**. If paid in full by **June 15, 2019**, the fee will be **$425**. Payments received after **June 15, 2019** will be charged a **late fee of $25 making the total fee $450**.
 
-Regular Fee: $440
-: If paid in full between May 16, 2018 and June 15, 2018, the fee will be $440.
+### Mini Week --- $225
 
-Late Fee: $490
-: For payments made after June 15, 2018 the fee is $490.
+A $50 deposit per **named** Scout camper is due no later than **Wednesday May 1, 2019**. If paid in full by **June 15, 2019**, the fee will be **$225**. Payments received after **June 15, 2019** will be charged a **late fee of $25 making the total fee $250**.
 
-### Mini Week
+### Adult --- Full Week Resident Camp Leader Fees
 
-Early Fee: $215
-: If paid in full by May 15, 2018, the fee will be $215.
+**The Pack's first two leaders are free with a minimum of 5 Cub Scouts.** Fees for extra leaders are calculated at **$20 per day** or **$120 for the full week**. Names of
+leaders are not required until June 15. Additional
+leaders may be free according to the schedule below:
 
-Regular Fee: $240
-: For payments made after May 15, 2018 the fee is $240.
+ # of youth per program | # of free leaders | all additional adults
+------------------------|--------------------|-----------------------
+  5--10                 | 2                  | $120
+ 11--20                 | 3                  | $120
+ 21--30                 | 4                  | $120
+ 31--40                 | 5                  | $120
 
-### Family Camping Weekend
+### Adult --- Mini Week Camp Leader Fees
 
-Camp Fee: $45
-: For the Family Camping Weekend, the fee is $45 per person.
+**The Pack's first two leaders are free with a minimum of 5 Cub Scouts.** Fees for extra leaders are calculated at **$20 per day** or **$60 for the full Mini Week Program**. Names of
+leaders are not required until June 15. Additional
+leaders may be free according to the schedule below:
 
-### Day Camp
-
-Early Fee: $250
-: If paid in full by May 15, 2018, the fee will be $250.
-
-Regular Fee: $300
-: For payments made after May 15, 2018 the fee is $300.
-
-For Day Camp, if Packs have one adult attend camp each day for every eight Scouts it sends (or portion of [i.e. 1 adult for 8 Scouts, 2 adults for 10 Scouts]), each Scout in the Pack that attends camp will receive a $50 refund after camp.
+ # of youth per program | # of free leaders | all additional adults
+------------------------|--------------------|-----------------------
+  5--10                 | 2                  | $60
+ 11--20                 | 3                  | $60
+ 21--30                 | 4                  | $60
+ 31--40                 | 5                  | $60
 
 ### Camperships
 
-The Connecticut Rivers Council is pleased to offer camperships to Scouts who are members of the Connecticut Rivers Council who attend Connecticut Rivers Council Camp.  Camperships are subject to available funding. Camperships are the equivalent of a school scholarship but for summer camp. They are awarded based upon financial need as determined by the most recent 1040 tax form.  Extenuating circumstances may be considered.   
-
-**Except** on rare occasions, Camperships are **NOT** granted for amounts greater than 50% of the camp fee.  Camperships are awarded for ONE (1) camp session per Scout.  Camperships are not transferrable between Scouts.  Please file a separate application for EACH individual in a household requesting a Campership (however only one tax form is required to be provided to the council per family).  
-
-The deadline for the submissions is April 1^st.  Any Campership applications received after April 1^st (or incomplete campership applications not completed before April 1^st) will be put into a pool for consideration of any remaining funds.
+The Connecticut Rivers Council is pleased to offer camperships to Scouts in need of funds to attend camp who might not otherwise do so.  The annual campership fund is limited and flucutates from year to year. Campership Scouts will be afforded the lowest possible rate to attend camp. The unit process for paying for these Scouts is to be determined.
 
 > %list-group%
 > <a href="{{ site.url }}/boy-scouts/fees/camperships/" class="list-group-item">Apply for a Campership</a>
@@ -60,28 +56,33 @@ The deadline for the submissions is April 1^st.  Any Campership applications rec
 
 **All** payments for camp **must** be made online
 through the Connecticut Rivers Council web site.
-Payments may be in the form of an E-Check or credit card.
+Payments may be in the form of an E-Check or credit card. There is no charge to the unit using this method of payment.
 
-### 2018 Connecticut Rivers Council Summer Camp Refund Policy
+### 2019 Connecticut Rivers Council Summer Camp Refund Policy
 
 The Connecticut Rivers Council must commit financial resources to purchase
 equipment, hire staff, and otherwise prepare to provide the high quality
-programs in our camps they have come to be expected well in advance of the camps opening for the summer. Participants therefore
-must also make a financial commitment to attend. Refund requests made before
-June 15^th will be for the amount paid minus the cencellation fee of $75. Requests after June 15^th
-will be for the amount paid minus $125.
+programs in our camps well in advance of the camps opening for the summer. Participants therefore
+must also make a financial commitment to attend.
+
+Full Week refund requests made before
+June 15^th will be reimbursed minus the cencellation fee of $75. Requests after June 15^th
+will be reimbursed minus $150.
+
+Mini Week refund requests made before
+June 15^th will be reimbursed minus the cencellation fee of $25. Requests after June 15^th
+will be reimbursed minus $50.
 
 All requests for refund consideration are to be in writing and sent either in
 the form of a letter or email to:
 
 Connecticut Rivers Council<br>
-Attn: Jim Waters<br>
+Attn: Michele Soboslai<br>
 60 Darlin St<br>
 East Hartford, CT 06108<br>
-(860) 913-2750<br>
-[jawaters@bsamail.org](jawaters@bsamail.org)
+(860) 913-2752<br>
+[Michele.Soboslai@scouting.org](Michele.Soboslai@scouting.org)
 
 ### More information
 
-For more information or questions please contact Jim Waters, Director of
-Support Services, at (860) 913-2750.
+For more information or questions please contact Michele Soboslai at (860) 913-2752.

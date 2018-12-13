@@ -1,23 +1,16 @@
 ---
 published: true
 layout: generic
-title: 2018 Summer Camp Planning Information
+title: 2019 Summer Camp Planning Information
 description: At pre-camp planning meetings, all pre-camp planning information will be discussed. All troops should be represented at one of these meetings.
 keywords: pre-camp, planning, meetings
 ---
 
 ## Pre-Camp Leaders Meeting
 
-Pre-camp planning meetings will be held Saturday, May 5^th and Saturday, May 12^th; both meetings will begin at 1:30 PM in the Dining Hall. Each troop should send their camp Scoutmaster and Senior Patrol Leader to *one* of these meetings. All pre-camp planning information will be discussed related to
+Pre-camp planning meetings will be held in May; exact dates TBA. Each troop should send their camp Scoutmaster and Senior Patrol Leader to *one* of these meetings. All pre-camp planning information will be discussed related to
 programs, medical form requirements, and the Sunday check-in process. All
 troops should be represented at one of these meetings. A visit to your campsite is possible with a Camp Commissioner.
-
-An additional pre-camp planning meeting will be held on Long Island:
-> %text-center%
-> Saturday, April 28^th at 10:00 AM<br/>
-> Notre Dame Parish Rectory<br/>
-> 45 Mayfair Road<br/>
-> New Hyde Park, NY 11040
 
 ### Medical Forms
 
