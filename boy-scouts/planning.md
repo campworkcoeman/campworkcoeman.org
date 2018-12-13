@@ -19,8 +19,7 @@ be contacted by the Camp Health Officer if additional medical information is
 needed. Please do not fax your medical forms to camp.
 
 > %list-group%
-> <a href="{{ site.url }}/summer-camp/forms/" class="list-group-item">Medical Forms</a>
-> <a href="{{ site.url }}/pdf/2018/2018-med-form-info.pdf" class="list-group-item">Additional Medical Form Information</a>
+> <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Resident Camp Medical Forms and Information</a>
 
 ### Scout Arrival Times
 

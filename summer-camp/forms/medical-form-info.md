@@ -8,14 +8,18 @@ keywords: med, form, medical
 
 ## Who Needs a Completed Medical Form?
 
-All Scouts and Scouters staying at camp more than 24 hours need parts A, B, C and D of the **BSA Annual Health & Medical Record** form completed and submitted along with any applicable **Medication Administration** and **Food Allergy Treatment Plan** forms.
+<div class="alert alert-info">
+<strong>Medical forms are found on the bottom of this page.</strong> <em>Please use only the medical forms founds on this site.</em>
+</div>
 
-#### Special Needs Scouts
+All Scouts and Scouters staying at camp more than 24 hours need parts A, B, C and D of the **BSA Annual Health and Medical Record** form completed and submitted along with any applicable **Medication Administration** and **Food Allergy Treatment Plan** forms.
+
+#### Scouts with Special Needs
 
 If a Scout has a **Care Plan** for school please provide a copy of it with the medical form so any accommodations can be facilitated.  The information is kept confidential on a need to know basis. If a food accommodation is required please complete the **Food Accommodation Request** form also.
 
 <div class="alert alert-info">
-**Please use only the medical forms founds on this site.** Forms published prior to the 2014 printing (bottom right corner) cannot be accepted.
+<strong>Please use only the medical forms founds on this site.</strong> Forms published prior to the 2014 printing (bottom right corner) cannot be accepted.
 
 The medical form linked from this page can be filled out on the computer using Adobe Reader; many items auto-fill after you enter them the first time.
 </div>
@@ -43,10 +47,10 @@ This gives you general information about camp and is to be *retained* by the par
 
 ### Part B2: General Information/Health History (Page 2)
 
-* Allergies: Does the camper have allergic reactions to *food*, *medications*, *plants*, and/or *insects* that could require medical treatment. If the answer is *yes* to any of the allergens, an **Emergency Treatment Plan for Allergic Reactions** form from the examining Physician/PA/APRN must be attached to the physical form. (This replaces the old allergy treatment plan form.)
+* **Allergies:** Does the camper have allergic reactions to *food*, *medications*, *plants*, and/or *insects* that could require medical treatment? If the answer is *yes* to any of the allergens, an **Emergency Treatment Plan for Allergic Reactions** form from the examining Physician/PA/APRN must be attached to the physical form. (This replaces the old allergy treatment plan form.)
 * Immunization history **with dates** or a copy of immunization history from doctor's office. (Just writing up-to-date is not acceptable.) If using a copy of the immunization history, it must be a legible copy *signed* and dated by the physician.
 * Tetanus must be within 10 years. Please enter this date regardless if using an immunization history. 
-* Medications: This form is used by the BSA nationally. but Connecticut has special requirements for the administration of medications in camps, schools, etc. In Part D, there is a listing of medications that can be administered at camp without a physician's order. It is very limited. For all other medications, both *prescribed* and *over the counter*, an **Authorization for Administration of Medication** form must be completed, signed, and dated by the physician and parent. **A separate form is required for each medication.** Note: All medications must be physically checked by the nurse at check-in.
+* **Medications:** This form is used by the BSA nationally, but Connecticut has special requirements for the administration of medications in camps, schools, etc. In *Part D*, there is a listing of medications that can be administered at camp without a physician's order. It is very limited. For all other medications, both *prescribed* and *over the counter*, an **Authorization for Administration of Medication** form must be completed, signed, and dated by the physician and parent. **A separate form is required for each medication.** NOTE: All medications must be physically checked by the nurse at check-in.
 
 ### Part C: Physical Examination
 
@@ -64,12 +68,12 @@ If you have food allergies or religious dietary restrictions, complete this form
 
 ### Medication Notes for 2019
 
-* If a camper is **only** prescribed *emergency allergy medication* (i.e. Epi-Pen or Rescue Inhaler), then only the Emergency Treatment Plan for Allergic Reactions form is required. The Authorization for Administration of Medications form is not required.
+* If a camper is **only** prescribed *emergency allergy medication* (i.e. Epi-Pen or Rescue Inhaler), then only the **Emergency Treatment Plan for Allergic Reactions** form is required. The **Authorization for Administration of Medications** form is not required.
 * All medications will be given at the health lodge before meals. It will be the camper's responsibility to get there.
 * Adults (18+) with medications: You are permitted to administer your own medications; however, you must store them in your locked personal vehicle or in the Health Lodge. Due to safety regulations, with the exception of Rescue Inhalers and Epi-Pens, **no** medications may be kept in the campsite(s).
 
 <div class="alert alert-info">
-*Make copies of all medical forms prior to submission.* All medical forms should be submitted to camp **at least three weeks** prior to your arrival at camp.
+<strong>Make copies of all medical forms prior to submission.</strong> All medical forms should be submitted to camp <em>at least three weeks</em> prior to your arrival at camp.
 
 The medical form linked from this page can be filled out on the computer using Adobe Reader; many items auto-fill after you enter them the first time.
 </div>
@@ -87,12 +91,15 @@ Please include a roster of those Scouts and Scouters attending camp when sending
 
 Our health officers will review all forms and inform your troop medical contact or parents with any problems to address prior to your arrival at camp. Please understand that submitting all forms three weeks ahead of your troop's week at camp will help streamline your check-in process.
 
-Upon arrival, all Scouts and Scouters must fill out a medical survey. The survey form can be found [here]({{ site.url }}/summer-camp/forms/). These surveys are to be turned in to the Health Officers during your Sunday medical check-in.
+*Upon arrival*, all Scouts and Scouters must fill out a **Medical Screening Questionnaire**. The survey form can be found at the bottom of this page. These surveys are to be turned in to the Health Officers during your Sunday medical check-in.
 
 During the week prior to your arrival at camp, Troop leadership will be provided a time for your Sunday check-in with the Health Officers. Check-in times begin at 1:00 PM. Failure to follow this procedure will negatively affect the check-in schedule of all troops in camp.
 
 Email all medical related questions to [nurse@campworkcoeman.org](mailto:nurse@campworkcoeman.org) or call (860) 379-1756 (after June 22).
 
 > %list-group%
-> <a href="{{ site.url }}/summer-camp/forms/" class="list-group-item">Medical Forms</a>
-> <a href="{{ site.url }}/pdf/2018/2018-med-form-info.pdf" class="list-group-item">Additional Medical Form Information</a>
+> <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item">Camp Medical Form</a>
+> <a href="{{ site.url }}/pdf/2015/med-admin.pdf" class="list-group-item">Authorization for Administration of Medication</a>
+> <a href="" class="list-group-item">Emergency Treatment Plan for Allergic Reactions (Coming Soon)</a>
+> <a href="" class="list-group-item">Camp Food Accommodation Request (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2019/medical-questionnaire.pdf" class="list-group-item">Medical Screening Questionnaire</a>

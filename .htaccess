@@ -67,6 +67,16 @@ Redirect 301 /shawtown/ /get-involved/citizens-of-shawtown/
 Redirect 301 /Shawtown /get-involved/citizens-of-shawtown/
 Redirect 301 /Shawtown/ /get-involved/citizens-of-shawtown/
 
+# Medical Form Short Link
+Redirect 301 /medform /summer-camp/forms/medical-form-info/
+Redirect 301 /medform/ /summer-camp/forms/medical-form-info/
+Redirect 301 /Medform /summer-camp/forms/medical-form-info/
+Redirect 301 /Medform/ /summer-camp/forms/medical-form-info/
+Redirect 301 /MedForm /summer-camp/forms/medical-form-info/
+Redirect 301 /MedForm/ /summer-camp/forms/medical-form-info/
+Redirect 301 /MEDFORM /summer-camp/forms/medical-form-info/
+Redirect 301 /MEDFORM/ /summer-camp/forms/medical-form-info/
+
 #2018 redirect
 Redirect 301 /2018/ /boy-scouts/register/
 Redirect 301 /2018 /boy-scouts/register/

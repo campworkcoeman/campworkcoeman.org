@@ -9,7 +9,7 @@ keywords: forms, medical forms, camperships
 ## Resident Camp Medical Forms
 
 > %list-group%
-> <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Resident Camp Medical Form and Information</a>
+> <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Resident Camp Medical Forms and Information</a>
 
 ## 2019 Campership Application
 
