@@ -12,7 +12,7 @@ keywords: med, form, medical
 <strong>Medical forms are found on the bottom of this page.</strong> <em>Please use only the medical forms found on this site.</em>
 </div>
 
-All Scouts and Scouters staying at camp more than 24 hours need parts A, B, C and D of the **BSA Annual Health and Medical Record** form completed and submitted along with any applicable **Medication Administration** and **Food Allergy Treatment Plan** forms.
+All Scouts and Scouters staying at camp more than 24 hours need parts A, B, C, and D of the **BSA Annual Health and Medical Record** form completed and submitted along with any applicable **Medication Administration** and **Food Allergy Treatment Plan** forms.
 
 #### Scouts with Special Needs
 
@@ -100,8 +100,8 @@ Email all medical related questions to [nurse@campworkcoeman.org](mailto:nurse@c
 ## Medical Forms
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2015/health-form.pdf" class="list-group-item"><strong>Camp Medical Form</strong></a>
-> <a href="{{ site.url }}/pdf/2015/med-admin.pdf" class="list-group-item">Authorization for Administration of Medication</a>
-> <a href="" class="list-group-item">Emergency Treatment Plan for Allergic Reactions (Coming Soon)</a>
-> <a href="" class="list-group-item">Camp Food Accommodation Request (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2019/health-form.pdf" class="list-group-item"><strong>Camp Medical Form</strong></a>
+> <a href="{{ site.url }}/pdf/2019/med-authorization.pdf" class="list-group-item">Authorization for Administration of Medication</a>
+> <a href="{{ site.url }}/pdf/2019/allergy-treatment.pdf" class="list-group-item">Emergency Treatment Plan for Allergic Reactions</a>
+> <a href="{{ site. url}}/pdf/2019/food-accommodation.pdf" class="list-group-item">Camp Food Accommodation Request</a>
 > <a href="{{ site.url }}/pdf/2019/medical-questionnaire.pdf" class="list-group-item">Medical Screening Questionnaire</a>

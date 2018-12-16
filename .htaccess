@@ -77,6 +77,9 @@ Redirect 301 /MedForm/ /summer-camp/forms/medical-form-info/
 Redirect 301 /MEDFORM /summer-camp/forms/medical-form-info/
 Redirect 301 /MEDFORM/ /summer-camp/forms/medical-form-info/
 
+# Updated Med Form (with B1 and B2 labels)
+Redirect 301 /pdf/2015/health-form.pdf /pdf/2019/health-form.pdf
+
 #2018 redirect
 Redirect 301 /2018/ /boy-scouts/register/
 Redirect 301 /2018 /boy-scouts/register/
