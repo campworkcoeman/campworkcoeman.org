@@ -6,6 +6,10 @@ description: The Citizens of Shawtown is a group of people who work together to 
 keywords: Citizens of Shawtown, Shawtown, volunteers
 ---
 
+## Annual Meeting and Luncheon
+
+The Citizens of Shawtown will be holding their Annual Meeting and Luncheon on Sunday, February 10^th at 2PM. It will take place at the [Log House Restaurant](https://goo.gl/maps/ScsJ7NKtx9w) on Route 44 in Barkhamsted and is free to all members. Please RSVP to Brian Cornell. [More info.]({{ site.url }}/pdf/2019/2019-shawtown-lunch.pdf)
+
 ## Who are the Citizens of Shawtown?
 
 The Citizens of Shawtown is a group of people who work together to support the
