@@ -80,13 +80,13 @@ Redirect 301 /MEDFORM/ /summer-camp/forms/medical-form-info/
 # Updated Med Form (with B1 and B2 labels)
 Redirect 301 /pdf/2015/health-form.pdf /pdf/2019/health-form.pdf
 
-#2018 redirect
-Redirect 301 /2018/ /boy-scouts/register/
-Redirect 301 /2018 /boy-scouts/register/
-Redirect 301 /cubcamp2018/ /cub-scouts/register/
-Redirect 301 /cubcamp2018 /cub-scouts/register/
-Redirect 301 /CubCamp2018/ /cub-scouts/register/
-Redirect 301 /CubCamp2018 /cub-scouts/register/
+#2019 redirect
+Redirect 301 /2019/ /boy-scouts/register/
+Redirect 301 /2019 /boy-scouts/register/
+Redirect 301 /cubcamp2019/ /cub-scouts/register/
+Redirect 301 /cubcamp2019 /cub-scouts/register/
+Redirect 301 /CubCamp2019/ /cub-scouts/register/
+Redirect 301 /CubCamp2019 /cub-scouts/register/
 
 # Block SEMalt botnet and other referral spam
 SetEnvIfNoCase Referer fbdownloader.com spammer=yes
