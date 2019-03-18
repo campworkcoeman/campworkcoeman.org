@@ -6,10 +6,6 @@ description: The Citizens of Shawtown is a group of people who work together to 
 keywords: Citizens of Shawtown, Shawtown, volunteers
 ---
 
-## Annual Meeting and Luncheon
-
-The Citizens of Shawtown will be holding their Annual Meeting and Luncheon on Sunday, February 10^th at 2PM. It will take place at the [Log House Restaurant](https://goo.gl/maps/ScsJ7NKtx9w) on Route 44 in Barkhamsted and is free to all members. Please RSVP to Brian Cornell. [More info.]({{ site.url }}/pdf/2019/2019-shawtown-lunch.pdf)
-
 ## Who are the Citizens of Shawtown?
 
 The Citizens of Shawtown is a group of people who work together to support the
@@ -42,7 +38,7 @@ Chicken Dinner! We do not collect dues from the membership.
 The Citizens of Shawtown periodically publishes a newsletter updating its members about the organization's activities and about happenings at camp. The newsletter is sent to members and posted on the camp website.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2018/shawtown-winter-2018.pdf" class="list-group-item">Winter 2018/2019 Newsletter</a>
+> <a href="{{ site.url }}/pdf/2019/shawtown-spring-2019.pdf" class="list-group-item">Spring 2019 Newsletter</a>
 > <a href="{{ site.url }}/get-involved/citizens-of-shawtown/archive/" class="list-group-item">Newsletter Archive</a>
 
 ## How do I join?

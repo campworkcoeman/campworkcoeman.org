@@ -32,5 +32,4 @@ advancement. Registered Scouters, with experience in Cub Scout, Boy Scout, and
 Venture are eligible for consideration as Campmasters.
 
 If you are interested in being a Campmaster, please contact Ranger Frank
-Galliher at (860) 379-2207 or [rangerfrank@campworkcoeman.org](mailto:rangerfrank@campworkcoeman.org)
-or contact the Chief Campmaster Andy Motes at [saintjude30@sbcglobal.net](mailto:saintjude30@sbcglobal.net). 
+Galliher at (860) 379-2207 or [rangerfrank@campworkcoeman.org](mailto:rangerfrank@campworkcoeman.org). 
