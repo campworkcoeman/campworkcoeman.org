@@ -85,4 +85,4 @@ East Hartford, CT 06108<br>
 
 ### More information
 
-For more information or questions please contact Michele Soboslai at (860) 913-2752.
+For more information or questions please contact Michele Soboslai at (860) 913-2752 or [Michele.Soboslai@scouting.org](mailto:Michele.Soboslai@scouting.org).

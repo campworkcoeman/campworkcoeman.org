@@ -114,13 +114,12 @@ All requests for refund consideration are to be in writing and sent either in
 the form of a letter or email to:
 
 Connecticut Rivers Council<br>
-Attn: Jim Waters<br>
+Attn: Michele Soboslai<br>
 60 Darlin St<br>
 East Hartford, CT 06108<br>
 (860) 913-2750<br>
-[jawaters@bsamail.org](mailto:jawaters@bsamail.org)
+[Michele.Soboslai@scouting.org](mailto:Michele.Soboslai@scouting.org)
 
 ### More information
 
-For more information or questions please contact Jim Waters, Director of
-Support Services, at (860) 913-2750.
+For more information or questions please contact Michele Soboslai at (860) 913-2752 or [Michele.Soboslai@scouting.org](mailto:Michele.Soboslai@scouting.org).

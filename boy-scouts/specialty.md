@@ -46,7 +46,7 @@ and Water Conservation, Forestry, and others from the required merit badge list.
 The Trail to Eagle (T2E) Program is designed for the Scout who has set his goal on reaching the rank of Eagle Scout. It is a unique camping and advancement opportunity to work on Eagle required badges. Guidance on how to select, plan and complete your Eagle Service Project will be featured during the week. All Scouts are placed in a “Trail to Eagle” troop with an experienced staff member as the T2E Scoutmaster. The T2E Camp is open to all Scouts 12 years and up who have earned the First Class rank.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/2019-specialty-flier.pdf" class="list-group-item">2019 Trail to Eagle Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2019/2019-trail-to-eagle-flier.pdf" class="list-group-item">2019 Trail to Eagle Flier</a>
 > <a href="{{ site.url }}/boy-scouts/trail-to-eagle/" class="list-group-item">More Information</a>
 
 ## Shooting Sports Camp --- July 21--27, 2019

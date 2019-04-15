@@ -8,16 +8,18 @@ keywords: work days, volunteer
 
 ## Shawtown Work Days
 
-**2019 Work Days To Be Announced**
+Saturday, April 20, 2019
+
+Saturday, May 11, 2019
 
 Work days are held periodically to complete various projects at camp.
 
 ## Beaver Day
 
-June 2019 (Exact date TBA)
+Saturday, June 1, 2019
 
 > %list-group%
-> <a href="" class="list-group-item">2019 Beaver Day Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2019/2019-beaver-day-flier.pdf" class="list-group-item">2019 Beaver Day Flier</a>
 
 ## Retiree Corp
 

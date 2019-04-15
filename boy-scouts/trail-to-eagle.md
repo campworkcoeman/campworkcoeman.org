@@ -39,5 +39,5 @@ For questions specific to Trail to Eagle camp contact Program Director Tom
 Leisten at [tleisten@campworkcoeman.org](mailto:tleisten@campworkcoeman.org).
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/2019-specialty-flier.pdf" class="list-group-item">2019 Trail to Eagle Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2019/2019-trail-to-eagle-flier.pdf" class="list-group-item">2019 Trail to Eagle Flier</a>
 > <a href="{{ site.url }}/boy-scouts/fees/" class="list-group-item">$100 Encore Week Discount</a>

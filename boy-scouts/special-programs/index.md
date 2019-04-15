@@ -23,7 +23,7 @@ who are thirteen years old and have completed the eighth grade. For more
 information, see the flier below.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2018/2018-pistol-flier.pdf" class="list-group-item">2019 Pistol Shooting Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2019/2019-pistol-flier.pdf" class="list-group-item">2019 Pistol Shooting Flier</a>
 > <a href="{{ site.url }}/pdf/2017/2017-pistol-pilot-program-release-agreement.pdf" class="list-group-item">Pistol Program Release Agreement</a>
 
 ## Search and Rescue Weekend
