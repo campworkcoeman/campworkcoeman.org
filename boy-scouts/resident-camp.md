@@ -42,9 +42,9 @@ Reserve your site today!</a>
 
 
 > %list-group%
-> <a href="{{ site.url }}/boy-scouts/guides/" class="list-group-item">2019 Program Guide (Coming Soon)</a>
-> <a href="{{ site.url }}/pdf/2018/2018-schedule.pdf" class="list-group-item">2019 Daily Program Schedule (Coming Soon)</a>
-> <a href="" class="list-group-item">2019 Merit Badge Selections (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2019/2019-program-guide.pdf" class="list-group-item">2019 Program Guide</a>
+> <a href="{{ site.url }}/pdf/2019/2019-schedule.pdf" class="list-group-item">2019 Daily Program Schedule</a>
+> <a href="{{ site.url }}/pdf/2019/2019-merit-badges.pdf" class="list-group-item">2019 Merit Badge Selections</a>
 > <a href="{{ site.url }}/pdf/2019/2019-boy-scout-flier.pdf" class="list-group-item">2019 Resident Camp Preview Flier</a>
 
 ## Promotional Video
