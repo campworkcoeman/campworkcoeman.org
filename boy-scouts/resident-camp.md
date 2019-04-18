@@ -6,9 +6,9 @@ keywords: "Boy Scout, resident camp"
 ---
 
 <div class="alert alert-info">
-Campsite reservations for the 2019 camp season are now open.
+Registration for the 2019 camp season are now open.
 <a href="{{ site.url }}/boy-scouts/register/">
-Reserve your site today!</a>
+Sign up today!</a>
 </div>
 
 > %text-center%
