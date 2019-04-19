@@ -8,7 +8,7 @@ keywords: work days, volunteer
 
 ## Shawtown Work Days
 
-Saturday, April 20, 2019
+Saturday, May 4, 2019 (Moved from April 20 due to rain.)
 
 Saturday, May 11, 2019
 
