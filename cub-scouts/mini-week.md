@@ -46,7 +46,7 @@ Be sure to sign up today and don't miss out!
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2018/2018-cub-leader-guide.pdf" class="list-group-item">2019 Cub Scout Leader Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2019/2019-cub-leader-guide.pdf" class="list-group-item">2019 Cub Scout Leader Guide</a>
 > <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Resident Camp Medical Forms and Information</a>
 > <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">Cub Camp Fee Information</a>
 
