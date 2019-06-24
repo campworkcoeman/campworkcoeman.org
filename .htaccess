@@ -87,6 +87,7 @@ Redirect 301 /cubcamp2019/ /cub-scouts/register/
 Redirect 301 /cubcamp2019 /cub-scouts/register/
 Redirect 301 /CubCamp2019/ /cub-scouts/register/
 Redirect 301 /CubCamp2019 /cub-scouts/register/
+Redirect 302 /95th https://forms.gle/Bc2vByQ7PyCQPru87
 
 # Block SEMalt botnet and other referral spam
 SetEnvIfNoCase Referer fbdownloader.com spammer=yes
