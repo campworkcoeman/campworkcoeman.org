@@ -89,6 +89,10 @@ Redirect 301 /CubCamp2019/ /cub-scouts/register/
 Redirect 301 /CubCamp2019 /cub-scouts/register/
 Redirect 302 /95th https://forms.gle/Bc2vByQ7PyCQPru87
 
+#2020 redirect
+Redirect 301 /CubCamp2020/ /cubcamp2020/
+Redirect 301 /CubCamp2020 /cubcamp2020/
+
 # Block SEMalt botnet and other referral spam
 SetEnvIfNoCase Referer fbdownloader.com spammer=yes
 SetEnvIfNoCase Referer descargar-musicas-gratis.com spammer=yes
