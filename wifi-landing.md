@@ -21,7 +21,7 @@ Now is the time to start planning your troop's return to Camp Workcoeman next su
 
 > %list-group%
 > <a href="{{ site.url }}/2020/" class="list-group-item">2020 Campsite Requests</a>
-> <a href="{{ site.url }}" class="list-group-item">2020 Staff/CIT Interest Form (Coming Soon)</a>
+> <a href="https://docs.google.com/forms/d/1eJjlCDxyYw4tK9FntXnSUeWPSjGn-ylPpnBwPe7e9jw/viewform" class="list-group-item">2020 Staff/CIT Interest Form</a>
 
 ## Find Out About Cub Camp 2020
 
