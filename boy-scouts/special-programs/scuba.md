@@ -3,8 +3,12 @@ published: true
 layout: special-programs
 title: Scuba at Camp Workcoeman
 description: In conjunction with Enfield Scuba and Watersports, Camp Workcoeman will offer a PADI Scuba cerfication course as well as weekly Discover Scuba courses.
-keywords: scuba, diving
+keywords: scuba, diving, sea base, certification, florida
 ---
+
+## Going to the BSA's Florida Sea Base? Get your SCUBA certification at Workcoeman!
+
+Is your unit planning on attending the Florida Sea Base? If so, get your required SCUBA certification while attending a week of Scouts BSA camp at Camp Workcoeman. Located in the scenic hills of northwestern Connecticut, Camp Workcoeman boasts one of the cleanest lakes around---perfect for learning to SCUBA dive locally in New England.
 
 ## Discover Scuba
 
@@ -64,7 +68,9 @@ For additional information contact Program Director Tom Leisten at
 (860) 379-2207 or [tleisten@campworkcoeman.org](mailto:tleisten@campworkcoeman.org).
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/2019-scuba-flier.pdf" class="list-group-item">2019 Scuba Flier</a>
+> <a href="{{ site.url }}/pdf/2020/2020-scuba-flier.pdf" class="list-group-item">2020 Scuba Flier</a>
+<!---
 > <a href="{{ site.url }}/pdf/2019/2019-scuba-flier-add.pdf" class="list-group-item">2019 Additional Scuba Programs</a>
+--->
 > <a href="{{ site.url }}/boy-scouts/register/" class="list-group-item">Register for a PADI Scuba Certification Week</a>
 > <a href="http://www.enfieldscuba.com/" class="list-group-item">Enfield Dive Shop Website</a>
