@@ -69,8 +69,5 @@ For additional information contact Program Director Tom Leisten at
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2020/2020-scuba-flier.pdf" class="list-group-item">2020 Scuba Flier</a>
-<!---
-> <a href="{{ site.url }}/pdf/2019/2019-scuba-flier-add.pdf" class="list-group-item">2019 Additional Scuba Programs</a>
---->
 > <a href="{{ site.url }}/boy-scouts/register/" class="list-group-item">Register for a PADI Scuba Certification Week</a>
 > <a href="http://www.enfieldscuba.com/" class="list-group-item">Enfield Dive Shop Website</a>
