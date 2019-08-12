@@ -25,7 +25,7 @@ Sign up today!</a>
 >>> %col-xs-6%
 >>> **Week #3**<br/>
 >>> July 19--25, 2020<br/>
->>> **[PADI Scuba Camp]({{ site.url }}/boy-scouts/specialty/)**
+>>> **[PADI Scuba Camp]({{ site.url }}/boy-scouts/special-programs/scuba/)**
 >>
 >>> %col-xs-6%
 >>> **Week #4**<br/>
@@ -36,7 +36,7 @@ Sign up today!</a>
 >>> **Week #5**<br/>
 >>> August 2--8, 2020<br/>
 >>> **[Trail to Eagle Camp]({{ site.url }}/boy-scouts/trail-to-eagle/)**<br/>
->>> **[PADI Scuba Camp]({{ site.url }}/boy-scouts/specialty/)**
+>>> **[PADI Scuba Camp]({{ site.url }}/boy-scouts/special-programs/scuba/)**
 
 
 > %list-group%
