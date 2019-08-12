@@ -13,7 +13,7 @@ Workcoeman are available to outstanding applicants who are members of the Boy Sc
 is rigorous; the jobs demanding; the experience exhilarating.
 
 The camp is dedicated to supporting each unit's outdoor and advancement program
-while giving each boy an enriching long term camping experience.
+while giving each Scout an enriching long term camping experience.
 
 Applicants are considered for positions without regard to race, color,
 religion, sex, sexual orientation, genetic information, gender identity or expression, national origin, age, marital status, veteran
@@ -35,7 +35,7 @@ recommended that you submit your application early. Applicants will be notified
 of the interview schedule by the Camp Director.
 
 > %list-group%
-> <a href="https://docs.google.com/forms/d/e/1FAIpQLScOknNJ9BTHiZdkF57je9tBqPU_jTjJdfR3pm-hQ_VyQnE37A/viewform" class="list-group-item">2019 Online Staff Application</a>
+> <a href="https://docs.google.com/forms/d/1eJjlCDxyYw4tK9FntXnSUeWPSjGn-ylPpnBwPe7e9jw/viewform" class="list-group-item">2020 Staff/CIT Interest Form</a>
 
 If you are interested in working at camp this summer, please contact Camp
 Director Lou Seiser at [lseiser@campworkcoeman.org](mailto:lseiser@campworkcoeman.org).
@@ -64,7 +64,7 @@ guarantee a position. Please understand that participation in the CIT program
 in no way guarantees employment.
 
 > %list-group%
-> <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8B2iVWv9Ujfc5gLHb35dWL_DVO6EEh80SJmPyl5liy35sLQ/viewform" class="list-group-item">2019 Online CIT Application</a>
+> <a href="https://docs.google.com/forms/d/1eJjlCDxyYw4tK9FntXnSUeWPSjGn-ylPpnBwPe7e9jw/viewform" class="list-group-item">2020 Staff/CIT Interest Form</a>
 
 If you are interested in being a CIT, please contact Camp Director Lou Seiser
 at [lseiser@campworkcoeman.org](mailto:lseiser@campworkcoeman.org).

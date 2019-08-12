@@ -27,7 +27,7 @@ Search and Rescue Weekend are TBD.
 The Trail to Eagle (T2E) Program is designed for the Scout who has set his goal on reaching the rank of Eagle Scout. It is a unique camping and advancement opportunity to work on Eagle required badges. Guidance on how to select, plan and complete your Eagle Service Project will be featured during the week. All Scouts are placed in a “Trail to Eagle” troop with an experienced staff member as the T2E Scoutmaster. The T2E Camp is open to all Scouts 12 years and up who have earned the First Class rank.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/2019-trail-to-eagle-flier.pdf" class="list-group-item">2019 Trail to Eagle Flier</a>
+> <a href="{{ site.url }}/pdf/2019/2019-trail-to-eagle-flier.pdf" class="list-group-item">2020 Trail to Eagle Flier (Coming Soon)</a>
 > <a href="{{ site.url }}/boy-scouts/trail-to-eagle/" class="list-group-item">More Information</a>
 
 ## Shooting Sports Camp --- TBD
@@ -37,7 +37,7 @@ This is not a typical week of camp. It is a special week where Scouts will conce
 > %list-group%
 > <a href="{{ site.url }}/pdf/2019/2019-shooting-sports-flier.pdf" class="list-group-item">2020 Shooting Sports Camp Flier (Coming Soon)</a>
 
-## PADI Scuba Certification Week --- July 19--25, 2020 and August 2--August 8, 2020
+## PADI Scuba Certification Week --- July 19--25, 2020 and August 2--8, 2020
 
 Scouts spend an entire week at camp devoted to becoming PADI certified scuba divers. Scouts who complete all requirements throughout the week will also earn the Scuba Diving Merit Badge. There is no age requirement; however Scouts under the age of 16 are only eligible to earn a PADI Junior Diver certification. Scouts who are already certified divers can expand their diving experience by earning additional certifications such as: Digital Underwater Photographer, Underwater Naturalist, and Advanced Open Water Diver.
 

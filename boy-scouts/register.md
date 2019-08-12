@@ -2,7 +2,7 @@
 published: true
 layout: generic
 title: 2020 Scouts BSA Camp Registration
-description: This page contains links to the council website to register for the 2019 Camp Workcoeman season.
+description: This page contains links to the council website to register for the 2020 Camp Workcoeman season.
 keywords: "Boy Scout, Scouts BSA, resident camp, 2020, registration, reservation"
 ---
 
@@ -25,8 +25,8 @@ Below, you will find links to the 2020 Camp Workcoeman campsite request form. Th
 > %text-center%
 > **Week #3**<br/>
 > July 19--25, 2020<br/>
-> PADI Scuba Certification Camp<br/>
+> <a href="{{ site.url }}/boy-scouts/special-programs/scuba/">PADI Scuba Certification Camp</a><br/>
 > **Week #5**<br/>
 > August 2--8, 2020<br/>
-> Trail to Eagle Camp<br/>
-> PADI Scuba Certification Camp
+> <a href="{{ site.url }}/boy-scouts/trail-to-eagle/">Trail to Eagle Camp</a><br/>
+> <a href="{{ site.url }}/boy-scouts/special-programs/scuba/">PADI Scuba Certification Camp</a>

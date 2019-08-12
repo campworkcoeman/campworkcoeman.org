@@ -28,7 +28,7 @@ Project will be featured during your week at Camp.
 All Scouts are placed in a "Trail to Eagle" troop. This troop will also
 participate in fun activities too.
 
-The Trail to Eagle program is available to all Boy Scouts who are at least 12 years old and have attained the
+The Trail to Eagle program is available to all Scouts who are at least 12 years old and have attained the
 rank of First Class.
 
 As part of the registration process, Scoutmaster's are required to submit a 
