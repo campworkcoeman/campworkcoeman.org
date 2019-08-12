@@ -1,23 +1,21 @@
 ---
 published: true
 layout: generic
-title: 2019 Summer Camp Planning Information
+title: 2020 Summer Camp Planning Information
 description: At pre-camp planning meetings, all pre-camp planning information will be discussed. All troops should be represented at one of these meetings.
 keywords: pre-camp, planning, meetings
 ---
 
 ## Pre-Camp Leaders Meeting
 
-Pre-camp planning meetings for 2019 will be held Saturday, May 11^th and Saturday, May 18^th; both meetings will begin at 1:30 PM in the Dining Hall. Each troop should send their camp Scoutmaster and Senior Patrol Leader to *one* of these meetings. All pre-camp planning information will be discussed related to
+Dates of pre-camp planning meetings for 2020 are TBD; both meetings will begin at (time TBD) in the Dining Hall. Each troop should send their camp Scoutmaster and Senior Patrol Leader to *one* of these meetings. All pre-camp planning information will be discussed related to
 programs, medical form requirements, and the Sunday check-in process. All
 troops should be represented at one of these meetings. A visit to your campsite is possible with a Camp Commissioner. Please confirm attendance to the Camp Director, Lou Seiser ([lseiser@campworkcoeman.org](mailto:lsesier@campworkcoeman.org)).
 
 An additional pre-camp planning meeting will be held on Long Island:
 > %text-center%
-> Saturday, April 27^th at 10:00 AM<br/>
-> St. Raymond's School Cafeteria<br/>
-> 263 Atlantic Avenue<br/>
-> East Rockaway, NY 11518
+> Date TBD at Time TBD<br/>
+> Location TBD
 
 ### Medical Forms
 

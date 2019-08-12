@@ -6,6 +6,10 @@ description: This page list the fees to attend week-long Boy Scout Resident Summ
 keywords: fees
 ---
 
+<div class="alert alert-info">
+Fees for the 2020 camp season will be posted as soon as they are available.
+</div>
+
 The fees to attend week-long Boy Scout Resident Summer Camp in 2019 are as follows.
 
 ### Scout Fees

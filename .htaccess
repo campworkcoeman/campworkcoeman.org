@@ -81,15 +81,14 @@ Redirect 301 /MEDFORM/ /summer-camp/forms/medical-form-info/
 Redirect 301 /pdf/2015/health-form.pdf /pdf/2019/health-form.pdf
 
 #2019 redirect
-Redirect 301 /2019/ /boy-scouts/register/
-Redirect 301 /2019 /boy-scouts/register/
 Redirect 301 /cubcamp2019/ /cub-scouts/register/
 Redirect 301 /cubcamp2019 /cub-scouts/register/
 Redirect 301 /CubCamp2019/ /cub-scouts/register/
 Redirect 301 /CubCamp2019 /cub-scouts/register/
-Redirect 302 /95th https://forms.gle/Bc2vByQ7PyCQPru87
 
 #2020 redirect
+Redirect 301 /2020/ /boy-scouts/register/
+Redirect 301 /2020 /boy-scouts/register/
 Redirect 301 /CubCamp2020/ /cubcamp2020/
 Redirect 301 /CubCamp2020 /cubcamp2020/
 
