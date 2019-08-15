@@ -10,9 +10,7 @@ Camp Workcoeman offers a number of short term camping options as well as
 meeting areas. Click on the links below for a description for each short term
 facility.
 
-<div class="alert alert-info"><p>Visit the Connecticut Rivers Council site to
-<a href="https://www.ctrivers.org/rentals/periods?filter_by_location=3">reserve any
-Camp Workcoeman facility for your next outing</a>.</p></div>
+<div class="alert alert-info"><p>Online facility reservations are currently unavailable. To reserve a facility, please email Michele Soboslai at <a href="mailto:michele.soboslai@scouting.org">michele.soboslai@scouting.org</a>. Be sure to include your name, phone number, and unit. Rentals are available Labor Day through Memorial Day and rates can be found <a href="https://ctrivers.org/media/uploads/files/users/15/jwaters1/2019_Camp_Rental_Fee_Schedule.pdf">here</a>.</p></div>
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2018/facility-usage-policy.pdf" class="list-group-item">Camp Property Usage Guidelines for Short Term Camping</a>
