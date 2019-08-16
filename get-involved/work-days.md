@@ -12,6 +12,8 @@ Saturday, May 4, 2019 (Moved from April 20 due to rain.)
 
 Saturday, May 11, 2019
 
+Saturday, September 14, 2019
+
 Work days are held periodically to complete various projects at camp.
 
 ## Beaver Day
