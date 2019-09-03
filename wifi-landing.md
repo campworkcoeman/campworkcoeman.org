@@ -12,7 +12,7 @@ Camp Workcoeman should be a year-round destination for your troop or pack. Camps
 
 > %list-group%
 > <a href="{{ site.url }}/short-term-camping/" class="list-group-item">Learn More About Short Term Camping</a>
-> <a href="https://www.ctrivers.org/rentals/periods?filter_by_location=3" class="list-group-item">Make a Reservation</a>
+> <a href="{{ site.url }}/short-term-camping/" class="list-group-item">Make a Reservation</a>
 
 
 ## Request Your Campsite for 2020
