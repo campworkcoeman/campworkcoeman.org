@@ -7,7 +7,8 @@ keywords: "Boy Scout, Scouts BSA, resident camp, 2020, registration, reservation
 ---
 
 > %list-group%
-> <a href="https://docs.google.com/forms/d/1eJjlCDxyYw4tK9FntXnSUeWPSjGn-ylPpnBwPe7e9jw/viewform" class="list-group-item">2020 Staff/CIT Interest Form</a>
+> <a href="https://forms.gle/WCqPNrkxF51FqJJw6" class="list-group-item">2020 Staff Application</a>
+> <a href="https://forms.gle/3h7AZakQRLbFXhrX6" class="list-group-item">2020 CIT Application</a>
 
 Below, you will find links to the 2020 Camp Workcoeman campsite request form. The form and $50 deposit should be turned into the camp office. Registration links will be posted as soon as they are available (likely January 2020).
 
