@@ -8,19 +8,19 @@ keywords: "Cub Scout, camp, 2020"
 
 > %text-center%
 > **Webelos Resident Camp**</br>
-> Dates TBA
+> Week 1: July 5--11, 2020</br>
+> Week 2: July 12--18, 2020</br>
+> Week 3: July 19--25, 2020</br>
+> Week 4: July 26--August 1, 2020</br>
+> Week 5: August 2--8, 2020</br>
+> Week 6: August 9--14, 2020
 >
 > **Cub Scout Mini Week**</br>
-> Dates TBA
+> August 9--12, 2020</br>
+> August 12--15, 2020
 >
-> **Cub Scout Family Weekend**</br>
-> Dates TBA
->
-> **Cub/Webelos Resident Camp**</br>
-> Dates TBA
->
-> **Cub Scout Mini Week**</br>
-> Dates TBA
+> **Workcoeman Family Camp**</br>
+> August 9--14, 2020
 >
 > **Cub Scout Day Camp**</br>
-> Dates TBA
+> August 10--14, 2020
