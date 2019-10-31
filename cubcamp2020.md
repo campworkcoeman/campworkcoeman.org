@@ -6,6 +6,9 @@ description: This page lists Cub Camp dates for the 2020 Camp Workcoeman season.
 keywords: "Cub Scout, camp, 2020"
 ---
 
+> %list-group%
+> <a href="{{ site.url }}/pdf/2020/2020-cub-flier.pdf" class="list-group-item">2020 Cub Scout Camp Preview Flier</a>
+
 > %text-center%
 > **Webelos Resident Camp**</br>
 > Week 1: July 5--11, 2020</br>

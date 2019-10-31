@@ -14,6 +14,8 @@ Saturday, May 11, 2019
 
 Saturday, September 14, 2019
 
+Saturday, November 23, 2019
+
 Work days are held periodically to complete various projects at camp.
 
 ## Beaver Day
