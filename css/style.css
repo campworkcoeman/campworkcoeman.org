@@ -405,6 +405,13 @@ td, th {
   width: 60px;
 }
 
+.sImgNavHolderII {
+  position: absolute;
+  width: 15%;
+  top: 10px;
+  right: 10px;
+}
+
 .sImgNav {
   height: 6px;
   width: 6px;
