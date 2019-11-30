@@ -1,7 +1,7 @@
 ---
 published: true
 layout: news-item
-title: News\: Citizens of Shawtown
+title: News&#58; Citizens of Shawtown
 ---
 
 Update on recent Shawtown activity at camp: Our workday at camp on November 23^rd was a great success, especially due to the large turnout of Shawtown members. It was great!
