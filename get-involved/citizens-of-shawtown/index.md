@@ -38,10 +38,10 @@ Chicken Dinner! We do not collect dues from the membership.
 The Citizens of Shawtown periodically publishes a newsletter updating its members about the organization's activities and about happenings at camp. The newsletter is sent to members and posted on the camp website.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/shawtown-post-camp-2019.pdf" class="list-group-item">Post-Camp 2019 Newsletter</a>
+> <a href="{{ site.url }}/pdf/2019/shawtown-winter-2019.pdf" class="list-group-item">Winter 2019 Newsletter</a>
 > <a href="{{ site.url }}/get-involved/citizens-of-shawtown/archive/" class="list-group-item">Newsletter Archive</a>
 
 ## How do I join?
 
 You can become a member of the Citizens of Shawtown by contacting the group's
-Membership Chair, Brian Cornell, at [bcornell@campworkcoeman.org](mailto:bcornell@campworkcoeman.org).
+Membership Chair, Keith Zwart, at [keith.zwart@gmail.com](mailto:keith.zwart@gmail.com).
