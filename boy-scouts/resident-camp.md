@@ -30,6 +30,8 @@ Sign up today!</a>
 >>> %col-xs-6%
 >>> **Week #4**<br/>
 >>> July 26--August 1, 2020<br/>
+>>> **[Shooting Sports Camp]({{ site.url }}/boy-scouts/specialty/)**<br/>
+>>> **[Conservation Camp]({{ site.url }}/boy-scouts/specialty/)**<br/>
 >
 >> %row%
 >>> %col-xs-6%
