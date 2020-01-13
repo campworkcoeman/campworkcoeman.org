@@ -95,5 +95,5 @@ Email all medical related questions to [nurse@campworkcoeman.org](mailto:nurse@c
 > <a href="{{ site.url }}/pdf/2020/health-form.pdf" class="list-group-item"><strong>Camp Workcoeman Medical Form (2019 Printing)</strong></a>
 > <a href="{{ site.url }}/pdf/2019/med-authorization.pdf" class="list-group-item">Authorization for Administration of Medication</a>
 > <a href="{{ site.url }}/pdf/2019/allergy-treatment.pdf" class="list-group-item">Emergency Treatment Plan for Allergic Reactions</a>
-> <a href="{{ site. url}}/pdf/2019/food-accommodation.pdf" class="list-group-item">Camp Food Accommodation Request</a>
+> <a href="{{ site. url}}/pdf/2020/food-accommodation.pdf" class="list-group-item">Camp Food Accommodation Request</a>
 > <a href="{{ site.url }}/pdf/2019/medical-questionnaire.pdf" class="list-group-item">Medical Screening Questionnaire</a>

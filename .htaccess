@@ -85,9 +85,10 @@ Redirect 301 /HealthForm/ /summer-camp/forms/medical-form-info/
 Redirect 301 /HEALTHFORM /summer-camp/forms/medical-form-info/
 Redirect 301 /HEALTHFORM/ /summer-camp/forms/medical-form-info/
 
-# Updated Med Form (with B1 and B2 labels)
+# Updated Med Form
 Redirect 301 /pdf/2015/health-form.pdf /pdf/2020/health-form.pdf
 Redirect 301 /pdf/2019/health-form.pdf /pdf/2020/health-form.pdf
+Redirect 301 /pdf/2019/food-accommodation.pdf /pdf/2020/food-accommodation.pdf
 
 # Switch Boy Scouts to Scouts BSA
 Redirect 301 /boy-scouts/guides/archive/ /scouts-bsa/guides/archive/
