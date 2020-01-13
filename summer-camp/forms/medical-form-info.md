@@ -19,7 +19,7 @@ All Scouts and Scouters staying at camp more than 72 hours (consecutive or non-c
 If a Scout has a **Care Plan** for school please provide a copy of it with the medical form so any accommodations can be facilitated.  The information is kept confidential on a need to know basis. If a food accommodation is required please complete the **Food Accommodation Request** form also.
 
 <div class="alert alert-info">
-<strong>Please use only the medical forms founds on this site.</strong> Forms published prior to the 2019* printing (bottom right corner) cannot be accepted. The medical form linked from this page can be filled out on the computer using Adobe Reader; many items auto-fill after you enter them the first time. (* for physicals on or after 01/01/2010)
+<strong>Please use only the medical forms found on this site.</strong> Forms published prior to the 2019* printing (bottom right corner) cannot be accepted. The medical form linked from this page can be filled out on the computer using Adobe Reader; many items auto-fill after you enter them the first time. (* for physicals on or after 01/01/2020)
 </div>
 
 All four parts of the BSA form must be completed and submitted along with any *applicable* Authorization for Administration of Medication, Emergency Treatment Plan for Allergic Reactions, and/or Camp Food Accommodation Request forms.
