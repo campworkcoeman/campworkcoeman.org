@@ -50,7 +50,7 @@ leaders may be free according to the schedule below:
 The Connecticut Rivers Council is pleased to offer camperships to Scouts in need of funds to attend camp who might not otherwise do so.  The annual campership fund is limited and flucutates from year to year. Campership Scouts will be afforded the lowest possible rate to attend camp. The unit process for paying for these Scouts is to be determined.
 
 > %list-group%
-> <a href="{{ site.url }}/boy-scouts/fees/camperships/" class="list-group-item">Apply for a Campership</a>
+> <a href="{{ site.url }}/scouts-bsa/fees/camperships/" class="list-group-item">Apply for a Campership</a>
 
 ### Payments
 

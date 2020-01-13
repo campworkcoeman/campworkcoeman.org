@@ -22,20 +22,20 @@ Redirect 301 /directions.htm /about/directions/
 Redirect 301 /Camp_directors.htm /about/camp-directors/
 Redirect 301 /Testimonials.htm /about/testimonials/
 Redirect 301 /camp_staff.htm /about/staff/
-Redirect 301 /dates.html /boy-scouts/resident-camp/
-Redirect 301 /guides.htm /boy-scouts/guides/
-Redirect 301 /Res_camp.htm /boy-scouts/resident-camp/
-Redirect 301 /plan.html /boy-scouts/planning/
-Redirect 301 /Trail_Eagle.htm /boy-scouts/trail-to-eagle/
+Redirect 301 /dates.html /scouts-bsa/resident-camp/
+Redirect 301 /guides.htm /scouts-bsa/guides/
+Redirect 301 /Res_camp.htm /scouts-bsa/resident-camp/
+Redirect 301 /plan.html /scouts-bsa/planning/
+Redirect 301 /Trail_Eagle.htm /scouts-bsa/trail-to-eagle/
 Redirect 301 /Day_camp.htm /cub-scouts/day-camp/
 Redirect 301 /webelos_camp.htm /cub-scouts/webelos-resident-camp/
 Redirect 301 /baloos_camp.html /cub-scouts/family-weekend/
 Redirect 301 /cubexperience_camp.html /cub-scouts/mini-week/
-Redirect 301 /medform.htm /boy-scouts/forms/
-Redirect 301 /campership.htm /boy-scouts/forms/
+Redirect 301 /medform.htm /summer-camp/forms/
+Redirect 301 /campership.htm /scouts-bsa/fees/
 Redirect 301 /staff_app.htm /get-involved/staff/
-Redirect 301 /discover_scuba.html /boy-scouts/special-programs/scuba/
-Redirect 301 /sched_info.htm /boy-scouts/planning/
+Redirect 301 /discover_scuba.html /scouts-bsa/special-programs/scuba/
+Redirect 301 /sched_info.htm /scouts-bsa/planning/
 Redirect 301 /Shawtown.htm /get-involved/citizens-of-shawtown/
 Redirect 301 /work_days2.htm /get-involved/work-days/
 Redirect 301 /campmasters.htm /get-involved/campmasters/
@@ -76,9 +76,46 @@ Redirect 301 /MedForm /summer-camp/forms/medical-form-info/
 Redirect 301 /MedForm/ /summer-camp/forms/medical-form-info/
 Redirect 301 /MEDFORM /summer-camp/forms/medical-form-info/
 Redirect 301 /MEDFORM/ /summer-camp/forms/medical-form-info/
+Redirect 301 /healthform /summer-camp/forms/medical-form-info/
+Redirect 301 /healthform/ /summer-camp/forms/medical-form-info/
+Redirect 301 /Healthform /summer-camp/forms/medical-form-info/
+Redirect 301 /Healthform/ /summer-camp/forms/medical-form-info/
+Redirect 301 /HealthForm /summer-camp/forms/medical-form-info/
+Redirect 301 /HealthForm/ /summer-camp/forms/medical-form-info/
+Redirect 301 /HEALTHFORM /summer-camp/forms/medical-form-info/
+Redirect 301 /HEALTHFORM/ /summer-camp/forms/medical-form-info/
 
 # Updated Med Form (with B1 and B2 labels)
-Redirect 301 /pdf/2015/health-form.pdf /pdf/2019/health-form.pdf
+Redirect 301 /pdf/2015/health-form.pdf /pdf/2020/health-form.pdf
+Redirect 301 /pdf/2019/health-form.pdf /pdf/2020/health-form.pdf
+
+# Switch Boy Scouts to Scouts BSA
+Redirect 301 /boy-scouts/guides/archive/ /scouts-bsa/guides/archive/
+Redirect 301 /boy-scouts/fees/camperships/ /scouts-bsa/fees/camperships/
+Redirect 301 /boy-scouts/guides/ /scouts-bsa/guides/
+Redirect 301 /boy-scouts/fees/ /scouts-bsa/fees/
+Redirect 301 /boy-scouts/special-programs/ /scouts-bsa/special-programs/
+Redirect 301 /boy-scouts/planning/ /scouts-bsa/planning/
+Redirect 301 /boy-scouts/program-areas/ /scouts-bsa/program-areas/
+Redirect 301 /boy-scouts/register/ /scouts-bsa/register
+Redirect 301 /boy-scouts/resident-camp/ /scouts-bsa/resident-camp/
+Redirect 301 /boy-scouts/special-programs/scuba/ /scouts-bsa/special-programs/scuba/
+Redirect 301 /boy-scouts/specialty/ /scouts-bsa/specialty/
+Redirect 301 /boy-scouts/trail-to-eagle/ /scouts-bsa/trail-to-eagle/
+
+Redirect 301 /boy-scouts/guides/archive /scouts-bsa/guides/archive/
+Redirect 301 /boy-scouts/fees/camperships /scouts-bsa/fees/camperships/
+Redirect 301 /boy-scouts/guides /scouts-bsa/guides/
+Redirect 301 /boy-scouts/fees /scouts-bsa/fees/
+Redirect 301 /boy-scouts/special-programs /scouts-bsa/special-programs/
+Redirect 301 /boy-scouts/planning /scouts-bsa/planning/
+Redirect 301 /boy-scouts/program-areas /scouts-bsa/program-areas/
+Redirect 301 /boy-scouts/register /scouts-bsa/register
+Redirect 301 /boy-scouts/resident-camp /scouts-bsa/resident-camp/
+Redirect 301 /boy-scouts/special-programs/scuba /scouts-bsa/special-programs/scuba/
+Redirect 301 /boy-scouts/specialty /scouts-bsa/specialty/
+Redirect 301 /boy-scouts/trail-to-eagle /scouts-bsa/trail-to-eagle/
+
 
 #2019 redirect
 Redirect 301 /cubcamp2019/ /cub-scouts/register/
@@ -87,8 +124,8 @@ Redirect 301 /CubCamp2019/ /cub-scouts/register/
 Redirect 301 /CubCamp2019 /cub-scouts/register/
 
 #2020 redirect
-Redirect 301 /2020/ /boy-scouts/register/
-Redirect 301 /2020 /boy-scouts/register/
+Redirect 301 /2020/ /scouts-bsa/register/
+Redirect 301 /2020 /scouts-bsa/register/
 Redirect 301 /CubCamp2020/ /cubcamp2020/
 Redirect 301 /CubCamp2020 /cubcamp2020/
 
