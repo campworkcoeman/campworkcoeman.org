@@ -3,7 +3,7 @@ published: true
 layout: short-term-facility
 title: Conference Rooms
 capitalize: no
-rentalURL: https://www.ctrivers.org/rentals/periods?filter_by_location=3
+rentalURL: https://campreservation.com/066/Camps/636
 keywords: conference rooms, rental
 ---
 

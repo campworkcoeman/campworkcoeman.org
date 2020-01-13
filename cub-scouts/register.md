@@ -7,7 +7,7 @@ keywords: register, sign up, camp
 ---
 
 <div class="alert alert-info">
-Having trouble registering? Visit the <a href="https://www.ctrivers.org/registration-help">registration help page</a> on the Council website for a step-by-step guide.
+Having trouble registering? Scroll to the bottom of the <a href="https://ctscouting.org/calendar/">calendar page</a> on the Council website for step-by-step videos.
 </div>
 
 > %list-group%

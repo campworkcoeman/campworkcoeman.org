@@ -3,7 +3,7 @@ published: true
 layout: short-term-facility
 title: Boathouse
 capitalize: no
-rentalURL: https://www.ctrivers.org/rentals/periods?filter_by_location=3
+rentalURL: https://campreservation.com/066/Camps/636
 keywords: boathouse, cabin, rental
 ---
 

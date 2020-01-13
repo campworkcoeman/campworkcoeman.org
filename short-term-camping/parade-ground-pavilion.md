@@ -3,7 +3,7 @@ published: true
 layout: short-term-facility
 title: Parade Ground Pavilion
 capitalize: no
-rentalURL: https://www.ctrivers.org/rentals/periods?filter_by_location=3
+rentalURL: https://campreservation.com/066/Camps/636
 keywords: Parade Ground Pavilion, pavilion, rental
 ---
 
