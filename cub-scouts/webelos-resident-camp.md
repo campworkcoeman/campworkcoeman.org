@@ -15,7 +15,7 @@ keywords: Webelos, resident camp
 Fun, adventure, and excitement await all Webelos Scouts at Camp Workcoeman!
 This action-packed 6 day, 5 night resident camp is designed for first and
 second year Webelos Scouts as they complete their Cub Scout journey and prepare
-for the transition to Boy Scouts. The Camp Workcoeman Staff has prepared a variety
+for the transition to Scouts BSA. The Camp Workcoeman Staff has prepared a variety
 of activities for Scouts to enjoy including:
 
 * Swimming

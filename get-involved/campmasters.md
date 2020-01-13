@@ -28,8 +28,8 @@ of any new members. All Campmasters must have a record of demonstrated ability
 to get along with people, to lead, and to act in an emergency.
 
 All Campmasters must have a working knowledge of the Scouting program and
-advancement. Registered Scouters, with experience in Cub Scout, Boy Scout, and
-Venture are eligible for consideration as Campmasters.
+advancement. Registered Scouters, with experience in Cub Scouts, Scouts BSA, and
+Venturing are eligible for consideration as Campmasters.
 
 If you are interested in being a Campmaster, please contact Ranger Frank
 Galliher at (860) 379-2207 or [rangerfrank@campworkcoeman.org](mailto:rangerfrank@campworkcoeman.org). 

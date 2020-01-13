@@ -13,7 +13,7 @@ keywords: testimonials
 > are disappearing because someone forgot to "care." Great facility and fun
 > programs. I was impressed!
 
-### Boy Scout Troop 33
+### Scouts BSA Troop 33
 #### Pleasant Valley, NY
 
 > Dear Lou,

@@ -68,7 +68,7 @@ program is always age-appropriate.
 An action packed week for 4^th and 5^th graders who are ready for a week-long
 camp experience. The program focuses on the Adventure of Scouting where Scouts
 can earn activity pins and other advancement opportunities. Webelos also get
-the opportunity to see what awaits them in the Boy Scout program.
+the opportunity to see what awaits them in the Scouts BSA program.
 
 > %list-group%
 > <a href="{{ site.url }}/cub-scouts/webelos-resident-camp/" class="list-group-item">Learn more&hellip;</a>

@@ -18,7 +18,7 @@ spend time under water to see what it is all about.
 ## Pistol Shooting Program
 
 Camp Workcoeman has been chosen as one of twelve camps in the country to pilot
-a Boy Scout Summer Camp Pistol Shooting Program. This program is open to Scouts
+a Scouts BSA Summer Camp Pistol Shooting Program. This program is open to Scouts
 who are thirteen years old and have completed the eighth grade. For more
 information, see the flier below.
 
