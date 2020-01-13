@@ -44,9 +44,9 @@ The goal of the week is to prepare participants to develop and complete a signif
 > %list-group%
 > <a href="{{ site.url }}/pdf/2020/2020-specialty-flier.pdf" class="list-group-item">2020 Specialty Camps Flier</a>
 
-## PADI Scuba Certification Week --- July 19--25, 2020 and August 2--8, 2020
+## Scuba Certification Week --- July 19--25, 2020 and August 2--8, 2020
 
-Scouts spend an entire week at camp devoted to becoming PADI certified scuba divers. Scouts who complete all requirements throughout the week will also earn the Scuba Diving Merit Badge. There is no age requirement; however Scouts under the age of 16 are only eligible to earn a PADI Junior Diver certification. Scouts who are already certified divers can expand their diving experience by earning additional certifications such as: Digital Underwater Photographer, Underwater Naturalist, and Advanced Open Water Diver.
+Scouts spend an entire week at camp devoted to becoming open water certified scuba divers. Scouts who complete all requirements throughout the week will also earn the Scuba Diving Merit Badge. There is no age requirement; however Scouts under the age of 16 may only be eligible to earn a junior diver certification. Scouts who are already certified divers can expand their diving experience and might earn additional certifications such as: Digital Underwater Photographer, Underwater Naturalist, and Advanced Open Water Diver.
 
 Is your unit planning on attending the Florida Sea Base? If so, get your required SCUBA certification while attending a week of Scouts BSA camp at Camp Workcoeman. Located in the scenic hills of northwestern Connecticut, Camp Workcoeman boasts one of the cleanest lakes around---perfect for learning to SCUBA dive locally in New England.
 
