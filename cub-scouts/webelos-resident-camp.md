@@ -2,7 +2,7 @@
 published: true
 layout: generic
 title: Webelos Resident Camp
-description: This action-packed 6 day, 5 night resident camp is designed for first and second year Webelos Scouts as they complete their Cub Scout journey and prepare for transition to Boy Scouts.
+description: This action-packed 6 day, 5 night resident camp is designed for first and second year Webelos Scouts as they complete their Cub Scout journey and prepare for transition to Scouts BSA.
 keywords: Webelos, resident camp
 ---
 

@@ -13,7 +13,7 @@ The Connecticut Rivers Council believes all Scouts should have the opportunity t
 The deadline for the submissions is April 1^st.  Any Campership applications received after April 1^st (or incomplete campership applications not completed before April 1^st) will be put into a pool for consideration of any remaining funds.
 
 > %list-group%
-> <a href="https://goo.gl/forms/ZqQAj5Lq2enCLkPn2" class="list-group-item">Apply for a 2019 Boy Scout Resident Camp Campership</a>
+> <a href="https://goo.gl/forms/ZqQAj5Lq2enCLkPn2" class="list-group-item">Apply for a 2019 Scouts BSA Resident Camp Campership</a>
 > <a href="https://goo.gl/forms/Jr0nDaOknjNCnW6y1" class="list-group-item">Apply for a 2019 Cub Scout or Webelos Resident Camp Campership</a>
 > <a href="https://goo.gl/forms/sW6JXLBrwVOaEXnA2" class="list-group-item">Apply for a 2019 Cub Scout Day Camp Campership</a>
 
