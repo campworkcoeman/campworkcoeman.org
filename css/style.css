@@ -468,6 +468,14 @@ td, th {
   border-left: 0 none;
 }
 
+.modified-list-group-item-3 {
+  display: block;
+  padding: 10px 15px;
+  border-top: 0 none;
+  border-right: 0 none;
+  border-left: 0 none;
+}
+
 .modified-button {
   position: absolute;
   top: 25%;
