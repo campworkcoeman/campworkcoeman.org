@@ -21,6 +21,12 @@ Early Fee: $435
   If paid in full by **May 1, 2020, the fee will be $435**; payments received
   after **May 1, 2020** will be charged the regular rate of $460.
 
+Regular Fee: $460
+: The fee is $460 for payments made between May 1, 2020 and June 15, 2020.
+
+Late Fee: $495
+: The fee is $495 for payments made after June 15, 2020.
+
 ### Discounts for Scouts
 
 Encore (2^nd week of camp): $335
