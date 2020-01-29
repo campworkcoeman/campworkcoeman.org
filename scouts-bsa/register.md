@@ -6,6 +6,10 @@ description: This page contains links to the council website to register for the
 keywords: "Boy Scout, Scouts BSA, resident camp, 2020, registration, reservation"
 ---
 
+<div class="alert alert-info">
+Having trouble registering? Scroll to the bottom of the <a href="https://ctscouting.org/calendar/">calendar page</a> on the Council website for step-by-step videos.
+</div>
+
 > %list-group%
 > <a href="https://forms.gle/WCqPNrkxF51FqJJw6" class="list-group-item">2020 Staff Application</a>
 > <a href="https://forms.gle/3h7AZakQRLbFXhrX6" class="list-group-item">2020 CIT Application</a>

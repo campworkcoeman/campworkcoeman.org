@@ -37,8 +37,8 @@ free-style program that will allow open program times and unmatched flexibility
 for you and your family. With this fresh new program, we will also be able to
 provide exciting opportunities for the entire family of Scouting. This program
 will offer something for all ages, Cubs right through to Scouts BSA. It is also
-open to families and friends who are non-scouts (just as one person in the party
-need to be a member of Scouting).
+open to families and friends who are non-scouts (just one person in the party
+needs to be a member of Scouting).
 
 > %list-group%
 > <a href="{{ site.url }}/cub-scouts/family-camp/" class="list-group-item">Learn more&hellip;</a>

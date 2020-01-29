@@ -1,13 +1,13 @@
 ---
 published: true
 layout: generic
-title: Webelos Resident Camp
+title: Webelos Sleepaway Camp
 description: This action-packed 6 day, 5 night resident camp is designed for first and second year Webelos Scouts as they complete their Cub Scout journey and prepare for transition to Scouts BSA.
 keywords: Webelos, resident camp
 ---
 
 <div class="alert alert-info">
-<a href="{{ site.url }}/cub-scouts/register/">Click here</a> to sign your Scout up for Webelos Resident Camp at Camp Workcoeman. Sign up today! <a href="{{ site.url }}/cub-scouts/fees/">Click here</a> for camp fee information.
+<a href="{{ site.url }}/cub-scouts/register/">Click here</a> to sign your Scout up for Webelos Sleepaway Camp at Camp Workcoeman. Sign up today! <a href="{{ site.url }}/cub-scouts/fees/">Click here</a> for camp fee information.
 </div>
 
 ### July 5--11, 2020; July 12--18, 2020; July 19--25, 2020; July 26--August 1, 2020; and August 2--8, 2020
