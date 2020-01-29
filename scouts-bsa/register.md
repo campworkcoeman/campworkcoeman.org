@@ -28,7 +28,7 @@ Below, you will find links to the Council event registration website to request 
 > <a href="{{ site.url }}/scouts-bsa/special-programs/">Search and Rescue Merit Badge</a><br/>
 > **Week #3**<br/>
 > July 19--25, 2020<br/>
-> <a href="{{ site.url }}/scouts-bsa/special-programs/scuba/">PADI Scuba Certification Camp</a><br/>
+> <a href="{{ site.url }}/scouts-bsa/special-programs/scuba/">Scuba Certification Camp</a><br/>
 > **Week #4**<br/>
 > July 26--August 1, 2020<br/>
 > <a href="{{ site.url }}/scouts-bsa/specialty/">Shooting Sports Camp</a><br/>
@@ -36,4 +36,4 @@ Below, you will find links to the Council event registration website to request 
 > **Week #5**<br/>
 > August 2--8, 2020<br/>
 > <a href="{{ site.url }}/scouts-bsa/trail-to-eagle/">Trail to Eagle Camp</a><br/>
-> <a href="{{ site.url }}/scouts-bsa/special-programs/scuba/">PADI Scuba Certification Camp</a>
+> <a href="{{ site.url }}/scouts-bsa/special-programs/scuba/">Scuba Certification Camp</a>
