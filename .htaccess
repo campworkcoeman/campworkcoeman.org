@@ -117,6 +117,9 @@ Redirect 301 /boy-scouts/special-programs/scuba /scouts-bsa/special-programs/scu
 Redirect 301 /boy-scouts/specialty /scouts-bsa/specialty/
 Redirect 301 /boy-scouts/trail-to-eagle /scouts-bsa/trail-to-eagle/
 
+# 2020 Cub Scout Changes
+Redirect 301 /cub-scouts/family-weekend/ /cub-scouts/family-camp/
+Redirect 301 /cub-scouts/cub-resident-camp/ /cub-scouts/mini-week/
 
 #2019 redirect
 Redirect 301 /cubcamp2019/ /cub-scouts/register/

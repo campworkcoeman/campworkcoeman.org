@@ -1,18 +1,18 @@
 ---
 published: true
 layout: generic
-title: Cub Scout Mini Week
-description: Cub Experience Camp is a 3 day, 2 night mini camp especially designed for Cubs who have never been away at camp that is great for all Cub Scouts who are looking to try a resident camp with their adult partner.
-keywords: Cub Scout, mini week
+title: Cub Scout Sleepaway Camp (Mini Week)
+description: Cub Scout Sleepaway Camp is a 4 day, 3 night mini camp especially designed for Cubs who have never been away at camp that is great for all Cub Scouts who are looking to try a resident camp with their adult partner.
+keywords: Cub Scout, mini week, sleepaway camp
 ---
 
 <div class="alert alert-info">
-<a href="{{ site.url }}/cub-scouts/register/">Click here</a> to sign your Scout up for a Cub Scout Mini Week at Camp Workcoeman. Sign up today! <a href="{{ site.url }}/cub-scouts/fees/">Click here</a> for camp fee information.
+<a href="{{ site.url }}/cub-scouts/register/">Click here</a> to sign your Scout up for a Cub Scout Sleepaway Camp at Camp Workcoeman. Sign up today! <a href="{{ site.url }}/cub-scouts/fees/">Click here</a> for camp fee information.
 </div>
 
-### June 30--July 3 and August 4--7, 2019
+### August 9--12, 2020 and August 12--15, 2020
 
-Cub Experience Camp is a 4 day, 3 night mini camp that is great for all Cub
+Cub Scout Sleepaway Camp is a 4 day, 3 night mini camp that is great for all Cub
 Scouts who are looking to try a resident camp with their adult partner. This
 camp is especially designed for Cubs who have never been away at camp and will
 have a blast experiencing all that camp has to offer.
@@ -41,12 +41,13 @@ Nationally Accredited Camp by the BSA and has a long history in Scouting since
 Cub Experience Camp promotes fun with a purpose and allows Cub Scouts to work
 on some advancement as well.
 
-Be sure to sign up today and don't miss out!
+Be sure to sign up today and don't miss out! For even more fun, sign up for both
+sessions to spend a full week at camp.
 
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/2019-cub-leader-guide.pdf" class="list-group-item">2019 Cub Scout Leader Guide</a>
+> <a href="{{ site.url }}/pdf/2019/2019-cub-leader-guide.pdf" class="list-group-item">2020 Cub Scout Leader Guide (Coming Soon)</a>
 > <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Resident Camp Medical Forms and Information</a>
 > <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">Cub Camp Fee Information</a>
 

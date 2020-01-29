@@ -11,18 +11,22 @@ Having trouble registering? Scroll to the bottom of the <a href="https://ctscout
 </div>
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/2019-cub-scout-flier.pdf" class="list-group-item">2019 Cub Camp Flier</a>
-> <a href="{{ site.url }}/pdf/2019/2019-crc-cub.pdf" class="list-group-item">2019 CT Rivers Council Cub Camping Overview</a>
-> <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">2019 Cub Camp Fee Information</a>
+> <a href="{{ site.url }}/pdf/2019/2019-cub-scout-flier.pdf" class="list-group-item">2020 Cub Camp Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2019/2019-crc-cub.pdf" class="list-group-item">2020 CT Rivers Council Cub Camping Overview (Coming Soon)</a>
+> <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">2020 Cub Camp Fee Information</a>
 
 Below, you will find links to the council website to register for each camp program.
 
 ## Cub Scout Programs
 
 > %list-group%
-> <a href="https://ctrivers.org/event/2019-camp-workcoeman-webelos-camp/9457" class="list-group-item">Webelos Resident Camp --- June 30--July 5, 2019</a>
-> <a href="https://ctrivers.org/event/2019-camp-workcoeman-webelos-mini-week/9458" class="list-group-item">Cub Scout Mini Week --- June 30--July 3, 2019</a>
-> <a href="https://ctrivers.org/event/2019-camp-workcoeman-family-camp/9449" class="list-group-item">Cub Scout Family Weekend --- July 6--7, 2019</a>
-> <a href="https://ctrivers.org/event/2019-camp-workcoeman-cub-scoutwebelos-resident-camp/9451" class="list-group-item">Cub/Webelos Resident Camp --- August 4--9, 2019</a>
-> <a href="https://ctrivers.org/event/2019-camp-workcoeman-cub-scout-mini-week/9450" class="list-group-item">Cub Scout Mini Week --- August 4--7, 2019</a>
-> <a href="https://ctrivers.org/event/2019-camp-workcoeman-day-camp/9663" class="list-group-item">Cub Scout Day Camp --- August 12--16, 2019</a>
+> <a href="https://scoutingevent.com/066-34012" class="list-group-item">Webelos Sleepaway Camp --- July 5--11, 2020</a>
+> <a href="https://scoutingevent.com/066-34012" class="list-group-item">Webelos Sleepaway Camp --- July 12--18, 2020</a>
+> <a href="https://scoutingevent.com/066-34012" class="list-group-item">Webelos Sleepaway Camp --- July 19--25, 2020</a>
+> <a href="https://scoutingevent.com/066-34012" class="list-group-item">Webelos Sleepaway Camp --- July 26--August 1, 2020</a>
+> <a href="https://scoutingevent.com/066-34012" class="list-group-item">Webelos Sleepaway Camp --- August 2--8, 2020</a>
+> <a href="https://scoutingevent.com/066-34012" class="list-group-item">Cub Scout Sleepaway Camp (Mini Week) --- August 9--12, 2020</a>
+> <a href="https://scoutingevent.com/066-34012" class="list-group-item">Cub Scout Sleepaway Camp (Mini Week) --- August 12--15, 2020</a>
+> <a href="https://scoutingevent.com/066-34736" class="list-group-item">Free Style Family Camp --- August 10--12, 2020</a>
+> <a href="https://scoutingevent.com/066-34736" class="list-group-item">Free Style Family Camp --- August 12--14, 2020</a>
+> <a href="https://scoutingevent.com/066-33992" class="list-group-item">Cub Scout Day Camp --- August 10--14, 2020</a>
