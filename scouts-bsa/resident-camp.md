@@ -6,8 +6,8 @@ keywords: "Boy Scout, Scouts BSA, resident camp"
 ---
 
 <div class="alert alert-info">
-Campsite reservation for the 2020 camp season is now open.
-<a href="{{ site.url }}/2020/">
+Registration for the 2020 camp season is now open.
+<a href="{{ site.url }}/scouts-bsa/register/">
 Sign up today!</a>
 </div>
 
