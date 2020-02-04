@@ -7,9 +7,9 @@ keywords: special programs, programs
 
 ## Scuba
 
-A new challenge for older Scouts who would like to discover the depths of West
+A new challenge for Scouts who would like to discover the depths of West
 Hill Pond. Every week a professional instructor will come to camp to teach
-Scouts 13 and older about scuba diving. All participants will have a chance to
+Scouts about scuba diving. All participants will have a chance to
 spend time under water to see what it is all about.
 
 > %list-group%

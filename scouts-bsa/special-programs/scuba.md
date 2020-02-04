@@ -23,7 +23,7 @@ supervision of a scuba professional in confined conditions. During your
 adventure, you'll master some basic concepts and scuba skills and will
 experience an open water adventure.
 
-The weekly course is open to Scouts and Scouters age 13 and over and requires
+The weekly course is open to Scouts and Scouters and requires
 an extra fee of $50 per participant. Anyone interested should sign up early as
 space is limited.
 
