@@ -11,8 +11,8 @@ Cub Scouts to have fun and adventure! Below are the various programs that are
 scheduled throughout the summer.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/2019-cub-scout-flier.pdf" class="list-group-item">2020 Cub Camping Preview Flier (Coming Soon)</a>
-> <a href="{{ site.url }}/pdf/2019/2019-crc-cub.pdf" class="list-group-item">2020 CT Rivers Council Cub Camping Overview (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2020/2020-cub-flier.pdf" class="list-group-item">2020 Cub Camping Preview Flier</a>
+> <a href="{{ site.url }}/pdf/2020/2020-crc-cub-mailer.pdf" class="list-group-item">2020 CT Rivers Council Cub Camping Mailer</a>
 > <a href="{{ site.url }}/pdf/2019/2019-cub-leader-guide.pdf" class="list-group-item">2020 Cub Scout Leader Guide (Coming Soon)</a>
 
 ## Cub Scout Day Camp
@@ -69,8 +69,8 @@ the opportunity to see what awaits them in the Scouts BSA program.
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/2019-cub-scout-flier.pdf" class="list-group-item">2020 Cub Camping Preview Flier (Coming Soon)</a>
-> <a href="{{ site.url }}/pdf/2019/2019-crc-cub.pdf" class="list-group-item">2020 CT Rivers Council Cub Camping Overview (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2020/2020-cub-flier.pdf" class="list-group-item">2020 Cub Camping Preview Flier</a>
+> <a href="{{ site.url }}/pdf/2020/2020-crc-cub-mailer.pdf" class="list-group-item">2020 CT Rivers Council Cub Camping Mailer</a>
 > <a href="{{ site.url }}/pdf/2019/2019-cub-leader-guide.pdf" class="list-group-item">2020 Cub Scout Leader Guide (Coming Soon)</a>
 > <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Resident Camp Medical Forms and Information</a>
 > <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">Cub Camp Fee Information</a>

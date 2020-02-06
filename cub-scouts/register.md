@@ -11,8 +11,8 @@ Having trouble registering? Scroll to the bottom of the <a href="https://ctscout
 </div>
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/2019-cub-scout-flier.pdf" class="list-group-item">2020 Cub Camp Flier (Coming Soon)</a>
-> <a href="{{ site.url }}/pdf/2019/2019-crc-cub.pdf" class="list-group-item">2020 CT Rivers Council Cub Camping Overview (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2020/2020-cub-flier.pdf" class="list-group-item">2020 Cub Camp Preview Flier</a>
+> <a href="{{ site.url }}/pdf/2020/2020-crc-cub-mailer.pdf" class="list-group-item">2020 CT Rivers Council Cub Camping Mailer</a>
 > <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">2020 Cub Camp Fee Information</a>
 
 Below, you will find links to the council website to register for each camp program.
