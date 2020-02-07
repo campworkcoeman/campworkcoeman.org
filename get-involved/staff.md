@@ -53,9 +53,10 @@ members. Participants will work in all areas of camp and gain first-hand
 experiences to understand what it really takes to operate the high-quality
 programs of Camp Workcoeman.
 
-The cost of the program is $150. Participants must be at least 14 years old.
-All participants will be evaluated at the end of the week and could be offered
-to stay for another week based on their performance.
+The cost for the program was $150 in 2019; rates for 2020 have not yet been
+finalized. Participants must be at least 14 years old. All participants will be
+evaluated at the end of the week and could be offered to stay for another week
+based on their performance.
 
 Those who successfully complete this program will be seriously considered for
 future camp staff positions. Those that participate in the CIT Program enhance
