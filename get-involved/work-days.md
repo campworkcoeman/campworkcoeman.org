@@ -8,7 +8,9 @@ keywords: work days, volunteer
 
 ## Shawtown Work Days
 
-Pre-planned mini-work parties (in conjunction with the Ranger's needs) will be held from 8:30 AM to 3:00 PM on the 4^th Saturday of each month. Coffee "and" at 8:30 AM and lunch will be provided. We will tackle jobs large and small throughout the camp to assure an awesome experience for any Scouts or Scouters attending Camp Workcoeman this year and for years to come!
+Pre-planned mini-work parties (in conjunction with the Ranger's needs) will be held from 8:30 AM to 3:00 PM on (generally) the 4^th Saturday of each month. Coffee "and" at 8:30 AM and lunch will be provided. We will tackle jobs large and small throughout the camp to assure an awesome experience for any Scouts or Scouters attending Camp Workcoeman this year and for years to come!
+
+If you plan on attending, please register on the [council website](https://scoutingevent.com/066-34204) or email Ranger Frank [rangerfrank@campworkcoeman.org](mailto:rangerfrank@campworkcoeman.org) by the Sunday before the work day to let him know you're coming; he'll let you know by the following Wednesday the projects to be addressed and any special attire or equipment needs.
 
 Saturday, February 22, 2020
 
@@ -16,9 +18,9 @@ Saturday, March 28, 2020
 
 Saturday, April 25, 2020
 
-Saturday, May 23, 2020
+Saturday, May 16, 2020 (Note: Third Saturday, OA Weekend)
 
-(Beaver Day)
+Saturday, June 6, 2020 (Note: First Saturday, Beaver Day)
 
 Saturday, July 25, 2020
 
