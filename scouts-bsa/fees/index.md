@@ -7,8 +7,8 @@ keywords: fees
 ---
 
 <div class="alert alert-info">
-Campsite reservation for the 2020 camp season is now open.
-<a href="{{ site.url }}/2020/">
+Registration for the 2020 camp season is now open.
+<a href="{{ site.url }}/scouts-bsa/register/">
 Sign up today!</a>
 </div>
 
@@ -63,12 +63,11 @@ March 15^th and the beginning of the troop's week at camp.
 
 ### Camperships
 
-The Connecticut Rivers Council will continue to award camperships to assist 
-Scouts in need of funds to attend camp who might not otherwise do so. The annual
- campership fund is limited and fluctuates from year to year. Similar to Webelos
- crossovers and new Scouts, campership Scouts will also be afforded the lowest 
-possible rate to attend camp. The unit process for paying for these Scouts is to
- be determined.
+The Connecticut Rivers Council makes an effort to see that all Scouts have the
+chance to benefit from the programs offered at our three Camps. Should a Scout's
+family be in a financial situation where assistance is needed, they may apply
+for a campership. Please know that camperships do not cover the full cost of
+registration, and are subject to approval by the Campership Committee. 
 
 > %list-group%
 > <a href="{{ site.url }}/boy-scouts/fees/camperships/" class="list-group-item">Apply for a Campership</a>
