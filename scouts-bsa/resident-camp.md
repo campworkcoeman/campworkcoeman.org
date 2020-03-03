@@ -42,8 +42,8 @@ Sign up today!</a>
 
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/2019-program-guide.pdf" class="list-group-item">2020 Program Guide (Coming Soon)</a>
-> <a href="{{ site.url }}/pdf/2019/2019-schedule.pdf" class="list-group-item">2020 Daily Program Schedule (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2020/2020-program-guide.pdf" class="list-group-item">2020 Program Guide</a>
+> <a href="{{ site.url }}/pdf/2020/2020-schedule.pdf" class="list-group-item">2020 Daily Program Schedule</a>
 > <a href="{{ site.url }}/pdf/2020/2020-merit-badges.pdf" class="list-group-item">2020 Merit Badge Selections</a>
 > <a href="{{ site.url }}/pdf/2020/2020-scouts-bsa-flier.pdf" class="list-group-item">2020 Resident Camp Preview Flier</a>
 

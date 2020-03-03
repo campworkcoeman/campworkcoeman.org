@@ -8,13 +8,13 @@ keywords: pre-camp, planning, meetings
 
 ## Pre-Camp Leaders Meeting
 
-Dates of pre-camp planning meetings for 2020 are TBD; both meetings will begin at (time TBD) in the Dining Hall. Each troop should send their camp Scoutmaster and Senior Patrol Leader to *one* of these meetings. All pre-camp planning information will be discussed related to
+Dates of pre-camp planning meetings for 2020 are May 2^nd and May 30^th; both meetings will begin at 1:30 PM in the Dining Hall. Each troop should send their camp Scoutmaster and Senior Patrol Leader to *one* of these meetings. All pre-camp planning information will be discussed related to
 programs, medical form requirements, and the Sunday check-in process. All
 troops should be represented at one of these meetings. A visit to your campsite is possible with a Camp Commissioner. Please confirm attendance to the Camp Director, Lou Seiser ([lseiser@campworkcoeman.org](mailto:lsesier@campworkcoeman.org)).
 
 An additional pre-camp planning meeting will be held on Long Island:
 > %text-center%
-> Date TBD at Time TBD<br/>
+> April 25, 2020 at 10:00 AM<br/>
 > Location TBD
 
 ### Medical Forms
