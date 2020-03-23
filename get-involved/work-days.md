@@ -14,7 +14,7 @@ If you plan on attending, please register on the [council website](https://scout
 
 Saturday, February 22, 2020
 
-Saturday, March 28, 2020
+~~Saturday, March 28, 2020~~ Canceled
 
 Saturday, April 25, 2020
 
