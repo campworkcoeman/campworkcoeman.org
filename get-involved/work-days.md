@@ -6,6 +6,10 @@ description: Members of the camp community who are currently retired gather at c
 keywords: work days, volunteer
 ---
 
+<div class="alert alert-warning">
+<strong>All work days are canceled until further notice due to COVID-19.</strong>
+</div>
+
 ## Shawtown Work Days
 
 Pre-planned mini-work parties (in conjunction with the Ranger's needs) will be held from 8:30 AM to 3:00 PM on (generally) the 4^th Saturday of each month. Coffee "and" at 8:30 AM and lunch will be provided. We will tackle jobs large and small throughout the camp to assure an awesome experience for any Scouts or Scouters attending Camp Workcoeman this year and for years to come!
@@ -14,11 +18,11 @@ If you plan on attending, please register on the [council website](https://scout
 
 Saturday, February 22, 2020
 
-~~Saturday, March 28, 2020~~ Canceled
+~~Saturday, March 28, 2020~~ **Canceled**
 
-Saturday, April 25, 2020
+~~Saturday, April 25, 2020~~ **Canceled**
 
-Saturday, May 16, 2020 (Note: Third Saturday, OA Weekend)
+~~Saturday, May 16, 2020 (Note: Third Saturday, OA Weekend)~~ *Stay tuned for updates.*
 
 Saturday, June 6, 2020 (Note: First Saturday, Beaver Day)
 
