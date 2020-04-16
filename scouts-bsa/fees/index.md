@@ -74,7 +74,7 @@ for a campership. Please know that camperships do not cover the full cost of
 registration, and are subject to approval by the Campership Committee. 
 
 > %list-group%
-> <a href="{{ site.url }}/boy-scouts/fees/camperships/" class="list-group-item">Apply for a Campership</a>
+> <a href="{{ site.url }}/scouts-bsa/fees/camperships/" class="list-group-item">Apply for a Campership</a>
 
 ### Specialty Camp Programs
 
