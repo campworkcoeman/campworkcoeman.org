@@ -25,23 +25,13 @@
 {{ content }}
 </div>
 
-{% comment %} Calculate number of posts {% endcomment %}
-{% for scouting-at-home in site.posts %}
-  {% if scouting-at-home.layout == 'scouting-at-home' %}
-    {% capture scouting-at-home_count %} {{ scouting-at-home_count | plus: 1 }} {% endcapture %}
-  {% endif %}
-{% endfor %}
-{% comment %} Calculate if last scouting-at-home hack http://ecommerce.shopify.com/c/ecommerce-design/t/comparing-numbers-with-string-variables-in-liquid-37229 {% endcomment %}
-{% capture difference %}{{ scouting-at-home_count | minus: page.number }}{% endcapture %}
-{% capture difference %}{{ difference | minus: 1 }}{% endcapture %}
-
 <ul class="pager">
-{% unless page.number == 1 %}
-  <li class="previous"><a href="{{ site.url }}/scouting-at-home/{{ page.number | minus: 1 }}/">&larr; Previous</a></li>
-{% endunless %}
-{% unless difference contains '-' %}
-  <li class="next"><a href="{{ site.url }}/scouting-at-home/{{ page.number | plus: 1 }}/">Next &rarr;</a></li>
-{% endunless %}
+{% if page.previous %}
+  <li class="previous"><a href="{{ page.previous.url }}">&larr; {{ page.previous.title }}</a></li>
+{% endif %}
+{% if page.next %}
+  <li class="next"><a href="{{ page.next.url }}">{{ page.next.title }} &rarr;</a></li>
+{% endif %}
 </ul>
 
 </div>
@@ -51,7 +41,7 @@
           <div class="list-group">
 {% for i in (1..scouting-at-home_count) %}
   {% for p in site.posts %}
-    {% if p.layout == 'vignettes' and p.number == i %}
+    {% if p.layout == 'scouting-at-home' and p.number == i %}
       {% capture diffA %}{{ page.number | minus: i }}{% endcapture %}
       {% capture diffA %}{{ diffA | minus: 1 }}{% endcapture %}
       {% capture diffB %}{{ page.number | minus: i }}{% endcapture %}

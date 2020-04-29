@@ -32,7 +32,7 @@ keywords: scouting, home
     {% if p.layout == 'scouting-at-home' and p.number == number %}
 <div class="col-6 col-sm-6 col-lg-4">
   <h2>{{ p.title }}</h2>
-  {{ p.content | markdownify | truncatewords: 40 }}</p>
+  {{ p.content | markdownify | truncatewords: 40 | strip_html}}</p>
   <p><a class="btn btn-default" href="{{ site.url }}{{ p.url }}" role="button">Read more &raquo;</a></p>
 </div><!--/span-->
       {% cycle '','','</div><div class="row">' %}
