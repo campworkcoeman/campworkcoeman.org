@@ -26,7 +26,7 @@
 </div>
 
 {% comment %} Calculate number of posts {% endcomment %}
-{% for scouting-at-home in site.pages %}
+{% for scouting-at-home in site.posts %}
   {% if scouting-at-home.layout == 'scouting-at-home' %}
     {% capture scouting-at-home_count %} {{ scouting-at-home_count | plus: 1 }} {% endcapture %}
   {% endif %}
@@ -50,7 +50,7 @@
 <h4>Scouting at Home Activities</h4>
           <div class="list-group">
 {% for i in (1..scouting-at-home_count) %}
-  {% for p in site.pages %}
+  {% for p in site.posts %}
     {% if p.layout == 'vignettes' and p.number == i %}
       {% capture diffA %}{{ page.number | minus: i }}{% endcapture %}
       {% capture diffA %}{{ diffA | minus: 1 }}{% endcapture %}
