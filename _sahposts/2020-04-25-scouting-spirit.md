@@ -7,4 +7,4 @@ number: 2
 
 Join in a lunch time song as we participate in the Connecticut Rivers Council April Virtual Camporee. Program Director Tom helps you show your Scouting Spirit with this song.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o6fqPg3JSrk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width: 640px; width: 100%; height: 360px; border: none;" src="//www.youtube-nocookie.com/embed/o6fqPg3JSrk" allowfullscreen></iframe>
