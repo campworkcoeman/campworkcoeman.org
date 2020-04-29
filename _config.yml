@@ -12,4 +12,3 @@ url: http://campworkcoeman.org
 collections:
     sahposts:
         output: true
-collections_dir: scouting-at-home
