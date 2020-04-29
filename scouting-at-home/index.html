@@ -20,7 +20,7 @@ keywords: scouting, home
       </div>
 
 {% comment %} Calculate number of scouting-at-home {% endcomment %}
-{% for scouting-at-home in site.posts %}
+{% for scouting-at-home in site.sahposts %}
   {% if scouting-at-home.layout == 'scouting-at-home' %}
     {% capture scouting-at-home_count %} {{ scouting-at-home_count | plus: 1 }} {% endcapture %}
   {% endif %}
@@ -28,11 +28,11 @@ keywords: scouting, home
 
 <div class="row">
 {% for number in (1..scouting-at-home_count) %}
-  {% for p in site.posts %}
+  {% for p in site.sahposts %}
     {% if p.layout == 'scouting-at-home' and p.number == number %}
 <div class="col-6 col-sm-6 col-lg-4">
   <h2>{{ p.title }}</h2>
-  {{ p.content | markdownify | truncatewords: 40 | strip_html}}</p>
+  {{ p.content | markdownify | strip_html | truncatewords: 40}}</p>
   <p><a class="btn btn-default" href="{{ site.url }}{{ p.url }}" role="button">Read more &raquo;</a></p>
 </div><!--/span-->
       {% cycle '','','</div><div class="row">' %}

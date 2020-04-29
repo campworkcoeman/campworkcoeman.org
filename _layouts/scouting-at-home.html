@@ -40,7 +40,7 @@
 <h4>Scouting at Home Activities</h4>
           <div class="list-group">
 {% for i in (1..scouting-at-home_count) %}
-  {% for p in site.posts %}
+  {% for p in site.sahposts %}
     {% if p.layout == 'scouting-at-home' and p.number == i %}
       {% capture diffA %}{{ page.number | minus: i }}{% endcapture %}
       {% capture diffA %}{{ diffA | minus: 1 }}{% endcapture %}
