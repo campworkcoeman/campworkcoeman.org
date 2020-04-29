@@ -42,15 +42,10 @@
 {% for i in (1..scouting-at-home_count) %}
   {% for p in site.sahposts %}
     {% if p.layout == 'scouting-at-home' and p.number == i %}
-      {% capture diffA %}{{ page.number | minus: i }}{% endcapture %}
-      {% capture diffA %}{{ diffA | minus: 1 }}{% endcapture %}
-      {% capture diffB %}{{ page.number | minus: i }}{% endcapture %}
-      {% capture diffB %}{{ diffB | times: -1 }}{% endcapture %}
-      {% capture diffB %}{{ diffB | minus: 1 }}{% endcapture %}
-      {% if diffA contains '-' and diffB contains '-' %}
+      {% if page.url == p.url %}
             <a href="{{ site.url }}{{ p.url }}" class="list-group-item active">{{ p.title }} ({{ p.date | date_to_string }})</a>
       {% else %}
-            <a href="{{ site.url }}{{ p.url }}" class="list-group-item">{{ p.title }}</a>
+            <a href="{{ site.url }}{{ p.url }}" class="list-group-item">{{ p.title }} ({{ p.date | date_to_string }})</a>
       {% endif %}
     {% endif %}
   {% endfor %}

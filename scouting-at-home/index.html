@@ -32,6 +32,9 @@ keywords: scouting, home
     {% if p.layout == 'scouting-at-home' and p.number == number %}
 <div class="col-6 col-sm-6 col-lg-4">
   <h2>{{ p.title }}</h2>
+  <div class="post-date">
+    {{ page.date | date_to_string }}
+  </div>
   {{ p.content | markdownify | strip_html | truncatewords: 40}}</p>
   <p><a class="btn btn-default" href="{{ site.url }}{{ p.url }}" role="button">Read more &raquo;</a></p>
 </div><!--/span-->
