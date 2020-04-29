@@ -1,2 +1,4 @@
 # Ignore built site
 _site/
+Gemfile
+Gemfile.lock

@@ -39,6 +39,13 @@
 <div class="col-sm-4" id="sidebar" role="navigation">
 <h4>Scouting at Home Activities</h4>
           <div class="list-group">
+{% for p in site.sahposts %}
+      {% if page.url == p.url %}
+<a href="{{ site.url }}{{ p.url }}" class="list-group-item active">{{ p.title }}</a>
+      {% else %}
+<a href="{{ site.url }}{{ p.url }}" class="list-group-item">{{ p.title }} <span class="post-date-home">{{ p.date | date_to_string }}</span></a>
+      {% endif %}
+{% endfor %}
 {% for i in (1..scouting-at-home_count) %}
   {% for p in site.sahposts %}
     {% if p.layout == 'scouting-at-home' and p.number == i %}

@@ -12,3 +12,4 @@ url: http://campworkcoeman.org
 collections:
     sahposts:
         output: true
+        permalink: /scouting-at-home/:year/:month/:day/:title/
