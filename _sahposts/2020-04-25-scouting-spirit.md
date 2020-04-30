@@ -2,7 +2,7 @@
 published: true
 layout: scouting-at-home
 title: Scouting Spirit Song
-number: 2
+number: 4
 ---
 
 Join in a lunch time song as we participate in the Connecticut Rivers Council April Virtual Camporee. Program Director Tom helps you show your Scouting Spirit with this song.

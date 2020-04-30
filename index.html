@@ -79,7 +79,7 @@ priority: 1
         <h3 class="panel-title">News & Events</h3>
       </div>
       <div class="list-group">
-        {% for post in site.posts limit: 6 %}
+        {% for post in site.posts limit: 3 %}
         <div class="list-group-item">
           <h4 class="list-group-item-heading"><a href="{{ post.url }}">{{ post.title }}</a> <span class="post-date-home">{{ post.date | date_to_string }}</span></h4>
           {{ post.content | markdownify }}
