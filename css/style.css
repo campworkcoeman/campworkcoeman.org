@@ -365,9 +365,13 @@ html, body {
 td, th {
   padding-right: 1em;
 }
-.alert-danger a {
+.alert-danger a, .text-muted a {
   /* Improve contrast */
   color: #2b689c;
+}
+.text-muted {
+  /* Improve contrast */
+  color: #666;
 }
 
 
