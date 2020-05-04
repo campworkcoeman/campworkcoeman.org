@@ -244,15 +244,15 @@ body {
   margin-top: 10px;
   margin-right: 5px;
   margin-left: 5px;
-  fill: #777;
+  fill: #666;
 }
 
 .branding:hover .logo {
-  fill: #5e5e5e;
+  fill: #333;
 }
 
 .branding:hover .navbar-brand {
-  color: rgb(94, 94, 94);
+  color: #333;
 }
 
 .navbar-brand {
@@ -353,8 +353,8 @@ html, body {
   padding-bottom: 15px;
   line-height: 20px;
 }
-.navbar-default .navbar-nav > li > div {
-  color: rgb(119, 119, 119);
+.navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav > li > div {
+  color: #666;
 }
 .navbar-collapse.collapse {
   display: none;
@@ -364,6 +364,10 @@ html, body {
 }
 td, th {
   padding-right: 1em;
+}
+.alert-danger a {
+  /* Improve contrast */
+  color: #2b689c;
 }
 
 
@@ -438,11 +442,11 @@ td, th {
 
 .post-date {
   margin: -10px 0 10px;
-  color: #999;
+  color: #757575;
 }
 
 .post-date-home {
-  color: #999;
+  color: #757575;
   font-size: 10pt;
 }
 
