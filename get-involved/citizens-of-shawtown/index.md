@@ -35,7 +35,7 @@ Chicken Dinner! We do not collect dues from the membership.
 
 ## Steak Dinner
 
-The Citizens annually hold a Steak Dinner and Silent Auction in support of camp after the annual Beaver Day work day. All members of the camp and surrounding community are invited whether they attend the work day or not. In 2020, Beaver Day will begin at 8:30 AM on Saturday, June 6 and the Steak Dinner will begin at 6:00 PM with the Silent Auction immediately following.
+The Citizens annually hold a Steak Dinner and Silent Auction in support of camp after the annual Beaver Day work day. All members of the camp and surrounding community are invited whether they attend the work day or not. *The Steak Dinner originally scheduled for June 2020 has been canceled due to COVID-19 restrictions; it may be rescheduled for later in the year if conditions permit ([more info]({{ site.url }}/about/news/2020/05/04/steak-dinner-canceled/)).*
 
 ## Newsletter
 
