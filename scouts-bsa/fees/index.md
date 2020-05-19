@@ -7,13 +7,7 @@ keywords: fees
 ---
 
 <div class="alert alert-info">
-Registration for the 2020 camp season is now open.
-<a href="{{ site.url }}/scouts-bsa/register/">
-Sign up today!</a>
-</div>
-
-<div class="alert alert-warning">
-Note: Due to the COVID-19 pandemic the deadline for early bird deposits has been suspended.
+Regularly scheduled summer camp programs have been canceled for 2020. These fees are no longer valid.
 </div>
 
 The fees to attend week-long Scouts BSA Resident Summer Camp in 2020 are as follows.

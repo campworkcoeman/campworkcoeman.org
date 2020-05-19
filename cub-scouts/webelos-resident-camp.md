@@ -7,10 +7,10 @@ keywords: Webelos, resident camp
 ---
 
 <div class="alert alert-info">
-<a href="{{ site.url }}/cub-scouts/register/">Click here</a> to sign your Scout up for Webelos Sleepaway Camp at Camp Workcoeman. Sign up today! <a href="{{ site.url }}/cub-scouts/fees/">Click here</a> for camp fee information.
+Webelos Sleepaway Camp has been canceled for 2020.
 </div>
 
-### July 5--11, 2020; July 12--18, 2020; July 19--25, 2020; July 26--August 1, 2020; and August 2--8, 2020
+### ~~July 5--11, 2020; July 12--18, 2020; July 19--25, 2020; July 26--August 1, 2020; and August 2--8, 2020~~
 
 Fun, adventure, and excitement await all Webelos Scouts at Camp Workcoeman!
 This action-packed 6 day, 5 night resident camp is designed for first and
@@ -43,7 +43,7 @@ Space is limited.
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/2019-cub-leader-guide.pdf" class="list-group-item">2020 Cub Scout Leader Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2019/2019-cub-leader-guide.pdf" class="list-group-item"><del>2020 Cub Scout Leader Guide (Coming Soon)</del></a>
 > <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Resident Camp Medical Forms and Information</a>
 > <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">Cub Camp Fee Information</a>
 

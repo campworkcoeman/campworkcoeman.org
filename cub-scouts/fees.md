@@ -6,6 +6,10 @@ description: This page list the fees to attend Cub Scout Summer Camp programs in
 keywords: fees
 ---
 
+<div class="alert alert-info">
+Regularly scheduled summer programs have been canceled for 2020. These fees are no longer valid.
+</div>
+
 > %list-group%
 > <a href="{{ site.url }}/cub-scouts/register/" class="list-group-item">Register for Cub Scout Camp</a>
 

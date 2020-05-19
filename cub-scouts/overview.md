@@ -11,13 +11,13 @@ Cub Scouts to have fun and adventure! Below are the various programs that are
 scheduled throughout the summer.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2020/2020-cub-flier.pdf" class="list-group-item">2020 Cub Camping Preview Flier</a>
-> <a href="{{ site.url }}/pdf/2020/2020-crc-cub-mailer.pdf" class="list-group-item">2020 CT Rivers Council Cub Camping Mailer</a>
-> <a href="{{ site.url }}/pdf/2019/2019-cub-leader-guide.pdf" class="list-group-item">2020 Cub Scout Leader Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2020/2020-cub-flier.pdf" class="list-group-item"><del>2020 Cub Camping Preview Flier</del></a>
+> <a href="{{ site.url }}/pdf/2020/2020-crc-cub-mailer.pdf" class="list-group-item"><del>2020 CT Rivers Council Cub Camping Mailer</del></a>
+> <a href="{{ site.url }}/pdf/2019/2019-cub-leader-guide.pdf" class="list-group-item"><del>2020 Cub Scout Leader Guide (Coming Soon)</del></a>
 
 ## Cub Scout Day Camp
 
-#### August 10--14, 2020
+#### ~~August 10--14, 2020~~
 
 Day Camp features all the fun and excitement of summer camp without the
 overnight element. Scouts are introduced to the Cub Scout summer camp program
@@ -29,7 +29,7 @@ and some advancement.
 
 ## Free Style Family Camp
 
-#### August 10--12, 2020 and August 12--14, 2020
+#### ~~August 10--12, 2020 and August 12--14, 2020~~
 
 We are excited to announce that Camp Workcoeman will be offering a dynamic new
 camping program for the summer of 2020. This new program is a Family Camping
@@ -45,7 +45,7 @@ needs to be a member of Scouting).
 
 ## Cub Scout Sleepaway Camp (Mini Week)
 
-#### August 9--12, 2020 and August 12--15, 2020
+#### ~~August 9--12, 2020 and August 12--15, 2020~~
 
 This is a shorter overnight experience for Cubs and their adult partners. Cub
 Scouts will get a taste of those great summer camp programs. This opportunity
@@ -56,7 +56,7 @@ will allow for some advancement but the main emphasis is **fun**!
 
 ## Webelos Sleepaway Camp
 
-#### July 5--11, 2020; July 12--18, 2020; July 19--25, 2020; July 26--August 1, 2020; and August 2--8, 2020
+#### ~~July 5--11, 2020; July 12--18, 2020; July 19--25, 2020; July 26--August 1, 2020; and August 2--8, 2020~~
 
 An action packed week for 4^th and 5^th graders who are ready for a week-long
 camp experience. The program focuses on the Adventure of Scouting where Scouts
@@ -69,9 +69,9 @@ the opportunity to see what awaits them in the Scouts BSA program.
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2020/2020-cub-flier.pdf" class="list-group-item">2020 Cub Camping Preview Flier</a>
-> <a href="{{ site.url }}/pdf/2020/2020-crc-cub-mailer.pdf" class="list-group-item">2020 CT Rivers Council Cub Camping Mailer</a>
-> <a href="{{ site.url }}/pdf/2019/2019-cub-leader-guide.pdf" class="list-group-item">2020 Cub Scout Leader Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2020/2020-cub-flier.pdf" class="list-group-item"><del>2020 Cub Camping Preview Flier</del></a>
+> <a href="{{ site.url }}/pdf/2020/2020-crc-cub-mailer.pdf" class="list-group-item"><del>2020 CT Rivers Council Cub Camping Mailer</del></a>
+> <a href="{{ site.url }}/pdf/2019/2019-cub-leader-guide.pdf" class="list-group-item"><del>2020 Cub Scout Leader Guide (Coming Soon)</del></a>
 > <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Resident Camp Medical Forms and Information</a>
 > <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">Cub Camp Fee Information</a>
 > <a href="{{ site.url }}/scouts-bsa/fees/camperships/" class="list-group-item">Apply for a Campership</a>

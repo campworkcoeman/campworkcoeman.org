@@ -7,10 +7,10 @@ keywords: Cub Scout, Scouts BSA, family, free style
 ---
 
 <div class="alert alert-info">
-<a href="{{ site.url }}/cub-scouts/register/">Click here</a> to sign your family up for Free Style Family Camp at Camp Workcoeman. Sign up today! <a href="{{ site.url }}/cub-scouts/fees/">Click here</a> for camp fee information.
+Free Style Family Camp has been canceled for 2020 as originally scheduled.
 </div>
 
-### August 10--12, 2020 and August 12--14, 2020
+### ~~August 10--12, 2020 and August 12--14, 2020~~
 
 Summer camp is not just for Scouts...it's for families too!
 
@@ -32,7 +32,7 @@ Be sure to sign up to sign up today and don't miss out!
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/2019-cub-leader-guide.pdf" class="list-group-item">2020 Cub Scout Leader Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2019/2019-cub-leader-guide.pdf" class="list-group-item"><del>2020 Cub Scout Leader Guide (Coming Soon)</del></a>
 > <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Resident Camp Medical Forms and Information</a>
 > <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">Cub Camp Fee Information</a>
 

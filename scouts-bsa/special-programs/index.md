@@ -23,7 +23,7 @@ who are thirteen years old and have completed the eighth grade. For more
 information, see the flier below.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/2019-pistol-flier.pdf" class="list-group-item">2020 Pistol Shooting Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2019/2019-pistol-flier.pdf" class="list-group-item"><del>2020 Pistol Shooting Flier (Coming Soon)</del></a>
 > <a href="{{ site.url }}/pdf/2017/2017-pistol-pilot-program-release-agreement.pdf" class="list-group-item">Pistol Program Release Agreement</a>
 
 ## Search and Rescue Merit Badge
@@ -32,10 +32,10 @@ This one day program is designed to introduce Scouts the various skills
 required in Search and Rescue. A series of stations will teach the skills
 required to complete the merit badge. The program will culminate with a search
 and rescue drill allowing Scouts to demonstrate the skills learned. The merit
-badge will be offered on Saturday, July 11, 2020 and costs $60.
+badge was canceled for 2020.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2020/2020-sar-flier.pdf" class="list-group-item">2020 Search and Rescue Merit Badge Flier</a>
+> <a href="{{ site.url }}/pdf/2020/2020-sar-flier.pdf" class="list-group-item"><del>2020 Search and Rescue Merit Badge Flier</del></a>
 
 ## Shawtown Outpost Trek
 

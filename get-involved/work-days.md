@@ -22,9 +22,9 @@ Saturday, February 22, 2020
 
 ~~Saturday, April 25, 2020~~ **Canceled**
 
-~~Saturday, May 16, 2020 (Note: Third Saturday, OA Weekend)~~ *Stay tuned for updates.*
+~~Saturday, May 16, 2020 (Note: Third Saturday, OA Weekend)~~ **Canceled**
 
-Saturday, June 6, 2020 (Note: First Saturday, Beaver Day)
+~~Saturday, June 6, 2020 (Note: First Saturday, Beaver Day)~~ **Canceled**
 
 Saturday, July 25, 2020
 
@@ -40,10 +40,10 @@ Saturday, November 28, 2020
 
 ## Beaver Day
 
-Saturday, June 6, 2020
+~~Saturday, June 6, 2020~~ **Canceled**
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/2019-beaver-day-flier.pdf" class="list-group-item">2020 Beaver Day Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2019/2019-beaver-day-flier.pdf" class="list-group-item"><del>2020 Beaver Day Flier (Coming Soon)</del></a>
 
 ## Retiree Corp
 

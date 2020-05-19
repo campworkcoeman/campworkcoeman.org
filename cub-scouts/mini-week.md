@@ -7,10 +7,10 @@ keywords: Cub Scout, mini week, sleepaway camp
 ---
 
 <div class="alert alert-info">
-<a href="{{ site.url }}/cub-scouts/register/">Click here</a> to sign your Scout up for a Cub Scout Sleepaway Camp at Camp Workcoeman. Sign up today! <a href="{{ site.url }}/cub-scouts/fees/">Click here</a> for camp fee information.
+Cub Scout Sleepaway Camp has been canceled for 2020.
 </div>
 
-### August 9--12, 2020 and August 12--15, 2020
+### ~~August 9--12, 2020 and August 12--15, 2020~~
 
 Cub Scout Sleepaway Camp is a 4 day, 3 night mini camp that is great for all Cub
 Scouts who are looking to try a resident camp with their adult partner. This
@@ -47,7 +47,7 @@ sessions to spend a full week at camp.
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/2019-cub-leader-guide.pdf" class="list-group-item">2020 Cub Scout Leader Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2019/2019-cub-leader-guide.pdf" class="list-group-item"><del>2020 Cub Scout Leader Guide (Coming Soon)</del></a>
 > <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Resident Camp Medical Forms and Information</a>
 > <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">Cub Camp Fee Information</a>
 

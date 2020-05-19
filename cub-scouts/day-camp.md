@@ -7,10 +7,10 @@ keywords: Cub Scout, day camp
 ---
 
 <div class="alert alert-info">
-<a href="{{ site.url }}/cub-scouts/register/">Click here</a> to sign your Scout up for Cub Scout Day Camp at Camp Workcoeman. Sign up today! <a href="{{ site.url }}/cub-scouts/fees/">Click here</a> for camp fee information.
+Cub Scout day camp has been canceled for 2020.
 </div>
 
-### August 10--14, 2020
+### ~~August 10--14, 2020~~
 
 Camp Workcoeman will once again host a week long Cub Scout Day Camp!
 
@@ -33,7 +33,7 @@ Be sure to sign up for this summer blast today!
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/2019-cub-leader-guide.pdf" class="list-group-item">2020 Cub Scout Leader Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2019/2019-cub-leader-guide.pdf" class="list-group-item"><del>2020 Cub Scout Leader Guide (Coming Soon)</del></a>
 > <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Camp Medical Forms and Information (Part C [Physical] not Required for Day Camp)</a>
 > <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">Cub Camp Fee Information</a>
 

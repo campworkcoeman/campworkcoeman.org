@@ -49,5 +49,5 @@ For additional information contact Program Director Tom Leisten at
 (860) 379-2207 or [tleisten@campworkcoeman.org](mailto:tleisten@campworkcoeman.org).
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2020/2020-scuba-flier.pdf" class="list-group-item">2020 Scuba Flier</a>
+> <a href="{{ site.url }}/pdf/2020/2020-scuba-flier.pdf" class="list-group-item"><del>2020 Scuba Flier</del></a>
 > <a href="{{ site.url }}/scouts-bsa/register/" class="list-group-item">Register for an open water Scuba Certification Week</a>
