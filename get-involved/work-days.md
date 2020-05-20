@@ -24,7 +24,7 @@ Saturday, February 22, 2020
 
 ~~Saturday, May 16, 2020 (Note: Third Saturday, OA Weekend)~~ **Canceled**
 
-~~Saturday, June 6, 2020 (Note: First Saturday, Beaver Day)~~ **Canceled**
+~~Saturday, June 6, 2020 (Note: First Saturday, Beaver Day)~~ **Postponed Indefinitely**
 
 Saturday, July 25, 2020
 
