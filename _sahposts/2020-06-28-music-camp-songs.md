@@ -1,7 +1,7 @@
 ---
 published: true
 layout: scouting-at-home
-title: Songs and Skits: Laurel Music Camp Edition
+title: Songs and Skits&#58; Laurel Music Camp Edition
 number: 9
 ---
 

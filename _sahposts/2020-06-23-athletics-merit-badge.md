@@ -1,7 +1,7 @@
 ---
 published: true
 layout: scouting-at-home
-title: Athletics Merit Badge &emdash; Let's Run
+title: Athletics Merit Badge &mdash; Let&rsquo;s Run
 number: 8
 ---
 
