@@ -6,17 +6,17 @@ description: This page contains information on and links to the council website 
 keywords: "Cub Scout, resident camp, 2020, registration, reservation, fall programs"
 ---
 
-## Workcoeman Adventure Weekend --- September 11--13, 2020
+## Workcoeman Adventure Weekend --- September 12 & 13, 2020
 
-Looking to go camping? Cubs, Scouts BSA, and families are invited to join in the Scouting excitement for a weekend of advancement and Workcoeman fun. Scouts will have the opportunity to work towards and earn merit badges. Cubs will be challenged to grow through adventure pins. Families will be able to share in the activities and spend the weekend together enjoying the various facilities at Camp Workcoeman. The weekend is open to Scouting units, individual campers who will form a provisional group, and family camping programs.
-
-> %list-group%
-> <a href="https://scoutingevent.com/066-WorkcoemanAdventureWeekend" class="list-group-item">Register for Workcoeman Adventure Weekend</a>
-
-## Webelos Woods --- September 18--20, 2020
-
-Webelos Woods is a camping weekend for Webelos and Arrow of Light Scouts and dens with parents and/or den leaders. Scouts will have the chance to signup in advance for specific adventure badges and activities such as shooting sports and sport competitions. Attending this event will help Scouts earn either their Webelos or Arrow of Light Award and to have a successful transition to a Scouts BSA troop later in the Scouting year.
+It's time to put the outing back into Scouting! Cubs, Scouts BSA, and families are invited to join for a day of Scouting fun and advancement at Camp Workcoeman. Come out for a day to experience the swimming, boating, shooting sports, and wilderness that was missing this summer. Various camp amenities will be available to enjoy throughout the day or sign-up for one of the many merit badge or advancement programs offered. This event has a max capacity of 80 people, so first come first serve. A full list of Cub Scout advancement opportunities, full day Scouts BSA merit badges, and Discover Scuba details are listed on the registration page.
 
 > %list-group%
-> <a href="https://scoutingevent.com/066-WebelosWoods2020" class="list-group-item">Register for Webelos Woods</a>
+> <a href="https://scoutingevent.com/066-2020WorkcoemanAdventure" class="list-group-item">Register for Workcoeman Adventure Weekend</a>
+
+## Webelos Adventure --- September 19 or 20, 2020
+
+Webelos Adventure is a day event for Webelos and Arrow of Light Scouts and Dens with parents and/or Den Leaders. Scouts can choose to eattend either Saturday or Sunday. Attending this event will help Scouts to earn either their Webelos or Arrow of Light award and to have a successful transition to a Scouts BSA Troop laster in the Scouting year. A full list of the 90 minute adventures is provided on the registration page
+
+> %list-group%
+> <a href="https://scoutingevent.com/066-WebelosAdventure2020" class="list-group-item">Register for Webelos Adventure</a>
 
