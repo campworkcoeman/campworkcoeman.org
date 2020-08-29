@@ -6,7 +6,7 @@ description: This page contains information on and links to the council website 
 keywords: "Cub Scout, resident camp, 2020, registration, reservation, fall programs"
 ---
 
-## Workcoeman Adventure Weekend --- September 12 & 13, 2020
+## Workcoeman Adventure Weekend --- September 12 and/or 13, 2020
 
 It's time to put the outing back into Scouting! Cubs, Scouts BSA, and families are invited to join for a day of Scouting fun and advancement at Camp Workcoeman. Come out for a day to experience the swimming, boating, shooting sports, and wilderness that was missing this summer. Various camp amenities will be available to enjoy throughout the day or sign-up for one of the many merit badge or advancement programs offered. This event has a max capacity of 80 people, so first come first serve. A full list of Cub Scout advancement opportunities, full day Scouts BSA merit badges, and Discover Scuba details are listed on the registration page.
 
