@@ -40,7 +40,7 @@ Saturday, February 22, 2020
 
 [Saturday, August 29, 2020]({{ site.url }}/about/news/2020/08/09/shawtown-august-work-day/)
 
-Saturday, September 26, 2020
+[Saturday, September 26, 2020]({{ site.url }}/about/news/2020/09/18/shawtown-september-work-day/)
 
 Saturday, October 24, 2020
 
