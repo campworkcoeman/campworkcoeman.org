@@ -6,7 +6,7 @@ keywords: "Boy Scout, Scouts BSA, resident camp"
 ---
 
 <div class="alert alert-info">
-Scouts BSA resident camp has been canceled for the 2020 season. Dates for 2021 have not yet been announced.
+Scouts BSA resident camp has been canceled for the 2020 season.
 </div>
 
 > %text-center%
