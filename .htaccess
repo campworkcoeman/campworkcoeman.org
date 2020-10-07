@@ -136,10 +136,10 @@ Redirect 301 /BoatRace /about/news/2020/07/27/regatta/
 Redirect 301 /BoatRace/ /about/news/2020/07/27/regatta/
 Redirect 301 /BOATRACE /about/news/2020/07/27/regatta/
 Redirect 301 /BOATRACE/ /about/news/2020/07/27/regatta/
-Redirect 301 /t2e/ https://scoutingevent.com/066-Workcoemaneagleexperience
-Redirect 301 /t2e https://scoutingevent.com/066-Workcoemaneagleexperience
-Redirect 301 /T2E/ https://scoutingevent.com/066-Workcoemaneagleexperience
-Redirect 301 /T2E https://scoutingevent.com/066-Workcoemaneagleexperience
+Redirect 302 /t2e/ https://scoutingevent.com/066-Workcoemaneagleexperience
+Redirect 302 /t2e https://scoutingevent.com/066-Workcoemaneagleexperience
+Redirect 302 /T2E/ https://scoutingevent.com/066-Workcoemaneagleexperience
+Redirect 302 /T2E https://scoutingevent.com/066-Workcoemaneagleexperience
 
 # Block SEMalt botnet and other referral spam
 SetEnvIfNoCase Referer fbdownloader.com spammer=yes
