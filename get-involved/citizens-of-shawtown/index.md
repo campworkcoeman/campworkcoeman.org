@@ -42,7 +42,7 @@ The Citizens annually hold a Steak Dinner and Silent Auction in support of camp 
 The Citizens of Shawtown periodically publishes a newsletter updating its members about the organization's activities and about happenings at camp. The newsletter is sent to members and posted on the camp website.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2020/shawtown-spring-2020.pdf" class="list-group-item">Spring 2020 Newsletter</a>
+> <a href="{{ site.url }}/pdf/2020/shawtown-summer-2020.pdf" class="list-group-item">Summer 2020 Newsletter</a>
 > <a href="{{ site.url }}/get-involved/citizens-of-shawtown/archive/" class="list-group-item">Newsletter Archive</a>
 
 ## How do I join?
