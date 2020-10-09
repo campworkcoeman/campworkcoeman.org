@@ -42,9 +42,9 @@ Saturday, February 22, 2020
 
 [Saturday, September 26, 2020]({{ site.url }}/about/news/2020/09/18/shawtown-september-work-day/)
 
-Saturday, October 24, 2020
+[Saturday, October 24, 2020]({{ site.url }}/about/news/2020/10/09/shawtown-fall-work-days/)
 
-Saturday, November 28, 2020
+[Saturday, November 28, 2020]({{ site.url }}/about/news/2020/10/09/shawtown-fall-work-days/)
 
 (No December work day)
 
