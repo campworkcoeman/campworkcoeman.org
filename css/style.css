@@ -257,6 +257,7 @@ body {
 
 .navbar-brand {
   margin-left: -15px;
+  color: #666;
 }
 @media (min-width: 768px) {
   .navbar-brand {
@@ -271,7 +272,7 @@ body {
  */
 
 .social a {
-  color: #777;
+  color: #666;
   text-decoration: none;
 }
 .social a:hover {
