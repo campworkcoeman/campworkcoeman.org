@@ -7,6 +7,7 @@ keywords: newsletter, Citizens of Shawtown, archive
 
 ## 2020
 > %list-group%
+> <a href="{{ site.url }}/pdf/2020/shawtown-winter-2020.pdf" class="list-group-item">Winter 2020 Newsletter</a>
 > <a href="{{ site.url }}/pdf/2020/shawtown-summer-2020.pdf" class="list-group-item">Summer 2020 Newsletter</a>
 > <a href="{{ site.url }}/pdf/2020/shawtown-spring-2020.pdf" class="list-group-item">Spring 2020 Newsletter</a>
 
