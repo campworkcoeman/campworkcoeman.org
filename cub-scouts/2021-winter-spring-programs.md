@@ -13,7 +13,7 @@ Calling all Polar Cubs for this exciting new adventure for Cubs and friends! Cub
 > %list-group%
 > <a href="https://scoutingevent.com/066-43410" class="list-group-item">Register for Polar Cubs</a>
 
-## Winter Cub Extravaganza --- February 6, 2021
+## Winter Cub Extravaganza --- March 6, 2021
 
 Come for a day of winter fun at Camp Workcoeman. More info coming soon.
 
