@@ -129,17 +129,13 @@ Redirect 301 /cubcamp2020 /cub-scouts/register/
 Redirect 301 /CubCamp2020/ /cub-scouts/register/
 Redirect 301 /CubCamp2020 /cub-scouts/register/
 
-# Misc Short Links
-Redirect 301 /boatrace /about/news/2020/07/27/regatta/
-Redirect 301 /boatrace/ /about/news/2020/07/27/regatta/
-Redirect 301 /BoatRace /about/news/2020/07/27/regatta/
-Redirect 301 /BoatRace/ /about/news/2020/07/27/regatta/
-Redirect 301 /BOATRACE /about/news/2020/07/27/regatta/
-Redirect 301 /BOATRACE/ /about/news/2020/07/27/regatta/
-Redirect 302 /t2e/ https://scoutingevent.com/066-Workcoemaneagleexperience
-Redirect 302 /t2e https://scoutingevent.com/066-Workcoemaneagleexperience
-Redirect 302 /T2E/ https://scoutingevent.com/066-Workcoemaneagleexperience
-Redirect 302 /T2E https://scoutingevent.com/066-Workcoemaneagleexperience
+# Misc Temp Short Links
+Redirect 302 /winteradventure /about/news/2020/07/27/regatta/
+Redirect 302 /winteradventure/ /about/news/2020/07/27/regatta/
+Redirect 302 /WinterAdventure /about/news/2020/07/27/regatta/
+Redirect 302 /WinterAdventure/ /about/news/2020/07/27/regatta/
+Redirect 302 /WINTERADVENTURE /about/news/2020/07/27/regatta/
+Redirect 302 /WINTERADVENTURE/ /about/news/2020/07/27/regatta/
 
 # Block SEMalt botnet and other referral spam
 SetEnvIfNoCase Referer fbdownloader.com spammer=yes

@@ -8,7 +8,7 @@ keywords: "Cub Scout, resident camp, 2021, registration, reservation, winter/spr
 
 ## Polar Cubs --- Feburary 6, 2021
 
-Calling all Polar Cubs for this exciting new adventure for Cubs and friends! Cubs will participate in fun activities in the morning with BB and archery in the afternoon. This program will run from 10 AM--4 PM and lunch will be provided.   Indoor space will be available to warm up, but please dress for the weather. For check in, please bring a Health Form parts A-B as well as the COVID questionnaire.
+Calling all Polar Cubs for this exciting new adventure for Cubs and friends! Cubs will participate in fun activities in the morning with BB and archery in the afternoon. This program will run from 10 AM--2 PM and lunch will be provided.   Indoor space will be available to warm up, but please dress for the weather. For check in, please bring a Health Form parts A-B as well as the COVID questionnaire.
 
 > %list-group%
 > <a href="https://scoutingevent.com/066-43410" class="list-group-item">Register for Polar Cubs</a>
