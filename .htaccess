@@ -130,12 +130,12 @@ Redirect 301 /CubCamp2020/ /cub-scouts/register/
 Redirect 301 /CubCamp2020 /cub-scouts/register/
 
 # Misc Temp Short Links
-Redirect 302 /winteradventure /about/news/2020/07/27/regatta/
-Redirect 302 /winteradventure/ /about/news/2020/07/27/regatta/
-Redirect 302 /WinterAdventure /about/news/2020/07/27/regatta/
-Redirect 302 /WinterAdventure/ /about/news/2020/07/27/regatta/
-Redirect 302 /WINTERADVENTURE /about/news/2020/07/27/regatta/
-Redirect 302 /WINTERADVENTURE/ /about/news/2020/07/27/regatta/
+Redirect 302 /winteradventure https://scoutingevent.com/066-43411
+Redirect 302 /winteradventure/ https://scoutingevent.com/066-43411
+Redirect 302 /WinterAdventure https://scoutingevent.com/066-43411
+Redirect 302 /WinterAdventure/ https://scoutingevent.com/066-43411
+Redirect 302 /WINTERADVENTURE https://scoutingevent.com/066-43411
+Redirect 302 /WINTERADVENTURE/ https://scoutingevent.com/066-43411
 
 # Block SEMalt botnet and other referral spam
 SetEnvIfNoCase Referer fbdownloader.com spammer=yes
