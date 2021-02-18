@@ -7,10 +7,12 @@ keywords: Cub Scout, day camp
 ---
 
 <div class="alert alert-info">
-Cub Scout day camp has been canceled for 2020.
+Registration for summer 2021 day camp is now open.
+<a href="{{ site.url }}/cub-scots/register/">
+Sign up today!</a>
 </div>
 
-### ~~August 10--14, 2020~~
+### July 19--23 and August 9--13, 2021
 
 Camp Workcoeman will once again host a week long Cub Scout Day Camp!
 
@@ -20,8 +22,7 @@ will have a blast swimming, learning new skills, becoming a top shot on the BB
 and archery ranges, learning new games on the Sports Field, and having fun in
 the Crafts Lodge.
 
-Day Camp also features several special activities including a Blue and Gold
-pot-luck dinner and fellowship campfire.
+Day Camp runs 8:30 AM -- 4:00 PM and also features several special activities including a cookout, campfire, and awards ceremony.
 
 All the fun takes place under the watchful eye of our highly trained and
 certified staff ensuring a safe and fun experience. Camp Workcoeman is a
@@ -33,7 +34,7 @@ Be sure to sign up for this summer blast today!
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/2019-cub-leader-guide.pdf" class="list-group-item"><del>2020 Cub Scout Leader Guide (Coming Soon)</del></a>
+> <a href="{{ site.url }}/#" class="list-group-item">2021 Cub Scout Leader Guide (Coming Soon)</a>
 > <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Camp Medical Forms and Information (Part C [Physical] not Required for Day Camp)</a>
 > <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">Cub Camp Fee Information</a>
 

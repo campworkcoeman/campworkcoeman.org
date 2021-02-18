@@ -11,11 +11,6 @@ keywords: forms, medical forms, camperships
 > %list-group%
 > <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Resident Camp Medical Forms and Information</a>
 
-## 2020 Campership Application
-
-> %list-group%
-> <a href="{{ site.url }}/scouts-bsa/fees/camperships/" class="list-group-item">Apply for a Campership</a>
-
 ## Other Forms
 
 > %list-group%

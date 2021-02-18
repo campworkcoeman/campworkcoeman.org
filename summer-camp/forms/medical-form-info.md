@@ -6,6 +6,8 @@ description: Information needed to fill out and submit the camp medical form.
 keywords: med, form, medical
 ---
 
+**2021 medical form and COVID screening information is forthcoming.**
+
 ## Who Needs a Completed Medical Form?
 
 <div class="alert alert-info">

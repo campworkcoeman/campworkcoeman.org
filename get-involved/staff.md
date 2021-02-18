@@ -35,7 +35,7 @@ recommended that you submit your application early. Applicants will be notified
 of the interview schedule by the Camp Director.
 
 > %list-group%
-> <a href="https://forms.gle/WCqPNrkxF51FqJJw6" class="list-group-item"><del>2020 Staff Application</del></a>
+> <a href="https://forms.gle/kdsvP1drPEmVWCKD8" class="list-group-item">2021 Staff Application</a>
 
 If you are interested in working at camp this summer, please contact Camp
 Director Lou Seiser at [lseiser@campworkcoeman.org](mailto:lseiser@campworkcoeman.org).
@@ -53,7 +53,7 @@ members. Participants will work in all areas of camp and gain first-hand
 experiences to understand what it really takes to operate the high-quality
 programs of Camp Workcoeman.
 
-The cost for the program is $150. Participants must be at least 14 years old.
+The cost for the program in 2021 is TBD. Participants must be at least 14 years old.
 All participants will be evaluated at the end of the week and could be offered
 to stay for another week based on their performance.
 
@@ -64,7 +64,7 @@ guarantee a position. Please understand that participation in the CIT program
 in no way guarantees employment.
 
 > %list-group%
-> <a href="https://forms.gle/3h7AZakQRLbFXhrX6" class="list-group-item"><del>2020 CIT Application</del></a>
+> <a href="{{ site.url }}/#" class="list-group-item">2021 CIT Application (Coming Soon)</a>
 
 If you are interested in being a CIT, please contact Camp Director Lou Seiser
 at [lseiser@campworkcoeman.org](mailto:lseiser@campworkcoeman.org).

@@ -121,13 +121,17 @@ Redirect 301 /boy-scouts/trail-to-eagle /scouts-bsa/trail-to-eagle/
 Redirect 301 /cub-scouts/family-weekend/ /cub-scouts/family-camp/
 Redirect 301 /cub-scouts/cub-resident-camp/ /cub-scouts/mini-week/
 
-# 2020 redirect
-Redirect 301 /2020/ /scouts-bsa/register/
-Redirect 301 /2020 /scouts-bsa/register/
-Redirect 301 /cubcamp2020/ /cub-scouts/register/
-Redirect 301 /cubcamp2020 /cub-scouts/register/
-Redirect 301 /CubCamp2020/ /cub-scouts/register/
-Redirect 301 /CubCamp2020 /cub-scouts/register/
+# 2021 redirect
+Redirect 301 /2021/ /scouts-bsa/register/
+Redirect 301 /2021 /scouts-bsa/register/
+Redirect 301 /cubcamp2021/ /cub-scouts/register/
+Redirect 301 /cubcamp2021 /cub-scouts/register/
+Redirect 301 /CubCamp2021/ /cub-scouts/register/
+Redirect 301 /CubCamp2021 /cub-scouts/register/
+Redirect 301 /2021summerrentals/ /summer-camp/overnight-camping/
+Redirect 301 /2021summerrentals /summer-camp/overnight-camping/
+Redirect 301 /2021SummerRentals/ /summer-camp/overnight-camping/
+Redirect 301 /2021SummerRentals /summer-camp/overnight-camping/
 
 # Misc Temp Short Links
 Redirect 302 /winteradventure https://scoutingevent.com/066-43411

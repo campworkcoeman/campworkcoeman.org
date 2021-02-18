@@ -5,6 +5,10 @@ title: Past Program Guides
 keywords: program guides, guides, archive
 ---
 
+## 2020
+> %list-group%
+> <a href="{{ site.url }}/pdf/2020/2020-program-guide.pdf" class="list-group-item">2020 Program Guide (Season Canceled)</a>
+
 ## 2019
 > %list-group%
 > <a href="{{ site.url }}/pdf/2019/2019-program-guide.pdf" class="list-group-item">2019 Program Guide</a>

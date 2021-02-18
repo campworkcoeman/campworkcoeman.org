@@ -1,7 +1,7 @@
 ---
 published: true
 layout: generic
-title: 2020 Work Days
+title: 2021 Work Days
 description: Members of the camp community who are currently retired gather at camp on the second and fourth Tuesday of every month to work on small projects. Your help is greatly appreciated!
 keywords: work days, volunteer
 ---
@@ -20,40 +20,26 @@ keywords: work days, volunteer
 
 ## Shawtown Work Days
 
-Pre-planned mini-work parties (in conjunction with the Ranger's needs) will be held from 8:30 AM to 3:00 PM on (generally) the 4^th Saturday of each month. Coffee "and" at 8:30 AM and lunch will be provided. We will tackle jobs large and small throughout the camp to assure an awesome experience for any Scouts or Scouters attending Camp Workcoeman this year and for years to come!
+Pre-planned mini-work parties (in conjunction with the Ranger's needs) will be held from 9:00 AM to 3:00 PM on (generally) the 4^th Saturday of each month. ~~Coffee "and" at 8:30 AM and lunch will be provided.~~ We will tackle jobs large and small throughout the camp to assure an awesome experience for any Scouts or Scouters attending Camp Workcoeman this year and for years to come!
 
-If you plan on attending, please register on the [council website](https://scoutingevent.com/066-34204) or email Ranger Frank ([rangerfrank@campworkcoeman.org](mailto:rangerfrank@campworkcoeman.org)) by the Sunday before the work day to let him know you're coming; he'll let you know by the following Wednesday the projects to be addressed and any special attire or equipment needs.
+If you plan on attending, please email Brian Cornell ([bcornell@campworkcoeman.org](mailto:bcornell@campworkcoeman.org)) by the Sunday before the work day to let him know you're coming; he'll let you know by the following Wednesday the projects to be addressed and any special attire or equipment needs.
 
-Saturday, February 22, 2020
+**The full list of 2021 work days has not yet been finalized.**
 
-~~Saturday, March 28, 2020~~ **Canceled**
+[Saturday, January 23, 2021]({{ site.url }}/about/news/2021/01/07/january-shawtown-work-day//)
 
-~~Saturday, April 25, 2020~~ **Canceled**
+~~Saturday, February 27, 2021~~ **Canceled**
 
-~~Saturday, May 16, 2020 (Note: Third Saturday, OA Weekend)~~ **Canceled**
+Saturday, March 27, 2021
 
-~~Saturday, June 6, 2020 (Note: First Saturday, Beaver Day)~~ **Canceled**
-
-[Saturday, June 27, 2020]({{ site.url }}/about/news/2020/06/16/shawtown-work-days-resume/)
-
-[Saturday, July 25, 2020]({{ site.url }}/about/news/2020/07/16/shawtown-july-work-day/)
-
-[Saturday, August 29, 2020]({{ site.url }}/about/news/2020/08/09/shawtown-august-work-day/)
-
-[Saturday, September 26, 2020]({{ site.url }}/about/news/2020/09/18/shawtown-september-work-day/)
-
-[Saturday, October 24, 2020]({{ site.url }}/about/news/2020/10/09/shawtown-fall-work-days/)
-
-[Saturday, November 28, 2020]({{ site.url }}/about/news/2020/10/09/shawtown-fall-work-days/)
-
-(No December work day)
+Saturday, June 5, 2021 (Note: First Saturday, Beaver Day)
 
 ## Beaver Day
 
-~~Saturday, June 6, 2020~~ **Canceled**
+Saturday, June 5, 2021
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/2019-beaver-day-flier.pdf" class="list-group-item"><del>2020 Beaver Day Flier (Coming Soon)</del></a>
+> <a href="{{ site.url }}/pdf/2019/2019-beaver-day-flier.pdf" class="list-group-item">2021 Beaver Day Flier (Coming Soon)</a>
 
 ## Retiree Corp
 
