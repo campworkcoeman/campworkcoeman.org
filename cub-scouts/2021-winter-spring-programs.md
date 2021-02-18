@@ -15,8 +15,8 @@ Calling all Polar Cubs for this exciting new adventure for Cubs and friends! Cub
 
 ## Winter Cub Extravaganza --- March 6, 2021
 
-Come for a day of winter fun at Camp Workcoeman. More info coming soon.
+Come for a day of winter fun at Camp Workcoeman. Participate in tubing, sledding, BB shooting, and more. The event runs from 10 AM -- 2 PM with lunch provided. Indoor space will be available to warm up, but please dress for the weather.
 
 > %list-group%
-> <a href="https://scoutingevent.com/066" class="list-group-item">Register for Winter Cub Extravaganza (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-43412" class="list-group-item">Register for Winter Cub Extravaganza</a>
 
