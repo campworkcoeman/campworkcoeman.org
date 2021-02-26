@@ -8,7 +8,7 @@ keywords: Cub Scout, day camp
 
 <div class="alert alert-info">
 Registration for summer 2021 day camp is now open.
-<a href="{{ site.url }}/cub-scots/register/">
+<a href="{{ site.url }}/cub-scouts/register/">
 Sign up today!</a>
 </div>
 
