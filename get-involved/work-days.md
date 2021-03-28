@@ -39,7 +39,7 @@ Saturday, June 5, 2021 (Note: First Saturday, Beaver Day)
 Saturday, June 5, 2021
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/2019-beaver-day-flier.pdf" class="list-group-item">2021 Beaver Day Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2021/2021-beaver-day-flier.pdf" class="list-group-item">2021 Beaver Day Flier</a>
 
 ## Retiree Corp
 
