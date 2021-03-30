@@ -41,6 +41,8 @@ Saturday, June 5, 2021
 > %list-group%
 > <a href="{{ site.url }}/pdf/2021/2021-beaver-day-flier.pdf" class="list-group-item">2021 Beaver Day Flier</a>
 
+Please [register](https://scoutingevent.com/066-46196) for Beaver Day on the Council website.
+
 ## Retiree Corp
 
 Members of the camp community who are currently retired gather at camp on the
