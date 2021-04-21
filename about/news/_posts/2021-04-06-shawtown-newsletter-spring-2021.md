@@ -4,7 +4,7 @@ layout: news-item
 title: Citizens of Shawtown Newsletter &mdash; Spring 2021
 ---
 
-*Update (2021-04-21): Steak Dinner [flier]({{ site. url }}/pdf/2021/2021-steak-dinner.pdf) and [registration](https://scoutingevent.com/066-46812) is now available.*
+*Update (2021-04-21): Steak Dinner [flier]({{ site.url }}/pdf/2021/2021-steak-dinner.pdf) and [registration](https://scoutingevent.com/066-46812) are now available.*
 
 The Spring 2021 edition of the Citizens of Shawtown newsletter is now available. Read the latest news [here]({{ site.url }}/pdf/2021/shawtown-spring-2021.pdf) and visit the [Citizens of Shawtown page]({{ site.url }}/get-involved/citizens-of-shawtown/) to find out more.
 
