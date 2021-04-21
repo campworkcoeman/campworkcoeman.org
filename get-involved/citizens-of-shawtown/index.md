@@ -37,6 +37,10 @@ Chicken Dinner! We do not collect dues from the membership.
 
 The Citizens annually hold a Steak Dinner and Silent Auction in support of camp after the annual Beaver Day work day. All members of the camp and surrounding community are invited whether they attend the work day or not. In 2021, Beaver Day will begin at 8:30 AM on Saturday, June 5, and the Steak Dinner will begin at 6:00 PM. *Precise COVID-19 restrictions are TBD; more information will be forthcoming.*
 
+> %list-group%
+> <a href="{{ site.url }}/pdf/2021/2021-steak-dinner.pdf" class="list-group-item">2021 Steak Dinner Flier</a>
+> <a href="https://scoutingevent.com/066-46812" class="list-group-item">2021 Steak Dinner Registration</a>
+
 ## Newsletter
 
 The Citizens of Shawtown periodically publishes a newsletter updating its members about the organization's activities and about happenings at camp. The newsletter is sent to members and posted on the camp website.
