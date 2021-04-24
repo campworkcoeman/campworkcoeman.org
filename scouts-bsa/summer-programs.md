@@ -38,7 +38,239 @@ More information will be posted shortly.
 
 > %list-group%
 > <a href="{{ site.url }}/#" class="list-group-item">2021 Program Guide (Coming Soon)</a>
-> <a href="{{ site.url }}/#" class="list-group-item">2021 Resident Camp Preview Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2021/2021-preview-flier.pdf" class="list-group-item">2021 Camp Preview Flier</a>
+
+## Merit Badge Offerings
+
+Two day merit badges are in *italics* with a number [(1) or (2)]. Bonus weekend badges are in **bold**.
+
+### Waterfront Weeks (July 6--11 & July 27--August 1, 2021)
+
+
+
+<table class="table table-hover">
+<thead>
+<tr>
+<th>Tuesday             </th>
+<th> Wednesday                 </th>
+<th> Thursday                  </th>
+<th></th>
+<th> Saturday                 </th>
+<th> Sunday</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Canoeing            </td>
+<td>                           </td>
+<td> Canoeing                  </td>
+<td></td>
+<td> Canoeing                 </td>
+<td></td>
+</tr>
+<tr>
+<td>Kayaking            </td>
+<td>                           </td>
+<td> Kayaking                  </td>
+<td></td>
+<td> Kayaking                 </td>
+<td></td>
+</tr>
+<tr>
+<td><em>Lifesaving (1)</em>    </td>
+<td> <em>Lifesaving (2)</em>          </td>
+<td>                           </td>
+<td></td>
+<td> <em>Lifesaving (1)</em>         </td>
+<td> <em>Lifesaving (2)</em></td>
+</tr>
+<tr>
+<td>Swimming            </td>
+<td>                           </td>
+<td> Swimming                  </td>
+<td></td>
+<td> Swimming                 </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td> Oceanography              </td>
+<td>                           </td>
+<td></td>
+<td>                          </td>
+<td> Oceanography</td>
+</tr>
+<tr>
+<td></td>
+<td> Rowing                    </td>
+<td>                           </td>
+<td></td>
+<td>                          </td>
+<td> Rowing</td>
+</tr>
+<tr>
+<td></td>
+<td> <em>Small-Boat Sailing (1)</em>  </td>
+<td> <em>Small-Boat Sailing (2)</em>  </td>
+<td></td>
+<td> <em>Small-Boat Sailing (1)</em> </td>
+<td> <em>Small-Boat Sailing (2)</em></td>
+</tr>
+<tr>
+<td><em>Scuba Course (1)</em>  </td>
+<td> <em>Scuba Course (2)</em>        </td>
+<td> <em>Scuba Course (3)</em>        </td>
+<td></td>
+<td>                          </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>                           </td>
+<td>                           </td>
+<td></td>
+<td>                          </td>
+<td> Scuba Diving</td>
+</tr>
+<tr>
+<td></td>
+<td>                           </td>
+<td>                           </td>
+<td></td>
+<td> <strong><em>Climbing (1)</em></strong>       </td>
+<td> <strong><em>Climbing (2)</em></strong></td>
+</tr>
+<tr>
+<td></td>
+<td>                           </td>
+<td>                           </td>
+<td></td>
+<td> <strong>Search and Rescue</strong>    </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>                           </td>
+<td>                           </td>
+<td></td>
+<td>                          </td>
+<td> <strong>First Aid</strong></td>
+</tr>
+</tbody>
+</table>
+
+### Outdoor Skills Weeks (July 13--18 & August 3--8, 2021)
+
+<table class="table table-hover">
+<thead>
+<tr>
+<th>Tuesday                 </th>
+<th> Wednesday                 </th>
+<th> Thursday                  </th>
+<th></th>
+<th> Saturday                 </th>
+<th> Sunday</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Camping                 </td>
+<td>                           </td>
+<td> Camping                   </td>
+<td></td>
+<td> Camping                  </td>
+<td></td>
+</tr>
+<tr>
+<td><em>Environ. Science (1)</em>  </td>
+<td> <em>Environ. Science (2)</em>    </td>
+<td>                           </td>
+<td></td>
+<td> <em>Environ. Science (1)</em>   </td>
+<td> <em>Environ. Science (2)</em></td>
+</tr>
+<tr>
+<td>Geocaching              </td>
+<td>                           </td>
+<td>                           </td>
+<td></td>
+<td> Geocaching               </td>
+<td></td>
+</tr>
+<tr>
+<td>Nature                  </td>
+<td>                           </td>
+<td>                           </td>
+<td></td>
+<td> Nature                   </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td> Exploration               </td>
+<td>                           </td>
+<td></td>
+<td>                          </td>
+<td> Exploration</td>
+</tr>
+<tr>
+<td></td>
+<td> Fish and Wildlife Mgmt.   </td>
+<td>                           </td>
+<td></td>
+<td> Fish and Wildlife Mgmt.  </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td> <em>Pioneering (1)</em>          </td>
+<td> <em>Pioneering (2)</em>          </td>
+<td></td>
+<td> <em>Pioneering (1)</em>         </td>
+<td> <em>Pioneering (2)</em></td>
+</tr>
+<tr>
+<td></td>
+<td>                           </td>
+<td> Mammal Study              </td>
+<td></td>
+<td>                          </td>
+<td> Mammal Study</td>
+</tr>
+<tr>
+<td></td>
+<td>                           </td>
+<td> Soil and Water Conserv.   </td>
+<td></td>
+<td>                          </td>
+<td> Soil and Water Conserv.</td>
+</tr>
+<tr>
+<td></td>
+<td>                           </td>
+<td>                           </td>
+<td></td>
+<td> <strong>Archery</strong>              </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>                           </td>
+<td>                           </td>
+<td></td>
+<td> <strong>Rifle Shooting</strong>       </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>                           </td>
+<td>                           </td>
+<td></td>
+<td>                          </td>
+<td> <strong>Shotgun Shooting</strong></td>
+</tr>
+</tbody>
+</table>
 
 ## Promotional Video
 

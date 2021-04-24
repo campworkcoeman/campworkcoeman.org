@@ -33,4 +33,5 @@ The registration system will allow you to select by day and badge. **Make sure t
 
 ## Family Camping
 > %list-group%
-> <a href="https://scoutingevent.com/" class="list-group-item">Family Camping Reservations (Coming Soon)</a>
+> <a href="https://campreservation.com/066/Camps/636" class="list-group-item">Family Camping Reservations (Select Tee Pee Campsite)</a>
+

@@ -17,7 +17,7 @@ While at camp, units should plan their own programs but Scouts may sign up for d
 
 ## Family Camping
 
-Family camping will be available in the Tee Pee campsite which features standard and deluxe tents as well as an upgrade latrine. This opportunity is ideal for families with a Scout attending multiple concurrent day programs or those that just want to spend a few days outdoors.
+Family camping will be available in the Tee Pee campsite which features standard and deluxe tents as well as an upgrade latrine. This opportunity is ideal for families with a Scout attending multiple concurrent day programs or those that just want to spend a few days outdoors. Several options are available: (1) bring your own tent for $15/night, (2) standard 7'x9' canvas tents with cots for $25/night, and (3) deluxe 12'x16' canvas tents with bedding for $50/night.
 
 > %list-group%
-> <a href="https://scoutingevent.com/" class="list-group-item">Family Camping Reservations (Coming Soon)</a>
+> <a href="https://campreservation.com/066/Camps/636" class="list-group-item">Family Camping Reservations (Select Tee Pee Campsite)</a>

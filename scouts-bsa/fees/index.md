@@ -14,21 +14,31 @@ Sign up today!</a>
 
 The fees to attend summer Scouts BSA programs in 2021 are as follows:
 
-**Fees are still tentative and subject to change (18 February 2021).**
-
 ### Scout Fees
 
-Day Programs: $45/day
-: Two day merit badges are charged for two days.
-<br>
-Scuba Program: $375
-: A $50 deposit is due at time of registration with the remainder due by 23 June 2021.
+**Day Programs:**
 
-**Campsite Reservations: $25/night**
+* Single day merit badges are $45 each
+* Two day merit badges are $65 each
 
-**Family Camping: TBD**
+**Scuba Program:**
 
-**Other Facility Reservations: TBD**
+* $375/person
+* A $50 deposit is due at time of registration with the remainder due by 23 June 2021
+
+**Campsite Reservations:**
+
+* $25/night
+
+**Family Camping:**
+
+* Bring your own tent: $15/night
+* Standard 7'x9' tent with beds: $25/night
+* Deluxe 12'x16' tent with bedding: $50/night
+
+**Other Facility Reservations:**
+
+* TBD
 
 ### Refund Policy
-If canceled at least 30 days prior, a full refund will be given. Anything canceled between 2 weeks and 30 days prior is refunded at 50%. If canceled within 2 weeks of the event, a refund is at the discretion of the Council.
+Please see the registration site for the refund policy of each event.

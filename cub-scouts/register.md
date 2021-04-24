@@ -21,3 +21,12 @@ Below, you will find links to the council website to register for each camp prog
 > %list-group%
 > <a href="https://scoutingevent.com/066-44691-120335" class="list-group-item">Cub Scout Day Camp Week 1 --- July 19--23, 2021</a>
 > <a href="https://scoutingevent.com/066-44691-120336" class="list-group-item">Cub Scout Day Camp Week 2--- August 9--13, 2021</a>
+
+## Unit Camping
+> %list-group%
+> <a href="https://campreservation.com/066/Camps/636" class="list-group-item">Summer 2021 Campsite and Facility Reservations</a>
+
+## Family Camping
+> %list-group%
+> <a href="https://campreservation.com/066/Camps/636" class="list-group-item">Family Camping Reservations (Select Tee Pee Campsite)</a>
+
