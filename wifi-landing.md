@@ -15,18 +15,9 @@ Camp Workcoeman should be a year-round destination for your troop or pack. Camps
 > <a href="{{ site.url }}/short-term-camping/" class="list-group-item">Make a Reservation</a>
 
 
-## Request Your Campsite for 2020
+## Summer 2021 @ Workcoeman --- Scouting &Agrave; La Carte
 
-Now is the time to start planning your troop's return to Camp Workcoeman next summer. Campsite requests are now open. Request your's today!
-
-> %list-group%
-> <a href="{{ site.url }}/2020/" class="list-group-item">2020 Campsite Requests</a>
-> <a href="https://forms.gle/WCqPNrkxF51FqJJw6" class="list-group-item">2020 Staff Application</a>
-> <a href="https://forms.gle/3h7AZakQRLbFXhrX6" class="list-group-item">2020 CIT Application</a>
-
-## Find Out About Cub Camp 2020
-
-Now is the time to start thinking about next summer. More information will be posted as it becomes available; stay tuned!
+The summer 2021 season at Camp Workcoeman will be atypical but nonetheless rewarding. A series of one and two session daytime merit badge classes will be offered mid-week and on weekends for Scouts BSA whereas two weeks of Day Camp will be offered for Cub Scouts. Additionally, overnight unit and family camping will be offered any night throughout the summer. These programs are not designed to replicate a traditional overnight summer camp experience; rather, they are intended to supplement one through a variety of flexible programs.
 
 > %list-group%
-> <a href="{{ site.url }}/cubcamp2020/" class="list-group-item">2020 Cub Camp Info</a>
+> <a href="{{ site.url }}/2021/" class="list-group-item">2021 Summer Overview</a>

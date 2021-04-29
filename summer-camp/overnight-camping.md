@@ -10,7 +10,7 @@ keywords: overnight camping, campsite reservation, facility reservation, summer
 
 Scouting units will be able to reserve inner loop campsites (Nathan Hale, Baden Powell, Tunxis, Kahagon, Seton, Outpost) any night of the week between 5 July 2021 and 14 August 2021 (Friday and Saturday night must be reserved together). Canvas tents with cots, canopies, latrines, and showers will be available. Units must provide their own food but ice and/or refrigeration may be available upon request.
 
-While at camp, units should plan their own programs but Scouts may sign up for day programs offered during their stay. Certain camp facilities (shooting ranges, waterfront, climbing wall, etc.) may be available for rent for an additional fee. Units will be responsible for providing their own certified instructors/lifeguards; camp may assist in locating one.
+While at camp, units should plan their own programs but Scouts may sign up for day programs offered during their stay. Certain camp facilities (shooting ranges, waterfront, climbing wall, etc.) may be available for rent for an additional fee. Camp will provide at least one certified instructor/lifeguard; additional instructors/lifeguards can be provided by camp or the unit. For more information and to make reservations, contact <a href="mailto:jseiser@campworkcoeman.org?subject=Summer%20Facility%20Reservations">Jeff Seiser</a>.
 
 > %list-group%
 > <a href="https://campreservation.com/066/Camps/636" class="list-group-item">2021 Summer Campsite and Facility Reservations</a>
@@ -21,3 +21,14 @@ Family camping will be available in the Tee Pee campsite which features standard
 
 > %list-group%
 > <a href="https://campreservation.com/066/Camps/636" class="list-group-item">Family Camping Reservations (Select Tee Pee Campsite)</a>
+
+## Baloo's Family Camp
+
+Two special weekends (July 24--25 and August 14--15, 2021) of program filled Cub Scout family camp will be offered! Baloo’s Family Camp at Camp Workcoeman is a great opportunity for Cub Scouts to enjoy a summer camp experience without the worries of being away from home. Located along the shore of beautiful West Hill Pond in New Hartford, Baloo’s Family Camp is open to all Cub Scouts and their families as the program centers around fun for all! You will take advantage of our various program areas with activities including BB/archery shooting, swimming, crafts, and more!
+
+> %list-group%
+> <a href="https://scoutingevent.com/066-46544" class="list-group-item">Register for Baloo's Family Camp</a>
+
+## COVID Safety
+
+We know the importance of getting youth outdoors and involved in the programs of Adventure.  We are taking every step to ensure that this summer will be SAFE and FUN!  Camp will be awesome this summer, but it will look a little different than what we are used to.  We have instituted protocols and procedures in order to keep our Scouts, Scouters, staff, and families healthy and safe.  The procedures and safety measures have been promoted by federal agencies and the American Camping Association Field Guide for Camps. These multi-layered strategies prove effective and reduce the risk of transmission. <a href="https://tinyurl.com/33wn554u">Learn more</a> about specific COVID guidelines.

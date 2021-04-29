@@ -20,7 +20,9 @@ Below, you will find links to the council website to register for each camp prog
 
 > %list-group%
 > <a href="https://scoutingevent.com/066-44691-120335" class="list-group-item">Cub Scout Day Camp Week 1 --- July 19--23, 2021</a>
+> <a href="https://scoutingevent.com/066-46544-124502" class="list-group-item">Baloo's Family Camp Weekend 1 --- July 24--25, 2021</a>
 > <a href="https://scoutingevent.com/066-44691-120336" class="list-group-item">Cub Scout Day Camp Week 2--- August 9--13, 2021</a>
+> <a href="https://scoutingevent.com/066-46544-124503" class="list-group-item">Baloo's Family Camp Weekend 2 --- August 14--15, 2021</a>
 
 ## Unit Camping
 > %list-group%

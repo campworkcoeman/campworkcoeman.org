@@ -1,11 +1,9 @@
 ---
 published: true
 layout: news-item
-title: Register Now for April Programs
+title: Announcing May Programs at Workcoeman
 ---
 
-*Update: A Rifle Merit Badge completion day has been added to the April program.*
+Nature themed day only Scouting programs are planned for 22 Nature 2021 at Camp Workcoeman. A Nature Adventure Merit Badge Day as well as a Shooting and Fishing Merit Badge Completion Day are available for Scouts BSA. Additionally, a Cub Scout Nature Experience is taking place.
 
-Day only Scouting programs are planned for 24 April 2021 and throughout the spring at Camp Workcoeman. Registration is now open for the March Scouts BSA Workcoeman Crafts and Skills Experience and Cub Scout Heritage and Skills Adventure.
-
-More information and registration links are available [here]({{ site.url }}/scouts-bsa/2021-winter-spring-programs/) for Scouts BSA opportunities and [here]({{ site.url }}/cub-scouts/2021-winter-spring-programs/) for Cub Scout opportunities.
+More information is available for [Scouts BSA opportunities]({{ site.url }}/scouts-bsa/2021-winter-spring-programs/) and for [Cub Scout opportunities]({{ site.url }}/cub-scouts/2021-winter-spring-programs/). Registration links will be available soon.

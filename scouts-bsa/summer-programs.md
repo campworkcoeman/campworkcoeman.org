@@ -272,6 +272,10 @@ Two day merit badges are in *italics* with a number [(1) or (2)]. Bonus weekend 
 </tbody>
 </table>
 
+## COVID Safety
+
+We know the importance of getting youth outdoors and involved in the programs of Adventure.  We are taking every step to ensure that this summer will be SAFE and FUN!  Camp will be awesome this summer, but it will look a little different than what we are used to.  We have instituted protocols and procedures in order to keep our Scouts, Scouters, staff, and families healthy and safe.  The procedures and safety measures have been promoted by federal agencies and the American Camping Association Field Guide for Camps. These multi-layered strategies prove effective and reduce the risk of transmission. <a href="https://tinyurl.com/33wn554u">Learn more</a> about specific COVID guidelines.
+
 ## Promotional Video
 
 <iframe style="max-width: 640px; width: 100%; height: 360px; border: none;" src="//www.youtube-nocookie.com/embed/uXSOw9eqJAc?rel=0" allowfullscreen></iframe>

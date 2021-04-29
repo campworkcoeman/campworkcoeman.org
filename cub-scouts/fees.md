@@ -9,10 +9,29 @@ keywords: fees
 > %list-group%
 > <a href="{{ site.url }}/cub-scouts/register/" class="list-group-item">Register for Cub Scout Day Camp</a>
 
-The fees to attend Cub Scout Summer Camp programs in 2021 are as follows; please
-see registration pages for more information.
+**Cub Scout Day Camp:**
 
-### Cub Scout Day Camp --- $250
+* $250
+
+**Baloo's Family Camp**
+
+* Youth/Parent Pair: $100
+* Additional Youth/Parent: $50
+* Family of 4 or More: $175
+
+**Campsite Reservations:**
+
+* $25/night
+
+**Family Camping:**
+
+* Bring your own tent: $15/night
+* Standard 7'x9' tent with beds: $25/night
+* Deluxe 12'x16' tent with bedding: $50/night
+
+**Other Facility Reservations:**
+
+* Rates available upon <a href="mailto:jseiser@campworkcoeman.org?subject=Summer%20Facility%20Reservations">request</a>.
 
 ### More information
 

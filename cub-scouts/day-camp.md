@@ -31,6 +31,14 @@ Nationally Accredited Camp by the BSA and has a long history in Scouting since
 
 Be sure to sign up for this summer blast today!
 
+### Baloo's Family Camp
+
+Be sure to check out [Baloo's Family Camp]({{ site.url }}/summer-camp/overnight-camping/) as well as our regular [unit and family camping]({{ site.url }}/summer-camp/overnight-camping/) opportunities!
+
+## COVID Safety
+
+We know the importance of getting youth outdoors and involved in the programs of Adventure.  We are taking every step to ensure that this summer will be SAFE and FUN!  Camp will be awesome this summer, but it will look a little different than what we are used to.  We have instituted protocols and procedures in order to keep our Scouts, Scouters, staff, and families healthy and safe.  The procedures and safety measures have been promoted by federal agencies and the American Camping Association Field Guide for Camps. These multi-layered strategies prove effective and reduce the risk of transmission. <a href="https://tinyurl.com/33wn554u">Learn more</a> about specific COVID guidelines.
+
 ## More Information
 
 > %list-group%

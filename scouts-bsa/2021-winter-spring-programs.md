@@ -6,11 +6,16 @@ description: This page contains information on and links to the council website 
 keywords: "Boy Scout, Scouts BSA, resident camp, 2021, registration, reservation, winter/spring programs"
 ---
 
-## Workcoeman Crafts and Skills Experience --- April 24, 2021
+## Nature Adventure Merit Badge Day @ Workcoeman --- May 22, 2021
 
-Come out for Scouting fun at the Workcoeman Crafts and Skills Experience. Scouts will learn about and have the opportunity to earn a crafts or skills focused merit badge. Merit badge offerings include: Basketry, Wood Carving, Leatherwork, Metalwork, and Plumbing. Merit badge classes run 9 AM--4 PM and will be hosted in separate locations around Camp Workcoeman. Lunch will be provided. Masks must be worn and social distancing observed.
-
-Update: Morning and afternoon sessions for completing Rifle Merit Badge partials will also be offered.
+For May, Camp Workcoeman is offering a day of nature merit badge adventures! Scouts will learn about and have the opportunity to earn a nature focused merit badge. Merit badge offerings include: Nature, Forestry, Mammal Study, and Oceanography (featuring the under water drones). Merit badge classes run 9 AM--4 PM and will be hosted in separate locations around Camp Workcoeman. Lunch will be provided. Masks must be worn and social distancing observed.
 
 > %list-group%
-> <a href="https://scoutingevent.com/066-45439" class="list-group-item">Register for Workcoeman Crafts and Skills Experience</a>
+> <a href="https://scoutingevent.com/" class="list-group-item">Register for Nature Adventure Merit Badge Day (Coming Soon)</a>
+
+## Shooting and Fishing Merit Badge Completion Day --- May 22, 2021
+
+Camp Workcoeman is also offering a chance to complete Fishing and Rifle/Shotgun Shooting merit badge partials. Morning (9 AM -- noon) and afternoon (1 PM -- 4 PM) sessions are available. Scouts can work towards completing Fishing merit badge requirements 9 & 10, Rife Shooting merit badge requirements 2K & 2L, or Shotgun Shooting merit badge requirement 2K.
+
+> %list-group%
+> <a href="https://scoutingevent.com/" class="list-group-item">Register for Shooting and Fishing Merit Badge Day (Coming Soon)</a>
