@@ -4,6 +4,6 @@ layout: news-item
 title: Announcing May Programs at Workcoeman
 ---
 
-Nature themed day only Scouting programs are planned for 22 Nature 2021 at Camp Workcoeman. A Nature Adventure Merit Badge Day as well as a Shooting and Fishing Merit Badge Completion Day are available for Scouts BSA. Additionally, a Cub Scout Nature Experience is taking place.
+Nature themed day only Scouting programs are planned for 22 May 2021 at Camp Workcoeman. A Nature Adventure Merit Badge Day as well as a Shooting and Fishing Merit Badge Completion Day are available for Scouts BSA. Additionally, a Cub Scout Nature Experience is taking place.
 
 More information is available for [Scouts BSA opportunities]({{ site.url }}/scouts-bsa/2021-winter-spring-programs/) and for [Cub Scout opportunities]({{ site.url }}/cub-scouts/2021-winter-spring-programs/). Registration links will be available soon.
