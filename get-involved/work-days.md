@@ -32,6 +32,10 @@ If you plan on attending, please email Brian Cornell ([bcornell@campworkcoeman.o
 
 Saturday, March 27, 2021
 
+Saturday, April 24, 2021
+
+Saturday, May 22, 2021
+
 Saturday, June 5, 2021 (Note: First Saturday, Beaver Day)
 
 ## Beaver Day
