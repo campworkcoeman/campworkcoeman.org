@@ -6,18 +6,6 @@ description: Members of the camp community who are currently retired gather at c
 keywords: work days, volunteer
 ---
 
-<div class="alert alert-warning">
-<p>As the State of Connecticut reopens, Citizens of Shawtown work days at Camp Workcoeman will now resume while following Council, state, and CDC guidance. In order to ensure everyone's safety, please bring your own LUNCH and MASK. To ensure proper group numbers and for contact tracing purposes, you MUST confirm your attendance to Brian Cornell (<a href="mailto:bcornell@campworkcoeman.org">bcornell@campworkcoeman.org</a>) at least four days prior to the work day.</p>
-
-<p>Do NOT come to camp if you are experiencing any COVID-19 symptoms that cannot be attributed to another known health condition including but not limited to: new shortness of breath, cough, sore throat, fever over 100 &deg;F or sense of having a fever, sweating, chills, any loss of taste or smell, unexplained muscle aches, nausea, or diarrhea.</p>
-
-<p>Do NOT come to camp if you have been in close contact (within six feet for more than 15 minutes) with someone known to have COVID-19 (outside of a patient care setting while using appropriate PPE), have been told by a public health official or employer that you may have been exposed to COVID-19 in the past 14 days, or have anyone in your household showing COVID-19 symptoms.</p>
-
-<p>Do NOT come to camp if you have returned within the past 14 days from domestic travel to a region that is under stay-at-home orders, states that meet Connecticut mandated quarantine requirements, or from a destination outside the United States.</p>
-
-<p>Together we can do our part to help Camp Workcoeman while keeping everyone safe.</p>
-</div>
-
 ## Shawtown Work Days
 
 Pre-planned mini-work parties (in conjunction with the Ranger's needs) will be held from 9:00 AM to 3:00 PM on (generally) the 4^th Saturday of each month. ~~Coffee "and" at 8:30 AM and lunch will be provided.~~ We will tackle jobs large and small throughout the camp to assure an awesome experience for any Scouts or Scouters attending Camp Workcoeman this year and for years to come!
