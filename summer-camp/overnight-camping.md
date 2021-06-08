@@ -10,10 +10,15 @@ keywords: overnight camping, campsite reservation, facility reservation, summer
 
 Scouting units will be able to reserve inner loop campsites (Nathan Hale, Baden Powell, Tunxis, Kahagon, Seton, Outpost) any night of the week between 5 July 2021 and 14 August 2021 (Friday and Saturday night must be reserved together). Canvas tents with cots, canopies, latrines, and showers will be available. Units must provide their own food but ice and/or refrigeration may be available upon request.
 
-While at camp, units should plan their own programs but Scouts may sign up for day programs offered during their stay. Certain camp facilities (shooting ranges, waterfront, climbing wall, etc.) may be available for rent for an additional fee. Camp will provide at least one certified instructor/lifeguard; additional instructors/lifeguards can be provided by camp or the unit. For more information and to make reservations, contact <a href="mailto:jseiser@campworkcoeman.org?subject=Summer%20Facility%20Reservations">Jeff Seiser</a>.
-
 > %list-group%
 > <a href="https://campreservation.com/066/Camps/636" class="list-group-item">2021 Summer Campsite and Facility Reservations</a>
+
+## À La Carte Programs
+
+While at camp, units should plan their own programs but Scouts may sign up for day programs offered during their stay. Certain camp facilities (shooting ranges, waterfront, climbing wall, etc.) may be available for rent for an additional fee. Camp will provide staffing as needed. Click the link below for more information and prices. If you have questions, contact [Jeff Seiser](mailto:jseiser@campworkcoeman.org).
+
+> %list-group%
+> <a href="{{ site.url }}/summer-camp/a-la-carte-programs/" class="list-group-item">2021 Summer À La Carte Program Information</a>
 
 ## Family Camping
 

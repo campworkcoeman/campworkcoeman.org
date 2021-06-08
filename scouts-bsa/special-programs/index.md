@@ -17,13 +17,14 @@ spend time under water to see what it is all about.
 
 ## Pistol Shooting Program
 
-Camp Workcoeman has been chosen as one of twelve camps in the country to pilot
-a Scouts BSA Summer Camp Pistol Shooting Program. This program is open to Scouts
-who are thirteen years old and have completed the eighth grade. For more
-information, see the flier below. **Details have not yet been finalized but we plan on offering the course in a new form in 2021.**
+Camp Workcoeman is one of a select few camps that participates in the Boy Scouts of America's
+Summer Camp Pistol Shooting Program. The program is open to all Scouts who are at least 13 and have
+completed the eighth grade. Scouts will receive a safety briefing and instruction followed by the opportunity
+to earn various pistol marksmanship qualifications. Due to the low instructor to shooter ratio, space is
+extremely limited. The program runs July 18 and August 8, 2021 and costs $45. An additional signed
+participation waiver is required.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2019/2019-pistol-flier.pdf" class="list-group-item">2021 Pistol Shooting Flier (Coming Soon)</a>
 > <a href="{{ site.url }}/pdf/2017/2017-pistol-pilot-program-release-agreement.pdf" class="list-group-item">Pistol Program Release Agreement</a>
 
 ## Huck Finn Tube Ride

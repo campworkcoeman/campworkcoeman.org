@@ -13,8 +13,6 @@ Sign up today!</a>
 
 The summer 2021 season at Camp Workcoeman will be atypical but nonetheless rewarding. A series of one and two session daytime merit badge classes will be offered mid-week and on weekends. Additionally, overnight unit and family camping will be offered any night throughout the summer. These programs are not designed to replicate a traditional summer camp experience; rather, they are intended to supplement one through a variety of flexible programs.
 
-More information will be posted shortly.
-
 > %text-center%
 >> %row%
 >>> %col-xs-6%
@@ -37,8 +35,9 @@ More information will be posted shortly.
 >>> August 3--8, 2021
 
 > %list-group%
-> <a href="{{ site.url }}/#" class="list-group-item">2021 Program Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2021/2021-program-guide.pdf" class="list-group-item">2021 Program Guide</a>
 > <a href="{{ site.url }}/pdf/2021/2021-preview-flier.pdf" class="list-group-item">2021 Camp Preview Flier</a>
+> <a href="{{ site.url }}/summer-camp/a-la-carte-programs/" class="list-group-item">2021 Summer À La Carte Programs</a>
 
 ## Merit Badge Offerings
 
@@ -130,7 +129,7 @@ Two day merit badges are in *italics* with a number [(1) or (2)]. Bonus weekend 
 <td>                           </td>
 <td></td>
 <td>                          </td>
-<td> Scuba Diving</td>
+<td> Scuba BSA Award</td>
 </tr>
 <tr>
 <td></td>
@@ -268,6 +267,14 @@ Two day merit badges are in *italics* with a number [(1) or (2)]. Bonus weekend 
 <td></td>
 <td>                          </td>
 <td> <strong>Shotgun Shooting</strong></td>
+</tr>
+<tr>
+<td></td>
+<td>                           </td>
+<td>                           </td>
+<td></td>
+<td>                          </td>
+<td> <strong>Pistol Shooting Program</strong></td>
 </tr>
 </tbody>
 </table>

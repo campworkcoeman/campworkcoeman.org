@@ -1,30 +1,37 @@
 ---
 published: true
 layout: generic
-title: 2020 Medical Form Information
+title: 2021 Medical Form Information
 description: Information needed to fill out and submit the camp medical form.
 keywords: med, form, medical
 ---
 
-**2021 medical form and COVID screening information is forthcoming.**
-
 ## Who Needs a Completed Medical Form?
 
 <div class="alert alert-info">
-<strong>Medical forms are found on the bottom of this page.</strong> <em>Please use only the medical forms found on this site (Camp Workcoeman 2019 Printing) and not those from the CRC or any other site.</em>
+<strong>Medical forms are found on the bottom of this page.</strong> <em>Please use only the medical forms found on this site (Camp Workcoeman 2019 Printing) to ensure the most up-to-date version.</em>
 </div>
 
-All Scouts and Scouters staying at camp more than 72 hours (consecutive or non-consecutive) need parts A, B, C, and D of the **CW** version of the **BSA Annual Health and Medical Record** form completed and submitted along with any applicable **Medication Administration** and **Food Allergy Treatment Plan** forms. For those staying less than 72 hours, Part C is not required.
+All participants need parts A, B, C, and D of the BSA Annual Health & Medical Record form completed
+and submitted along with any applicable Medication Administration and Food Allergy Treatment Plan forms.
+The only exception is that Scouts who cumulatively attend **two days or fewer** over the course of the summer
+do not need Part C (physical). **Remember to make copies of all forms before submitting.** Only one copy is
+needed for the summer. Please mail forms to camp (A n: Health Officer, Camp Workcoeman, 169 Camp
+Workcoeman Rd., New Hartford, CT 06057) two weeks in advance or bring to check‐in.
+
+As part of our COVID‐19 mitigation policies, all participants must complete the COVID‐19 Pre‐Event
+Medical Screening Checklist and bring it with them to check‐in. A new form is needed for the first day of
+each program (but not subsequent days of multi‐day programs).
 
 #### Scouts with Special Needs
 
-If a Scout has a **Care Plan** for school please provide a copy of it with the medical form so any accommodations can be facilitated.  The information is kept confidential on a need to know basis. If a food accommodation is required please complete the **Food Accommodation Request** form also.
+If a Scout has a **Care Plan** for school please provide a copy of it with the medical form so any accommodations can be facilitated.  The information is kept confidential on a need to know basis.
 
 <div class="alert alert-info">
-<strong>Please use only the medical forms found on this site.</strong> Forms published prior to the 2019* printing (bottom right corner) cannot be accepted. The medical form linked from this page can be filled out on the computer using Adobe Reader; many items auto-fill after you enter them the first time. (* for physicals on or after 01/01/2020)
+<strong>Please use only the medical forms found on this site.</strong> Forms published prior to the 2019 printing (bottom right corner) cannot be accepted. The medical form linked from this page can be filled out on the computer using Adobe Reader; many items auto-fill after you enter them the first time.
 </div>
 
-All four parts of the BSA form must be completed and submitted along with any *applicable* Authorization for Administration of Medication, Emergency Treatment Plan for Allergic Reactions, and/or Camp Food Accommodation Request forms.
+All four parts of the BSA form must be completed and submitted along with any *applicable* Authorization for Administration of Medication and/or Emergency Treatment Plan for Allergic Reactions.
 
 ### Part A: Informed Consent, Release Agreement, and Authorization
 
@@ -56,10 +63,6 @@ All four parts of the BSA form must be completed and submitted along with any *a
 
 * Completed, signed and dated by parent or guardian. This is required by the State of Connecticut.
 
-### Camp Food Accommodation Request
-
-If you have *food allergies* or *religious dietary restrictions*, complete this form.  **It must be received, without exception, at least 2 weeks prior to your arrival at camp.** We do not have a Kosher or Halal kitchen nor a vegetarian option however arrangements can be made for you to supply any special foods that your diet may require.
-
 ### Medication Notes
 
 * If a camper is **only** prescribed *emergency allergy medication* (i.e. Epi-Pen or Rescue Inhaler), then only the **Emergency Treatment Plan for Allergic Reactions** form is required. The **Authorization for Administration of Medications** form is not required.
@@ -67,29 +70,17 @@ If you have *food allergies* or *religious dietary restrictions*, complete this 
 * Adults (18+) with medications: You are permitted to administer your own medications; however, you must store them under lock and key or in the Health Lodge. Due to safety regulations, with the exception of Rescue Inhalers and Epi-Pens, **no** medications may be kept in the campsite(s).
 
 <div class="alert alert-info">
-<strong>Make copies of all medical forms prior to submission.</strong> All medical forms should be submitted to camp <em>at least three weeks</em> prior to your arrival at camp. The medical form linked from this page can be filled out on the computer using Adobe Reader; many items auto-fill after you enter them the first time.
+<strong>Make copies of all medical forms prior to submission.</strong> Ideally, all medical forms should be submitted to camp <em>at least two weeks</em> prior to your arrival at camp; if you register less than two weeks in advance, please bring forms to check-in. Only one copy is needed for the entire summer. The medical form linked from this page can be filled out on the computer using Adobe Reader; many items auto-fill after you enter them the first time.
 </div>
 
 Mail all forms to:
 > %text-center%
-> Camp Nurse<br/>
+> Attn: Health Officer<br/>
 > Camp Workcoeman<br/>
 > 169 Camp Workcoeman Road<br/>
 > New Hartford, CT 06057<br/>
 
 **Do not fax or email forms to camp.**
-
-Please include a roster of those Scouts and Scouters attending camp when sending medical forms. Include phone and email contact information for one primary contact for all medical form questions. If you have a preferred check-in time, please let us know and we will try to accommodate you.
-
-Our health officers will review all forms and inform your troop medical contact or parents with any problems to address prior to your arrival at camp. Please understand that submitting all forms three weeks ahead of your troop's week at camp will help streamline your check-in process.
-
-*Upon arrival*, all Scouts and Scouters must fill out a **Medical Screening Questionnaire**. The survey form can be found at the bottom of this page. These surveys are to be turned in to the Health Officers during your Sunday medical check-in.
-
-During the week prior to your arrival at camp, Troop leadership will be provided a time for your Sunday check-in with the Health Officers. Check-in times begin at 1:00 PM. If your unit has a preferred check in time, please submit it with your medical forms
-
-Failure to follow this procedure will negatively affect the check-in schedule of all troops in camp.
-
-Email all medical related questions to [nurse@campworkcoeman.org](mailto:nurse@campworkcoeman.org) or call (860) 379-1756 (after June 27).
 
 ## Medical Forms
 
@@ -97,5 +88,5 @@ Email all medical related questions to [nurse@campworkcoeman.org](mailto:nurse@c
 > <a href="{{ site.url }}/pdf/2020/health-form.pdf" class="list-group-item"><strong>Camp Workcoeman Medical Form (2019 Printing)</strong></a>
 > <a href="{{ site.url }}/pdf/2019/med-authorization.pdf" class="list-group-item">Authorization for Administration of Medication</a>
 > <a href="{{ site.url }}/pdf/2019/allergy-treatment.pdf" class="list-group-item">Emergency Treatment Plan for Allergic Reactions</a>
-> <a href="{{ site. url}}/pdf/2020/food-accommodation.pdf" class="list-group-item">Camp Food Accommodation Request</a>
-> <a href="{{ site.url }}/pdf/2019/medical-questionnaire.pdf" class="list-group-item">Medical Screening Questionnaire</a>
+> <a href="{{ site. url}}/pdf/2021/COVID-questionnaire.pdf" class="list-group-item">COVID-19 Pre‐Event
+Medical Screening Checklist</a>

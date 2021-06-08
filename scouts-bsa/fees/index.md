@@ -38,7 +38,7 @@ The fees to attend summer Scouts BSA programs in 2021 are as follows:
 
 **Other Facility Reservations:**
 
-* Rates available upon <a href="mailto:jseiser@campworkcoeman.org?subject=Summer%20Facility%20Reservations">request</a>.
+* Rates available on the [program information page]({{ site.url }}/summer-camp/a-la-carte-programs/).
 
 
 ### Refund Policy
