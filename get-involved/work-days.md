@@ -26,6 +26,8 @@ Saturday, May 22, 2021
 
 Saturday, June 5, 2021 (Note: First Saturday, Beaver Day)
 
+Saturday, June 26, 2021 (Bonus)
+
 ## Beaver Day
 
 Saturday, June 5, 2021
