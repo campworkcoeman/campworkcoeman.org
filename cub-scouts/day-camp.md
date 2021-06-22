@@ -29,11 +29,18 @@ certified staff ensuring a safe and fun experience. Camp Workcoeman is a
 Nationally Accredited Camp by the BSA and has a long history in Scouting since
 1924.
 
-Be sure to sign up for this summer blast today!
+Be sure to [sign up]({{ site.url }}/cub-scouts/register/) for this summer blast today!
 
-### Baloo's Family Camp
+### Baloo's Family Adventure
 
-Be sure to check out [Baloo's Family Camp]({{ site.url }}/summer-camp/overnight-camping/) as well as our regular [unit and family camping]({{ site.url }}/summer-camp/overnight-camping/) opportunities!
+Two special Saturdays (July 24 and August 14, 2021) of program filled Cub Scout family camp will be offered! Baloo’s Family Adventure at Camp Workcoeman is a great opportunity for Cub Scouts to enjoy a summer camp experience without the worries of being away from home. Located along the shore of beautiful West Hill Pond in New Hartford, Baloo’s Family Adventure is open to all Cub Scouts and their families as the program centers around fun for all! You will take advantage of our various program areas with activities including BB/archery shooting, swimming, crafts, and more! The event will end with a family campfire in the amphitheater featuring songs, skits, cheers, and awards! Lunch will be provided. Overnight camping is of course also [available]({{ site.url }}/summer-camp/overnight-camping/) in our new family campsite.
+
+> %list-group%
+> <a href="https://scoutingevent.com/066-46544" class="list-group-item">Register for Baloo's Family Camp</a>
+
+### Pack and Family Camping
+
+Be sure to check out our [unit and family camping]({{ site.url }}/summer-camp/overnight-camping/) opportunities!
 
 ## COVID Safety
 

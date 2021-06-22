@@ -27,13 +27,6 @@ Family camping will be available in the Tee Pee campsite which features standard
 > %list-group%
 > <a href="https://campreservation.com/066/Camps/636" class="list-group-item">Family Camping Reservations (Select Tee Pee Campsite)</a>
 
-## Baloo's Family Camp
-
-Two special weekends (July 24--25 and August 14--15, 2021) of program filled Cub Scout family camp will be offered! Baloo’s Family Camp at Camp Workcoeman is a great opportunity for Cub Scouts to enjoy a summer camp experience without the worries of being away from home. Located along the shore of beautiful West Hill Pond in New Hartford, Baloo’s Family Camp is open to all Cub Scouts and their families as the program centers around fun for all! You will take advantage of our various program areas with activities including BB/archery shooting, swimming, crafts, and more!
-
-> %list-group%
-> <a href="https://scoutingevent.com/066-46544" class="list-group-item">Register for Baloo's Family Camp</a>
-
 ## COVID Safety
 
 We know the importance of getting youth outdoors and involved in the programs of Adventure.  We are taking every step to ensure that this summer will be SAFE and FUN!  Camp will be awesome this summer, but it will look a little different than what we are used to.  We have instituted protocols and procedures in order to keep our Scouts, Scouters, staff, and families healthy and safe.  The procedures and safety measures have been promoted by federal agencies and the American Camping Association Field Guide for Camps. These multi-layered strategies prove effective and reduce the risk of transmission. <a href="https://tinyurl.com/33wn554u">Learn more</a> about specific COVID guidelines.

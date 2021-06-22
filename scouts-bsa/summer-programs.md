@@ -16,22 +16,22 @@ The summer 2021 season at Camp Workcoeman will be atypical but nonetheless rewar
 > %text-center%
 >> %row%
 >>> %col-xs-6%
->>> **Waterfront Week #1**<br/>
+>>> **Waterfront Week #1 & Preparedness Weekend**<br/>
 >>> July 6--11, 2021<br/>
 >>> **[Scuba Certification Camp #1]({{ site.url }}/scouts-bsa/special-programs/scuba/)**
 >>
 >>> %col-xs-6%
->>> **Outdoor Skills Week #1**<br/>
+>>> **Outdoor Skills Week & Shooting Sports Weekend**<br/>
 >>> July 13--18, 2021
 >
 >> %row%
 >>> %col-xs-6%
->>> **Waterfront Week #2**<br/>
+>>> **Waterfront Week #2 & Preparedness Weekend**<br/>
 >>> July 27--August 1, 2021<br/>
 >>> **[Scuba Certification Camp #2]({{ site.url }}/scouts-bsa/special-programs/scuba/)**
 >>
 >>> %col-xs-6%
->>> **Outdoor Skills Week #2**<br/>
+>>> **Cooking Merit Badge & Shooting Sports Weekend**<br/>
 >>> August 3--8, 2021
 
 > %list-group%
@@ -43,9 +43,7 @@ The summer 2021 season at Camp Workcoeman will be atypical but nonetheless rewar
 
 Two day merit badges are in *italics* with a number [(1) or (2)]. Bonus weekend badges are in **bold**.
 
-### Waterfront Weeks (July 6--11 & July 27--August 1, 2021)
-
-
+### Waterfront Weeks and Preparedness Weekends (July 6--11 & July 27--August 1, 2021)
 
 <table class="table table-hover">
 <thead>
@@ -64,7 +62,7 @@ Two day merit badges are in *italics* with a number [(1) or (2)]. Bonus weekend 
 <td>                           </td>
 <td> Canoeing                  </td>
 <td></td>
-<td> Canoeing                 </td>
+<td>                  </td>
 <td></td>
 </tr>
 <tr>
@@ -72,7 +70,7 @@ Two day merit badges are in *italics* with a number [(1) or (2)]. Bonus weekend 
 <td>                           </td>
 <td> Kayaking                  </td>
 <td></td>
-<td> Kayaking                 </td>
+<td>                  </td>
 <td></td>
 </tr>
 <tr>
@@ -80,15 +78,15 @@ Two day merit badges are in *italics* with a number [(1) or (2)]. Bonus weekend 
 <td> <em>Lifesaving (2)</em>          </td>
 <td>                           </td>
 <td></td>
-<td> <em>Lifesaving (1)</em>         </td>
-<td> <em>Lifesaving (2)</em></td>
+<td>          </td>
+<td> </td>
 </tr>
 <tr>
 <td>Swimming            </td>
 <td>                           </td>
 <td> Swimming                  </td>
 <td></td>
-<td> Swimming                 </td>
+<td>                  </td>
 <td></td>
 </tr>
 <tr>
@@ -97,7 +95,7 @@ Two day merit badges are in *italics* with a number [(1) or (2)]. Bonus weekend 
 <td>                           </td>
 <td></td>
 <td>                          </td>
-<td> Oceanography</td>
+<td> </td>
 </tr>
 <tr>
 <td></td>
@@ -105,15 +103,15 @@ Two day merit badges are in *italics* with a number [(1) or (2)]. Bonus weekend 
 <td>                           </td>
 <td></td>
 <td>                          </td>
-<td> Rowing</td>
+<td> </td>
 </tr>
 <tr>
 <td></td>
 <td> <em>Small-Boat Sailing (1)</em>  </td>
 <td> <em>Small-Boat Sailing (2)</em>  </td>
 <td></td>
-<td> <em>Small-Boat Sailing (1)</em> </td>
-<td> <em>Small-Boat Sailing (2)</em></td>
+<td>  </td>
+<td> </td>
 </tr>
 <tr>
 <td><em>Scuba Course (1)</em>  </td>
@@ -152,13 +150,21 @@ Two day merit badges are in *italics* with a number [(1) or (2)]. Bonus weekend 
 <td>                           </td>
 <td>                           </td>
 <td></td>
+<td> <strong>Emergency Preparedness</strong>    </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>                           </td>
+<td>                           </td>
+<td></td>
 <td>                          </td>
 <td> <strong>First Aid</strong></td>
 </tr>
 </tbody>
 </table>
 
-### Outdoor Skills Weeks (July 13--18 & August 3--8, 2021)
+### Outdoor Skills Week & Shooting Sports Weekend (July 13--18, 2021)
 
 <table class="table table-hover">
 <thead>
@@ -177,7 +183,7 @@ Two day merit badges are in *italics* with a number [(1) or (2)]. Bonus weekend 
 <td>                           </td>
 <td> Camping                   </td>
 <td></td>
-<td> Camping                  </td>
+<td>                   </td>
 <td></td>
 </tr>
 <tr>
@@ -185,15 +191,15 @@ Two day merit badges are in *italics* with a number [(1) or (2)]. Bonus weekend 
 <td> <em>Environ. Science (2)</em>    </td>
 <td>                           </td>
 <td></td>
-<td> <em>Environ. Science (1)</em>   </td>
-<td> <em>Environ. Science (2)</em></td>
+<td>    </td>
+<td> </td>
 </tr>
 <tr>
 <td>Geocaching              </td>
 <td>                           </td>
 <td>                           </td>
 <td></td>
-<td> Geocaching               </td>
+<td>                </td>
 <td></td>
 </tr>
 <tr>
@@ -201,7 +207,7 @@ Two day merit badges are in *italics* with a number [(1) or (2)]. Bonus weekend 
 <td>                           </td>
 <td>                           </td>
 <td></td>
-<td> Nature                   </td>
+<td>                    </td>
 <td></td>
 </tr>
 <tr>
@@ -210,14 +216,14 @@ Two day merit badges are in *italics* with a number [(1) or (2)]. Bonus weekend 
 <td>                           </td>
 <td></td>
 <td>                          </td>
-<td> Exploration</td>
+<td> </td>
 </tr>
 <tr>
 <td></td>
 <td> Fish and Wildlife Mgmt.   </td>
 <td>                           </td>
 <td></td>
-<td> Fish and Wildlife Mgmt.  </td>
+<td>   </td>
 <td></td>
 </tr>
 <tr>
@@ -225,8 +231,8 @@ Two day merit badges are in *italics* with a number [(1) or (2)]. Bonus weekend 
 <td> <em>Pioneering (1)</em>          </td>
 <td> <em>Pioneering (2)</em>          </td>
 <td></td>
-<td> <em>Pioneering (1)</em>         </td>
-<td> <em>Pioneering (2)</em></td>
+<td>          </td>
+<td> </td>
 </tr>
 <tr>
 <td></td>
@@ -234,7 +240,7 @@ Two day merit badges are in *italics* with a number [(1) or (2)]. Bonus weekend 
 <td> Mammal Study              </td>
 <td></td>
 <td>                          </td>
-<td> Mammal Study</td>
+<td> </td>
 </tr>
 <tr>
 <td></td>
@@ -242,7 +248,72 @@ Two day merit badges are in *italics* with a number [(1) or (2)]. Bonus weekend 
 <td> Soil and Water Conserv.   </td>
 <td></td>
 <td>                          </td>
-<td> Soil and Water Conserv.</td>
+<td> </td>
+</tr>
+<tr>
+<td></td>
+<td>                           </td>
+<td>                           </td>
+<td></td>
+<td> <strong>Archery</strong>              </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>                           </td>
+<td>                           </td>
+<td></td>
+<td> <strong>Rifle Shooting</strong>       </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>                           </td>
+<td>                           </td>
+<td></td>
+<td>                          </td>
+<td> <strong>Shotgun Shooting</strong></td>
+</tr>
+<tr>
+<td></td>
+<td>                           </td>
+<td>                           </td>
+<td></td>
+<td>                          </td>
+<td> <strong>Pistol Shooting Program</strong></td>
+</tr>
+</tbody>
+</table>
+
+### Cooking Merit Badge & Shooting Sports Weekend (August 3--8, 2021)
+
+<table class="table table-hover">
+<thead>
+<tr>
+<th>Tuesday                 </th>
+<th> Wednesday                 </th>
+<th> Thursday                  </th>
+<th></th>
+<th> Saturday                 </th>
+<th> Sunday</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cooking</td>
+<td>Cooking                           </td>
+<td>Cooking               </td>
+<td></td>
+<td>                          </td>
+<td> </td>
+</tr>
+<tr>
+<td></td>
+<td>                           </td>
+<td>    </td>
+<td></td>
+<td>                          </td>
+<td> Exploration</td>
 </tr>
 <tr>
 <td></td>

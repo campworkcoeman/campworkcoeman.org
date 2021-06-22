@@ -21,11 +21,11 @@ The registration system will allow you to select by day and badge. **Make sure t
 
 > %list-group%
 > <a href="https://scoutingevent.com/066-44907-120908" class="list-group-item">Scuba Week 1 --- July 6--8, 2021</a>
-> <a href="https://scoutingevent.com/066-44692-120337" class="list-group-item">Waterfront Week 1 --- July 6--11, 2021</a>
-> <a href="https://scoutingevent.com/066-44692-120388" class="list-group-item">Outdoor Skills Week 1 --- July 13--18, 2021</a>
+> <a href="https://scoutingevent.com/066-44692-120337" class="list-group-item">Waterfront Week & Preparedness Weekend 1 --- July 6--11, 2021</a>
+> <a href="https://scoutingevent.com/066-44692-120388" class="list-group-item">Outdoor Skills Week & Shooting Sports Weekend 1 --- July 13--18, 2021</a>
 > <a href="https://scoutingevent.com/066-44907-120909" class="list-group-item">Scuba Week 2 --- July 27--29, 2021</a>
-> <a href="https://scoutingevent.com/066-44692-120389" class="list-group-item">Waterfront Week 2 --- July 27--August 1, 2021</a>
-> <a href="https://scoutingevent.com/066-44692-120390" class="list-group-item">Outdoor Skills Week 2 --- August 3--8, 2021</a>
+> <a href="https://scoutingevent.com/066-44692-120389" class="list-group-item">Waterfront Week & Preparedness Weekend 2 --- July 27--August 1, 2021</a>
+> <a href="https://scoutingevent.com/" class="list-group-item">Cooking Merit Badge & Shooting Sports Weekend 2 --- August 3--8, 2021 (Coming Soon)</a>
 
 ## Unit Camping
 > %list-group%
