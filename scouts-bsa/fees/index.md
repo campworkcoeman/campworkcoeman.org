@@ -18,9 +18,9 @@ The fees to attend summer Scouts BSA programs in 2021 are as follows:
 
 **Day Programs:**
 
-* Single day merit badges are $45 each
-* Two day merit badges are $65 each
-* Three day Cooking merit bade is $90
+* Single-day merit badge programs are $45 each
+* Two-day merit badge programs are $65 each
+* Three-day Cooking merit badge program is $90
 
 **Scuba Program:**
 
