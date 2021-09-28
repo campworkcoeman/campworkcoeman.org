@@ -21,4 +21,4 @@ A weekend focused on advancement related to the Webelos and Arrow of Light ranks
 A program open to Cub Scouts and Webelos that will focus on outdoor skills, BB shooting, and archery.
 
 > %list-group%
-> <a href="https://scoutingevent.com/" class="list-group-item">Register for Cub Scout Autumn Adventure (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-51234" class="list-group-item">Register for Cub Scout Autumn Adventure</a>

@@ -21,4 +21,5 @@ Scouts Second Class Rank and above can attend a program featuring various merit 
 Work towards completing various rank advancement requirements (see registration page for more details), take Shotgun Shooting merit badge, or participate in our Pistol Shooting Program.
 
 > %list-group%
-> <a href="https://scoutingevent.com/" class="list-group-item">Register for Scouts BSA Advancement & Shooting Day (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-51316" class="list-group-item">Register for Scouts BSA Advancement Day</a>
+> <a href="https://scoutingevent.com/066-51354" class="list-group-item">Register for Scouts BSA Shooting Day</a>
