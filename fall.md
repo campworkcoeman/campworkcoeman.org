@@ -5,7 +5,7 @@ title: Fall 2021 @ Workcoeman
 keywords: "Boy Scout, Scouts BSA, Cub Scouts, summer camp, day camp, overview, Scouting, Fall 2021, Overnight Camping, Merit Badges"
 ---
 
-Similar to what was offered last year, Camp Workcoeman will offering a variety of day and overnight weekend opportunities for both Scouts BSA and Cub Scout participants throughout the fall.
+Similar to what was offered last year, Camp Workcoeman will be offering a variety of day and overnight weekend opportunities for both Scouts BSA and Cub Scout participants throughout the fall.
 
 > %text-center%
 >> %row%
