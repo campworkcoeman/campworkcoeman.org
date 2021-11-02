@@ -32,6 +32,8 @@ Saturday, August 28, 2021
 
 Saturday, September 18, 2021 (Note: Third Saturday)
 
+Saturday, October 23, 2021
+
 ## Beaver Day
 
 Saturday, June 5, 2021
