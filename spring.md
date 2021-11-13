@@ -1,7 +1,7 @@
 ---
 published: true
 layout: generic
-title: Spring 2022 @ Workcoeman
+title: Winter/Spring 2022 @ Workcoeman
 keywords: "Boy Scout, Scouts BSA, Cub Scouts, summer camp, day camp, overview, Scouting, Spring 2022, Overnight Camping, Merit Badges"
 ---
 
