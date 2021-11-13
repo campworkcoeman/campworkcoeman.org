@@ -8,11 +8,9 @@ keywords: work days, volunteer
 
 ## Shawtown Work Days
 
-Pre-planned mini-work parties (in conjunction with the Ranger's needs) will be held from 9:00 AM to 3:00 PM on (generally) the 4^th Saturday of each month. ~~Coffee "and" at 8:30 AM and lunch will be provided.~~ We will tackle jobs large and small throughout the camp to assure an awesome experience for any Scouts or Scouters attending Camp Workcoeman this year and for years to come!
+Pre-planned mini-work parties (in conjunction with the Ranger's needs) will be held from 9:00 AM to 3:00 PM on (generally) the 4^th Saturday of each month. Coffee "and" at 8:30 AM and lunch will be provided. We will tackle jobs large and small throughout the camp to assure an awesome experience for any Scouts or Scouters attending Camp Workcoeman this year and for years to come!
 
 If you plan on attending, please email Brian Cornell ([bcornell@campworkcoeman.org](mailto:bcornell@campworkcoeman.org)) by the Sunday before the work day to let him know you're coming; he'll let you know by the following Wednesday the projects to be addressed and any special attire or equipment needs.
-
-**The full list of 2021 work days has not yet been finalized.**
 
 [Saturday, January 23, 2021]({{ site.url }}/about/news/2021/01/07/january-shawtown-work-day//)
 
@@ -33,6 +31,10 @@ Saturday, August 28, 2021
 Saturday, September 18, 2021 (Note: Third Saturday)
 
 Saturday, October 23, 2021
+
+Saturday, November 20, 2021 (Note: Third Saturday)
+
+No December Work Day
 
 ## Beaver Day
 

@@ -134,12 +134,12 @@ Redirect 301 /2021SummerRentals/ /summer-camp/overnight-camping/
 Redirect 301 /2021SummerRentals /summer-camp/overnight-camping/
 
 # Misc Temp Short Links
-Redirect 302 /nature https://campworkcoeman.org/about/news/2021/04/28/may-day-programs/
-Redirect 302 /nature/ https://campworkcoeman.org/about/news/2021/04/28/may-day-programs/
-Redirect 302 /Nature https://campworkcoeman.org/about/news/2021/04/28/may-day-programs/
-Redirect 302 /Nature/ https://campworkcoeman.org/about/news/2021/04/28/may-day-programs/
-Redirect 302 /NATURE https://campworkcoeman.org/about/news/2021/04/28/may-day-programs/
-Redirect 302 /NATURE/ https://campworkcoeman.org/about/news/2021/04/28/may-day-programs/
+Redirect 302 /winter https://campworkcoeman.org/spring/
+Redirect 302 /winter/ https://campworkcoeman.org/spring/
+Redirect 302 /Winter https://campworkcoeman.org/spring/
+Redirect 302 /Winter/ https://campworkcoeman.org/spring/
+Redirect 302 /WINTER https://campworkcoeman.org/spring/
+Redirect 302 /WINTER/ https://campworkcoeman.org/spring/
 
 # Block SEMalt botnet and other referral spam
 SetEnvIfNoCase Referer fbdownloader.com spammer=yes
