@@ -14,14 +14,14 @@ keywords: "Boy Scout, Scouts BSA, resident camp, 2022, registration, reservation
 Photography --- Engineering --- Nuclear Science --- Space Exploration --- Medicine
 
 > %list-group%
-> <a href="https://scoutingevent.com/" class="list-group-item">Register for STEM Merit Badge Day (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-53019" class="list-group-item">Register for STEM Merit Badge Day</a>
 
 ## Winter Adventure Day --- February 26, 2022
 
 Skating --- Snow Sports --- Search & Rescue --- Fishing --- First Aid
 
 > %list-group%
-> <a href="https://scoutingevent.com/" class="list-group-item">Register for Winter Adventure Day (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-53021" class="list-group-item">Register for Winter Adventure Day</a>
 
 ## Trades Merit Badge Day --- April 2, 2022
 
