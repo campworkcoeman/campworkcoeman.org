@@ -28,7 +28,7 @@ More info coming soon.
 More info coming soon.
 
 > %list-group%
-> <a href="https://scoutingevent.com/" class="list-group-item">Register for Covered Wagon Derby (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-53028" class="list-group-item">Register for Covered Wagon Derby</a>
 
 ## BALOO Leader Training --- April 30, 2022
 
