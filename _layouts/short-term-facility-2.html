@@ -1,0 +1,31 @@
+{% include header.html %}
+{% include navbar.html %}
+
+<!-- Main content -->
+<div class="container main">
+{% include announcement.html %}
+<div class="row">
+
+  <!-- Main column -->
+  <div class="col-sm-8 col-sm-push-4 col-lg-9 col-lg-push-3">
+    
+    <ol class="breadcrumb">
+      <li><a href="{{ site.url }}/short-term-camping/">Short Term Camping</a></li>
+      <li class="active">{{ page.title }}</li>
+    </ol>
+    <h1>{{ page.title }}<a href="mailto:jseiser@campworkcoeman.org?subject=Facility Reservation" class="btn btn-primary pull-right reserve-button-position">Reserve Now</a><small><br/>Short Term Facility</small></h1>
+
+    <div class="alert alert-info"><p>To reserve this facility, please email <a href="mailto:jseiser@campworkcoeman.org?subject=Facility Reservation">Jeff Seiser</a>.</p></div>
+    
+    <div class="justify">
+      {{ content }}
+    </div>
+    
+  </div>
+
+{% include sidebar.html %}
+
+</div>
+</div>
+
+{% include footer.html %}

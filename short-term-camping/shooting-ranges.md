@@ -1,6 +1,6 @@
 ---
 published: true
-layout: short-term-facility
+layout: short-term-facility-2
 title: Shooting Ranges
 capitalize: no
 rentalURL: mailto:jseiser@campworkcoeman.org?subject=Shooting Range Reservation
