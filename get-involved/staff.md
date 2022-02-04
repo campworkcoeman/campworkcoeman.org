@@ -35,12 +35,14 @@ recommended that you submit your application early. Applicants will be notified
 of the interview schedule by the Camp Director.
 
 > %list-group%
-> <a href="https://forms.gle/kdsvP1drPEmVWCKD8" class="list-group-item">2021 Staff Application</a>
+> <a href="https://docs.google.com/forms/d/1GIjkaRZx2zejUWr5FqvptlpqasE7AiTmrzegBK23X9s/viewform" class="list-group-item">2022 Staff Application</a>
 
 If you are interested in working at camp this summer, please contact Camp
 Director Lou Seiser at [lseiser@campworkcoeman.org](mailto:lseiser@campworkcoeman.org).
 
 ## Counselor In Training Program
+
+**Check back soon for updates to the CIT Program for 2022.**
 
 The CIT program offers an exciting opportunity for those who would like to
 learn about the camp operation from the staff viewpoint. As a CIT, you will
@@ -53,7 +55,7 @@ members. Participants will work in all areas of camp and gain first-hand
 experiences to understand what it really takes to operate the high-quality
 programs of Camp Workcoeman.
 
-The cost for the program in 2021 is TBD. Participants must be at least 14 years old.
+The cost for the program in 2022 is TBD. Participants must be at least 14 years old.
 All participants will be evaluated at the end of the week and could be offered
 to stay for another week based on their performance.
 
@@ -64,7 +66,7 @@ guarantee a position. Please understand that participation in the CIT program
 in no way guarantees employment.
 
 > %list-group%
-> <a href="{{ site.url }}/#" class="list-group-item">2021 CIT Application (Coming Soon)</a>
+> <a href="{{ site.url }}/#" class="list-group-item">2022 CIT Application (Coming Soon)</a>
 
 If you are interested in being a CIT, please contact Camp Director Lou Seiser
 at [lseiser@campworkcoeman.org](mailto:lseiser@campworkcoeman.org).
