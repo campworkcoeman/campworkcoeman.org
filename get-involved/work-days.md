@@ -14,7 +14,7 @@ If you plan on attending, please email Brian Cornell ([bcornell@campworkcoeman.o
 
 ~~Saturday, January 22, 2022~~ **Canceled**
 
-Saturday, February 26, 2022
+~~Saturday, February 26, 2022~~ **Canceled**
 
 Saturday, March 26, 2022
 
