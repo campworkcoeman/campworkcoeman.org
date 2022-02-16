@@ -21,7 +21,7 @@ Building on last year's progress, the summer 2022 season at Camp Workcoeman will
 >>
 >>> %col-xs-6%
 >>> **Aquatics Week #1**<br/>
->>> July 11--15, 2022
+>>> July 11--15, 2022<br/>
 >>> **[Scuba Certification Camp #1]({{ site.url }}/scouts-bsa/special-programs/scuba/)**
 >
 >> %row%
@@ -31,7 +31,7 @@ Building on last year's progress, the summer 2022 season at Camp Workcoeman will
 >>
 >>> %col-xs-6%
 >>> **Aquatics Week #2**<br/>
->>> August 1--5, 2022
+>>> August 1--5, 2022<br/>
 >>> **[Scuba Certification Camp #2]({{ site.url }}/scouts-bsa/special-programs/scuba/)**
 
 > %list-group%
@@ -62,6 +62,7 @@ Building on last year's progress, the summer 2022 season at Camp Workcoeman will
 - Wilderness Survival
 - Woodcarving
 
+
 - Pistol Shooting Program
 - Pioneering & Orienteering Clinic
 - Woods Tools & Fire Building Clinic
@@ -80,6 +81,7 @@ Building on last year's progress, the summer 2022 season at Camp Workcoeman will
 - Small Boat Sailing
 - Space Exploration
 - Swimming
+
 
 - SCUBA BSA
 - Swimming & Boating Clinic
