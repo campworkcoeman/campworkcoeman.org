@@ -6,349 +6,88 @@ keywords: "Boy Scout, Scouts BSA, summer camp"
 ---
 
 <div class="alert alert-info">
-Registration for 2021 summer programs is now open.
+Registration for 2022 summer programs opens soon.
 <a href="{{ site.url }}/scouts-bsa/register/">
-Sign up today!</a>
+Sign up links will be here.</a>
 </div>
 
-The summer 2021 season at Camp Workcoeman will be atypical but nonetheless rewarding. A series of one and two session daytime merit badge classes will be offered mid-week and on weekends. Additionally, overnight unit and family camping will be offered any night throughout the summer. These programs are not designed to replicate a traditional summer camp experience; rather, they are intended to supplement one through a variety of flexible programs.
+Building on last year's progress, the summer 2022 season at Camp Workcoeman will consist of a series of one and two session daytime merit badge classes. Several skills clinics are available as well as a full-week scuba certification course. Additionally, overnight unit and family camping will be offered any night throughout the summer. These programs are not designed to replicate a traditional summer camp experience; rather, they are intended to supplement one through a variety of flexible programs.
 
 > %text-center%
 >> %row%
 >>> %col-xs-6%
->>> **Waterfront Week #1 & Preparedness Weekend**<br/>
->>> July 6--11, 2021<br/>
->>> **[Scuba Certification Camp #1]({{ site.url }}/scouts-bsa/special-programs/scuba/)**
+>>> **Outdoor Skills Week #1**<br/>
+>>> July 4--8, 2022<br/>
 >>
 >>> %col-xs-6%
->>> **Outdoor Skills Week & Shooting Sports Weekend**<br/>
->>> July 13--18, 2021
+>>> **Aquatics Week #1**<br/>
+>>> July 11--15, 2022
+>>> **[Scuba Certification Camp #1]({{ site.url }}/scouts-bsa/special-programs/scuba/)**
 >
 >> %row%
 >>> %col-xs-6%
->>> **Waterfront Week #2 & Preparedness Weekend**<br/>
->>> July 27--August 1, 2021<br/>
->>> **[Scuba Certification Camp #2]({{ site.url }}/scouts-bsa/special-programs/scuba/)**
+>>> **Outdoor Skills Week #2**<br/>
+>>> July 25--29, 2022<br/>
 >>
 >>> %col-xs-6%
->>> **Cooking Merit Badge & Shooting Sports Weekend**<br/>
->>> August 3--8, 2021
+>>> **Aquatics Week #2**<br/>
+>>> August 1--5, 2022
+>>> **[Scuba Certification Camp #2]({{ site.url }}/scouts-bsa/special-programs/scuba/)**
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2021/2021-program-guide.pdf" class="list-group-item">2021 Program Guide</a>
-> <a href="{{ site.url }}/pdf/2021/2021-preview-flier.pdf" class="list-group-item">2021 Camp Preview Flier</a>
-> <a href="{{ site.url }}/summer-camp/a-la-carte-programs/" class="list-group-item">2021 Summer À La Carte Programs</a>
+> <a href="{{ site.url }}/pdf/2021/2021-program-guide.pdf" class="list-group-item">2022 Program Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2021/2021-preview-flier.pdf" class="list-group-item">2022 Camp Preview Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/summer-camp/a-la-carte-programs/" class="list-group-item">2022 Summer À La Carte Programs (Coming Soon)</a>
 
-## Merit Badge Offerings
+## Merit Badge and Clinic Offerings
 
-Two day merit badges are in *italics* with a number [(1) or (2)]. Bonus weekend badges are in **bold**.
+### Outdoor Skills Weeks (July 4--8 & July 25--29, 2022)
+- Archery
+- Basketry
+- Camping
+- Environmental Science
+- Exploration
+- Fish & Wildlife Management
+- Indian Lore
+- Leatherwork
+- Mammal Study
+- Metalwork
+- Nature
+- Orienteering
+- Pioneering
+- Shotgun Shooting
+- Soil & Water Conservation
+- Rifle Shooting
+- Weather
+- Wilderness Survival
+- Woodcarving
 
-### Waterfront Weeks and Preparedness Weekends (July 6--11 & July 27--August 1, 2021)
+- Pistol Shooting Program
+- Pioneering & Orienteering Clinic
+- Woods Tools & Fire Building Clinic
 
-<table class="table table-hover">
-<thead>
-<tr>
-<th>Tuesday             </th>
-<th> Wednesday                 </th>
-<th> Thursday                  </th>
-<th></th>
-<th> Saturday                 </th>
-<th> Sunday</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Canoeing            </td>
-<td>                           </td>
-<td> Canoeing                  </td>
-<td></td>
-<td>                  </td>
-<td></td>
-</tr>
-<tr>
-<td>Kayaking            </td>
-<td>                           </td>
-<td> Kayaking                  </td>
-<td></td>
-<td>                  </td>
-<td></td>
-</tr>
-<tr>
-<td><em>Lifesaving (1)</em>    </td>
-<td> <em>Lifesaving (2)</em>          </td>
-<td>                           </td>
-<td></td>
-<td>          </td>
-<td> </td>
-</tr>
-<tr>
-<td>Swimming            </td>
-<td>                           </td>
-<td> Swimming                  </td>
-<td></td>
-<td>                  </td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td> Oceanography              </td>
-<td>                           </td>
-<td></td>
-<td>                          </td>
-<td> </td>
-</tr>
-<tr>
-<td></td>
-<td> Rowing                    </td>
-<td>                           </td>
-<td></td>
-<td>                          </td>
-<td> </td>
-</tr>
-<tr>
-<td></td>
-<td> <em>Small-Boat Sailing (1)</em>  </td>
-<td> <em>Small-Boat Sailing (2)</em>  </td>
-<td></td>
-<td>  </td>
-<td> </td>
-</tr>
-<tr>
-<td><em>Scuba Course (1)</em>  </td>
-<td> <em>Scuba Course (2)</em>        </td>
-<td> <em>Scuba Course (3)</em>        </td>
-<td></td>
-<td>                          </td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>                           </td>
-<td>                           </td>
-<td></td>
-<td>                          </td>
-<td> Scuba BSA Award</td>
-</tr>
-<tr>
-<td></td>
-<td>                           </td>
-<td>                           </td>
-<td></td>
-<td> <strong><em>Climbing (1)</em></strong>       </td>
-<td> <strong><em>Climbing (2)</em></strong></td>
-</tr>
-<tr>
-<td></td>
-<td>                           </td>
-<td>                           </td>
-<td></td>
-<td> <strong>Search and Rescue</strong>    </td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>                           </td>
-<td>                           </td>
-<td></td>
-<td> <strong>Emergency Preparedness</strong>    </td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>                           </td>
-<td>                           </td>
-<td></td>
-<td>                          </td>
-<td> <strong>First Aid</strong></td>
-</tr>
-</tbody>
-</table>
+### Aquatics Weeks (July 11--15 & August 1--5, 2022)
+- Canoeing
+- Chess
+- Climbing
+- Fishing
+- Fly Fishing
+- Kayaking
+- Lifesaving
+- Oceanography
+- Rowing
+- Scuba Diving
+- Small Boat Sailing
+- Space Exploration
+- Swimming
 
-### Outdoor Skills Week & Shooting Sports Weekend (July 13--18, 2021)
+- SCUBA BSA
+- Swimming & Boating Clinic
+- Learn How to Sail the 'Big Boats' Clinic
 
-<table class="table table-hover">
-<thead>
-<tr>
-<th>Tuesday                 </th>
-<th> Wednesday                 </th>
-<th> Thursday                  </th>
-<th></th>
-<th> Saturday                 </th>
-<th> Sunday</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Camping                 </td>
-<td>                           </td>
-<td> Camping                   </td>
-<td></td>
-<td>                   </td>
-<td></td>
-</tr>
-<tr>
-<td><em>Environ. Science (1)</em>  </td>
-<td> <em>Environ. Science (2)</em>    </td>
-<td>                           </td>
-<td></td>
-<td>    </td>
-<td> </td>
-</tr>
-<tr>
-<td>Geocaching              </td>
-<td>                           </td>
-<td>                           </td>
-<td></td>
-<td>                </td>
-<td></td>
-</tr>
-<tr>
-<td>Nature                  </td>
-<td>                           </td>
-<td>                           </td>
-<td></td>
-<td>                    </td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td> Exploration               </td>
-<td>                           </td>
-<td></td>
-<td>                          </td>
-<td> </td>
-</tr>
-<tr>
-<td></td>
-<td> Fish and Wildlife Mgmt.   </td>
-<td>                           </td>
-<td></td>
-<td>   </td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td> <em>Pioneering (1)</em>          </td>
-<td> <em>Pioneering (2)</em>          </td>
-<td></td>
-<td>          </td>
-<td> </td>
-</tr>
-<tr>
-<td></td>
-<td>                           </td>
-<td> Mammal Study              </td>
-<td></td>
-<td>                          </td>
-<td> </td>
-</tr>
-<tr>
-<td></td>
-<td>                           </td>
-<td> Soil and Water Conserv.   </td>
-<td></td>
-<td>                          </td>
-<td> </td>
-</tr>
-<tr>
-<td></td>
-<td>                           </td>
-<td>                           </td>
-<td></td>
-<td> <strong>Archery</strong>              </td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>                           </td>
-<td>                           </td>
-<td></td>
-<td> <strong>Rifle Shooting</strong>       </td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>                           </td>
-<td>                           </td>
-<td></td>
-<td>                          </td>
-<td> <strong>Shotgun Shooting</strong></td>
-</tr>
-<tr>
-<td></td>
-<td>                           </td>
-<td>                           </td>
-<td></td>
-<td>                          </td>
-<td> <strong>Pistol Shooting Program</strong></td>
-</tr>
-</tbody>
-</table>
-
-### Cooking Merit Badge & Shooting Sports Weekend (August 3--8, 2021)
-
-<table class="table table-hover">
-<thead>
-<tr>
-<th>Tuesday                 </th>
-<th> Wednesday                 </th>
-<th> Thursday                  </th>
-<th></th>
-<th> Saturday                 </th>
-<th> Sunday</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Cooking</td>
-<td>Cooking                           </td>
-<td>Cooking               </td>
-<td></td>
-<td>                          </td>
-<td> </td>
-</tr>
-<tr>
-<td></td>
-<td>                           </td>
-<td>    </td>
-<td></td>
-<td>                          </td>
-<td> Exploration</td>
-</tr>
-<tr>
-<td></td>
-<td>                           </td>
-<td>                           </td>
-<td></td>
-<td> <strong>Archery</strong>              </td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>                           </td>
-<td>                           </td>
-<td></td>
-<td> <strong>Rifle Shooting</strong>       </td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>                           </td>
-<td>                           </td>
-<td></td>
-<td>                          </td>
-<td> <strong>Shotgun Shooting</strong></td>
-</tr>
-<tr>
-<td></td>
-<td>                           </td>
-<td>                           </td>
-<td></td>
-<td>                          </td>
-<td> <strong>Pistol Shooting Program</strong></td>
-</tr>
-</tbody>
-</table>
+## Merit Badge Schedule
+> %list-group%
+> <a href="{{ site.url }}/pdf/2022/2022-merit-badge-schedule.pdf" class="list-group-item">2022 Merit Badge Schedule</a>
 
 ## COVID Safety
 
