@@ -42,7 +42,7 @@ Director Lou Seiser at [lseiser@campworkcoeman.org](mailto:lseiser@campworkcoema
 
 ## Counselor In Training Program
 
-The CIT program offers an exciting opportunity for those who would like to
+Returning for 2022, the CIT program offers an exciting opportunity for those who would like to
 learn about the camp operation from the staff viewpoint. As a CIT, you will
 learn leadership skills, will become knowledgeable of camp operations, and
 will develop teaching skills.
@@ -56,6 +56,8 @@ programs of Camp Workcoeman.
 The cost for the program in 2022 is $150. Participants must be at least 14 years old.
 All participants will be evaluated at the end of the week and could be offered
 to stay for another week based on their performance.
+
+The program is available starting the second week of the summer season (July 10). The program runs Sunday evening through Friday evening. Participants will sleep on cots in canvas tents. They will spend the day helping the staff run the camp program while evenings will involve various training opportunities such as a Leave No Trace Trainer course.
 
 Those who successfully complete this program will be seriously considered for
 future camp staff positions. Those that participate in the CIT Program enhance

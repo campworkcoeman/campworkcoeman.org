@@ -1,31 +1,29 @@
 ---
 published: true
 layout: generic
-title: 2021 Camp Workcoeman Scouts BSA Fees
+title: 2022 Camp Workcoeman Scouts BSA Fees
 description: This page lists the fees to attend summer Scouts BSA programs at Camp Workcoeman.
 keywords: fees
 ---
 
 <div class="alert alert-info">
-Registration for 2021 summer programs is now open.
+Registration for 2022 summer programs is now open.
 <a href="{{ site.url }}/scouts-bsa/register/">
 Sign up today!</a>
 </div>
 
-The fees to attend summer Scouts BSA programs in 2021 are as follows:
+The fees to attend summer Scouts BSA programs in 2022 are as follows:
 
 ### Scout Fees
 
 **Day Programs:**
 
-* Single-day merit badge programs are $45 each
-* Two-day merit badge programs are $65 each
-* Three-day Cooking merit badge program is $90
+* Single-day merit badge programs and clinics are $45 each
+* Two-day merit badge programs are $75 each
 
 **Scuba Program:**
 
 * $375/person
-* A $50 deposit is due at time of registration with the remainder due by 23 June 2021
 
 **Campsite Reservations:**
 
@@ -41,6 +39,13 @@ The fees to attend summer Scouts BSA programs in 2021 are as follows:
 
 * Rates available on the [program information page]({{ site.url }}/summer-camp/a-la-carte-programs/).
 
+### Camperships
+
+Camperships are available for families that need financial assistance.
+
+> %list-group%
+> <a href="{{ site.url }}/scouts-bsa/fees/camperships/" class="list-group-item">Campership Information</a>
 
 ### Refund Policy
+
 Please see the registration site for the refund policy of each event.

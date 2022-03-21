@@ -12,19 +12,19 @@ Having trouble registering? Scroll to the bottom of the <a href="https://ctscout
 
 > %list-group%
 > <a href="https://docs.google.com/forms/d/1GIjkaRZx2zejUWr5FqvptlpqasE7AiTmrzegBK23X9s/viewform" class="list-group-item">2022 Staff Application</a>
-> <a href="{{ site.url }}/#" class="list-group-item">2022 CIT Application (Coming Soon)</a>
+> <a href="https://docs.google.com/forms/d/e/1FAIpQLSda2-1F6ufZP5rB_GkaqvnRyUQjFCTofWmqKDJeIvbez4kRyw/viewform" class="list-group-item">2022 CIT Application</a>
 
 Below, you will find links to the Council event registration website to register for the 2022 Camp Workcoeman season.
 
 ## Scouts BSA Summer Programs
 
 > %list-group%
-> <a href="https://scoutingevent.com/" class="list-group-item">Outdoor Skills Week 1 --- July 4--8, 2022 (Coming Soon)</a>
-> <a href="https://scoutingevent.com/" class="list-group-item">Aquatics Week 1 --- July 11--15, 2022 (Coming Soon)</a>
-> <a href="https://scoutingevent.com/" class="list-group-item">Scuba Week 1 --- July 11--15, 2022</a>
-> <a href="https://scoutingevent.com/" class="list-group-item">Outdoor Skills Week 2 --- July 25--29, 2022 (Coming Soon)</a>
-> <a href="https://scoutingevent.com/" class="list-group-item">Aquatics Week 2 --- August 1--5, 2022 (Coming Soon)</a>
-> <a href="https://scoutingevent.com/" class="list-group-item">Scuba Week 2 --- August 1--5, 2022</a>
+> <a href="https://scoutingevent.com/066-56132" class="list-group-item">Outdoor Skills Week 1 --- July 4--8, 2022</a>
+> <a href="https://scoutingevent.com/066-56132" class="list-group-item">Aquatics Week 1 --- July 11--15, 2022</a>
+> <a href="https://scoutingevent.com/066-56275" class="list-group-item">Scuba Week 1 --- July 11--15, 2022</a>
+> <a href="https://scoutingevent.com/066-56132" class="list-group-item">Outdoor Skills Week 2 --- July 25--29, 2022</a>
+> <a href="https://scoutingevent.com/066-56132" class="list-group-item">Aquatics Week 2 --- August 1--5, 2022</a>
+> <a href="https://scoutingevent.com/066-56275" class="list-group-item">Scuba Week 2 --- August 1--5, 2022</a>
 
 ## À La Carte Programs
 Email <a href="mailto:jseiser@campworkcoeman.org">Jeff Seiser</a> for information and to make reservations.

@@ -6,9 +6,9 @@ keywords: "Boy Scout, Scouts BSA, summer camp"
 ---
 
 <div class="alert alert-info">
-Registration for 2022 summer programs opens soon.
+Registration for 2022 summer programs is now open.
 <a href="{{ site.url }}/scouts-bsa/register/">
-Sign up links will be here.</a>
+Register today!</a>
 </div>
 
 Building on last year's progress, the summer 2022 season at Camp Workcoeman will consist of a series of one and two session daytime merit badge classes. Several skills clinics are available as well as a full-week scuba certification course. Additionally, overnight unit and family camping will be offered any night throughout the summer. These programs are not designed to replicate a traditional summer camp experience; rather, they are intended to supplement one through a variety of flexible programs.
@@ -37,7 +37,7 @@ Building on last year's progress, the summer 2022 season at Camp Workcoeman will
 > %list-group%
 > <a href="{{ site.url }}/pdf/2021/2021-program-guide.pdf" class="list-group-item">2022 Program Guide (Coming Soon)</a>
 > <a href="{{ site.url }}/pdf/2021/2021-preview-flier.pdf" class="list-group-item">2022 Camp Preview Flier (Coming Soon)</a>
-> <a href="{{ site.url }}/summer-camp/a-la-carte-programs/" class="list-group-item">2022 Summer À La Carte Programs (Coming Soon)</a>
+> <a href="{{ site.url }}/summer-camp/a-la-carte-programs/" class="list-group-item">2022 Summer À La Carte Programs</a>
 
 ## Merit Badge and Clinic Offerings
 

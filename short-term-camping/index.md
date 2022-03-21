@@ -10,7 +10,7 @@ Camp Workcoeman offers a number of short term camping options as well as
 meeting areas. Click on the links below for a description for each short term
 facility.
 
-<div class="alert alert-info"><p>To reserve a facility, please visit the Connecticut Rivers Council <strong><a href="https://campreservation.com/066/Camps/636">Reservation Website</a></strong>. Rentals are available Labor Day through Memorial Day.</p></div>
+<div class="alert alert-info"><p>To reserve a facility, please visit the Connecticut Rivers Council <strong><a href="https://campreservation.com/066/Camps/636">Reservation Website</a></strong>. Campsite and program area rentals are available year-round; cabin rentals are available Labor Day through Memorial Day.</p></div>
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2018/facility-usage-policy.pdf" class="list-group-item">Camp Property Usage Guidelines for Short Term Camping</a>

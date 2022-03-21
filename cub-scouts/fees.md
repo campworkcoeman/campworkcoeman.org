@@ -1,8 +1,8 @@
 ---
 published: true
 layout: generic
-title: 2021 CT Rivers Council Cub Camp Fees
-description: This page list the fees to attend Cub Scout Summer Camp programs in 2021 at Connecticut Rivers Council Scout Camps.
+title: 2022 CT Rivers Council Cub Camp Fees
+description: This page list the fees to attend Cub Scout Summer Camp programs in 2022 at Connecticut Rivers Council Scout Camps.
 keywords: fees
 ---
 
@@ -11,11 +11,12 @@ keywords: fees
 
 **Cub Scout Day Camp:**
 
-* $250
+* $275 for Scouts
+* $25 for adults
 
 **Baloo's Family Camp**
 
-* Youth/Parent Pair: $100
+* Youth/Parent Pair: $90
 * Additional Youth/Parent: $50
 * Family of 4 or More: $175
 
@@ -35,8 +36,15 @@ keywords: fees
 
 ### More information
 
-For more information or questions please contact Mike Brown at (860) 913-2750 or [michael.brown@scouting.org](mailto:michael.brown@scouting.org).
+For more information or questions please contact Alex Cantor at [alex.cantor@scouting.org](mailto:alex.cantor@scouting.org).
+
+### Camperships
+
+Camperships are available for families that need financial assistance.
+
+> %list-group%
+> <a href="{{ site.url }}/scouts-bsa/fees/camperships/" class="list-group-item">Campership Information</a>
 
 ### Refund Policy
 
-If canceled at least 30 days prior, a full refund will be given. Anything canceled between 2 weeks and 30 days prior is refunded at 50%. If canceled within 2 weeks of the event, a refund is at the discretion of the Council.
+Please see the registration website for the refund policy for each event.
