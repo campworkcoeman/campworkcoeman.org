@@ -1,7 +1,7 @@
 ---
 published: true
 layout: generic
-title: 2021 Medical Form Information
+title: 2022 Medical Form Information
 description: Information needed to fill out and submit the camp medical form.
 keywords: med, form, medical
 ---
@@ -19,9 +19,7 @@ do not need Part C (physical). **Remember to make copies of all forms before sub
 needed for the summer. Please mail forms to camp (A n: Health Officer, Camp Workcoeman, 169 Camp
 Workcoeman Rd., New Hartford, CT 06057) two weeks in advance or bring to check‐in.
 
-As part of our COVID‐19 mitigation policies, all participants must complete the COVID‐19 Pre‐Event
-Medical Screening Checklist and bring it with them to check‐in. A new form is needed for the first day of
-each program (but not subsequent days of multi‐day programs).
+While the COVID‐19 Pre‐Event Medical Screening Checklist is no longer required, please do not come to camp if you are experiencing COVID-like symptoms.
 
 #### Scouts with Special Needs
 
@@ -88,5 +86,3 @@ Mail all forms to:
 > <a href="{{ site.url }}/pdf/2020/health-form.pdf" class="list-group-item"><strong>Camp Workcoeman Medical Form (2019 Printing)</strong></a>
 > <a href="{{ site.url }}/pdf/2019/med-authorization.pdf" class="list-group-item">Authorization for Administration of Medication</a>
 > <a href="{{ site.url }}/pdf/2019/allergy-treatment.pdf" class="list-group-item">Emergency Treatment Plan for Allergic Reactions</a>
-> <a href="{{ site. url}}/pdf/2021/COVID-questionnaire.pdf" class="list-group-item">COVID-19 Pre‐Event
-Medical Screening Checklist</a>

@@ -47,7 +47,7 @@ Building on last year's progress, the summer 2022 season at Camp Workcoeman will
 - Camping
 - Environmental Science
 - Exploration
-- Fish & Wildlife Management
+- Fish and Wildlife Management
 - Indian Lore
 - Leatherwork
 - Mammal Study
@@ -56,11 +56,11 @@ Building on last year's progress, the summer 2022 season at Camp Workcoeman will
 - Orienteering
 - Pioneering
 - Shotgun Shooting
-- Soil & Water Conservation
+- Soil and Water Conservation
 - Rifle Shooting
 - Weather
 - Wilderness Survival
-- Woodcarving
+- Wood Carving
 
 
 - Pistol Shooting Program
@@ -72,28 +72,24 @@ Building on last year's progress, the summer 2022 season at Camp Workcoeman will
 - Chess
 - Climbing
 - Fishing
-- Fly Fishing
+- Fly-Fishing
 - Kayaking
 - Lifesaving
 - Oceanography
 - Rowing
 - Scuba Diving
-- Small Boat Sailing
+- Small-Boat Sailing
 - Space Exploration
 - Swimming
 
 
 - SCUBA BSA
 - Swimming & Boating Clinic
-- Learn How to Sail the 'Big Boats' Clinic
+- 'Big Boats' Sailing Clinic
 
 ## Merit Badge Schedule
 > %list-group%
 > <a href="{{ site.url }}/pdf/2022/2022-merit-badge-schedule.pdf" class="list-group-item">2022 Merit Badge Schedule</a>
-
-## COVID Safety
-
-We know the importance of getting youth outdoors and involved in the programs of Adventure.  We are taking every step to ensure that this summer will be SAFE and FUN!  Camp will be awesome this summer, but it will look a little different than what we are used to.  We have instituted protocols and procedures in order to keep our Scouts, Scouters, staff, and families healthy and safe.  The procedures and safety measures have been promoted by federal agencies and the American Camping Association Field Guide for Camps. These multi-layered strategies prove effective and reduce the risk of transmission. <a href="https://tinyurl.com/33wn554u">Learn more</a> about specific COVID guidelines.
 
 ## Promotional Video
 
