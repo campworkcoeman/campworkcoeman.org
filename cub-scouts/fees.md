@@ -17,8 +17,7 @@ keywords: fees
 **Baloo's Family Camp**
 
 * Youth/Parent Pair: $90
-* Additional Youth/Parent: $50
-* Family of 4 or More: $175
+* Additional Youth/Parent: $40
 
 **Campsite Reservations:**
 
