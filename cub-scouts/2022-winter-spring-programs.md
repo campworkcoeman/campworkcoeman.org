@@ -19,6 +19,7 @@ The Covered Wagon Derby is a Wild West Cub Scout event that enables our youth to
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2022/2022-covered-wagon-derby-flier.pdf" class="list-group-item">Covered Wagon Derby Flier</a>
+> <a href="{{ site.url }}/pdf/2022/2022-covered-wagon-derby-program-guide.pdf" class="list-group-item">Covered Wagon Derby Program Guide</a>
 > <a href="https://scoutingevent.com/066-53028" class="list-group-item">Register for Covered Wagon Derby</a>
 
 ## BALOO Leader Training --- April 30 -- May 1, 2022
