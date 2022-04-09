@@ -18,6 +18,8 @@ If you plan on attending, please email Brian Cornell ([bcornell@campworkcoeman.o
 
 Saturday, March 26, 2022
 
+Saturday, April 23, 2022
+
 *The list of 2022 work days is still being finalized.*
 
 ## Beaver Day
