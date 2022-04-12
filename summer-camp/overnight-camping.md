@@ -8,7 +8,7 @@ keywords: overnight camping, campsite reservation, facility reservation, summer
 
 ## Unit Camping
 
-Scouting units are able to reserve inner loop campsites (Nathan Hale, Baden Powell, Tunxis, Kahagon, Seton, Outpost) any night of the week all summer (Friday and Saturday night must be reserved together). Canvas tents with cots, canopies, latrines, and showers will be available. If units bring their own food, ice and/or refrigeration may be available upon request. Additionally, prepared food is available for purchase with sufficient notice; please contact [Lou Seiser](lseiser@campworkcoeman.org) for details.
+Scouting units are able to reserve inner loop campsites (Nathan Hale, Baden Powell, Tunxis, Kahagon, Seton, Outpost) any night of the week all summer (Friday and Saturday night must be reserved together). Canvas tents with cots, canopies, latrines, and showers will be available. If units bring their own food, ice and/or refrigeration may be available upon request. Additionally, prepared food is available for purchase with sufficient notice; please see the [order form]({{ site.url }}/pdf/2022/2022-cw-meal-order-form.pdf) for details.
 
 > %list-group%
 > <a href="https://campreservation.com/066/Camps/636" class="list-group-item">2022 Summer Campsite and Facility Reservations</a>
@@ -26,3 +26,10 @@ Family camping is available in the Tee Pee campsite which features standard and 
 
 > %list-group%
 > <a href="https://campreservation.com/066/Camps/636" class="list-group-item">Family Camping Reservations (Select Tee Pee Campsite)</a>
+
+## Meals
+
+Upon request, Camp Workcoeman can prepare meals for your unit or family while they are in camp this summer. Meals will be served in the Dining Hall. Breakfast is $4, lunch is $5, and dinner is $6. Meal requests must be made at least two weeks in advance, and payment will be collected at camp.
+
+> %list-group%
+> <a href="{{ site.url }}/pdf/2022/2022-cw-meal-order-form.pdf" class="list-group-item">2022 Summer Meal Order Form</a>

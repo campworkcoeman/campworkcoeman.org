@@ -35,7 +35,7 @@ Building on last year's progress, the summer 2022 season at Camp Workcoeman will
 >>> **[Scuba Certification Camp #2]({{ site.url }}/scouts-bsa/special-programs/scuba/)**
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2021/2021-program-guide.pdf" class="list-group-item">2022 Program Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2022/2022-program-guide.pdf" class="list-group-item">2022 Program Guide</a>
 > <a href="{{ site.url }}/pdf/2021/2021-preview-flier.pdf" class="list-group-item">2022 Camp Preview Flier (Coming Soon)</a>
 > <a href="{{ site.url }}/summer-camp/a-la-carte-programs/" class="list-group-item">2022 Summer À La Carte Programs</a>
 
