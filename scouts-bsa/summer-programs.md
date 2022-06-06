@@ -36,7 +36,7 @@ Building on last year's progress, the summer 2022 season at Camp Workcoeman will
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2022/2022-program-guide.pdf" class="list-group-item">2022 Program Guide</a>
-> <a href="{{ site.url }}/pdf/2021/2021-preview-flier.pdf" class="list-group-item">2022 Camp Preview Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2022/2022-preview-flier.pdf" class="list-group-item">2022 Camp Preview Flier</a>
 > <a href="{{ site.url }}/summer-camp/a-la-carte-programs/" class="list-group-item">2022 Summer À La Carte Programs</a>
 
 ## Merit Badge and Clinic Offerings

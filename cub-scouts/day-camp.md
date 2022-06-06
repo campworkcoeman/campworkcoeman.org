@@ -42,6 +42,7 @@ Be sure to check out our [unit and family camping]({{ site.url }}/summer-camp/ov
 ## More Information
 
 > %list-group%
+> <a href="{{ site.url }}/pdf/2022/2022-cub-scout-summer-flier.pdf" class="list-group-item">2022 Cub Camp Flier</a>
 > <a href="{{ site.url }}/#" class="list-group-item">2022 Cub Scout Leader Guide (Coming Soon)</a>
 > <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Camp Medical Forms and Information (Part C [Physical] not Required for Day Camp)</a>
 > <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">Cub Camp Fee Information</a>

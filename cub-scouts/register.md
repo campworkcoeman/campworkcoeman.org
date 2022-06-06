@@ -11,7 +11,7 @@ Having trouble registering? Scroll to the bottom of the <a href="https://ctscout
 </div>
 
 > %list-group%
-> <a href="{{ site.url }}/#" class="list-group-item">2022 Cub Camp Preview Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2022/2022-cub-scout-summer-flier.pdf" class="list-group-item">2022 Cub Camp Flier</a>
 > <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">2022 Cub Camp Fee Information</a>
 
 Below, you will find links to the council website to register for each camp program.

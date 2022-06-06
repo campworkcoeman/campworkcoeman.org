@@ -126,12 +126,24 @@ Redirect 301 /camperships/ /scouts-bsa/fees/camperships/
 Redirect 301 /camperships /scouts-bsa/fees/camperships/
 
 # Misc Temp Short Links
-Redirect 302 /winter https://campworkcoeman.org/spring/
-Redirect 302 /winter/ https://campworkcoeman.org/spring/
-Redirect 302 /Winter https://campworkcoeman.org/spring/
-Redirect 302 /Winter/ https://campworkcoeman.org/spring/
-Redirect 302 /WINTER https://campworkcoeman.org/spring/
-Redirect 302 /WINTER/ https://campworkcoeman.org/spring/
+Redirect 302 /fall https://campworkcoeman.org/year-round-programs/
+Redirect 302 /fall/ https://campworkcoeman.org/year-round-programs/
+Redirect 302 /Fall https://campworkcoeman.org/year-round-programs/
+Redirect 302 /Fall/ https://campworkcoeman.org/year-round-programs/
+Redirect 302 /FALL https://campworkcoeman.org/year-round-programs/
+Redirect 302 /FALL/ https://campworkcoeman.org/year-round-programs/
+Redirect 302 /winter https://campworkcoeman.org/year-round-programs/
+Redirect 302 /winter/ https://campworkcoeman.org/year-round-programs/
+Redirect 302 /Winter https://campworkcoeman.org/year-round-programs/
+Redirect 302 /Winter/ https://campworkcoeman.org/year-round-programs/
+Redirect 302 /WINTER https://campworkcoeman.org/year-round-programs/
+Redirect 302 /WINTER/ https://campworkcoeman.org/year-round-programs/
+Redirect 302 /spring https://campworkcoeman.org/year-round-programs/
+Redirect 302 /spring/ https://campworkcoeman.org/year-round-programs/
+Redirect 302 /Spring https://campworkcoeman.org/year-round-programs/
+Redirect 302 /Spring/ https://campworkcoeman.org/year-round-programs/
+Redirect 302 /SPRING https://campworkcoeman.org/year-round-programs/
+Redirect 302 /SPRING/ https://campworkcoeman.org/year-round-programs/
 
 # Block SEMalt botnet and other referral spam
 SetEnvIfNoCase Referer fbdownloader.com spammer=yes
