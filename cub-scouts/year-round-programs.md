@@ -9,4 +9,12 @@ keywords: "Cub Scout, resident camp, 2022, registration, reservation, fall progr
 > %list-group%
 > <a href="{{ site.url }}/#" class="list-group-item">Cub Scout Fall Program Flier (Coming Soon)</a>
 
-## Check Back Soon for More Information
+## Webelos Woods --- September 30--October 2, 2022
+
+Registration is now open for a weekend of advancement, special programs and fun for Webelos and Arrow of Light Scouts. Den Leaders will be contacted beforehand to register their Scouts for adventure badges and other activities.
+
+> %list-group%
+> <a href="https://scoutingevent.com/066-webeloswoods2022" class="list-group-item">Register for Webelos Woods</a>
+> <a href="{{ site.url }}/#" class="list-group-item">Webelos Woods Program Guide (Coming Soon)</a>
+
+## More Events Will be Posted Shortly

@@ -14,6 +14,7 @@ Camp Workcoeman will be offering a variety of day and overnight weekend opportun
 >>>> <li class="list-group-item active h3">Scouts BSA Opportunities</li>
 >>>> <li class="list-group-item">
         <ul class="text-left">
+            <li>Merit Badge Completion Day</li>
             <li>More Info Coming Soon</li>
         </ul>
      </li>
@@ -24,6 +25,7 @@ Camp Workcoeman will be offering a variety of day and overnight weekend opportun
 >>>> <li class="list-group-item active h3">Cub Scout Opportunities</li>
 >>>> <li class="list-group-item">
         <ul class="text-left">
+            <li>Webelos Woods</li>
             <li>More Info Coming Soon</li>
         </ul>
      </li>

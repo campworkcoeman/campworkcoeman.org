@@ -144,6 +144,12 @@ Redirect 302 /Spring https://campworkcoeman.org/year-round-programs/
 Redirect 302 /Spring/ https://campworkcoeman.org/year-round-programs/
 Redirect 302 /SPRING https://campworkcoeman.org/year-round-programs/
 Redirect 302 /SPRING/ https://campworkcoeman.org/year-round-programs/
+Redirect 302 /ww https://campworkcoeman.org/cub-scouts/year-round-programs/
+Redirect 302 /ww/ https://campworkcoeman.org/cub-scouts/year-round-programs/
+Redirect 302 /Ww https://campworkcoeman.org/cub-scouts/year-round-programs/
+Redirect 302 /Ww/ https://campworkcoeman.org/cub-scouts/year-round-programs/
+Redirect 302 /WW https://campworkcoeman.org/cub-scouts/year-round-programs/
+Redirect 302 /WW/ https://campworkcoeman.org/cub-scouts/year-round-programs/
 
 # Block SEMalt botnet and other referral spam
 SetEnvIfNoCase Referer fbdownloader.com spammer=yes
