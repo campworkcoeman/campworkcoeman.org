@@ -25,6 +25,7 @@ Below, you will find links to the Council event registration website to register
 > <a href="https://scoutingevent.com/066-56132" class="list-group-item">Outdoor Skills Week 2 --- July 25--29, 2022</a>
 > <a href="https://scoutingevent.com/066-56132" class="list-group-item">Aquatics Week 2 --- August 1--5, 2022</a>
 > <a href="https://scoutingevent.com/066-56275" class="list-group-item">Scuba Week 2 --- August 1--5, 2022</a>
+> <a href="https://scoutingevent.com/066-60645" class="list-group-item">Cooking Merit Badge --- August 1--3, 2022</a>
 
 ## À La Carte Programs
 Email <a href="mailto:jseiser@campworkcoeman.org">Jeff Seiser</a> for information and to make reservations.

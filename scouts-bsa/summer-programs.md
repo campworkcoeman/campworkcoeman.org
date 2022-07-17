@@ -87,6 +87,8 @@ Building on last year's progress, the summer 2022 season at Camp Workcoeman will
 - Swimming & Boating Clinic
 - 'Big Boats' Sailing Clinic
 
+### Cooking Merit Badge (August 1--3, 2022)
+
 ## Merit Badge Schedule
 > %list-group%
 > <a href="{{ site.url }}/pdf/2022/2022-merit-badge-schedule.pdf" class="list-group-item">2022 Merit Badge Schedule</a>

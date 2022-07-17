@@ -24,6 +24,8 @@ Saturday, May 14, 2022 (Note: Second Saturday)
 
 Saturday, June 4, 2022 (Beaver Day; Note: First Saturday)
 
+Saturday, July 23, 2022
+
 *The list of 2022 work days is still being finalized.*
 
 ## Beaver Day

@@ -26,7 +26,7 @@ Camp Workcoeman will be offering a variety of day and overnight weekend opportun
 >>>> <li class="list-group-item">
         <ul class="text-left">
             <li>Webelos Woods</li>
-            <li>More Info Coming Soon</li>
+            <li>Cub Scout Outdoor Skills Experience</li>
         </ul>
      </li>
 >>>> <a href="{{ site.url }}/cub-scouts/year-round-programs/" class="list-group-item">More Information & Registration</a>

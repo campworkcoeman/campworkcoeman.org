@@ -7,7 +7,7 @@ keywords: "Cub Scout, resident camp, 2022, registration, reservation, fall progr
 ---
 
 > %list-group%
-> <a href="{{ site.url }}/#" class="list-group-item">Cub Scout Fall Program Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2022/2022-cub-scout-fall-programs.pdf" class="list-group-item">Cub Scout Fall Program Flier</a>
 
 ## Webelos Woods --- September 30--October 2, 2022
 
@@ -17,4 +17,9 @@ Registration is now open for a weekend of advancement, special programs and fun 
 > <a href="https://scoutingevent.com/066-webeloswoods2022" class="list-group-item">Register for Webelos Woods</a>
 > <a href="{{ site.url }}/#" class="list-group-item">Webelos Woods Program Guide (Coming Soon)</a>
 
-## More Events Will be Posted Shortly
+## Cub Scout Outdoor Skills Experience --- October 8, 2022
+
+More details coming soon.
+
+> %list-group%
+> <a href="https://scoutingevent.com/#" class="list-group-item">Register for Cub Scout Outdoor Skills Experience (Coming Soon)</a>
