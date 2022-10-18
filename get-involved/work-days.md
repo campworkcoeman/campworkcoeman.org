@@ -26,6 +26,14 @@ Saturday, June 4, 2022 (Beaver Day; Note: First Saturday)
 
 Saturday, July 23, 2022
 
+No August Work Day
+
+Saturday, September 24, 2022
+
+~~Saturday, October 22, 2022~~ **Canceled**
+
+Saturday, November 19, 2022 (Note: Third Saturday)
+
 *The list of 2022 work days is still being finalized.*
 
 ## Beaver Day
