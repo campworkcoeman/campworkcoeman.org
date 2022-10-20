@@ -150,6 +150,10 @@ Redirect 302 /Ww https://campworkcoeman.org/cub-scouts/year-round-programs/
 Redirect 302 /Ww/ https://campworkcoeman.org/cub-scouts/year-round-programs/
 Redirect 302 /WW https://campworkcoeman.org/cub-scouts/year-round-programs/
 Redirect 302 /WW/ https://campworkcoeman.org/cub-scouts/year-round-programs/
+Redirect 302 /staff https://docs.google.com/forms/d/e/1FAIpQLSfHnmCfNpFxzlKbJFJuIk7OIktZjurARf2WedZuWQqQ54Uavg/viewform
+Redirect 302 /staff/ https://docs.google.com/forms/d/e/1FAIpQLSfHnmCfNpFxzlKbJFJuIk7OIktZjurARf2WedZuWQqQ54Uavg/viewform
+Redirect 302 /STAFF https://docs.google.com/forms/d/e/1FAIpQLSfHnmCfNpFxzlKbJFJuIk7OIktZjurARf2WedZuWQqQ54Uavg/viewform
+Redirect 302 /STAFF/ https://docs.google.com/forms/d/e/1FAIpQLSfHnmCfNpFxzlKbJFJuIk7OIktZjurARf2WedZuWQqQ54Uavg/viewform
 
 # Block SEMalt botnet and other referral spam
 SetEnvIfNoCase Referer fbdownloader.com spammer=yes

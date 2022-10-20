@@ -35,7 +35,7 @@ recommended that you submit your application early. Applicants will be notified
 of the interview schedule by the Camp Director.
 
 > %list-group%
-> <a href="https://docs.google.com/forms/d/1GIjkaRZx2zejUWr5FqvptlpqasE7AiTmrzegBK23X9s/viewform" class="list-group-item">2022 Staff Application</a>
+> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfHnmCfNpFxzlKbJFJuIk7OIktZjurARf2WedZuWQqQ54Uavg/viewform" class="list-group-item">2023 Staff Interest Form</a>
 
 If you are interested in working at camp this summer, please contact Camp
 Director Lou Seiser at [lseiser@campworkcoeman.org](mailto:lseiser@campworkcoeman.org).
@@ -66,7 +66,7 @@ guarantee a position. Please understand that participation in the CIT program
 in no way guarantees employment.
 
 > %list-group%
-> <a href="https://docs.google.com/forms/d/e/1FAIpQLSda2-1F6ufZP5rB_GkaqvnRyUQjFCTofWmqKDJeIvbez4kRyw/viewform" class="list-group-item">2022 CIT Application</a>
+> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfHnmCfNpFxzlKbJFJuIk7OIktZjurARf2WedZuWQqQ54Uavg/viewform" class="list-group-item">2023 CIT Interest Form</a>
 
 If you are interested in being a CIT, please contact Camp Director Lou Seiser
 at [lseiser@campworkcoeman.org](mailto:lseiser@campworkcoeman.org).
