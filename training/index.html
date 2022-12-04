@@ -1,0 +1,28 @@
+---
+published: true
+layout: generic
+title: Training Opportunities at Camp Workcoeman
+description: This page contains information on and links to the council website to register for training programs at Camp Workcoeman.
+keywords: "Boy Scout, Scouts BSA, Cub Scouts, training, registration, reservation, learning, education"
+---
+
+Camp Workcoeman hosts the Connecticut Rivers Council's training center.
+
+<h2>Upcoming Trainings</h2>
+
+{% for p in site.yrpevents %}
+  {% if p.layout == 'event-item' %}
+    {% if p.tag contains 'training' %}
+      {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+      {% capture eventtime %}{{p.date | date: '%s'}}{% endcapture %}
+      {% if eventtime > nowunix %}
+  <h2><a href="{{ site.url }}{{ p.url }}">{{ p.title }}</a> &mdash; {% if p.dates %}{{ p.dates }}{% else %}{{ p.date | date: "%B %e, %Y" }}{% endif %}</h2>
+  {{ p.content }}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+<ul class="pager">
+  <li class="next"><a href="{{ site.url }}/training/past-events/">Past Events &rarr;</a></li>
+</ul>

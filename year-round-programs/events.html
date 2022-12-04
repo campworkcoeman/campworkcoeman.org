@@ -1,0 +1,21 @@
+---
+published: true
+layout: generic
+title: Upcoming Year-Round Programs at Camp Workcoeman
+description: This page contains information on and links to the council website to register for all upcoming year-round programs at Camp Workcoeman.
+keywords: "Boy Scout, Scouts BSA, Cub Scouts, Scouter training, education, registration, reservation, programs"
+---
+
+{% for p in site.yrpevents %}
+  {% if p.layout == 'event-item' %}
+      {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+      {% capture eventtime %}{{p.date | date: '%s'}}{% endcapture %}
+      {% if eventtime > nowunix %}
+  <h2><a href="{{ site.url }}{{ p.url }}">{{ p.title }}</a> &mdash; {% if p.dates %}{{ p.dates }}{% else %}{{ p.date | date: "%B %e, %Y" }}{% endif %}</h2>
+  {% if p.tag contains 'scouts-bsa' %}<a type="button" href="{{ site.url }}/scouts-bsa/year-round-programs/" class="btn btn-danger btn-xs">Scouts BSA</a>{% endif %}
+  {% if p.tag contains 'cub-scouts' %}<a type="button" href="{{ site.url }}/cub-scouts/year-round-programs/" class="btn btn-primary btn-xs">Cub Scouts</a>{% endif %}
+  {% if p.tag contains 'training' %}<a type="button" href="{{ site.url }}/training/" class="btn btn-success btn-xs">Training</a>{% endif %}
+  {{ p.content }}
+      {% endif %}
+  {% endif %}
+{% endfor %}

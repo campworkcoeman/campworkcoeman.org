@@ -1,0 +1,47 @@
+{% include header.html %}
+{% include navbar.html %}
+
+<!-- Main content -->
+<div class="container main">
+{% include announcement.html %}
+<div class="row">
+
+  <!-- Main column -->
+  <div class="col-sm-8 col-sm-push-4 col-lg-9 col-lg-push-3">
+    
+    <ol class="breadcrumb">
+      <li><a href="{{ site.url }}/year-round-programs/">Year-Round Programs</a></li>
+      <li class="active">{{ page.title }}</li>
+    </ol>
+    
+    <h1>{{ page.title }} &mdash; {{ page.date | date: "%B %e, %Y" }}</h1>
+
+    {% if page.tag contains 'scouts-bsa' %}<a type="button" href="{{ site.url }}/scouts-bsa/year-round-programs/" class="btn btn-danger btn-xs">Scouts BSA</a>{% endif %}
+    {% if page.tag contains 'cub-scouts' %}<a type="button" href="{{ site.url }}/cub-scouts/year-round-programs/" class="btn btn-primary btn-xs">Cub Scouts</a>{% endif %}
+    {% if page.tag contains 'training' %}<a type="button" href="{{ site.url }}/training/" class="btn btn-success btn-xs">Training</a>{% endif %}
+    {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+    {% capture eventtime %}{{page.date | date: '%s'}}{% endcapture %}
+    {% if eventtime < nowunix %}<a type="button" href="{{ site.url }}/year-round-programs/" class="btn btn-info btn-xs">Past Event</a>{% endif %}
+    <p></p>
+    
+    <div class="justify">
+      {{ content | bootstrapTables }}
+    </div>
+    
+    <ul class="pager">
+    {% if page.previous %}
+      <li class="previous"><a href="{{ page.previous.url }}">&larr; {{ page.previous.title }}</a></li>
+    {% endif %}
+    {% if page.next %}
+      <li class="next"><a href="{{ page.next.url }}">{{ page.next.title }} &rarr;</a></li>
+    {% endif %}
+    </ul>
+    
+  </div>
+
+{% include sidebar.html %}
+
+</div>
+</div>
+
+{% include footer.html %}

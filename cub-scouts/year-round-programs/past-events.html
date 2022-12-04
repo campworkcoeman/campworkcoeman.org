@@ -1,0 +1,36 @@
+---
+published: true
+layout: generic
+title: Past Cub Scouts Year-Round Programs
+description: This page contains information on past Cub Scouts programs at Camp Workcoeman.
+keywords: "Cub Scout, registration, reservation, programs"
+---
+
+<ol class="breadcrumb">
+  <li><a href="{{ site.url }}/cub-scouts/year-round-programs/">Year-Round Programs</a></li>
+  <li class="active">{{ page.title }}</li>
+</ol>
+
+{% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
+{% assign startyear = 2022 %}
+
+{% for number in (startyear..nowyear) %}
+<h2>{{ nowyear }}</h2>
+
+{% for p in site.yrpevents reversed %}
+  {% if p.layout == 'event-item' %}
+    {% if p.tag contains 'cub-scouts' %}
+      {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+      {% capture eventtime %}{{p.date | date: '%s'}}{% endcapture %}
+      {% capture eventyear %}{{p.date | date: '%Y'}}{% endcapture %}
+      {% if eventyear contains nowyear %}
+        {% if eventtime < nowunix %}
+          <a href="{{ site.url }}{{ p.url }}" class="list-group-item">{{ p.title }} &mdash; {{ p.date | date_to_string }}</a>
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% assign nowyear = nowyear | minus: 1 %}
+{% endfor %}

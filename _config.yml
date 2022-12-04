@@ -10,6 +10,10 @@ paginate: 5
 paginate_path: about/news/page:num/
 url: http://campworkcoeman.org
 collections:
-    sahposts:
-        output: true
-        permalink: /scouting-at-home/:year/:month/:day/:title/
+  sahposts:
+    output: true
+    permalink: /scouting-at-home/:year/:month/:day/:title/
+  yrpevents:
+    output: true
+    permalink: /year-round-programs/events/:year/:month/:day/:title/
+future: true

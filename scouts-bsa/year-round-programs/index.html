@@ -1,0 +1,26 @@
+---
+published: true
+layout: generic
+title: Upcoming 2023 Scouts BSA Winter/Spring Programs
+description: This page contains information on and links to the council website to register for winter/spring 2023 programs at Camp Workcoeman.
+keywords: "Boy Scout, Scouts BSA, 2023, registration, reservation, winter/spring programs"
+---
+
+<div class="list-group"><p><a href="{{ site.url }}/#" class="list-group-item">Winter/Spring 2023 Scouts BSA Program Flier (Coming Soon)</a></p></div>
+
+{% for p in site.yrpevents %}
+  {% if p.layout == 'event-item' %}
+    {% if p.tag contains 'scouts-bsa' %}
+      {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+      {% capture eventtime %}{{p.date | date: '%s'}}{% endcapture %}
+      {% if eventtime > nowunix %}
+  <h2><a href="{{ site.url }}{{ p.url }}">{{ p.title }}</a> &mdash; {% if p.dates %}{{ p.dates }}{% else %}{{ p.date | date: "%B %e, %Y" }}{% endif %}</h2>
+  {{ p.content }}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+<ul class="pager">
+  <li class="next"><a href="{{ site.url }}/scouts-bsa/year-round-programs/past-events/">Past Events &rarr;</a></li>
+</ul>
