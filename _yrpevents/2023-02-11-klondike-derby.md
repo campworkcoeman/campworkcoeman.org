@@ -22,4 +22,4 @@ Contact: Ted Sanford, [ctrivers.co.klondike@gmail.com](mailto:ctrivers.co.klondi
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2023/2023-klondike-leader-guide.pdf" class="list-group-item">2023 Charter Oak District Klondike Derby Leader Guide</a>
-> <a href="https://scoutingevent.com/066-60113" class="list-group-item">Register for Wilderness First Aid Training</a>
+> <a href="https://scoutingevent.com/066-60113" class="list-group-item">Register for Charter Oak District Klondike Derby</a>
