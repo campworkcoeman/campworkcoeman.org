@@ -7,6 +7,7 @@ keywords: newsletter, Citizens of Shawtown, archive
 
 ## 2022
 > %list-group%
+> <a href="{{ site.url }}/pdf/2022/shawtown-holiday-2022.pdf" class="list-group-item">Holiday 2022 Newsletter</a>
 > <a href="{{ site.url }}/pdf/2022/shawtown-summer-2022.pdf" class="list-group-item">Summer 2022 Newsletter</a>
 
 ## 2021
