@@ -15,7 +15,7 @@ keywords: "Cub Scout, registration, reservation, programs"
 {% assign startyear = 2022 %}
 
 {% for number in (startyear..nowyear) %}
-<h2>{{ nowyear }}</h2>
+<h2>{{ nowyear | string }}</h2>
 
 {% for p in site.yrpevents reversed %}
   {% if p.layout == 'event-item' %}
