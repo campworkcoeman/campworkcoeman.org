@@ -1,47 +1,29 @@
 ---
 published: true
 layout: generic
-title: 2022 Work Days
-description: Members of the camp community who are currently retired gather at camp on the second and fourth Tuesday of every month to work on small projects. Your help is greatly appreciated!
+title: 2023 Work Days
+description: Members of the Citizens of Shawtown gather at camp on (generally) the fourth Saturday of each month to help the camp ranger with projects around camp. Your help is greatly appreciated!
 keywords: work days, volunteer
 ---
 
 ## Shawtown Work Days
 
-Pre-planned mini-work parties (in conjunction with the Ranger's needs) will be held from 9:00 AM to 3:00 PM on (generally) the fourth Saturday of each month. Coffee "and" at 8:30 AM and lunch will be provided. We will tackle jobs large and small throughout the camp to assure an awesome experience for any Scouts or Scouters attending Camp Workcoeman this year and for years to come!
+Pre-planned mini-work parties (in conjunction with the Ranger's needs) will be held from 9:00 AM to 3:00 PM on (generally) the fourth Saturday of each month. The day starts with coffee "and" at 8:45 AM; please bring your own lunch. We will tackle jobs large and small throughout the camp to assure an awesome experience for any Scouts or Scouters attending Camp Workcoeman this year and for years to come!
 
-If you plan on attending, please email Brian Cornell ([bcornell@campworkcoeman.org](mailto:bcornell@campworkcoeman.org)) by the Sunday before the work day to let him know you're coming; he'll let you know by the following Wednesday the projects to be addressed and any special attire or equipment needs.
+If you plan on attending, please email Brian Cornell ([bcornell@campworkcoeman.org](mailto:bcornell@campworkcoeman.org)) by the Wednesday before the work day to let him know you're coming; he'll let you know the projects to be addressed and any special attire or equipment needs.
 
-~~Saturday, January 22, 2022~~ **Canceled**
+Saturday, January 28, 2023
 
-~~Saturday, February 26, 2022~~ **Canceled**
+Saturday, June 3, 2023 (Beaver Day; note: First Saturday)
 
-Saturday, March 26, 2022
-
-Saturday, April 23, 2022
-
-Saturday, May 14, 2022 (Note: Second Saturday)
-
-Saturday, June 4, 2022 (Beaver Day; Note: First Saturday)
-
-Saturday, July 23, 2022
-
-No August Work Day
-
-Saturday, September 24, 2022
-
-~~Saturday, October 22, 2022~~ **Canceled**
-
-Saturday, November 19, 2022 (Note: Third Saturday)
-
-*The list of 2022 work days is still being finalized.*
+*The list of 2023 work days is still being finalized.*
 
 ## Beaver Day
 
-Saturday, June 4, 2022
+Saturday, June 3, 2023
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2021/2021-beaver-day-flier.pdf" class="list-group-item">2022 Beaver Day Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2021/2021-beaver-day-flier.pdf" class="list-group-item">2023 Beaver Day Flier (Coming Soon)</a>
 
 ## Retiree Corp
 
