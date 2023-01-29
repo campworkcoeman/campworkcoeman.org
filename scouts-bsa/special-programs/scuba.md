@@ -36,11 +36,11 @@ space is limited.
 All participants must be in generally good health and complete a required
 medical history and informed consent form (provided from camp).
 
-## SDI Scuba Certification
+## SDI Scuba Certification & Scuba Diving Merit Badge
 
-During our two Waterfront weeks of Scouts BSA camp, outside instructors
+During our two Aquatics & More weeks of Scouts BSA camp, outside instructors
 will also offer a full open water certification course. The
-cost of the full certification course is $375; families and units wishing to stay at camp must reserve a campsite separately.
+cost of the full certification course is $375; the fee includes optional overnight camping as well as all meals.
 
 Scouts will also work on BSA's Scuba Merit Badge and have the opportunity to
 work on additional scuba programs.

@@ -93,6 +93,7 @@ New for summer 2023, Camp Workcoeman will be offering week-long Scouts BSA Powde
 - Swimming
 
 - Pistol Shooting Program
+- "Sailing the Big Boats" Clinic
 
 ### Outdoor Skills Weeks (July 10--14 & July 31--August 4, 2023)
 - Archery

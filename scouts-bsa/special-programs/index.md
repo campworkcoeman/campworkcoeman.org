@@ -41,6 +41,10 @@ participation waiver is required.
 > %list-group%
 > <a href="{{ site.url }}/pdf/2017/2017-pistol-pilot-program-release-agreement.pdf" class="list-group-item">Pistol Program Release Agreement</a>
 
+## "Sailing the Big Boats" Clinic
+
+Offered on Wednesdays of our Aquatics & More weeks, this program allows Scouts to spend the day learning how to rig and sail the larger craft from the Workcoeman fleet. Scouts will experience the thrill of a catamaran, cruise around the lake in a larger ship, and spend the day sailing.
+
 ## Huck Finn Tube Ride
 
 Your troop can arrange for a tubing trip down the Farmington River through

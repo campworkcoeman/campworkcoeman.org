@@ -29,7 +29,7 @@ Family camping is available in the Tee Pee campsite which features standard and 
 
 ## Meals
 
-Upon request, Camp Workcoeman can prepare meals for your unit or family while they are in camp this summer. Meals will be served in the Dining Hall. Breakfast is $4, lunch is $5, and dinner is $6. Meal requests must be made at least two weeks in advance, and payment will be collected at camp.
+Upon request, Camp Workcoeman can prepare meals for your unit or family while they are in camp this summer. Meals will be served in the Dining Hall. Breakfast is $6, lunch is $7, and dinner is $8. Meal requests must be made at least two weeks in advance, and payment will be collected at camp.
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2022/2022-cw-meal-order-form.pdf" class="list-group-item">2023 Summer Meal Order Form (Coming Soon)</a>
