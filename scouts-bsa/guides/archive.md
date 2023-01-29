@@ -1,9 +1,13 @@
 ---
 published: true
 layout: past-program-guides
-title: Past Program Guides
-keywords: program guides, guides, archive
+title: Past Summer Program Guides
+keywords: program guides, guides, archive, summer
 ---
+
+## 2023
+> %list-group%
+> <a href="{{ site.url }}/pdf/2022/2022-program-guide.pdf" class="list-group-item">2023 Program Guide (Coming Soon)</a>
 
 ## 2022
 > %list-group%

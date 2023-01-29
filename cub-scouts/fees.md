@@ -42,7 +42,7 @@ For more information or questions please contact Alex Cantor at [alex.cantor@sco
 Camperships are available for families that need financial assistance.
 
 > %list-group%
-> <a href="{{ site.url }}/scouts-bsa/fees/camperships/" class="list-group-item">Campership Information</a>
+> <a href="{{ site.url }}/summer-camp/camperships/" class="list-group-item">Campership Information</a>
 
 ### Refund Policy
 

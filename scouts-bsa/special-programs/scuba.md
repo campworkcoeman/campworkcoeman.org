@@ -6,6 +6,12 @@ description: In conjunction with outside instructors, Camp Workcoeman offers a S
 keywords: scuba, diving, sea base, certification, florida
 ---
 
+<div class="alert alert-info">
+Registration for 2023 summer programs is now open.
+<a href="{{ site.url }}/scouts-bsa/register/">
+Register today!</a>
+</div>
+
 ## Going to the BSA's Florida Sea Base? Get your SCUBA certification at Workcoeman!
 
 Is your unit planning on attending the Florida Sea Base? If so, get your required SCUBA certification while staying at Camp Workcoeman. Located in the scenic hills of northwestern Connecticut, Camp Workcoeman boasts one of the cleanest lakes around---perfect for learning to SCUBA dive locally in New England.

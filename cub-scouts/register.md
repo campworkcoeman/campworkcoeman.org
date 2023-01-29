@@ -32,3 +32,10 @@ Below, you will find links to the council website to register for each camp prog
 > %list-group%
 > <a href="https://campreservation.com/066/Camps/636" class="list-group-item">Family Camping Reservations (Select Tee Pee Campsite)</a>
 
+### Camperships
+
+Camperships are available for families that need financial assistance.
+
+> %list-group%
+> <a href="{{ site.url }}/summer-camp/camperships/" class="list-group-item">Campership Information</a>
+

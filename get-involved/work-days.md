@@ -12,7 +12,9 @@ Pre-planned mini-work parties (in conjunction with the Ranger's needs) will be h
 
 If you plan on attending, please email Brian Cornell ([bcornell@campworkcoeman.org](mailto:bcornell@campworkcoeman.org)) by the Wednesday before the work day to let him know you're coming; he'll let you know the projects to be addressed and any special attire or equipment needs.
 
-Saturday, January 28, 2023
+~~Saturday, January 28, 2023~~ **Canceled**
+
+Saturday, February 25, 2023 (Note: Assist with Cub Blizzard)
 
 Saturday, June 3, 2023 (Beaver Day; note: First Saturday)
 

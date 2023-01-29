@@ -6,6 +6,24 @@ description: Information needed to fill out and submit the camp medical form.
 keywords: med, form, medical
 ---
 
+<div class="alert alert-info">
+<em>29 January 2023</em> &mdash; <strong>Information on summer 2023 medical forms is still being finalized and will be posted soon.</strong>
+</div>
+
+## The Basics
+
+- All participants in camp programs must submit a completed medical form at least once per year
+- All Scouts attending summer programs must submit a completed physical
+    - For one and two day programs, the physical must be within the last *three* years (CT requirement; school physical can be used)
+    - For three or more day programs, the physical must be within the *last year* (BSA requirement)
+    - A physical (Part C) is not required for fall, winter, and spring programs
+- For Scouts that need medication administered at camp (prescription or over the counter):
+    - A separate *Authorization for Administration of Medication* form must be submitted for *each* medication
+    - Medication must be brought to camp in its original container (only the amount needed for the duration of the program)
+- For Scouts with allergic reactions that could require medical treatment (Epipen, rescue inhaler, etc.):
+    - An *Emergency Treatment Plan for Allergic Reactions* (signed by a doctor) must be submitted
+    - Emergency allergy medications do not need an *Authorization for Administration of Medication* form
+
 ## Who Needs a Completed Medical Form?
 
 <div class="alert alert-info">
@@ -16,7 +34,7 @@ All participants need parts A, B, C, and D of the BSA Annual Health & Medical Re
 and submitted along with any applicable Medication Administration and Food Allergy Treatment Plan forms.
 The only exception is that Scouts who cumulatively attend **two days or fewer** over the course of the summer
 do not need Part C (physical). **Remember to make copies of all forms before submitting.** Only one copy is
-needed for the summer. Please mail forms to camp (A n: Health Officer, Camp Workcoeman, 169 Camp
+needed for the summer. Please mail forms to camp (Attn: Health Officer, Camp Workcoeman, 169 Camp
 Workcoeman Rd., New Hartford, CT 06057) two weeks in advance or bring to check‐in.
 
 While the COVID‐19 Pre‐Event Medical Screening Checklist is no longer required, please do not come to camp if you are experiencing COVID-like symptoms.
