@@ -33,7 +33,7 @@ Registration links for year-round programs can be found in the individual [event
 > <a href="https://scoutingevent.com/066-63701-168201" class="list-group-item">Cooking Merit Badge (Session 2) --- July 24--26, 2023</a>
 > <a href="https://scoutingevent.com/066-powderhorn" class="list-group-item">Powder Horn High Adventure Management Course --- July 30--August 4, 2023</a>
 > <a href="https://scoutingevent.com/066-63701-161378" class="list-group-item">Outdoor Skills & More (Week 2) --- July 31--August 4, 2023</a>
-> <a href="https://scoutingevent.com/066-63702" class="list-group-item">Scuba Certification Camp (Week 2) --- July 31--August 4, 2023</a>
+> <a href="https://scoutingevent.com/066-63702" class="list-group-item">Scuba Certification Camp (Week 2) --- August 7--10, 2023</a>
 > <a href="https://scoutingevent.com/066-63701-168198" class="list-group-item">Fly Fishing Merit Badge (Session 2) --- August 8, 2023</a>
 
 ## À La Carte Programs

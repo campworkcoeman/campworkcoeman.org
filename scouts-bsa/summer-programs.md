@@ -57,7 +57,7 @@ New for summer 2023, Camp Workcoeman will be offering week-long Scouts BSA Powde
 >>
 >>> %col-xs-6%
 >>> **[Scuba Certification Camp (Week 2)]({{ site.url }}/scouts-bsa/special-programs/scuba/)**<br/>
->>> July 31--August 3, 2023<br/>
+>>> August 7--10, 2023<br/>
 >
 >> %row%
 >>> %col-xs-6%
@@ -125,7 +125,7 @@ New for summer 2023, Camp Workcoeman will be offering week-long Scouts BSA Powde
 
 ### Scuba Diving Merit Badge and Certification
 - July 3--6, 2023 (Week 1)
-- July 31--August 3, 2023 (Week 2)
+- August 7--10, 2023 (Week 2)
 
 ### National Youth Leadership Training (NYLT)
 - July 9--15, 2023
