@@ -18,4 +18,4 @@ Adult Cost: $10 per Adult
 Contact: Jeffrey Seiser, [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org)
 
 > %list-group%
-> <a href="https://scoutingevent.com/066-" class="list-group-item">Register for Fly Fishing Merit Badge &mdash; Session 1 (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-63701-168197" class="list-group-item">Register for Fly Fishing Merit Badge &mdash; Session 1</a>

@@ -23,4 +23,4 @@ Adult Cost: $30 per Adult
 Contact: Daron Colgan, [dcolgan@campworkcoeman.org](mailto:dcolgan@campworkcoeman.org)
 
 > %list-group%
-> <a href="https://scoutingevent.com/066-" class="list-group-item">Register for Cooking Merit Badge &mdash; Session 2 (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-63701-168201" class="list-group-item">Register for Cooking Merit Badge &mdash; Session 2</a>

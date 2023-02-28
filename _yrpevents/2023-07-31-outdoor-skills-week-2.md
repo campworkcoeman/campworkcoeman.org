@@ -17,4 +17,4 @@ Adult Cost: $20 per Adult for two-day programs; $10 per Adult for one-day progra
 Contact: Jeffrey Seiser, [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org)
 
 > %list-group%
-> <a href="https://scoutingevent.com/066-" class="list-group-item">Register for Summer Outdoor Skills & More Merit Badge Program &mdash; Week 2 (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-63701-161378" class="list-group-item">Register for Summer Outdoor Skills & More Merit Badge Program &mdash; Week 2</a>
