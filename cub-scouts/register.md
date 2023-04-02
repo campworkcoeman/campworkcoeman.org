@@ -11,22 +11,22 @@ Having trouble registering? Scroll to the bottom of the <a href="https://ctscout
 </div>
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2022/2022-cub-scout-summer-flier.pdf" class="list-group-item">2022 Cub Camp Flier</a>
-> <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">2022 Cub Camp Fee Information</a>
+> <a href="{{ site.url }}/pdf/2022/2022-cub-scout-summer-flier.pdf" class="list-group-item">2023 Cub Camp Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">2023 Cub Camp Fee Information</a>
 
 Below, you will find links to the council website to register for each camp program.
 
 ## Cub Scout Programs
 
 > %list-group%
-> <a href="https://scoutingevent.com/066-56430" class="list-group-item">Cub Scout Day Camp Week 1 --- July 18--22, 2022</a>
-> <a href="https://scoutingevent.com/066-56423" class="list-group-item">Baloo's Family Camp Weekend 1 --- July 15--17, 2022</a>
-> <a href="https://scoutingevent.com/066-56430" class="list-group-item">Cub Scout Day Camp Week 2--- August 8--12, 2022</a>
-> <a href="https://scoutingevent.com/066-56423" class="list-group-item">Baloo's Family Camp Weekend 2 --- August 5--7, 2022</a>
+> <a href="https://scoutingevent.com/" class="list-group-item">Baloo's Family Camp Weekend 1 --- July 14--16, 2023 (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-63697-161353" class="list-group-item">Cub Scout Day Camp Week 1 --- July 17--21, 2023</a>
+> <a href="https://scoutingevent.com/" class="list-group-item">Baloo's Family Camp Weekend 2 --- August 4--6, 2023 (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-63697-161354" class="list-group-item">Cub Scout Day Camp Week 2--- August 7--11, 2023</a>
 
 ## Unit Camping
 > %list-group%
-> <a href="https://campreservation.com/066/Camps/636" class="list-group-item">Summer 2022 Campsite and Facility Reservations</a>
+> <a href="https://campreservation.com/066/Camps/636" class="list-group-item">Summer 2023 Campsite and Facility Reservations</a>
 
 ## Family Camping
 > %list-group%

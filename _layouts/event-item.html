@@ -14,7 +14,7 @@
       <li class="active">{{ page.title }}</li>
     </ol>
     
-    <h1>{{ page.title }} &mdash; {{ page.date | date: "%B %e, %Y" }}</h1>
+    <h1>{{ page.title }} &mdash; {% if page.dates %}{{ page.dates }}{% else %}{{ page.date | date: "%B %e, %Y" }}{% endif %}</h1>
 
     {% if page.tag contains 'scouts-bsa' %}<a type="button" href="{{ site.url }}/scouts-bsa/year-round-programs/" class="btn btn-danger btn-xs">Scouts BSA</a>{% endif %}
     {% if page.tag contains 'cub-scouts' %}<a type="button" href="{{ site.url }}/cub-scouts/year-round-programs/" class="btn btn-primary btn-xs">Cub Scouts</a>{% endif %}

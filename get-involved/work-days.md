@@ -16,6 +16,8 @@ If you plan on attending, please email Brian Cornell ([bcornell@campworkcoeman.o
 
 Saturday, February 25, 2023 (Note: Assist with Cub Blizzard)
 
+Saturday, March 25, 2023
+
 Saturday, June 3, 2023 (Beaver Day; note: First Saturday)
 
 *The list of 2023 work days is still being finalized.*
@@ -25,7 +27,7 @@ Saturday, June 3, 2023 (Beaver Day; note: First Saturday)
 Saturday, June 3, 2023
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2021/2021-beaver-day-flier.pdf" class="list-group-item">2023 Beaver Day Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2023/2023-beaver-day-flier.pdf" class="list-group-item">2023 Beaver Day Flier</a>
 
 ## Retiree Corp
 

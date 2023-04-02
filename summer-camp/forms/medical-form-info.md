@@ -1,14 +1,10 @@
 ---
 published: true
 layout: generic
-title: 2022 Medical Form Information
+title: 2023 Medical Form Information
 description: Information needed to fill out and submit the camp medical form.
 keywords: med, form, medical
 ---
-
-<div class="alert alert-info">
-<em>29 January 2023</em> &mdash; <strong>Information on summer 2023 medical forms is still being finalized and will be posted soon.</strong>
-</div>
 
 ## The Basics
 

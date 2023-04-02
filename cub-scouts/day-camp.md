@@ -7,12 +7,12 @@ keywords: Cub Scout, day camp
 ---
 
 <div class="alert alert-info">
-Registration for summer 2022 day camp is now open.
+Registration for summer 2023 day camp is now open.
 <a href="{{ site.url }}/cub-scouts/register/">
 Sign up today!</a>
 </div>
 
-### July 18--22 and August 8--12, 2022
+### July 17--21 and August 7--11, 2023
 
 Camp Workcoeman will once again host a week long Cub Scout Day Camp!
 
@@ -30,7 +30,7 @@ Nationally Accredited Camp by the BSA and has a long history in Scouting since
 
 ### Baloo's Family Camp
 
-Two special weekends (July 15--17 and August 5--7, 2022) of program filled Cub Scout family camp will be offered! Baloo’s Family Adventure at Camp Workcoeman is a great opportunity for Cub Scouts to enjoy a summer camp experience without the worries of being away from home for an extended period of time. Located along the shore of beautiful West Hill Pond in New Hartford, Baloo’s Family Adventure is open to all Cub Scouts and their families as the program centers around fun for all! You will take advantage of our various program areas with activities including BB/archery shooting, swimming, crafts, and more! The event will include a family campfire in the amphitheater featuring songs, skits, cheers, and awards! Families will stay in the canvas tents with bunks and mattresses while meals will be served in the dining hall.
+Two special weekends (July 14--16 and August 4--6, 2023) of program filled Cub Scout family camp will be offered! Baloo’s Family Adventure at Camp Workcoeman is a great opportunity for Cub Scouts to enjoy a summer camp experience without the worries of being away from home for an extended period of time. Located along the shore of beautiful West Hill Pond in New Hartford, Baloo’s Family Adventure is open to all Cub Scouts and their families as the program centers around fun for all! You will take advantage of our various program areas with activities including BB/archery shooting, swimming, crafts, and more! The event will include a family campfire in the amphitheater featuring songs, skits, cheers, and awards! Families will stay in the canvas tents with bunks and mattresses while meals will be served in the dining hall.
 
 > %list-group%
 > <a href="{{ site.url }}/cub-scouts/register/" class="list-group-item">Register for Baloo's Family Camp</a>
@@ -42,9 +42,9 @@ Be sure to check out our [unit and family camping]({{ site.url }}/summer-camp/ov
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2022/2022-cub-scout-summer-flier.pdf" class="list-group-item">2022 Cub Camp Flier</a>
-> <a href="{{ site.url }}/#" class="list-group-item">2022 Cub Scout Leader Guide (Coming Soon)</a>
-> <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Camp Medical Forms and Information (Part C [Physical] not Required for Day Camp)</a>
+> <a href="{{ site.url }}/pdf/2022/2022-cub-scout-summer-flier.pdf" class="list-group-item">2023 Cub Camp Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/#" class="list-group-item">2023 Cub Scout Leader Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Camp Medical Forms and Information</a>
 > <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">Cub Camp Fee Information</a>
 
 For more information, contact Director of Cub Scout Programs, Jeff Seiser at

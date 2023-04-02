@@ -35,11 +35,11 @@ Chicken Dinner! We do not collect dues from the membership.
 
 ## Steak Dinner
 
-The Citizens annually hold a Steak Dinner and Silent Auction in support of camp after the annual Beaver Day work day. All members of the camp and surrounding community are invited whether they attend the work day or not. In 2022, Beaver Day will begin at 8:30 AM on Saturday, June 4, and the Steak Dinner will begin at 6:00 PM.
+The Citizens annually hold a Steak Dinner and Silent Auction in support of camp after the annual Beaver Day work day. All members of the camp and surrounding community are invited whether they attend the work day or not. In 2022, Beaver Day will begin at 8:30 AM on Saturday, June 3, and the Steak Dinner will begin with hors d'oeuvres at 5:30 PM followed by dinner at 6:00 PM.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2022/2022-steak-dinner.pdf" class="list-group-item">2022 Steak Dinner Flier</a>
-> <a href="https://scoutingevent.com/066-56180" class="list-group-item">2022 Steak Dinner Registration</a>
+> <a href="{{ site.url }}/pdf/2023/2023-steak-dinner.pdf" class="list-group-item">2023 Steak Dinner Flier</a>
+> <a href="https://scoutingevent.com/066-67115" class="list-group-item">2023 Steak Dinner Registration</a>
 
 ## Newsletter
 

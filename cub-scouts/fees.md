@@ -1,8 +1,8 @@
 ---
 published: true
 layout: generic
-title: 2022 CT Rivers Council Cub Camp Fees
-description: This page list the fees to attend Cub Scout Summer Camp programs in 2022 at Connecticut Rivers Council Scout Camps.
+title: 2023 CT Rivers Council Cub Camp Fees
+description: This page list the fees to attend Cub Scout Summer Camp programs in 2023 at Connecticut Rivers Council Scout Camps.
 keywords: fees
 ---
 
@@ -11,8 +11,7 @@ keywords: fees
 
 **Cub Scout Day Camp:**
 
-* $275 for Scouts
-* $25 for adults
+* $280 for Scouts
 
 **Baloo's Family Camp**
 
@@ -35,7 +34,7 @@ keywords: fees
 
 ### More information
 
-For more information or questions please contact Alex Cantor at [alex.cantor@scouting.org](mailto:alex.cantor@scouting.org).
+For more information or questions please contact Jeff Seiser at [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org).
 
 ### Camperships
 
