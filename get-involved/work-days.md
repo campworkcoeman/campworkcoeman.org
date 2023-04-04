@@ -18,6 +18,8 @@ Saturday, February 25, 2023 (Note: Assist with Cub Blizzard)
 
 Saturday, March 25, 2023
 
+Saturday, April 22, 2023
+
 Saturday, June 3, 2023 (Beaver Day; note: First Saturday)
 
 *The list of 2023 work days is still being finalized.*
