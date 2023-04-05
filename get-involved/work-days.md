@@ -20,9 +20,20 @@ Saturday, March 25, 2023
 
 Saturday, April 22, 2023
 
+Saturday, May 20, 2023 (Note: Third Saturday)
+
 Saturday, June 3, 2023 (Beaver Day; note: First Saturday)
 
-*The list of 2023 work days is still being finalized.*
+Saturday, June 24, 2023
+
+*No July Work Day*
+
+Saturday, August 26, 2023
+
+Saturday, September 16, 2023 (Note: Third Saturday)
+
+Saturday, October 28, 2023
+
 
 ## Beaver Day
 
