@@ -122,8 +122,8 @@ Redirect 301 /cub-scouts/family-weekend/ /cub-scouts/family-camp/
 Redirect 301 /cub-scouts/cub-resident-camp/ /cub-scouts/mini-week/
 
 # Camperships Short Link
-Redirect 301 /camperships/ /scouts-bsa/fees/camperships/
-Redirect 301 /camperships /scouts-bsa/fees/camperships/
+Redirect 301 /camperships/ /summer-camp/camperships/
+Redirect 301 /camperships /summer-camp/camperships/
 
 # Misc Temp Short Links
 Redirect 302 /fall https://campworkcoeman.org/year-round-programs/
