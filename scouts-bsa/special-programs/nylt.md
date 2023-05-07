@@ -40,6 +40,7 @@ Scouts who have held leadership roles in their unit and are expected to advance 
 - Have unit leader recommendation
 - Have basic camping and outdoor cooking experience
 - Commit to attending the entire course (no leaving early or during the week)
+- Attend the required precamp meeting at camp on Thursday, June 8, 2023 at 7 PM.
 
 \* Introduction to Leadership Skills for Troops (ILST), Crews (ILSC), and Ships (ILSS) should be offered through a Scout's home unit. Ask your Unit Leader how you can participate in this course.
 

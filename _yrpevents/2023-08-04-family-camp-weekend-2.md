@@ -16,4 +16,4 @@ Cost per Additional Youth/Parent: $40
 Contact: Jeffrey Seiser, [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org)
 
 > %list-group%
-> <a href="https://scoutingevent.com/" class="list-group-item">Register for Baloo's Family Camp &mdash; Weekend 2 (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-68043" class="list-group-item">Register for Baloo's Family Camp &mdash; Weekend 2</a>

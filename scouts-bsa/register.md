@@ -11,8 +11,8 @@ Having trouble registering? Scroll to the bottom of the <a href="https://ctscout
 </div>
 
 > %list-group%
-> <a href="{{ site.url }}" class="list-group-item">2023 Staff Application (Coming Soon)</a>
-> <a href="{{ site.url }}" class="list-group-item">2023 CIT Application (Coming Soon)</a>
+> <a href="https://docs.google.com/forms/d/e/1FAIpQLSc2BouvgFDkfK_3x9TjzA3Kl7d6GNuWv5fLkYabJbYQytfr2w/viewform" class="list-group-item">2023 Staff Application</a>
+> <a href="https://docs.google.com/forms/d/e/1FAIpQLScmrmVGqJy15NzmY3JZDUq_aYvi214F5KC1m8N9z48-vW2iMQ/viewform" class="list-group-item">2023 CIT Application</a>
 
 Below, you will find links to the Council event registration website to register for the 2023 Camp Workcoeman summer season.
 

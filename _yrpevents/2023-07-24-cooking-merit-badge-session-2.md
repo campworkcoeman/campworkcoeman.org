@@ -8,7 +8,7 @@ dates: July 24&ndash;26, 2023
 
 See the Scouts BSA [Summer Programs]({{ site.url }}/scouts-bsa/summer-programs/) page for more information.
 
-Scouts will participate in Cooking Merit Badge, with particular emphasis on the "Patrol cooking" and "trail cooking" elements. Scouts will complete the "home cooking" elements at home and provide photos and menus afterwards. This program will include a meeting conducted remotely during the week beforehand. The price includes all food costs and materials.
+Scouts will participate in Cooking Merit Badge, with particular emphasis on the "Patrol cooking" and "trail cooking" elements. Scouts will complete the "home cooking" elements at home and provide photos and menus afterwards. This program will include a meeting conducted remotely at 7 PM the Monday prior to work on menu planning. The price includes all food costs and materials.
 
 Recommended for Second Class Scouts and above.
 

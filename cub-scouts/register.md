@@ -19,9 +19,9 @@ Below, you will find links to the council website to register for each camp prog
 ## Cub Scout Programs
 
 > %list-group%
-> <a href="https://scoutingevent.com/" class="list-group-item">Baloo's Family Camp Weekend 1 --- July 14--16, 2023 (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-68043" class="list-group-item">Baloo's Family Camp Weekend 1 --- July 14--16, 2023</a>
 > <a href="https://scoutingevent.com/066-63697-161353" class="list-group-item">Cub Scout Day Camp Week 1 --- July 17--21, 2023</a>
-> <a href="https://scoutingevent.com/" class="list-group-item">Baloo's Family Camp Weekend 2 --- August 4--6, 2023 (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-68043" class="list-group-item">Baloo's Family Camp Weekend 2 --- August 4--6, 2023</a>
 > <a href="https://scoutingevent.com/066-63697-161354" class="list-group-item">Cub Scout Day Camp Week 2--- August 7--11, 2023</a>
 
 ## Unit Camping
