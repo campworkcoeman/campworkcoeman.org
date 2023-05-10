@@ -7,7 +7,7 @@ keywords: program guides, guides, archive, summer
 
 ## 2023
 > %list-group%
-> <a href="{{ site.url }}/pdf/2022/2022-program-guide.pdf" class="list-group-item">2023 Program Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2023/2023-program-guide.pdf" class="list-group-item">2023 Program Guide</a>
 
 ## 2022
 > %list-group%

@@ -69,8 +69,8 @@ New for summer 2023, Camp Workcoeman will be offering week-long Scouts BSA Powde
 >>> August 8, 2023<br/>
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2022/2022-program-guide.pdf" class="list-group-item">2023 Program Guide (Coming Soon)</a>
-> <a href="{{ site.url }}/pdf/2022/2022-preview-flier.pdf" class="list-group-item">2023 Camp Preview Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2023/2023-program-guide.pdf" class="list-group-item">2023 Summer Program Guide</a>
+<!--- > <a href="{{ site.url }}/pdf/2022/2022-preview-flier.pdf" class="list-group-item">2023 Camp Preview Flier (Coming Soon)</a> --->
 > <a href="{{ site.url }}/summer-camp/a-la-carte-programs/" class="list-group-item">2023 Summer À La Carte Programs</a>
 
 ## Merit Badge and Program Offerings
