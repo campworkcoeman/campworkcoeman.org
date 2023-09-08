@@ -6,8 +6,6 @@ description: This page contains information on and links to the council website 
 keywords: "Boy Scout, Scouts BSA, registration, reservation, upcoming programs"
 ---
 
-<div class="list-group"><p><a href="{{ site.url }}/scouts-bsa/summer-programs/" class="list-group-item">Summer Programs Information</a></p></div>
-
 {% for p in site.yrpevents %}
   {% if p.layout == 'event-item' %}
     {% if p.tag contains 'scouts-bsa' %}
