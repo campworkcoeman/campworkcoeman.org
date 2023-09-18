@@ -8,12 +8,14 @@ tag: scouts-bsa
 The Autumn Adventure Camp is composed of eight merit badges with Scouts selecting one to work on upon registering. These badges are focused on either 'Eagle Required' or 'Sportsman' badges and are listed below. Lunch is included along with a presentation on the requirements for the Eagle Badge, with special focus on the Eagle Scout Service Project.
 
 Eagle Required Merit Badges (prerequisites required, see sign-off sheet below):
+
 - Camping
 - Citizenship in the Nation
 - Citizenship in the World
 - Emergency Preparedness
 
 Sportsman Merit Badges:
+
 - Archery
 - Climbing
 - Rifle Shooting
