@@ -8,7 +8,7 @@ keywords: work days, volunteer
 
 ## Shawtown Work Days
 
-Pre-planned mini-work parties (in conjunction with the Ranger's needs) will be held from 9:00 AM to 3:00 PM on (generally) the fourth Saturday of each month. The day starts with coffee "and" at 8:45 AM; please bring your own lunch. We will tackle jobs large and small throughout the camp to assure an awesome experience for any Scouts or Scouters attending Camp Workcoeman this year and for years to come!
+Pre-planned mini-work parties (in conjunction with the Ranger's needs) will be held from 9:00 AM to 3:00 PM on (generally) the fourth Saturday of each month. The day starts with coffee "and" at 8:45 AM and lunch will be provided. We will tackle jobs large and small throughout the camp to assure an awesome experience for any Scouts or Scouters attending Camp Workcoeman this year and for years to come!
 
 If you plan on attending, please email Brian Cornell ([bcornell@campworkcoeman.org](mailto:bcornell@campworkcoeman.org)) by the Wednesday before the work day to let him know you're coming; he'll let you know the projects to be addressed and any special attire or equipment needs.
 
@@ -30,7 +30,7 @@ Saturday, June 24, 2023
 
 Saturday, August 26, 2023
 
-Saturday, September 16, 2023 (Note: Third Saturday)
+Saturday, September 23, 2023 (Note: Date change)
 
 Saturday, October 28, 2023
 
