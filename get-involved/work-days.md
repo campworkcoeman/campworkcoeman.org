@@ -30,7 +30,7 @@ Saturday, June 24, 2023
 
 Saturday, August 26, 2023
 
-Saturday, September 23, 2023 (Note: Date change)
+~~Saturday, September 23, 2023~~ **Canceled**
 
 Saturday, October 28, 2023
 

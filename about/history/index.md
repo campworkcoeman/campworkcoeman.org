@@ -11,6 +11,10 @@ In recognition of Camp Workcoeman&rsquo;s Ninetieth Anniversary, we present
 a series of <a href="vignettes/">historical vignettes of camp&rsquo;s early history</a>.
 </div>
 
+<div class="alert alert-info">
+A variety of events are taking place as part of Camp Workcoeman's <a href="centennial/">2024 Centennial Celebration</a>.
+</div>
+
 ## The Founding of Camp Workcoeman
 #### As Recalled by Scouter Seymour Weeks in 1960
 

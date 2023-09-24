@@ -7,6 +7,7 @@ keywords: newsletter, Citizens of Shawtown, archive
 
 ## 2023
 > %list-group%
+> <a href="{{ site.url }}/pdf/2023/shawtown-summer-2023.pdf" class="list-group-item">Summer 2023 Newsletter</a>
 > <a href="{{ site.url }}/pdf/2023/shawtown-spring-2023.pdf" class="list-group-item">Spring 2023 Newsletter</a>
 
 ## 2022
