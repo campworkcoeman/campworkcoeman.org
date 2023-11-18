@@ -1,11 +1,11 @@
 ---
 published: true
 layout: generic
-title: Fall 2023 @ Workcoeman
-keywords: "Boy Scout, Scouts BSA, Cub Scouts, summer camp, day camp, overview, Scouting, Fall 2023, Overnight Camping, Merit Badges"
+title: Winter/Spring 2024 @ Workcoeman
+keywords: "Boy Scout, Scouts BSA, Cub Scouts, summer camp, day camp, overview, Scouting, Winter/Spring 2024, Overnight Camping, Merit Badges"
 ---
 
-Camp Workcoeman will be offering a variety of day and overnight weekend opportunities for both Scouts BSA and Cub Scout participants throughout the fall.
+Camp Workcoeman will be offering a variety of day and overnight weekend opportunities for both Scouts BSA and Cub Scout participants throughout the winter and spring.
 
 > %text-center%
 >> %row%
@@ -14,9 +14,9 @@ Camp Workcoeman will be offering a variety of day and overnight weekend opportun
 >>>> <li class="list-group-item active h3">Scouts BSA Opportunities</li>
 >>>> <li class="list-group-item">
         <ul class="text-left">
-            <li>Merit Badge Completion Day</li>
-            <li>Order of the Arrow Ordeal</li>
-            <li>Autumn Merit Badge Adventure</li>
+            <li>STEM Merit Badge Day</li>
+            <li>Centennial Five Mile Hike</li>
+            <li>Centennial Spring Camporee</li>
         </ul>
      </li>
 >>>> <a href="{{ site.url }}/scouts-bsa/year-round-programs/" class="list-group-item">More Information & Registration</a>
@@ -26,8 +26,8 @@ Camp Workcoeman will be offering a variety of day and overnight weekend opportun
 >>>> <li class="list-group-item active h3">Cub Scout Opportunities</li>
 >>>> <li class="list-group-item">
         <ul class="text-left">
-            <li>Webelos Woods</li>
-            <li>Cub Scout Autumn Adventure</li>
+            <li>Cub Scout Blizzard</li>
+            <li>Covered Wagon Derby</li>
         </ul>
      </li>
 >>>> <a href="{{ site.url }}/cub-scouts/year-round-programs/" class="list-group-item">More Information & Registration</a>
@@ -37,10 +37,9 @@ Camp Workcoeman will be offering a variety of day and overnight weekend opportun
 >>>> <li class="list-group-item active h3">Adult Scouter Trainings</li>
 >>>> <li class="list-group-item">
         <ul class="text-left">
-            <li>Introduction to Outdoor Leadership Skills</li>
-            <li>Level I Archery Instructor Training</li>
-            <li>Basic Adult Leader Outdoor Orientation</li>
-            <li>Leave No Trace Level I Training Course</li>
+            <li>Range Safety Officer (RSO) Certification</li>
+            <li>Scoutmaster Specific Training</li>
+            <li>Introduction to Outdoor Leadership Skills (IOLS)</li>
         </ul>
      </li>
 >>>> <a href="{{ site.url }}/training/" class="list-group-item">More Information & Registration</a>

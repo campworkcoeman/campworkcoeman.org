@@ -34,6 +34,7 @@ Saturday, August 26, 2023
 
 Saturday, October 28, 2023
 
+Saturday, November 18, 2023
 
 ## Beaver Day
 
