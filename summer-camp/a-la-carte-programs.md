@@ -6,6 +6,10 @@ description: This page provides information on summertime à la carte program op
 keywords: à la carte, programs, facility reservation, summer
 ---
 
+<div class="alert alert-info">
+This page will be updated for Summer 2024 in the coming months as program details are finalized. For now, see <a href="{{ site.url }}/2024/">this preliminary overview and schedule</a> of summer 2024 programs at Camp Workcoeman.
+</div>
+
 Various camp facilities can be reserved by your troop for programs. You can take advantage of these
 experiences while staying at camp during an overnight camping trip or as a day event. A full list of activities,
 costs, and included items is available below. To reserve a facility, please email Jeff Seiser

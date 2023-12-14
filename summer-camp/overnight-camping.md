@@ -6,6 +6,10 @@ description: This page provides information on summertime overnight camping oppo
 keywords: overnight camping, campsite reservation, facility reservation, summer
 ---
 
+<div class="alert alert-info">
+This page will be updated for Summer 2024 in the coming months as program details are finalized. For now, see <a href="{{ site.url }}/2024/">this preliminary overview and schedule</a> of summer 2024 programs at Camp Workcoeman.
+</div>
+
 ## Unit Camping
 
 Scouting units are able to reserve inner loop campsites (Nathan Hale, Baden Powell, Tunxis, Kahagon, Seton, Outpost) any night of the week all summer (Friday and Saturday night must be reserved together). Canvas tents with cots, canopies, latrines, and showers will be available. If units bring their own food, ice and/or refrigeration may be available upon request. Additionally, prepared food is available for purchase with sufficient notice; please see the order form (at the bottom of this page) for details.

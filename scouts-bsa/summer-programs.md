@@ -6,9 +6,7 @@ keywords: "Boy Scout, Scouts BSA, summer camp"
 ---
 
 <div class="alert alert-info">
-Registration for 2023 summer programs is now open.
-<a href="{{ site.url }}/scouts-bsa/register/">
-Register today!</a>
+This page will be updated for Summer 2024 in the coming months as program details are finalized. For now, see <a href="{{ site.url }}/2024/">this preliminary overview and schedule</a> of summer 2024 programs at Camp Workcoeman.
 </div>
 
 New for summer 2023, Camp Workcoeman will be offering week-long Scouts BSA Powder Horn and National Youth Leadership Training (NYLT) courses. Building on the success of the past couple seasons, Camp Workcoeman will continue to offer a variety of short-term opportunities for Scouts BSA participants throughout the summer of 2023, including one- and two-day merit badges, a la carte activities/rentals, and scuba certification. In addition, overnight unit and family camping is available all summer. These programs are not designed to replicate a traditional troop summer camp experience; rather, they are intended to supplement one through a variety of flexible programs.

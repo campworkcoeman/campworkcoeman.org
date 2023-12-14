@@ -7,9 +7,7 @@ keywords: Cub Scout, day camp
 ---
 
 <div class="alert alert-info">
-Registration for summer 2023 day camp is now open.
-<a href="{{ site.url }}/cub-scouts/register/">
-Sign up today!</a>
+This page will be updated for Summer 2024 in the coming months as program details are finalized. For now, see <a href="{{ site.url }}/2024/">this preliminary overview and schedule</a> of summer 2024 programs at Camp Workcoeman.
 </div>
 
 ### July 17--21 and August 7--11, 2023

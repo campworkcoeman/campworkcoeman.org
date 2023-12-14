@@ -6,9 +6,7 @@ keywords: "Boy Scout, Scouts BSA, summer camp, National Youth Leadership Trainin
 ---
 
 <div class="alert alert-info">
-Registration for 2023 summer programs is now open.
-<a href="{{ site.url }}/scouts-bsa/register/">
-Register today!</a>
+This page will be updated for Summer 2024 in the coming months as program details are finalized. For now, see <a href="{{ site.url }}/2024/">this preliminary overview and schedule</a> of summer 2024 programs at Camp Workcoeman.
 </div>
 
 Come join us at Camp Workcoeman for the "first-ever" Powder Horn experience in the Connecticut Rivers Council.  The course is scheduled for this summer on July 30 to August 4.  The vast list of course experiences will include shooting sports (including pistol shooting and muzzle-loading), Discover SCUBA, Fly Fishing, "Sailing the Big Boats," COPE & Climbing, and other high-adventure opportunities.  The course is open to youth 14 and up as well as *adults*!

@@ -55,3 +55,13 @@ keywords: "history, centennial"
 ## Centennial Celebration Merchandise
 
 A variety of 100^th anniversary camp merchandise will be available at the camp Trading Post. Some items are also available online at the [Council Trading Post](https://councilstuff.com/066?category=2002). Contact [Bill Hatfield](mailto:whatfield@campworkcoeman.org) for more information and to arrange shipping of items not available online.
+
+> %list-group%
+> <a href="https://councilstuff.com/066?category=2002" class="list-group-item">Online Trading Post</a>
+
+## Camp History
+
+In 2014, to recognize Camp Workcoeman's Ninetieth Anniversary, we presented a series of [historical vignettes]({{ site.url }}/about/history/vignettes/) of camp's early history. Follow along this year on [Facebook](https://www.facebook.com/CampWorkcoeman) as we represent these stories, or view the entire collection [here]({{ site.url }}/about/history/vignettes/).
+
+> %list-group%
+> <a href="{{ site.url }}/about/history/vignettes/" class="list-group-item">Historical Vignettes</a>

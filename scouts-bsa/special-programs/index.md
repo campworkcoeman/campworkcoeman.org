@@ -5,6 +5,10 @@ title: Special Programs
 keywords: special programs, programs
 ---
 
+<div class="alert alert-info">
+This page will be updated for Summer 2024 in the coming months as program details are finalized. For now, see <a href="{{ site.url }}/2024/">this preliminary overview and schedule</a> of summer 2024 programs at Camp Workcoeman.
+</div>
+
 ## Scuba
 
 A new challenge for Scouts who would like to discover the depths of West

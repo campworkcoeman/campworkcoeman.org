@@ -6,9 +6,7 @@ keywords: "Boy Scout, Scouts BSA, summer camp, National Youth Leadership Trainin
 ---
 
 <div class="alert alert-info">
-Registration for 2023 summer programs is now open.
-<a href="{{ site.url }}/scouts-bsa/register/">
-Register today!</a>
+This page will be updated for Summer 2024 in the coming months as program details are finalized. For now, see <a href="{{ site.url }}/2024/">this preliminary overview and schedule</a> of summer 2024 programs at Camp Workcoeman.
 </div>
 
 National Youth Leadership Training (NYLT) is the BSA's premier youth leadership development program at the Council level. It's  an exciting 6-day program designed for youth to learn leadership skills that will help them succeed in Scouting and in life. 

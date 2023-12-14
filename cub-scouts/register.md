@@ -7,6 +7,10 @@ keywords: register, sign up, camp
 ---
 
 <div class="alert alert-info">
+This page will be updated for Summer 2024 in the coming months as program details are finalized. For now, see <a href="{{ site.url }}/2024/">this preliminary overview and schedule</a> of summer 2024 programs at Camp Workcoeman.
+</div>
+
+<div class="alert alert-info">
 Having trouble registering? Scroll to the bottom of the <a href="https://ctscouting.org/calendar/">calendar page</a> on the Council website for step-by-step videos.
 </div>
 

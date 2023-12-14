@@ -37,9 +37,9 @@ Camp Workcoeman will be offering a variety of day and overnight weekend opportun
 >>>> <li class="list-group-item active h3">Adult Scouter Trainings</li>
 >>>> <li class="list-group-item">
         <ul class="text-left">
-            <li>Range Safety Officer (RSO) Certification</li>
             <li>Scoutmaster Specific Training</li>
             <li>Introduction to Outdoor Leadership Skills (IOLS)</li>
+            <li>Wilderness First Aid Training</li>
         </ul>
      </li>
 >>>> <a href="{{ site.url }}/training/" class="list-group-item">More Information & Registration</a>

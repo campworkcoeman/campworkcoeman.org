@@ -6,6 +6,10 @@ description: This page lists information and links for applying for financial as
 keywords: fees, camperships
 ---
 
+<div class="alert alert-info">
+This page will be updated for Summer 2024 in the coming months as program details are finalized. For now, see <a href="{{ site.url }}/2024/">this preliminary overview and schedule</a> of summer 2024 programs at Camp Workcoeman.
+</div>
+
 ## CW Alumni Association Camperships (Year-Round)
 
 The Camp Workcoeman Alumni Association is a separate 501\(c)(3) organization dedicated to ensuring every Scout can enjoy Scouting experiences at Camp Workcoeman. The Association provides year-round camperships to supplement the summer ones offered by the Council; as such, they request that families apply for a Council campership first when applicable. The Association will supplement Council funding for summer programs when the Council has not met a family's full financial need. For more information and to request a campership, please email the group's treasurer, [Tom Leisten](mailto:tleisten@campworkcoeman.org).

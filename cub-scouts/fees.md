@@ -6,6 +6,10 @@ description: This page list the fees to attend Cub Scout Summer Camp programs in
 keywords: fees
 ---
 
+<div class="alert alert-info">
+This page will be updated for Summer 2024 in the coming months as program details are finalized. For now, see <a href="{{ site.url }}/2024/">this preliminary overview and schedule</a> of summer 2024 programs at Camp Workcoeman.
+</div>
+
 > %list-group%
 > <a href="{{ site.url }}/cub-scouts/register/" class="list-group-item">Register for Cub Scout Day Camp</a>
 
