@@ -19,5 +19,5 @@ Cost: $35 per Scout, $15 per adult
 Contact: Jeffrey Seiser, [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org)
 
 > %list-group%
-> <a href="https://scoutingevent.com/066-78373" class="list-group-item">Register for Covered Wagon Derby</a>
+> <a href="https://scoutingevent.com/066-78374" class="list-group-item">Register for Covered Wagon Derby</a>
 > <a href="{{ site.url }}/pdf/2023/2023-covered-wagon-derby-guide.pdf" class="list-group-item">Covered Wagon Derby Program Guide (Coming Soon)</a>
