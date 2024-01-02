@@ -5,11 +5,9 @@ title: "Start of the Centennial: 5 Mile Hike"
 tag: scouts-bsa
 ---
 
-The first event to commemorate the 100^th anniversary of Camp Workcoeman will be a hike to the Shawtown woods to learn about the history of this special place that dates back to the 18^th century. 
+Begin the Workcoeman Centennial with a hike that goes back more than 200 years.  Visit the remains of 19^th century homesteads, see evidence of the charcoal industry, and enjoy a view over West Hill Pond and across to the Metacomet Ridge.  Participants should be prepared for a vigorous winter hike of about five miles and come dressed in weather-appropriate layers.  In addition to the Scout basic essentials, participants should bring a backpack, a warm lunch in a thermos, a wag bag, and winter traction.  Snowshoes may be required in the case of a particularly heavy snow load.
 
-Come on this hike to learn about the history of Shawtown: walk to sites such as the foundations of the Hessian Village, the 'Four Towns Rock,' the camp overlook, and more.
-
-Gather for this hike at the camp chapel by the parking lot at 8:00 AM; come prepared to hike five miles and pack a trail snack. The hike will end by 12:30 PM.
+Gather for this hike at the camp chapel by the parking lot at 8:00 AM; come prepared to hike five miles and pack a trail snack. The hike will end early afternoon.
 
 Cost: Free (but please register)
 
