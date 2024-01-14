@@ -2,7 +2,7 @@
 published: true
 layout: event-item
 title: Introduction to Outdoor Leadership Skills (IOLS)
-tag: training
+tag: training, sbsa-training
 dates: May 3&ndash;5, 2024
 ---
 

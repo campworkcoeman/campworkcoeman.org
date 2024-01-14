@@ -24,6 +24,23 @@ Saturday, July 27, 2024
 
 Fall Workdays TBD
 
+## 1^st Annual Shawtown Fellowship Work Weekend
+
+March 8--10, 2024
+
+New for 2024, the Citizens of Shawtown are planning a weekend event for work and fellowship to prepare for camp's centennial season. The event runs from Friday evening through lunch on Sunday, but volunteers are welcome for whatever portion of the weekend they're able to attend. See below for the event flier with additional information and the RSVP link (please respond by March 1, 2024).
+
+> %list-group%
+> <a href="https://forms.gle/t3tx46dyJKeY6PwM7" class="list-group-item">2024 1^st Annual Shawtown Fellowship Work Weekend RSVP Form</a>
+> <a href="{{ site.url }}/pdf/2024/2024-shawtown-work-weekend-flier.pdf" class="list-group-item">2024 1^st Annual Shawtown Fellowship Work Weekend Flier</a>
+
+## Beaver Day
+
+Saturday, June 1, 2024
+
+> %list-group%
+> <a href="{{ site.url }}/pdf/2023/2023-beaver-day-flier.pdf" class="list-group-item">2024 Beaver Day Flier (Coming Soon)</a>
+
 ## Beaver Day
 
 Saturday, June 1, 2024

@@ -2,7 +2,7 @@
 published: true
 layout: event-item
 title: Scoutmaster/Assistant Scoutmaster Specific Training
-tag: training
+tag: training, sbsa-training
 ---
 
 Participants will learn about how to mentor youth members to learn and practice leadership and to exhibit the patrol method.

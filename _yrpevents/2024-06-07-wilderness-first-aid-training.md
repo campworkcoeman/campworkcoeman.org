@@ -2,7 +2,7 @@
 published: true
 layout: event-item
 title: Wilderness First Aid Training
-tag: training
+tag: training, sbsa-training
 dates: June 7&ndash;9, 2024
 ---
 

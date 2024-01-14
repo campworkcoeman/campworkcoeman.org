@@ -40,6 +40,7 @@ Camp Workcoeman will be offering a variety of day and overnight weekend opportun
             <li>Scoutmaster Specific Training</li>
             <li>Introduction to Outdoor Leadership Skills (IOLS)</li>
             <li>Wilderness First Aid Training</li>
+            <li>Various Shooting Sports Trainings</li>
         </ul>
      </li>
 >>>> <a href="{{ site.url }}/training/" class="list-group-item">More Information & Registration</a>
