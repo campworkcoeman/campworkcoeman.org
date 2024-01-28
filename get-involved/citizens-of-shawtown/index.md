@@ -48,8 +48,8 @@ New for 2024, the Citizens of Shawtown are planning a weekend event for work and
 The Citizens annually hold a Steak Dinner and Silent Auction in support of camp after the annual Beaver Day work day. All members of the camp and surrounding community are invited whether they attend the work day or not. In 2024, Beaver Day will begin at 8:30 AM on Saturday, June 1, and the Steak Dinner will begin with hors d'oeuvres at 5:30 PM followed by dinner at 6:00 PM.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2023/2023-steak-dinner.pdf" class="list-group-item">2024 Steak Dinner Flier (Coming Soon)</a>
-> <a href="https://scoutingevent.com/066-67115" class="list-group-item">2024 Steak Dinner Registration (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2023/2023-steak-dinner.pdf.old" class="list-group-item">2024 Steak Dinner Flier (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066" class="list-group-item">2024 Steak Dinner Registration (Coming Soon)</a>
 
 ## Newsletter
 

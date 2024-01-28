@@ -7,7 +7,7 @@ keywords: history
 ---
 
 <div class="alert alert-info">
-In recognition of Camp Workcoeman&rsquo;s Ninetieth Anniversary, we present
+In recognition of Camp Workcoeman&rsquo;s Centennial, we re-present
 a series of <a href="vignettes/">historical vignettes of camp&rsquo;s early history</a>.
 </div>
 
