@@ -26,4 +26,4 @@ Ted Shreve, [tiki823@gmail.com](mailto:tiki823@gmail.com)
 
 > %list-group%
 > <a href="https://scoutingevent.com/066-78376" class="list-group-item">Register for Spring Centennial Camporee: Navigating the Past</a>
-> <a href="{{ site.url }}/#" class="list-group-item">Spring Centennial Camporee Program Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2024/spring-centennial-camporee-program-guide.pdf" class="list-group-item">Spring Centennial Camporee Program Guide</a>
