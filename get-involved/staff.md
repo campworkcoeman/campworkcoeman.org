@@ -35,7 +35,7 @@ recommended that you submit your application early. Applicants will be notified
 of the interview schedule by the Camp Director.
 
 > %list-group%
-> <a href="https://docs.google.com/forms/d/e/1FAIpQLSc2BouvgFDkfK_3x9TjzA3Kl7d6GNuWv5fLkYabJbYQytfr2w/viewform" class="list-group-item">2023 Staff Application</a>
+> <a href="https://forms.gle/92GkHmZ1BRden6Fu6" class="list-group-item">2024 Staff Interest Form</a>
 
 If you are interested in working at camp this summer, please contact Camp
 Director Lou Seiser at [lseiser@campworkcoeman.org](mailto:lseiser@campworkcoeman.org).

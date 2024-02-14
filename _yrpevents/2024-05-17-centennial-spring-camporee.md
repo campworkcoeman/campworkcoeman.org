@@ -12,13 +12,11 @@ This will be one of the main events to mark the 100^th anniversary of Camp Workc
 
 Check-in is held on Friday evening from 6:00--8:00 PM; there will be a Saturday morning check-in from 7:00-8:00 AM. Campsites will be assigned in advance and communicated to units beforehand. The event ends at 10:00 AM on Sunday.
 
-All participants will receive a commemorative patch
-
-A program guide will be released soon.
+All participants will receive a commemorative patch.
 
 Cost: $15 per participant
 
-Unit registration is available and encouraged.
+Unit registration is available and encouraged. Please fill out the intent form below ASAP to help us plan.
 
 Contacts:<br>
 Jeffrey Seiser, [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org)<br>
@@ -26,4 +24,5 @@ Ted Shreve, [tiki823@gmail.com](mailto:tiki823@gmail.com)
 
 > %list-group%
 > <a href="https://scoutingevent.com/066-78376" class="list-group-item">Register for Spring Centennial Camporee: Navigating the Past</a>
+> <a href="https://forms.gle/VjkLjWY5ue1jhyYQ6" class="list-group-item">Troop Camporee Attendance Intent Form</a>
 > <a href="{{ site.url }}/pdf/2024/spring-centennial-camporee-program-guide.pdf" class="list-group-item">Spring Centennial Camporee Program Guide</a>

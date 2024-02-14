@@ -14,8 +14,11 @@ Camp Workcoeman will be offering a variety of day and overnight weekend opportun
 >>>> <li class="list-group-item active h3">Scouts BSA Opportunities</li>
 >>>> <li class="list-group-item">
         <ul class="text-left">
-            <li>STEM Merit Badge Day</li>
             <li>Centennial Five Mile Hike</li>
+            <li>Winter Merit Badge Day</li>
+            <li>Crafts and Trades Merit Badge Day</li>
+            <li>Tenderfoot's Compass Five Mile Hike</li>
+            <li>Spring Break Merit Badge Days</li>
             <li>Centennial Spring Camporee</li>
         </ul>
      </li>

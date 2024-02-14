@@ -22,7 +22,7 @@ National, the local council and the camp where they volunteer. The main
 function of the Campmaster is to be a friendly and supportive addition to the
 Weekend Camp Staff.
 
-All Campmasters are a resource to the Camp Ranger. Meetings are scheduled to
+All Campmasters are a resource to the Camp and Council staff. Meetings are scheduled to
 evaluate its program, make scheduling assignments, and arrange for the training
 of any new members. All Campmasters must have a record of demonstrated ability
 to get along with people, to lead, and to act in an emergency.
@@ -31,5 +31,11 @@ All Campmasters must have a working knowledge of the Scouting program and
 advancement. Registered Scouters, with experience in Cub Scouts, Scouts BSA, and
 Venturing are eligible for consideration as Campmasters.
 
-If you are interested in being a Campmaster, please contact Ranger Frank
-Galliher at (860) 379-2207 or [rangerfrank@campworkcoeman.org](mailto:rangerfrank@campworkcoeman.org). 
+## Help us restart our Campmaster Corps
+
+Help us to provide quality customer service to units visiting camp on weekends by helping us to restart our campmaster corps. Should you be interested in helping with this important task, please complete the Google Form available via the link below. Please know that this responsibility would only be 1--2 weekends per year and come with training being held soon.
+
+Please contact Jeff Seiser, [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org) with questions.
+
+> %list-group%
+> <a href="https://forms.gle/fkg8Ck23s1zS2y1y7" class="list-group-item">Spring 2024 Campmaster Interest Form</a>

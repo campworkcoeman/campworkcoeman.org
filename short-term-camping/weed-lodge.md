@@ -12,7 +12,7 @@ keywords: Weed Lodge, cabin, rental
 > <dt>Utilities</dt><dd>Electricity</dd>
 > <dt>Heating</dt><dd>Wall-mounted propane heater</dd>
 > <dt>Location</dt><dd>Adjacent to shooting ranges</dd>
-> <dt>Features</dt><dd>ADA accessible, propane grill and stove, refrigerator, seperate area sleeps eight</dd>
+> <dt>Features</dt><dd>ADA accessible, propane grill and stove, seperate area sleeps eight</dd>
 
 ### Exterior
 
