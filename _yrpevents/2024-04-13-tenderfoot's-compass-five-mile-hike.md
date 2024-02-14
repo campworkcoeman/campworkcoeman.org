@@ -17,4 +17,4 @@ Contact: Jeffrey Seiser, [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoe
 
 
 > %list-group%
-> <a href="https://scoutingevent.com/066-" class="list-group-item">Register for Tenderfoot's Compass Five Mile Hike (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-81911" class="list-group-item">Register for Tenderfoot's Compass Five Mile Hike</a>
