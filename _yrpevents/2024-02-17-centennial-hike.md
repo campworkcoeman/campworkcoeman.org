@@ -17,3 +17,4 @@ Registration closes as 11:59 PM on Tuesday, February 13, 2024.
 
 > %list-group%
 > <a href="https://scoutingevent.com/066-78368" class="list-group-item">Register for Start of the Centennial: 5 Mile Hike</a>
+> <a href="{{ site.url }}/about/news/2024/02/18/centennial-hike-postscript/" class="list-group-item">Start of the Centennial: 5 Mile Hike Postscript</a>

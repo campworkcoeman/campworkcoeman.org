@@ -24,22 +24,6 @@ keywords: staff, Lou Seiser
 
 > %row%
 > <div class="col-sm-4 col-lg-4">
->  <img src="{{ site.url }}/about/files/frank.jpg" style="width: 100%; max-width: 255px;" alt="Frank Galliher" class="img-rounded">
-> </div>
->
-> <div class="col-sm-8 col-lg-8">
->  <h3 style="margin-top:0">Frank Galliher</h3>
->  <h4>Camp Ranger</h4>
->  Frank became the ranger at Camp Workcoeman after serving as Camp Director at
->  Camp Tadma. His combined experience is an asset to Camp Workcoeman.
->
->  <i class="fa fa-envelope-o"></i> [rangerfrank@campworkcoeman.org](mailto:rangerfrank@campworkcoeman.org)
-> </div>
-
-&nbsp;
-
-> %row%
-> <div class="col-sm-4 col-lg-4">
 >  <img src="{{ site.url }}/about/files/tom.jpg" style="width: 100%; max-width: 255px;" alt="Tom Leisten" class="img-rounded">
 > </div>
 >

@@ -6,7 +6,9 @@ keywords: special programs, programs
 ---
 
 <div class="alert alert-info">
-This page will be updated for Summer 2024 in the coming months as program details are finalized. For now, see <a href="{{ site.url }}/2024/">this preliminary overview and schedule</a> of summer 2024 programs at Camp Workcoeman.
+Registration for 2024 summer programs is now open.
+<a href="{{ site.url }}/scouts-bsa/register/">
+Sign up today!</a>
 </div>
 
 ## Scuba
@@ -21,17 +23,10 @@ spend time under water to see what it is all about.
 
 ## National Youth Leadership Training (NYLT)
 
-National Youth Leadership Training (NYLT) is the BSA's premier youth leadership development program at the Council level. It's an exciting 6-day program designed for youth to learn leadership skills that will help them succeed in Scouting and in life. 
+National Youth Leadership Training (NYLT) is the BSA's premier youth leadership development program at the Council level. It's an exciting 7-day program designed for youth to learn leadership skills that will help them succeed in Scouting and in life. 
 
 > %list-group%
 > <a href="nylt/" class="list-group-item">More Information</a>
-
-## Powder Horn High-Adventure Management Course
-
-Powder Horn is a course designed to introduce Scouting's adults and youth to resources for making exciting high-adventure programs successful for their units. The course provides units the ability to achieve the mission of the Boy Scouts of America.
-
-> %list-group%
-> <a href="powder-horn/" class="list-group-item">More Information</a>
 
 ## Pistol Shooting Program
 
@@ -39,15 +34,11 @@ Camp Workcoeman is one of a select few camps that participates in the Boy Scouts
 Summer Camp Pistol Shooting Program. The program is open to all Scouts who are at least 13 and have
 completed the eighth grade. Scouts will receive a safety briefing and instruction followed by the opportunity
 to earn various pistol marksmanship qualifications. Due to the low instructor to shooter ratio, space is
-extremely limited. The program will be offered four times throughout the summer: July 5, July 12, July 26, and August 2, 2023; the cost is $45. An additional signed
+extremely limited. The program will be offered on Wednesdays during our Outdoor Skills & More weeks: July 3 & 24, 2024; the cost is $50. An additional signed
 participation waiver is required.
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2017/2017-pistol-pilot-program-release-agreement.pdf" class="list-group-item">Pistol Program Release Agreement</a>
-
-## "Sailing the Big Boats" Clinic
-
-Offered on Wednesdays of our Aquatics & More weeks, this program allows Scouts to spend the day learning how to rig and sail the larger craft from the Workcoeman fleet. Scouts will experience the thrill of a catamaran, cruise around the lake in a larger ship, and spend the day sailing.
 
 ## Huck Finn Tube Ride
 

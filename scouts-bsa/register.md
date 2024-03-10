@@ -1,24 +1,19 @@
 ---
 published: true
 layout: generic
-title: 2023 Scouts BSA Summer Camp Registration
-description: This page contains links to the council website to register for the 2023 Camp Workcoeman season.
-keywords: "Boy Scout, Scouts BSA, camp, 2023, registration, reservation"
+title: 2024 Scouts BSA Summer Camp Registration
+description: This page contains links to the council website to register for the 2024 Camp Workcoeman season.
+keywords: "Boy Scout, Scouts BSA, camp, 2024, registration, reservation"
 ---
 
 <div class="alert alert-info">
-This page will be updated for Summer 2024 in the coming months as program details are finalized. For now, see <a href="{{ site.url }}/2024/">this preliminary overview and schedule</a> of summer 2024 programs at Camp Workcoeman.
-</div>
-
-<div class="alert alert-info">
-Having trouble registering? Scroll to the bottom of the <a href="https://ctscouting.org/calendar/">calendar page</a> on the Council website for step-by-step videos.
+Having trouble registering? A <a href="https://www.youtube.com/watch?v=0AEZJ_C0ysI&list=PLGp-1PFhlCejn4IKn1MTfYR28Hd2u1vKb&index=1">step-by-step video</a> on registering is available.
 </div>
 
 > %list-group%
-> <a href="https://docs.google.com/forms/d/e/1FAIpQLSc2BouvgFDkfK_3x9TjzA3Kl7d6GNuWv5fLkYabJbYQytfr2w/viewform" class="list-group-item">2023 Staff Application</a>
-> <a href="https://docs.google.com/forms/d/e/1FAIpQLScmrmVGqJy15NzmY3JZDUq_aYvi214F5KC1m8N9z48-vW2iMQ/viewform" class="list-group-item">2023 CIT Application</a>
+> <a href="https://forms.gle/92GkHmZ1BRden6Fu6" class="list-group-item">2024 Staff Interest Form</a>
 
-Below, you will find links to the Council event registration website to register for the 2023 Camp Workcoeman summer season.
+Below, you will find links to the Council event registration website to register for the 2024 Camp Workcoeman summer season.
 
 ## Scouts BSA Year-Round Programs
 
@@ -27,18 +22,20 @@ Registration links for year-round programs can be found in the individual [event
 ## Scouts BSA Summer Programs
 
 > %list-group%
-> <a href="https://scoutingevent.com/066-63701-161375" class="list-group-item">Aquatics & More (Week 1) --- July 3--7, 2023</a>
-> <a href="https://scoutingevent.com/066-63702" class="list-group-item">Scuba Certification Camp (Week 1) --- July 3--6, 2023</a>
-> <a href="https://scoutingevent.com/066-63701-168199" class="list-group-item">Cooking Merit Badge (Session 1) --- July 3--5, 2023</a>
-> <a href="https://scoutingevent.com/066-67048" class="list-group-item">National Youth Leadership Training (NYLT) --- July 9--15, 2023</a>
-> <a href="https://scoutingevent.com/066-63701-161376" class="list-group-item">Outdoor Skills & More (Week 1) --- July 10--14, 2023</a>
-> <a href="https://scoutingevent.com/066-63701-168197" class="list-group-item">Fly Fishing Merit Badge (Session 1) --- July 18, 2023</a>
-> <a href="https://scoutingevent.com/066-63701-161377" class="list-group-item">Aquatics & More (Week 2) --- July 24--28, 2023</a>
-> <a href="https://scoutingevent.com/066-63701-168201" class="list-group-item">Cooking Merit Badge (Session 2) --- July 24--26, 2023</a>
-> <a href="https://scoutingevent.com/066-powderhorn" class="list-group-item">Powder Horn High Adventure Management Course --- July 30--August 4, 2023</a>
-> <a href="https://scoutingevent.com/066-63701-161378" class="list-group-item">Outdoor Skills & More (Week 2) --- July 31--August 4, 2023</a>
-> <a href="https://scoutingevent.com/066-63702" class="list-group-item">Scuba Certification Camp (Week 2) --- August 7--10, 2023</a>
-> <a href="https://scoutingevent.com/066-63701-168198" class="list-group-item">Fly Fishing Merit Badge (Session 2) --- August 8, 2023</a>
+> <a href="https://scoutingevent.com/066" class="list-group-item">Outdoor Skills & More (Week 1) --- July 1--5, 2024 (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-82179-197791" class="list-group-item">Cooking Merit Badge (Session 1) --- July 1--3, 2024</a>
+> <a href="https://scoutingevent.com/066-82178-197788" class="list-group-item">Fly Fishing Merit Badge (Session 1) --- July 2, 2024</a>
+> <a href="https://scoutingevent.com/066-80412" class="list-group-item">National Youth Leadership Training (NYLT) --- July 7--13, 2024</a>
+> <a href="https://scoutingevent.com/066" class="list-group-item">Aquatics & More (Week 1) --- July 8--12, 2024 (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-81016" class="list-group-item">SDI Open Water Scuba Certification and Merit Badge Program (Week 1) --- July 8--11, 2024</a>
+> <a href="https://scoutingevent.com/066" class="list-group-item">Outdoor Skills & More (Week 2) --- July 22--26, 2024 (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-82179-197792" class="list-group-item">Cooking Merit Badge (Session 2) --- July 22--24, 2024</a>
+> <a href="https://scoutingevent.com/066-82178-197789" class="list-group-item">Fly Fishing Merit Badge (Session 2) --- July 23, 2024</a>
+> <a href="https://scoutingevent.com/066" class="list-group-item">Aquatics & More (Week 2) --- July 29--August 2, 2024 (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-81016" class="list-group-item">SDI Open Water Scuba Certification and Merit Badge Program (Week 2) --- July 29--August 1, 2024</a>
+> <a href="https://scoutingevent.com/066-82179-197793" class="list-group-item">Cooking Merit Badge (Session 3) --- July 29--31, 2024</a>
+> <a href="https://scoutingevent.com/066-82178-197790" class="list-group-item">Fly Fishing Merit Badge (Session 3) --- July 30, 2024</a>
+> <a href="https://scoutingevent.com/066-81016" class="list-group-item">Advanced Scuba Certification --- August 2--4, 2024</a>
 
 ## À La Carte Programs
 Email <a href="mailto:jseiser@campworkcoeman.org">Jeff Seiser</a> for more information and to make reservations.
@@ -48,11 +45,11 @@ Email <a href="mailto:jseiser@campworkcoeman.org">Jeff Seiser</a> for more infor
 
 ## Unit Camping
 > %list-group%
-> <a href="https://campreservation.com/066/Camps/636" class="list-group-item">Summer 2023 Campsite and Facility Reservations</a>
+> <a href="https://campreservation.com/066/Camps/636" class="list-group-item">Summer 2024 Campsite and Facility Reservations</a>
 
 ## Family Camping
 > %list-group%
-> <a href="https://campreservation.com/066/Camps/636" class="list-group-item">Summer 2023 Family Camping Reservations (Select Tee Pee Campsite)</a>
+> <a href="https://campreservation.com/066/Camps/636" class="list-group-item">Summer 2024 Family Camping Reservations (Select Tee Pee Campsite)</a>
 
 ### Camperships
 

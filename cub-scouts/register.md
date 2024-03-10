@@ -7,30 +7,24 @@ keywords: register, sign up, camp
 ---
 
 <div class="alert alert-info">
-This page will be updated for Summer 2024 in the coming months as program details are finalized. For now, see <a href="{{ site.url }}/2024/">this preliminary overview and schedule</a> of summer 2024 programs at Camp Workcoeman.
-</div>
-
-<div class="alert alert-info">
-Having trouble registering? Scroll to the bottom of the <a href="https://ctscouting.org/calendar/">calendar page</a> on the Council website for step-by-step videos.
+Having trouble registering? A <a href="https://www.youtube.com/watch?v=0AEZJ_C0ysI&list=PLGp-1PFhlCejn4IKn1MTfYR28Hd2u1vKb&index=1">step-by-step video</a> on registering is available.
 </div>
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2022/2022-cub-scout-summer-flier.pdf" class="list-group-item">2023 Cub Camp Flier (Coming Soon)</a>
-> <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">2023 Cub Camp Fee Information</a>
+> <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">2024 Cub Camp Fee Information</a>
 
 Below, you will find links to the council website to register for each camp program.
 
 ## Cub Scout Programs
 
 > %list-group%
-> <a href="https://scoutingevent.com/066-68043" class="list-group-item">Baloo's Family Camp Weekend 1 --- July 14--16, 2023</a>
-> <a href="https://scoutingevent.com/066-63697-161353" class="list-group-item">Cub Scout Day Camp Week 1 --- July 17--21, 2023</a>
-> <a href="https://scoutingevent.com/066-68043" class="list-group-item">Baloo's Family Camp Weekend 2 --- August 4--6, 2023</a>
-> <a href="https://scoutingevent.com/066-63697-161354" class="list-group-item">Cub Scout Day Camp Week 2--- August 7--11, 2023</a>
+> <a href="https://scoutingevent.com/066-80910-195797" class="list-group-item">Cub Scout Day Camp Week 1 --- July 15--19, 2024</a>
+> <a href="https://scoutingevent.com/066-81628" class="list-group-item">Baloo's Cub and Family Camp --- August 2--4, 2024</a>
+> <a href="https://scoutingevent.com/066-80910-195798" class="list-group-item">Cub Scout Day Camp Week 2--- August 5--9, 2024</a>
 
 ## Unit Camping
 > %list-group%
-> <a href="https://campreservation.com/066/Camps/636" class="list-group-item">Summer 2023 Campsite and Facility Reservations</a>
+> <a href="https://campreservation.com/066/Camps/636" class="list-group-item">Summer 2024 Campsite and Facility Reservations</a>
 
 ## Family Camping
 > %list-group%

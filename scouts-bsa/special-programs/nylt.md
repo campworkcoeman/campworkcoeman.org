@@ -1,15 +1,11 @@
 ---
 published: true
 layout: generic
-title: National Youth Leadership Training (NYLT) &mdash; July 9&ndash;15, 2023
+title: National Youth Leadership Training (NYLT) &mdash; July 7&ndash;13, 2024
 keywords: "Boy Scout, Scouts BSA, summer camp, National Youth Leadership Training, NYLT"
 ---
 
-<div class="alert alert-info">
-This page will be updated for Summer 2024 in the coming months as program details are finalized. For now, see <a href="{{ site.url }}/2024/">this preliminary overview and schedule</a> of summer 2024 programs at Camp Workcoeman.
-</div>
-
-National Youth Leadership Training (NYLT) is the BSA's premier youth leadership development program at the Council level. It's  an exciting 6-day program designed for youth to learn leadership skills that will help them succeed in Scouting and in life. 
+National Youth Leadership Training (NYLT) is the BSA's premier youth leadership development program at the Council level. It's  an exciting 7-day program designed for youth to learn leadership skills that will help them succeed in Scouting and in life. 
 
 ## Wait List Registration
 
@@ -32,13 +28,12 @@ Scouts who have held leadership roles in their unit and are expected to advance 
 
 - Meet age/rank requirements
 - Scouts BSA: Ages 13-17 and First Class or higher rank
-- Venturers & Sea Scouts: Ages 14-20, or 13+ and finished 8th grade
+- Venturers & Sea Scouts: Ages 14-20, or 13+ and finished 8^th grade
 - Complete Introduction to Leadership Skills for Troops, Crews, or Ships\*
 - Be registered in a Scouting unit
 - Have unit leader recommendation
 - Have basic camping and outdoor cooking experience
 - Commit to attending the entire course (no leaving early or during the week)
-- Attend the required precamp meeting at camp on Thursday, June 8, 2023 at 7 PM.
 
 \* Introduction to Leadership Skills for Troops (ILST), Crews (ILSC), and Ships (ILSS) should be offered through a Scout's home unit. Ask your Unit Leader how you can participate in this course.
 
@@ -59,4 +54,4 @@ Follow Connecticut Rivers Council NYLT on [Facebook](https://www.facebook.com/ny
 [Financial assistance]({{ site.url }}/scouts-bsa/fees/camperships/) is available.
 
 > %list-group%
-> <a href="https://scoutingevent.com/066-67048" class="list-group-item">Register for National Youth Leadership Training (NYLT)</a>
+> <a href="https://scoutingevent.com/066-80412" class="list-group-item">Register for 2024 National Youth Leadership Training (NYLT)</a>

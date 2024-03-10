@@ -40,18 +40,3 @@ Saturday, June 1, 2024
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2023/2023-beaver-day-flier.pdf" class="list-group-item">2024 Beaver Day Flier (Coming Soon)</a>
-
-## Beaver Day
-
-Saturday, June 1, 2024
-
-> %list-group%
-> <a href="{{ site.url }}/pdf/2023/2023-beaver-day-flier.pdf" class="list-group-item">2024 Beaver Day Flier (Coming Soon)</a>
-
-## Retiree Corp
-
-Members of the camp community who are currently retired gather at camp on the
-second and fourth Tuesday of every month to work on small projects. For more
-information contact Ranger Frank at [rangerfrank@campworkcoeman.org](mailto:rangerfrank@campworkcoeman.org).
-
-Your help is greatly appreciated!

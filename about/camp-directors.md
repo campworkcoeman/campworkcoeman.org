@@ -43,4 +43,4 @@ Years           | Name                 | Ranger                      | Caretaker
 1987 -- 1992    | Wesley Marsh         |                             | <i class="fa fa-check"></i>
 1992 -- 1994    | Bert Livley          |                             | <i class="fa fa-check"></i>
 1994 -- 2003    | Al Linnell           | <i class="fa fa-check"></i> |
-2004 -- present | Frank Galliher       | <i class="fa fa-check"></i> |
+2004 -- 2024    | Frank Galliher       | <i class="fa fa-check"></i> |

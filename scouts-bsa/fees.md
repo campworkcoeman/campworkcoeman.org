@@ -1,35 +1,32 @@
 ---
 published: true
 layout: generic
-title: 2023 Camp Workcoeman Scouts BSA Fees
+title: 2024 Camp Workcoeman Scouts BSA Fees
 description: This page lists the fees to attend summer Scouts BSA programs at Camp Workcoeman.
 keywords: fees
 ---
 
-<div class="alert alert-info">
-This page will be updated for Summer 2024 in the coming months as program details are finalized. For now, see <a href="{{ site.url }}/2024/">this preliminary overview and schedule</a> of summer 2024 programs at Camp Workcoeman.
-</div>
-
-The fees to attend summer Scouts BSA programs in 2023 are as follows:
+The fees to attend summer Scouts BSA programs in 2024 are as follows:
 
 ### Scout Fees
 
 **Day Programs:**
 
-* Single-day merit badge programs and clinics are $45/Scout
+* Single-day merit badge programs and clinics are $50/Scout
 * Two-day merit badge programs are $75/Scout
 
 **Cooking Merit Badge:**
 
-* $90/Scout
+* $100/Scout
 
-**NYLT & Powder Horn:**
+**NYLT:**
 
-* $350/person
+* $400/Scout
 
 **Scuba Program:**
 
-* $375/person
+* Open Water Certification is $400/person
+* Advanced Certification is $300/person
 
 **Campsite Reservations:**
 
