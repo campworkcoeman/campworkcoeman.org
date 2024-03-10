@@ -25,7 +25,7 @@ The fees to attend summer Scouts BSA programs in 2024 are as follows:
 
 **Scuba Program:**
 
-* Open Water Certification is $400/person
+* Open Water Certification is $450/person
 * Advanced Certification is $300/person
 
 **Campsite Reservations:**
