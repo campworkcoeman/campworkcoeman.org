@@ -6,16 +6,15 @@ description: This page provides information on summertime à la carte program op
 keywords: à la carte, programs, facility reservation, summer
 ---
 
-<div class="alert alert-info">
-This page will be updated for Summer 2024 in the coming months as program details are finalized. For now, see <a href="{{ site.url }}/2024/">this preliminary overview and schedule</a> of summer 2024 programs at Camp Workcoeman.
-</div>
-
 Various camp facilities can be reserved by your troop for programs. You can take advantage of these
 experiences while staying at camp during an overnight camping trip or as a day event. A full list of activities,
 costs, and included items is available below. To reserve a facility, please email Jeff Seiser
 ([jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org)) at least two weeks in advance; payment will be collected at camp. Contact Jeff with any questions you may have and to inquire about the feasibility of any other activities not listed.
 
 ## Programs and Costs
+
+> %list-group%
+> <a href="{{ site.url }}/pdf/2024/2024-a-la-carte-flier.pdf" class="list-group-item">2024 Summer À La Carte Programs Flier</a>
 
 <table class="table table-hover">
 <thead>
@@ -48,7 +47,7 @@ costs, and included items is available below. To reserve a facility, please emai
   </tr>
   <tr>
     <td>Discover Scuba</td>
-    <td>$35/Diver</td>
+    <td>$50/Diver</td>
     <td>Introductory Scuba Program (3 hours), Instructors, Equipment</td>
   </tr>
   <tr>
@@ -89,5 +88,5 @@ costs, and included items is available below. To reserve a facility, please emai
 Upon request, Camp Workcoeman can prepare meals for your unit or family while they are in camp this summer. Meals will be served in the Dining Hall. Breakfast is $6, lunch is $8, and dinner is $10. Meal requests must be made at least two weeks in advance, and payment will be collected at camp.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2023/2023-cw-meal-order-form.pdf" class="list-group-item">2023 Summer Meal Order Form</a>
+> <a href="{{ site.url }}/pdf/2024/2024-cw-meal-order-form.pdf" class="list-group-item">2024 Summer Meal Order Form</a>
 

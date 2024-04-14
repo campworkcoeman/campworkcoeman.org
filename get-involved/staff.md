@@ -30,11 +30,12 @@ status, or the presence of a disability or any category protected by applicable 
 * Salary is based on position responsibility with consideration given to
   individual experience.
 
-All applications must be sumbitted online using the link below. It is
+All applications must be submitted online using the link below. It is
 recommended that you submit your application early. Applicants will be notified
 of the interview schedule by the Camp Director.
 
 > %list-group%
+> <a href="{{ site.url }}/pdf/2024/2024-hiring-flier.pdf" class="list-group-item">2024 Staff Opportunities Flier</a>
 > <a href="https://forms.gle/92GkHmZ1BRden6Fu6" class="list-group-item">2024 Staff Interest Form</a>
 
 If you are interested in working at camp this summer, please contact Camp
@@ -42,7 +43,7 @@ Director Lou Seiser at [lseiser@campworkcoeman.org](mailto:lseiser@campworkcoema
 
 ## Counselor In Training Program
 
-Returning for 2023, the CIT program offers an exciting opportunity for those who would like to
+The CIT program offers an exciting opportunity for those who would like to
 learn about the camp operation from the staff viewpoint. As a CIT, you will
 learn leadership skills, will become knowledgeable of camp operations, and
 will develop teaching skills.
@@ -53,11 +54,11 @@ members. Participants will work in all areas of camp and gain first-hand
 experiences to understand what it really takes to operate the high-quality
 programs of Camp Workcoeman.
 
-The cost for the program in 2023 is $150. Participants must be at least 14 years old.
+The cost for the program in 2024 is $200. Participants must be at least 14 years old.
 All participants will be evaluated at the end of the week and could be offered
 to stay for another week based on their performance.
 
-The program is available starting the second week of the summer season (July 9). The program runs Sunday evening through Friday evening. Participants will sleep on cots in canvas tents. They will spend the day helping the staff run the camp program while evenings will involve various training opportunities such as a Leave No Trace Trainer course.
+The program is available starting the second week of the summer season (July 7). The program runs Sunday evening through Friday evening. Participants will sleep on cots in canvas tents. They will spend the day helping the staff run the camp program while evenings will involve various training opportunities such as a Leave No Trace Trainer course.
 
 Those who successfully complete this program will be seriously considered for
 future camp staff positions. Those that participate in the CIT Program enhance
@@ -66,7 +67,7 @@ guarantee a position. Please understand that participation in the CIT program
 in no way guarantees employment.
 
 > %list-group%
-> <a href="https://docs.google.com/forms/d/e/1FAIpQLScmrmVGqJy15NzmY3JZDUq_aYvi214F5KC1m8N9z48-vW2iMQ/viewform" class="list-group-item">2023 CIT Application</a>
+> <a href="https://forms.gle/mBRAU4KKmSK17rMg6" class="list-group-item">2024 CIT Application</a>
 
 If you are interested in being a CIT, please contact Camp Director Lou Seiser
 at [lseiser@campworkcoeman.org](mailto:lseiser@campworkcoeman.org).

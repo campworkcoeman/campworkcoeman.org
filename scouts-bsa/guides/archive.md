@@ -5,6 +5,10 @@ title: Past Summer Program Guides
 keywords: program guides, guides, archive, summer
 ---
 
+## 2024
+> %list-group%
+> <a href="{{ site.url }}/" class="list-group-item">2024 Program Guide (Coming Soon)</a>
+
 ## 2023
 > %list-group%
 > <a href="{{ site.url }}/pdf/2023/2023-program-guide.pdf" class="list-group-item">2023 Program Guide</a>

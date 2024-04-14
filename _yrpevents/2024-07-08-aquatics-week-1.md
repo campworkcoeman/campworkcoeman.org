@@ -15,4 +15,4 @@ Scout Cost: $75 per Scout for two-day programs; $50 per Scout for one-day progra
 Contact: Jeffrey Seiser, [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org)
 
 > %list-group%
-> <a href="https://scoutingevent.com/066" class="list-group-item">Register for Summer Aquatics & More Merit Badge Program &mdash; Week 1 (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-83081" class="list-group-item">Register for Summer Aquatics & More Merit Badge Program &mdash; Week 1</a>

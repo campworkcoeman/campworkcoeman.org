@@ -160,6 +160,11 @@ Redirect 302 /100for100 https://campworkcoeman.org/get-involved/alumni-associati
 Redirect 302 /100for100/ https://campworkcoeman.org/get-involved/alumni-association/
 Redirect 302 /100FOR100 https://campworkcoeman.org/get-involved/alumni-association/
 Redirect 302 /100FOR100 https://campworkcoeman.org/get-involved/alumni-association/
+Redirect 302 /reunion https://campworkcoeman.org/year-round-programs/events/2024/07/20/centennial-reunion/
+Redirect 302 /reunion/ https://campworkcoeman.org/year-round-programs/events/2024/07/20/centennial-reunion/
+Redirect 302 /REUNION https://campworkcoeman.org/year-round-programs/events/2024/07/20/centennial-reunion/
+Redirect 302 /REUNION/ https://campworkcoeman.org/year-round-programs/events/2024/07/20/centennial-reunion/
+
 
 # Block SEMalt botnet and other referral spam
 SetEnvIfNoCase Referer fbdownloader.com spammer=yes

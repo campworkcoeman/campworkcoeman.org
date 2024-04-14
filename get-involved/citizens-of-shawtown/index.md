@@ -33,6 +33,26 @@ vocations while others have valuable contacts for materials and services.
 The Citizens also fund projects from fund-raisers such as an annual Steak and
 Chicken Dinner! We do not collect dues from the membership.
 
+## Citizens of Shawtown Activities Calendar
+
+Please see the [workdays]({{ site.url }}/get-involved/work-days/) page for dates of planned workdays. In addition to workdays, the following activities are planned which require the assistance of the Citizens:
+
+Saturday, April 27, 2024 --- Cub Scout Covered Wagon Derby
+
+May 17--19, 2024 --- Spring Centennial Camporee
+
+Saturday, June 1, 2024 --- Beaver Day and Steak Dinner
+
+June 7--9, 2024 --- Wilderness First Aid Training
+
+Saturday, July 20, 2024 --- Centennial Alumni Reunion
+
+Saturday, September 28, 2024 --- Webelos Woods
+
+October 11--13, 2024 --- Fall Centennial Camporee
+
+Sunday, November 24, 2024 --- Thanksgiving Luncheon (Tentative)
+
 ## 1^st Annual Shawtown Fellowship Work Weekend
 
 March 8--10, 2024
@@ -48,7 +68,7 @@ New for 2024, the Citizens of Shawtown are planning a weekend event for work and
 The Citizens annually hold a Steak Dinner and Silent Auction in support of camp after the annual Beaver Day work day. All members of the camp and surrounding community are invited whether they attend the work day or not. In 2024, Beaver Day will begin at 8:30 AM on Saturday, June 1, and the Steak Dinner will begin with hors d'oeuvres at 5:30 PM followed by dinner at 6:00 PM.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2024/2024-steak-dinner.pdf" class="list-group-item">2024 Steak Dinner Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2024/2024-steak-dinner.pdf" class="list-group-item">2024 Steak Dinner Flier</a>
 > <a href="https://scoutingevent.com/066-82450" class="list-group-item">2024 Steak Dinner Registration</a>
 
 ## Newsletter

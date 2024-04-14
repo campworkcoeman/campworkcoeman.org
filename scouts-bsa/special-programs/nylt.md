@@ -34,6 +34,7 @@ Scouts who have held leadership roles in their unit and are expected to advance 
 - Have unit leader recommendation
 - Have basic camping and outdoor cooking experience
 - Commit to attending the entire course (no leaving early or during the week)
+- Attend the required precamp meeting at camp on Wednesday, June 5, 2024 at 7 PM
 
 \* Introduction to Leadership Skills for Troops (ILST), Crews (ILSC), and Ships (ILSS) should be offered through a Scout's home unit. Ask your Unit Leader how you can participate in this course.
 
@@ -54,4 +55,5 @@ Follow Connecticut Rivers Council NYLT on [Facebook](https://www.facebook.com/ny
 [Financial assistance]({{ site.url }}/scouts-bsa/fees/camperships/) is available.
 
 > %list-group%
+> <a href="{{ site.url }}/pdf/2024/2024-nylt-flier.pdf" class="list-group-item">2024 NYLT Flier</a>
 > <a href="https://scoutingevent.com/066-80412" class="list-group-item">Register for 2024 National Youth Leadership Training (NYLT)</a>

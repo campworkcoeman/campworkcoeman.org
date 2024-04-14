@@ -5,6 +5,12 @@ title: Scouts BSA Summer Opportunities
 keywords: "Boy Scout, Scouts BSA, summer camp"
 ---
 
+<div class="alert alert-info">
+Registration for 2024 summer programs is now open.
+<a href="{{ site.url }}/scouts-bsa/register/">
+Sign up today!</a>
+</div>
+
 Building on the success of the past few seasons, Camp Workcoeman will continue to offer a variety of short-term opportunities for Scouts BSA participants throughout the summer of 2024, including one- and two-day merit badges, a la carte activities/rentals, and scuba certification. A week-long National Youth Leadership Training (NYLT) course will be offered. In addition, overnight unit and family camping is available all summer. These programs are not designed to replicate a traditional troop summer camp experience; rather, they are intended to supplement one through a variety of flexible programs.
 
 > %text-center%
@@ -72,7 +78,8 @@ Building on the success of the past few seasons, Camp Workcoeman will continue t
 >>> August 2--4, 2024<br/>
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2023/2023-program-guide.pdf" class="list-group-item">2024 Summer Program Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2024/2024-scouts-bsa-summer-flier.pdf" class="list-group-item">2024 Scouts BSA Summer Programs Flier</a>
+> <a href="{{ site.url }}/" class="list-group-item">2024 Summer Program Guide (Coming Soon)</a>
 > <a href="{{ site.url }}/summer-camp/a-la-carte-programs/" class="list-group-item">2024 Summer À La Carte Programs</a>
 
 ## Merit Badge and Program Offerings

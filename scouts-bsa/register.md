@@ -22,16 +22,16 @@ Registration links for year-round programs can be found in the individual [event
 ## Scouts BSA Summer Programs
 
 > %list-group%
-> <a href="https://scoutingevent.com/066" class="list-group-item">Outdoor Skills & More (Week 1) --- July 1--5, 2024 (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-83081" class="list-group-item">Outdoor Skills & More (Week 1) --- July 1--5, 2024</a>
 > <a href="https://scoutingevent.com/066-82179-197791" class="list-group-item">Cooking Merit Badge (Session 1) --- July 1--3, 2024</a>
 > <a href="https://scoutingevent.com/066-82178-197788" class="list-group-item">Fly Fishing Merit Badge (Session 1) --- July 2, 2024</a>
 > <a href="https://scoutingevent.com/066-80412" class="list-group-item">National Youth Leadership Training (NYLT) --- July 7--13, 2024</a>
-> <a href="https://scoutingevent.com/066" class="list-group-item">Aquatics & More (Week 1) --- July 8--12, 2024 (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-83081" class="list-group-item">Aquatics & More (Week 1) --- July 8--12, 2024</a>
 > <a href="https://scoutingevent.com/066-81016" class="list-group-item">SDI Open Water Scuba Certification and Merit Badge Program (Week 1) --- July 8--11, 2024</a>
-> <a href="https://scoutingevent.com/066" class="list-group-item">Outdoor Skills & More (Week 2) --- July 22--26, 2024 (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-83081" class="list-group-item">Outdoor Skills & More (Week 2) --- July 22--26, 2024</a>
 > <a href="https://scoutingevent.com/066-82179-197792" class="list-group-item">Cooking Merit Badge (Session 2) --- July 22--24, 2024</a>
 > <a href="https://scoutingevent.com/066-82178-197789" class="list-group-item">Fly Fishing Merit Badge (Session 2) --- July 23, 2024</a>
-> <a href="https://scoutingevent.com/066" class="list-group-item">Aquatics & More (Week 2) --- July 29--August 2, 2024 (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-83081" class="list-group-item">Aquatics & More (Week 2) --- July 29--August 2, 2024</a>
 > <a href="https://scoutingevent.com/066-81016" class="list-group-item">SDI Open Water Scuba Certification and Merit Badge Program (Week 2) --- July 29--August 1, 2024</a>
 > <a href="https://scoutingevent.com/066-82179-197793" class="list-group-item">Cooking Merit Badge (Session 3) --- July 29--31, 2024</a>
 > <a href="https://scoutingevent.com/066-82178-197790" class="list-group-item">Fly Fishing Merit Badge (Session 3) --- July 30, 2024</a>
