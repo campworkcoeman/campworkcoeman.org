@@ -79,7 +79,7 @@ Building on the success of the past few seasons, Camp Workcoeman will continue t
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2024/2024-scouts-bsa-summer-flier.pdf" class="list-group-item">2024 Scouts BSA Summer Programs Flier</a>
-> <a href="{{ site.url }}/" class="list-group-item">2024 Summer Program Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2024/2024-program-guide.pdf" class="list-group-item">2024 Summer Program Guide</a>
 > <a href="{{ site.url }}/summer-camp/a-la-carte-programs/" class="list-group-item">2024 Summer À La Carte Programs</a>
 
 ## Merit Badge and Program Offerings
