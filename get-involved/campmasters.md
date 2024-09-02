@@ -33,9 +33,6 @@ Venturing are eligible for consideration as Campmasters.
 
 ## Help us restart our Campmaster Corps
 
-Help us to provide quality customer service to units visiting camp on weekends by helping us to restart our campmaster corps. Should you be interested in helping with this important task, please complete the Google Form available via the link below. Please know that this responsibility would only be 1--2 weekends per year and come with training being held soon.
+Help us to provide quality customer service to units visiting camp on weekends by helping us to restart our campmaster corps. Should you be interested in helping with this important task, please contact Jeff Seiser, [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org). Please know that this responsibility would only be 1--2 weekends per year and come with training being held soon.
 
 Please contact Jeff Seiser, [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org) with questions.
-
-> %list-group%
-> <a href="https://forms.gle/fkg8Ck23s1zS2y1y7" class="list-group-item">Spring 2024 Campmaster Interest Form</a>
