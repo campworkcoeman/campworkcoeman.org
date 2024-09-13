@@ -53,7 +53,7 @@ October 11--13, 2024 --- Fall Centennial Camporee
 
 Sunday, November 24, 2024 --- Thanksgiving Luncheon (Tentative)
 
-## 1^st Annual Shawtown Fellowship Work Weekend
+## Fall Shawtown Fellowship Work Weekend
 
 October 25--27, 2024
 
