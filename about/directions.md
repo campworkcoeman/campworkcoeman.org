@@ -11,7 +11,7 @@ Workcoeman Road.
 
 #### From the south (Middletown, Waterbury, etc.)
 
-Take Route 8 North to Pinewoods Road, Exit 46. Go right at the end of the exit
+Take Route 8 North to Pinewoods Road, Exit 55. Go right at the end of the exit
 ramp to the T-intersection with Route 183,
 where you will see a sign for camp. Turn left on Route 183 and take the next
 right onto West Hill Road. Proceed about one mile and take a left across from
