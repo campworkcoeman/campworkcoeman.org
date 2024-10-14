@@ -5,7 +5,7 @@ title: Trail to Eagle Merit Badge Day
 tag: scouts-bsa
 ---
 
-*Note: This event was rescheduled from November 16 to December 7."
+*Note: This event was rescheduled from November 16 to December 7.*
 
 Scouts can work on a merit badge required to become an Eagle Scout. Depending on the specific merit badge, Scouts may have the chance to complete it during this session or by communicating with the counselor afterward.
 
