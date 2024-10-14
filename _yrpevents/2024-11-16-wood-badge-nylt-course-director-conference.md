@@ -11,13 +11,13 @@ Course Director Conferences for Wood Badge and National Youth Leadership Trainin
 
 Connecticut Rivers Council is also making overnight accommodations available to all participants. Staying overnight is available for Friday night, Saturday night, or both. It costs $15 per night, with breakfast on Saturday included with a Friday night reservation and Saturday dinner included with a Saturday night reservation. Overnight accommodations will be in heated cabins, with male and female participants staying separately. Arrival on Friday starts at 6:00 PM.
 
-Contact Council Training Chair [Bill Shea](mailto:william.shea@sbcglobal.net) with questions pertaining to the training portion of the event and Camp Workcoeman Staff Member [Jeff Seiser](jseiser@campworkcoeman.org) with questions pertaining to overnight accommodations, food, or facilities.
+Contact Council Training Chair [Bill Shea](mailto:william.shea@sbcglobal.net) with questions pertaining to the training portion of the event and Camp Workcoeman Staff Member [Jeff Seiser](mailto:jseiser@campworkcoeman.org) with questions pertaining to overnight accommodations, food, or facilities.
 
 Time: November 16
 
 Cost:<br>
 $45 (Course, via scouting.org registration)<br>
-$15/night (Overnight accommodations (optional), via scoutingevent.com registration)
+$15/night (Overnight accommodations [optional], via scoutingevent.com registration)
 
 Contact:<br>
 Bill Shea, [william.shea@sbcglobal.net](mailto:william.shea@sbcglobal.net)<br>
