@@ -5,6 +5,8 @@ title: Trail to Eagle Merit Badge Day
 tag: scouts-bsa
 ---
 
+*Note: This event was rescheduled from November 16 to December 7."
+
 Scouts can work on a merit badge required to become an Eagle Scout. Depending on the specific merit badge, Scouts may have the chance to complete it during this session or by communicating with the counselor afterward.
 
 This program includes the merit badge session, lunch, and a presentation on the requirements to become an Eagle Scout, with particular emphasis on the Eagle Project. This program is restricted to Scouts ranked Second Class and above.
@@ -17,7 +19,7 @@ Merit Badges Offered (Max of 20 for each class):
 - Emergency Preparedness
 - First Aid
 
-Time: November 16 8:30 AM -- 4:30 PM
+Time: December 7 8:30 AM -- 4:30 PM
 
 Scout Cost: $50
 
