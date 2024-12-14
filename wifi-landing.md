@@ -16,7 +16,7 @@ Camp Workcoeman should be a year-round destination for your troop or pack. Camps
 
 ## Year-Round Programs
 
-Camp Workcoeman offers organized Scouting programs and events throughout the year. These programs take place on weekends throughout the fall, winter, and spring as well as weekdays during the summer.
+Camp Workcoeman offers organized Scouting programs and events throughout the year. These programs take place on weekends throughout the fall, winter, and spring as well as throughout the week during summer.
 
 > %list-group%
 > <a href="{{ site.url }}/scouts-bsa/year-round-programs/" class="list-group-item">Upcoming Scouts BSA Programs</a>

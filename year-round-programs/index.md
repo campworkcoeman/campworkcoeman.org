@@ -1,11 +1,11 @@
 ---
 published: true
 layout: generic
-title: Fall 2024 @ Workcoeman
-keywords: "Boy Scout, Scouts BSA, Cub Scouts, summer camp, day camp, overview, Scouting, Fall 2024, Overnight Camping, Merit Badges"
+title: Winter/Spring 2025 @ Workcoeman
+keywords: "Boy Scout, Scouts BSA, Cub Scouts, summer camp, day camp, overview, Scouting, Winter/Spring 2025, Overnight Camping, Merit Badges"
 ---
 
-Camp Workcoeman will be offering a variety of day and overnight weekend opportunities for both Scouts BSA and Cub Scout participants throughout the fall.
+Camp Workcoeman will be offering a variety of day and overnight weekend opportunities for both Scouts BSA and Cub Scout participants throughout the winter and spring.
 
 > %text-center%
 >> %row%
@@ -14,9 +14,11 @@ Camp Workcoeman will be offering a variety of day and overnight weekend opportun
 >>>> <li class="list-group-item active h3">Scouts BSA Opportunities</li>
 >>>> <li class="list-group-item">
         <ul class="text-left">
-            <li>Merit Badge Completion Day</li>
-            <li>Fall Centennial Camporee</li>
-            <li>Trail to Eagle Merit Badge Day</li>
+            <li>STEM Merit Badge Day</li>
+            <li>Winter Adventure Merit Badge Day</li>
+            <li>Crafts and Trades Merit Badge Day</li>
+            <li>Tenderfoot's Compass Five Mile Hike</li>
+            <li>Sportsman Merit Badge Day</li>
         </ul>
      </li>
 >>>> <a href="{{ site.url }}/scouts-bsa/year-round-programs/" class="list-group-item">More Information & Registration</a>
@@ -26,8 +28,8 @@ Camp Workcoeman will be offering a variety of day and overnight weekend opportun
 >>>> <li class="list-group-item active h3">Cub Scout Opportunities</li>
 >>>> <li class="list-group-item">
         <ul class="text-left">
-            <li>Webelos Woods</li>
-            <li>Cub Scout Autumn Adventure</li>
+            <li>Cub Scout Blizzard</li>
+            <li>Covered Wagon Derby</li>
         </ul>
      </li>
 >>>> <a href="{{ site.url }}/cub-scouts/year-round-programs/" class="list-group-item">More Information & Registration</a>
@@ -37,12 +39,8 @@ Camp Workcoeman will be offering a variety of day and overnight weekend opportun
 >>>> <li class="list-group-item active h3">Adult Scouter Trainings</li>
 >>>> <li class="list-group-item">
         <ul class="text-left">
+            <li>Scoutmaster Specific Training</li>
             <li>Introduction to Outdoor Leader Skills (IOLS)</li>
-            <li>Wood Badge</li>
-            <li>BALOO Training</li>
-            <li>Leave No Trace Level 1 Training</li>
-            <li>COPE & Climbing Disabilities Training</li>
-            <li>Various Shooting Sports Trainings</li>
         </ul>
      </li>
 >>>> <a href="{{ site.url }}/training/" class="list-group-item">More Information & Registration</a>

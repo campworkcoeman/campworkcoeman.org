@@ -5,6 +5,10 @@ title: National Youth Leadership Training (NYLT) &mdash; July 7&ndash;13, 2024
 keywords: "Boy Scout, Scouts BSA, summer camp, National Youth Leadership Training, NYLT"
 ---
 
+<div class="alert alert-info">
+Information on Summer 2025 programs is coming soon.
+</div>
+
 National Youth Leadership Training (NYLT) is the BSA's premier youth leadership development program at the Council level. It's  an exciting 7-day program designed for youth to learn leadership skills that will help them succeed in Scouting and in life. 
 
 ## Wait List Registration

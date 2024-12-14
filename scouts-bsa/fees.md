@@ -6,6 +6,10 @@ description: This page lists the fees to attend summer Scouts BSA programs at Ca
 keywords: fees
 ---
 
+<div class="alert alert-info">
+Information on Summer 2025 programs is coming soon.
+</div>
+
 The fees to attend summer Scouts BSA programs in 2024 are as follows:
 
 ### Scout Fees

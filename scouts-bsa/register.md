@@ -7,6 +7,10 @@ keywords: "Boy Scout, Scouts BSA, camp, 2024, registration, reservation"
 ---
 
 <div class="alert alert-info">
+Information on Summer 2025 programs is coming soon.
+</div>
+
+<div class="alert alert-info">
 Having trouble registering? A <a href="https://www.youtube.com/watch?v=0AEZJ_C0ysI&list=PLGp-1PFhlCejn4IKn1MTfYR28Hd2u1vKb&index=1">step-by-step video</a> on registering is available.
 </div>
 

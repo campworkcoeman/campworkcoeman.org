@@ -14,10 +14,10 @@ keywords: staff, Lou Seiser
 > <div class="col-sm-8 col-lg-8">
 >  <h3 style="margin-top:0">Lou Seiser</h3>
 >  <h4>Camp Director</h4>
->  This year marks his {% lou_years %}^th year as Camp Director. Lou has high standards for
+>  This year marks his {% lou_years %}<sup>th</sup> year as Camp Director. Lou has high standards for
 >  his staff and for the quality of the program and camp operation.
 >
->  <i class="fa fa-envelope-o"></i> [lseiser@campworkcoeman.org](mailto:lseiser@campworkcoeman.org)
+>  <p style="margin-top:2mm;"><i class="fa fa-envelope-o"></i> <a href="mailto:lseiser@campworkcoeman.org">lseiser@campworkcoeman.org</a></p>
 > </div>
 
 &nbsp;
@@ -34,7 +34,7 @@ keywords: staff, Lou Seiser
 >  ensure his success as Program Director. He is an Eagle Scout and has earned
 >  the Venture Ranger Award.
 >
->  <i class="fa fa-envelope-o"></i> [tleisten@campworkcoeman.org](mailto:tleisten@campworkcoeman.org)
+>  <p style="margin-top:2mm;"><i class="fa fa-envelope-o"></i> <a href="mailto:tleisten@campworkcoeman.org">tleisten@campworkcoeman.org</a></p>
 > </div>
 
 &nbsp;
@@ -50,7 +50,7 @@ keywords: staff, Lou Seiser
 >  Jeff brings experienced leadership to the Cub Scout Programs at Camp
 >  Workcoeman. Cubs can look forward to new and exciting program opportunities.
 >
->  <i class="fa fa-envelope-o"></i> [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org)
+>  <p style="margin-top:2mm;"><i class="fa fa-envelope-o"></i> <a href="mailto:jseiser@campworkcoeman.org">jseiser@campworkcoeman.org</a></p>
 > </div>
 
 &nbsp;

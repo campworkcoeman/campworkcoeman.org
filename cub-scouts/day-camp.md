@@ -7,7 +7,7 @@ keywords: Cub Scout, day camp
 ---
 
 <div class="alert alert-info">
-Registration for Summer 2024 Cub Scout events is now open. <a href="{{ site.url }}/cub-scouts/register/">Sign up today!</a>
+Information on Summer 2025 programs is coming soon.
 </div>
 
 ### July 15--19 and August 5--9, 2024

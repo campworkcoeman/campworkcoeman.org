@@ -7,9 +7,7 @@ keywords: scuba, diving, sea base, certification, florida
 ---
 
 <div class="alert alert-info">
-Registration for 2024 summer programs is now open.
-<a href="{{ site.url }}/scouts-bsa/register/">
-Sign up today!</a>
+Information on Summer 2025 programs is coming soon.
 </div>
 
 ## Going to the BSA's Florida Sea Base? Get your SCUBA certification at Workcoeman!

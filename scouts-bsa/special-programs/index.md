@@ -6,9 +6,7 @@ keywords: special programs, programs
 ---
 
 <div class="alert alert-info">
-Registration for 2024 summer programs is now open.
-<a href="{{ site.url }}/scouts-bsa/register/">
-Sign up today!</a>
+Information on Summer 2025 programs is coming soon.
 </div>
 
 ## Scuba
