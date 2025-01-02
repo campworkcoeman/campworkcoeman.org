@@ -35,48 +35,32 @@ Chicken Dinner! We do not collect dues from the membership.
 
 ## Citizens of Shawtown Activities Calendar
 
-Please see the [workdays]({{ site.url }}/get-involved/work-days/) page for dates of planned workdays. In addition to workdays, the following activities are planned which require the assistance of the Citizens:
+Please see the [workdays]({{ site.url }}/get-involved/work-days/) page for dates of planned workdays.
 
-Saturday, April 27, 2024 --- Cub Scout Covered Wagon Derby
+## Shawtown Fellowship Work Weekends
 
-May 17--19, 2024 --- Spring Centennial Camporee
+March 7--9, 2025 and October 31--November 2, 2025
 
-Saturday, June 1, 2024 --- Beaver Day and Steak Dinner
-
-June 7--9, 2024 --- Wilderness First Aid Training
-
-Saturday, July 20, 2024 --- Centennial Alumni Reunion
-
-Saturday, September 28, 2024 --- Webelos Woods
-
-October 11--13, 2024 --- Fall Centennial Camporee
-
-Sunday, November 24, 2024 --- Thanksgiving Luncheon (Tentative)
-
-## Fall Shawtown Fellowship Work Weekend
-
-October 25--27, 2024
-
-After the success of the spring weekend, the Citizens of Shawtown are planning a fall weekend event for work and fellowship to wrap up camp's centennial season. The event runs from Friday evening through lunch on Sunday, but volunteers are welcome for whatever portion of the weekend they're able to attend. See below for the event flier with additional information and the RSVP link (please respond by October 22, 2024).
+Building on last year's success, the Citizens of Shawtown are once again planning spring and fall weekend events for work and fellowship. The events, held in addition to the regular Saturday workdays, run from Friday evening through lunch on Sunday, but volunteers are welcome for whatever portion of the weekend they're able to attend.
 
 > %list-group%
-> <a href="https://forms.gle/r5zYCHscHi6EJ6Cf6" class="list-group-item">2024 Fall Shawtown Fellowship Work Weekend RSVP Form</a>
-> <a href="{{ site.url }}/pdf/2024/2024-shawtown-fall-work-weekend.pdf" class="list-group-item">2024 Fall Shawtown Fellowship Work Weekend Flier</a>
+> <a href="{{ site.url }}/#" class="list-group-item">2025 Spring Shawtown Fellowship Work Weekend RSVP Form (Coming Soon)</a>
+> <a href="{{ site.url }}/#" class="list-group-item">2025 Spring Shawtown Fellowship Work Weekend Flier (Coming Soon)</a>
 
 ## Steak Dinner
 
-The Citizens annually hold a Steak Dinner and Silent Auction in support of camp after the annual Beaver Day work day. All members of the camp and surrounding community are invited whether they attend the work day or not. In 2024, Beaver Day will begin at 8:30 AM on Saturday, June 1, and the Steak Dinner will begin with hors d'oeuvres at 5:30 PM followed by dinner at 6:00 PM.
+The Citizens annually hold a Steak Dinner and Silent Auction in support of camp after the annual Beaver Day work day. All members of the camp and surrounding community are invited whether they attend the work day or not. In 2025, Beaver Day will begin at 8:30 AM on Saturday, May 31, and the Steak Dinner will begin with hors d'oeuvres at 5:30 PM followed by dinner at 6:00 PM.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2024/2024-steak-dinner.pdf" class="list-group-item">2024 Steak Dinner Flier</a>
-> <a href="https://scoutingevent.com/066-82450" class="list-group-item">2024 Steak Dinner Registration</a>
+> <a href="{{ site.url }}/#" class="list-group-item">2025 Steak Dinner Flier (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066" class="list-group-item">2025 Steak Dinner Registration (Coming Soon)</a>
 
 ## Newsletter
 
 The Citizens of Shawtown periodically publishes a newsletter updating its members about the organization's activities and about happenings at camp. The newsletter is sent to members and posted on the camp website.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2024/shawtown-spring-2024.pdf" class="list-group-item">Spring 2024 Newsletter</a>
+> <a href="{{ site.url }}/pdf/2024/shawtown-fall-2024.pdf" class="list-group-item">Fall 2024 Newsletter</a>
 > <a href="{{ site.url }}/get-involved/citizens-of-shawtown/archive/" class="list-group-item">Newsletter Archive</a>
 
 ## How do I join?
