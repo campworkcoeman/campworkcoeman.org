@@ -5,6 +5,8 @@ title: Cub Scout Blizzard
 tag: cub-scouts
 ---
 
+Note: Reschedule from Feburary 22 due to icy conditions.
+
 Come out for this outdoor winter carnival! An event filled with winter activities that promote fun for the entire family. Scouts and family members will rotate through a series of age appropriate activities.
  
 Check-in starts at 9:00 AM, with closing at 4:00 PM. All participants must come dressed appropriately for the weather. Lunch will be provided.

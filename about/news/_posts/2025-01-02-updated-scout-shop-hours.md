@@ -1,9 +1,9 @@
 ---
 published: true
 layout: news-item
-title: Updated Winter Trading Post Scout Shop Hours
+title: Cub Blizzard Postposted
 ---
 
-The Camp Workcoeman Trading Post has updated Scout Shop winter hours. For January and February, we'll be open Saturdays 9:00 AM -- 4:00 PM.
+The [Cub Blizzard]({{ site.url }}/year-round-programs/events/2025/03/01/cub-blizzard/) has been posted one week from February 22 to March 1, 2025 due to icy conditions.
 
-The trading post is a satellite Scout Shop, offering uniform parts and patches, as well as advancement items! While we don't stock everything, we can order it for you, and purchases can be charged directly to unit accounts. Unit leaders looking to obtain advancement items such as merit badges, rank patches, Eagle memorabilia, or Cub Scout belt loops/pins are encouraged to pre-order items with us so that we can ensure we have everything you need!  Pre-orders, or inquiries of any kind, can be submitted directly to [scoutshop@campworkcoeman.org](mailto:scoutshop@campworkcoeman.org).
+The Scouts BSA [Winter Adventure Merit Badge Day]({{ site.url }}/year-round-programs/events/2025/02/22/winter-adventure-merit-badge-day/) will still take place as scheduled, and the Trading Post will still be open normal Satueday hours (9 AM -- 4 PM).
