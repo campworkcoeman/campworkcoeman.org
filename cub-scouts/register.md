@@ -31,10 +31,6 @@ Below, you will find links to the council website to register for each camp prog
 > %list-group%
 > <a href="https://campreservation.com/066/Camps/636" class="list-group-item">Summer 2025 Campsite and Facility Reservations</a>
 
-## Family Camping
-> %list-group%
-> <a href="https://campreservation.com/066/Camps/636" class="list-group-item">Family Camping Reservations (Select Tee Pee Campsite)</a>
-
 ### Camperships
 
 Camperships are available for families that need financial assistance.
