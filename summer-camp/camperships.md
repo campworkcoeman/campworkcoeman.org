@@ -12,14 +12,14 @@ The Camp Workcoeman Alumni Association is a separate 501\(c)(3) organization ded
 
 ## CT Rivers Council Camperships (Summer Only)
 
-The Connecticut Rivers Council believes all Scouts should have the opportunity to attend summer camp, no matter their financial situation. Therefore, the Connecticut Rivers Council is pleased to offer camperships to Scouts who are members of the Connecticut Rivers Council who attend a Connecticut Rivers Council Camp.  Camperships are subject to available funding. Camperships are the equivalent of a school scholarship but for summer camp. They are awarded based upon financial need as determined by the most recent 1040 tax form.  Extenuating circumstances may be considered.   
+The Connecticut Rivers Council believes all Scouts should have the opportunity to attend summer camp, no matter their financial situation. Therefore, the Connecticut Rivers Council is pleased to offer camperships to Scouts who are members of the Connecticut Rivers Council who attend a Connecticut Rivers Council Camp. Camperships are subject to available funding and also be available for out-of-Council Scouts. Camperships are the equivalent of a school scholarship but for summer camp. They are awarded based upon financial need.
 
-**Except** on rare occasions, Camperships are **NOT** granted for amounts greater than 50% of the camp fee.  Camperships are awarded for ONE (1) camp session per Scout.  Camperships are not transferrable between Scouts.  Please file a separate application for EACH individual in a household requesting a Campership (however only one tax form is required to be provided to the council per family).  
+**Except** on rare occasions, Camperships are **NOT** granted for amounts greater than 50% of the camp fee.  Camperships are awarded for ONE (1) camp session per Scout.  Camperships are not transferrable between Scouts.  Please file a separate application for EACH individual in a household requesting a Campership.
 
-The deadline for the submissions is April 1^st.  Any Campership applications received after April 1^st (or incomplete campership applications not completed before April 1^st) will be put into a pool for consideration of any remaining funds.
+The deadline for the submissions is April 15^th.  Any Campership applications received after April 15^th may be put into a pool for consideration of any remaining funds.
 
 > %list-group%
-> <a href="https://247scouting.com/forms/?OrgKey=BSA066&id=3714" class="list-group-item">Apply for a 2024 CT Rivers Council Campership</a>
+> <a href="https://247scouting.com/forms/?OrgKey=BSA066&id=4592" class="list-group-item">Apply for a 2025 CT Rivers Council Campership</a>
 
 
 ### More information

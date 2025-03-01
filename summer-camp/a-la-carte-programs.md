@@ -7,7 +7,7 @@ keywords: à la carte, programs, facility reservation, summer
 ---
 
 <div class="alert alert-info">
-Information on Summer 2025 programs is coming soon.
+Registration is now open for summer 2025 Cub Scout programs! Information on Scouts BSA programs is coming soon.
 </div>
 
 Various camp facilities can be reserved by your troop for programs. You can take advantage of these
@@ -18,7 +18,7 @@ costs, and included items is available below. To reserve a facility, please emai
 ## Programs and Costs
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2024/2024-a-la-carte-flier.pdf" class="list-group-item">2024 Summer À La Carte Programs Flier</a>
+> <a href="{{ site.url }}/#" class="list-group-item">2025 Summer À La Carte Programs Flier (Coming Soon)</a>
 
 <table class="table table-hover">
 <thead>
@@ -92,5 +92,5 @@ costs, and included items is available below. To reserve a facility, please emai
 Upon request, Camp Workcoeman can prepare meals for your unit or family while they are in camp this summer. Meals will be served in the Dining Hall. Breakfast is $6, lunch is $8, and dinner is $10. Meal requests must be made at least two weeks in advance, and payment will be collected at camp.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2024/2024-cw-meal-order-form.pdf" class="list-group-item">2024 Summer Meal Order Form</a>
+> <a href="{{ site.url }}/#" class="list-group-item">2025 Summer Meal Order Form (Coming Soon)</a>
 

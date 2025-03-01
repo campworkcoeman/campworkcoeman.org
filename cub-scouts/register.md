@@ -7,7 +7,7 @@ keywords: register, sign up, camp
 ---
 
 <div class="alert alert-info">
-Information on Summer 2025 programs is coming soon.
+<a href="{{ site.url }}/cub-scouts/register/">Registration</a> for Summer 2025 Cub Scout programs is now open!
 </div>
 
 <div class="alert alert-info">
@@ -15,20 +15,21 @@ Having trouble registering? A <a href="https://www.youtube.com/watch?v=0AEZJ_C0y
 </div>
 
 > %list-group%
-> <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">2024 Cub Camp Fee Information</a>
+> <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">2025 Cub Camp Fee Information</a>
 
 Below, you will find links to the council website to register for each camp program.
 
 ## Cub Scout Programs
 
 > %list-group%
-> <a href="https://scoutingevent.com/066-80910-195797" class="list-group-item">Cub Scout Day Camp Week 1 --- July 15--19, 2024</a>
-> <a href="https://scoutingevent.com/066-81628" class="list-group-item">Baloo's Cub and Family Camp --- August 2--4, 2024</a>
-> <a href="https://scoutingevent.com/066-80910-195798" class="list-group-item">Cub Scout Day Camp Week 2--- August 5--9, 2024</a>
+> <a href="https://scoutingevent.com/066-93787-220607" class="list-group-item">Cub Scout Day Camp Week 1 --- July 14--18, 2025</a>
+> <a href="https://scoutingevent.com/066-95231-223463" class="list-group-item">Cub Scout Summer Adventure Weekend 1 --- July 18--20, 2025</a>
+> <a href="https://scoutingevent.com/066-95231-223464" class="list-group-item">Cub Scout Summer Adventure Weekend 2 --- August 1--3, 2025</a>
+> <a href="https://scoutingevent.com/066-93787-220608" class="list-group-item">Cub Scout Day Camp Week 2--- August 4--8, 2025</a>
 
 ## Unit Camping
 > %list-group%
-> <a href="https://campreservation.com/066/Camps/636" class="list-group-item">Summer 2024 Campsite and Facility Reservations</a>
+> <a href="https://campreservation.com/066/Camps/636" class="list-group-item">Summer 2025 Campsite and Facility Reservations</a>
 
 ## Family Camping
 > %list-group%

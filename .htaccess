@@ -125,6 +125,10 @@ Redirect 301 /cub-scouts/cub-resident-camp/ /cub-scouts/mini-week/
 Redirect 301 /camperships/ /summer-camp/camperships/
 Redirect 301 /camperships /summer-camp/camperships/
 
+# Summer 2025 Cub Scout Summer Camp
+Redirect 301 /cub-scouts/day-camp/ /cub-scouts/summer-camp/
+Redirect 301 /cub-scouts/day-camp /cub-scouts/summer-camp/
+
 # Misc Temp Short Links
 Redirect 302 /fall https://campworkcoeman.org/year-round-programs/
 Redirect 302 /fall/ https://campworkcoeman.org/year-round-programs/

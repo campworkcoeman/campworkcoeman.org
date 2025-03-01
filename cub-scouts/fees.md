@@ -1,36 +1,32 @@
 ---
 published: true
 layout: generic
-title: 2024 CT Rivers Council Cub Camp Fees
-description: This page list the fees to attend Cub Scout Summer Camp programs in 2024 at Connecticut Rivers Council Scout Camps.
+title: 2025 CT Rivers Council Cub Camp Fees
+description: This page list the fees to attend Cub Scout Summer Camp programs in 2025 at Connecticut Rivers Council Scout Camps.
 keywords: fees
 ---
 
 <div class="alert alert-info">
-Information on Summer 2025 programs is coming soon.
+<a href="{{ site.url }}/cub-scouts/register/">Registration</a> for Summer 2025 Cub Scout programs is now open!
 </div>
 
 > %list-group%
-> <a href="{{ site.url }}/cub-scouts/register/" class="list-group-item">Register for Cub Scout Day Camp</a>
+> <a href="{{ site.url }}/cub-scouts/register/" class="list-group-item">Register for Cub Scout Summer Camp</a>
 
 **Cub Scout Day Camp:**
 
-* $295 for Scouts
+* $295 per Scout (until June 1)
+* $325 per Scout (after June 1)
 
-**Baloo's Cub and Family Camp**
+**Cub Scout Summer Adventure Weekend**
 
-* Cost per Youth: $35
-* Cost per Adult: $15
+* Cost per Youth: $40
+* Cost per Den Chief: $20
+* Cost per Adult: $20
 
 **Campsite Reservations:**
 
-* $25/night
-
-**Family Camping:**
-
-* Bring your own tent: $15/night
-* Standard 7'x9' tent with beds: $25/night
-* Deluxe 12'x16' tent with bedding: $50/night
+* $50/night
 
 **Other Facility Reservations:**
 
