@@ -25,4 +25,4 @@ Contact: Jeffrey Seiser, [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoe
 
 > %list-group%
 > <a href="https://scoutingevent.com/066-92055" class="list-group-item">Register for Covered Wagon Derby</a>
-> <a href="{{ site.url }}/#" class="list-group-item">Covered Wagon Derby Program Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2025/2025-covered-wagon-derby-program-guide.pdf" class="list-group-item">Covered Wagon Derby Program Guide</a>
