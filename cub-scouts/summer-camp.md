@@ -51,5 +51,5 @@ Be sure to check out our [unit and family camping]({{ site.url }}/summer-camp/ov
 > <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Camp Medical Forms and Information</a>
 > <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">Cub Camp Fee Information</a>
 
-For more information, contact Director of Cub Scout Programs, Jeff Seiser at
+For more information, contact Camp Director, Jeff Seiser at
 [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org).

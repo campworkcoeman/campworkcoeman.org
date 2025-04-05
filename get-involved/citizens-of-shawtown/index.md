@@ -14,9 +14,6 @@ settlement that is located on the outer area of Camp Workcoeman. Many members
 of the group attended Workcoeman as youth or as adults, and some even served on
 the camp staff.
 
-> %list-group%
-> <a href="{{ site.url }}/pdf/2020/2020-shawtown-brochure.pdf" class="list-group-item">Promotional Brochure</a>
-
 ## What we do...
 
 The purpose of the Citizens of Shawtown is to organize and complete projects at
@@ -26,7 +23,7 @@ Each year in February, the Citizens meet to identify maintenance projects. Some
 of the projects are major construction while others are maintenance related. A
 schedule of workdays is arranged to complete the project list.
 
-The Citizens work closely with the camp ranger to coordinate projects for Order
+The Citizens work closely with the Council Properties Superintendent to coordinate projects for Order
 of the Arrow ordeal weekends too. Some of the members are skilled in various
 vocations while others have valuable contacts for materials and services.
 
@@ -44,16 +41,16 @@ March 7--9, 2025 and October 31--November 2, 2025
 Building on last year's success, the Citizens of Shawtown are once again planning spring and fall weekend events for work and fellowship. The events, held in addition to the regular Saturday workdays, run from Friday evening through lunch on Sunday, but volunteers are welcome for whatever portion of the weekend they're able to attend.
 
 > %list-group%
-> <a href="{{ site.url }}/#" class="list-group-item">2025 Spring Shawtown Fellowship Work Weekend RSVP Form (Coming Soon)</a>
-> <a href="{{ site.url }}/#" class="list-group-item">2025 Spring Shawtown Fellowship Work Weekend Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/#" class="list-group-item">2025 Fall Shawtown Fellowship Work Weekend RSVP Form (Coming Soon)</a>
+> <a href="{{ site.url }}/#" class="list-group-item">2025 Fall Shawtown Fellowship Work Weekend Flier (Coming Soon)</a>
 
 ## Steak Dinner
 
-The Citizens annually hold a Steak Dinner and Silent Auction in support of camp after the annual Beaver Day work day. All members of the camp and surrounding community are invited whether they attend the work day or not. In 2025, Beaver Day will begin at 8:30 AM on Saturday, May 31, and the Steak Dinner will begin with hors d'oeuvres at 5:30 PM followed by dinner at 6:00 PM.
+The Citizens annually hold a Steak Dinner and Silent Auction in support of camp in early June. All members of the camp and surrounding community are invited. In 2025, the Steak Dinner takes place on Saturday, June 7; it will begin with hors d'oeuvres at 5:30 PM with dinner to follow at 6:00 PM.
 
 > %list-group%
 > <a href="{{ site.url }}/#" class="list-group-item">2025 Steak Dinner Flier (Coming Soon)</a>
-> <a href="https://scoutingevent.com/066" class="list-group-item">2025 Steak Dinner Registration (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-88232" class="list-group-item">2025 Steak Dinner Registration</a>
 
 ## Newsletter
 
@@ -66,4 +63,4 @@ The Citizens of Shawtown periodically publishes a newsletter updating its member
 ## How do I join?
 
 You can become a member of the Citizens of Shawtown by contacting the group's
-Membership Chair, Keith Zwart, at [keith.zwart@gmail.com](mailto:keith.zwart@gmail.com).
+Chair, Daron Colgan, at [dcolgan@campworkcoeman.org](mailto:dcolgan@campworkcoeman.org).

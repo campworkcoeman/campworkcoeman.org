@@ -30,7 +30,8 @@ Year(s)         | Name                  | Position
 1975 -- 1976    | Steven Belmore        | 
 1977 -- 1979    | David Wilson          | 
 1980            | Carlos Santiago       | Field Director
-1981 -- present | Lou Seiser            | 
+1981 -- 2024    | Lou Seiser            | 
+2025 -- present | Jeff Seiser           | 
 
 ### Camp Rangers and Caretakers
 
