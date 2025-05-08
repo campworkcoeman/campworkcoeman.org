@@ -8,23 +8,6 @@ keywords: staff, Lou Seiser
 
 > %row%
 > <div class="col-sm-4 col-lg-4">
->  <img src="{{ site.url }}/about/files/lou.jpg" style="width: 100%; max-width: 255px;" alt="Lou Seiser" class="img-rounded">
-> </div>
->
-> <div class="col-sm-8 col-lg-8">
->  <h3 style="margin-top:0">Lou Seiser</h3>
->  <h4>Chancellor</h4>
->  Lou served as Camp Director for 44 years before handing over the reigns for
->  2025. We are grateful to still have access to his wealth of camp
->  knowledge.
->
->  <p style="margin-top:2mm;"><i class="fa fa-envelope-o"></i> <a href="mailto:lseiser@campworkcoeman.org">lseiser@campworkcoeman.org</a></p>
-> </div>
-
-&nbsp;
-
-> %row%
-> <div class="col-sm-4 col-lg-4">
 >  <img src="{{ site.url }}/about/files/jeff.jpg" style="width: 100%; max-width: 255px;" alt="Jeff Seiser" class="img-rounded">
 > </div>
 >
