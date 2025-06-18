@@ -11,7 +11,7 @@ Registration for 2025 summer programs is now open.
 Sign up today!</a>
 </div>
 
-Building on the success of the past few seasons, Camp Workcoeman will continue to offer a variety of short-term opportunities for Scouts BSA participants throughout the summer of 2024, including one- and two-day merit badges, a la carte activities/rentals, and scuba certification. A week-long National Youth Leadership Training (NYLT) course will be offered. In addition, overnight unit and family camping is available all summer. These programs are not designed to replicate a traditional troop summer camp experience; rather, they are intended to supplement one through a variety of flexible programs.
+Building on the success of the past few seasons, Camp Workcoeman will continue to offer a variety of short-term opportunities for Scouts BSA participants throughout the summer of 2025, including one- and two-day merit badges, a la carte activities/rentals, and scuba certification. A week-long National Youth Leadership Training (NYLT) course will be offered. In addition, overnight unit and family camping is available all summer. These programs are not designed to replicate a traditional troop summer camp experience; rather, they are intended to supplement one through a variety of flexible programs.
 
 > %text-center%
 >> %row%
