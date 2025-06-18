@@ -1,7 +1,7 @@
 ---
 published: true
 layout: generic
-title: 2024 Medical Form Information
+title: Medical Form Information
 description: Information needed to fill out and submit the camp medical form.
 keywords: med, form, medical
 ---

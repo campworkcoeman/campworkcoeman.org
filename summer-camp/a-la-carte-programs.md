@@ -6,19 +6,12 @@ description: This page provides information on summertime à la carte program op
 keywords: à la carte, programs, facility reservation, summer
 ---
 
-<div class="alert alert-info">
-Registration is now open for summer 2025 Cub Scout programs! Information on Scouts BSA programs is coming soon.
-</div>
-
 Various camp facilities can be reserved by your troop for programs. You can take advantage of these
 experiences while staying at camp during an overnight camping trip or as a day event. A full list of activities,
 costs, and included items is available below. To reserve a facility, please email Jeff Seiser
 ([jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org)) at least two weeks in advance; payment will be collected at camp. Contact Jeff with any questions you may have and to inquire about the feasibility of any other activities not listed.
 
 ## Programs and Costs
-
-> %list-group%
-> <a href="{{ site.url }}/#" class="list-group-item">2025 Summer À La Carte Programs Flier (Coming Soon)</a>
 
 <table class="table table-hover">
 <thead>

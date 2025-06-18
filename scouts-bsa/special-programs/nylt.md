@@ -1,13 +1,9 @@
 ---
 published: true
 layout: generic
-title: National Youth Leadership Training (NYLT) &mdash; July 7&ndash;13, 2024
+title: National Youth Leadership Training (NYLT) &mdash; July 6&ndash;12, 2025
 keywords: "Boy Scout, Scouts BSA, summer camp, National Youth Leadership Training, NYLT"
 ---
-
-<div class="alert alert-info">
-Information on Summer 2025 programs is coming soon.
-</div>
 
 National Youth Leadership Training (NYLT) is the BSA's premier youth leadership development program at the Council level. It's  an exciting 7-day program designed for youth to learn leadership skills that will help them succeed in Scouting and in life. 
 
@@ -38,7 +34,6 @@ Scouts who have held leadership roles in their unit and are expected to advance 
 - Have unit leader recommendation
 - Have basic camping and outdoor cooking experience
 - Commit to attending the entire course (no leaving early or during the week)
-- Attend the required precamp meeting at camp on Wednesday, June 5, 2024 at 7 PM
 
 \* Introduction to Leadership Skills for Troops (ILST), Crews (ILSC), and Ships (ILSS) should be offered through a Scout's home unit. Ask your Unit Leader how you can participate in this course.
 
@@ -52,12 +47,11 @@ Participants agree to conduct themselves in accordance with the Scout Oath and L
 
 ### Questions?
 
-For specific questions about the course or the NYLT program overall, contact Course Director Jeff Seiser, [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org).
+For specific questions about the course or the NYLT program overall, contact the Course Director, [nylt@campworkcoeman.org](mailto:nylt@campworkcoeman.org).
 
 Follow Connecticut Rivers Council NYLT on [Facebook](https://www.facebook.com/nyltctrivers) and [Instagram](https://www.instagram.com/nyltctrivers/).
 
-[Financial assistance]({{ site.url }}/scouts-bsa/fees/camperships/) is available.
+[Financial assistance]({{ site.url }}/summer-camp/camperships/) is available.
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2024/2024-nylt-flier.pdf" class="list-group-item">2024 NYLT Flier</a>
-> <a href="https://scoutingevent.com/066-80412" class="list-group-item">Register for 2024 National Youth Leadership Training (NYLT)</a>
+> <a href="{{ site.url }}/scouts-bsa/register/" class="list-group-item">Register for National Youth Leadership Training (NYLT)</a>

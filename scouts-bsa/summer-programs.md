@@ -6,7 +6,9 @@ keywords: "Boy Scout, Scouts BSA, summer camp"
 ---
 
 <div class="alert alert-info">
-Information on Summer 2025 programs is coming soon.
+Registration for 2025 summer programs is now open.
+<a href="{{ site.url }}/scouts-bsa/register/">
+Sign up today!</a>
 </div>
 
 Building on the success of the past few seasons, Camp Workcoeman will continue to offer a variety of short-term opportunities for Scouts BSA participants throughout the summer of 2024, including one- and two-day merit badges, a la carte activities/rentals, and scuba certification. A week-long National Youth Leadership Training (NYLT) course will be offered. In addition, overnight unit and family camping is available all summer. These programs are not designed to replicate a traditional troop summer camp experience; rather, they are intended to supplement one through a variety of flexible programs.
@@ -14,138 +16,93 @@ Building on the success of the past few seasons, Camp Workcoeman will continue t
 > %text-center%
 >> %row%
 >>> %col-xs-6%
->>> **Outdoor Skills & More (Week 1)**<br/>
->>> July 1--5, 2024<br/>
+>>> **Aquatics & More (Week 1)**<br/>
+>>> June 30--July 4, 2025<br/>
 >>
 >>> %col-xs-6%
->>> **Cooking Merit Badge (Session 2)**<br/>
->>> July 22--24, 2024<br/>
+>>> **[Scuba Certification Camp (Week 2)]({{ site.url }}/scouts-bsa/special-programs/scuba/)**<br/>
+>>> July 20--24, 2025<br/>
 >
 >> %row%
 >>> %col-xs-6%
 >>> **Cooking Merit Badge (Session 1)**<br/>
->>> July 1--3, 2024<br/>
+>>> June 30--July 2, 2025<br/>
 >>
 >>> %col-xs-6%
->>> **Fly Fishing Merit Badge (Session 2)**<br/>
->>> July 23, 2024<br/>
+>>> **Aquatics & More (Week 2)**<br/>
+>>> July 21--25, 2025<br/>
 >
 >> %row%
 >>> %col-xs-6%
 >>> **Fly Fishing Merit Badge (Session 1)**<br/>
->>> July 2, 2024<br/>
+>>> July 2, 2025<br/>
 >>
 >>> %col-xs-6%
->>> **Aquatics & More (Week 2)**<br/>
->>> July 29--August 2, 2024<br/>
+>>> **Cooking Merit Badge (Session 3)**<br/>
+>>> July 21--23, 2025<br/>
 >
 >> %row%
 >>> %col-xs-6%
 >>> **[National Youth Leadership Training (NYLT)]({{ site.url }}/scouts-bsa/special-programs/nylt/)**<br/>
->>> July 7--13, 2024<br/>
+>>> July 6--12, 2025<br/>
 >>
 >>> %col-xs-6%
->>> **[Scuba Certification Camp (Week 2)]({{ site.url }}/scouts-bsa/special-programs/scuba/)**<br/>
->>> July 29--August 1, 2024<br/>
->
->> %row%
->>> %col-xs-6%
->>> **Aquatics & More (Week 1)**<br/>
->>> July 8--12, 2024<br/>
->>
->>> %col-xs-6%
->>> **Cooking Merit Badge (Session 3)**<br/>
->>> July 29--31, 2024<br/>
+>>> **[Scuba Certification Camp (Week 3)]({{ site.url }}/scouts-bsa/special-programs/scuba/)**<br/>
+>>> July 27--31, 2025<br/>
 >
 >> %row%
 >>> %col-xs-6%
 >>> **[Scuba Certification Camp (Week 1)]({{ site.url }}/scouts-bsa/special-programs/scuba/)**<br/>
->>> July 8--11, 2024<br/>
+>>> July 6--10, 2025<br/>
 >>
 >>> %col-xs-6%
->>> **Fly Fishing Merit Badge (Session 3)**<br/>
->>> July 30, 2024<br/>
+>>> **Outdoor Skills & More (Week 2)**<br/>
+>>> July 28--August 1, 2025<br/>
 >
 >> %row%
 >>> %col-xs-6%
->>> **Outdoor Skills & More (Week 2)**<br/>
->>> July 22--26, 2024<br/>
+>>> **Outdoor Skills & More (Week 1)**<br/>
+>>> July 7--11, 2025<br/>
 >>
 >>> %col-xs-6%
->>> **[Advanced Scuba Certification]({{ site.url }}/scouts-bsa/special-programs/scuba/)**<br/>
->>> August 2--4, 2024<br/>
+>>> **Cooking Merit Badge (Session 4)**<br/>
+>>> July 28--30, 2025<br/>
+>
+>> %row%
+>>> %col-xs-6%
+>>> **Cooking Merit Badge (Session 2)**<br/>
+>>> July 7--9, 2025<br/>
+>>
+>>> %col-xs-6%
+>>> **Fly Fishing Merit Badge (Session 3)**<br/>
+>>> July 30, 2025<br/>
+>
+>> %row%
+>>> %col-xs-6%
+>>> **Fly Fishing Merit Badge (Session 2)**<br/>
+>>> July 7, 2025<br/>
+>>
+>>> %col-xs-6%
+>>> **[Advanced Scuba Certification (Session 2)]({{ site.url }}/scouts-bsa/special-programs/scuba/)**<br/>
+>>> August 1--3, 2025<br/>
+>
+>> %row%
+>>> %col-xs-6%
+>>> **[Advanced Scuba Certification (Session 1)]({{ site.url }}/scouts-bsa/special-programs/scuba/)**<br/>
+>>> July 18--20, 2025<br/>
+>>
+>>> %col-xs-6%
+>>>
+>>>
 
 > %list-group%
-> <a href="{{ site.url }}/pdf/2024/2024-scouts-bsa-summer-flier.pdf" class="list-group-item">2024 Scouts BSA Summer Programs Flier</a>
-> <a href="{{ site.url }}/pdf/2024/2024-program-guide.pdf" class="list-group-item">2024 Summer Program Guide</a>
-> <a href="{{ site.url }}/summer-camp/a-la-carte-programs/" class="list-group-item">2024 Summer À La Carte Programs</a>
-
-## Merit Badge and Program Offerings
-
-### Outdoor Skills Weeks (July 1--5 & July 22--26, 2024)
-- Animal Science
-- Archery
-- Basketry
-- Camping
-- Environmental Science
-- Forestry
-- Indian Lore
-- Leatherwork
-- Mammal Study
-- Metalwork
-- Nature
-- Orienteering
-- Pioneering
-- Rifle Shooting
-- Shotgun Shooting
-- Weather
-- Wilderness Survival
-- Wood Carving
-
-- Pistol Shooting Program
-
-### Aquatics & More Weeks (July 8--12 & July 29--August 2, 2024)
-- Canoeing
-- Climbing
-- First Aid
-- Fish and Wildlife Management
-- Fishing
-- Geology
-- Kayaking
-- Lifesaving
-- Oceanography
-- Reptile and Amphibian Study
-- Rowing
-- Small-Boat Sailing
-- Soil and Water Conservation
-- Sports
-- Swimming
-
-- SCUBA BSA
-
-### Cooking Merit Badge
-- July 1--3, 2024 (Session 1)
-- July 22--24, 2024 (Session 2)
-- July 29--31, 2024 (Session 3)
-
-### Fly Fishing Merit Badge
-- July 2, 2024 (Session 1)
-- July 23, 2024 (Session 2)
-- July 30, 2024 (Session 3)
-
-### Scuba Diving Merit Badge and SDI Open Water Certification
-- July 8--11, 2024 (Week 1)
-- July 29--August 1, 2024 (Week 2)
-
-### Advanced Scuba Certification
-- August 2--4, 2024
-
-### National Youth Leadership Training (NYLT)
-- July 7--13, 2024
+> <a href="https://www.ctscouting.org/_files/ugd/9f5458_dd977ce9de16480b8f8d649f55d33f2a.pdf" class="list-group-item">2025 Scouts BSA Summer Programs Letter</a>
+> <a href="{{ site.url }}/scouts-bsa/register/" class="list-group-item">2025 Scouts BSA Summer Programs Registration</a>
+> <a href="{{ site.url }}/summer-camp/a-la-carte-programs/" class="list-group-item">2025 Summer À La Carte Programs</a>
 
 ## Merit Badge Schedule
 > %list-group%
-> <a href="{{ site.url }}/pdf/2024/2024-merit-badge-schedule.pdf" class="list-group-item">2024 Merit Badge Schedule</a>
+> <a href="https://scoutingevent.com/Download/066151276/OR/CW_Merit_Badge_ScheduleSummer_2025_1_002.pdf" class="list-group-item">2025 Merit Badge Schedule</a>
 
 ## Promotional Video
 

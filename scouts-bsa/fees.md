@@ -1,16 +1,12 @@
 ---
 published: true
 layout: generic
-title: 2024 Camp Workcoeman Scouts BSA Fees
+title: 2025 Camp Workcoeman Scouts BSA Fees
 description: This page lists the fees to attend summer Scouts BSA programs at Camp Workcoeman.
 keywords: fees
 ---
 
-<div class="alert alert-info">
-Information on Summer 2025 programs is coming soon.
-</div>
-
-The fees to attend summer Scouts BSA programs in 2024 are as follows:
+The fees to attend summer Scouts BSA programs in 2025 are as follows:
 
 ### Scout Fees
 
@@ -25,22 +21,16 @@ The fees to attend summer Scouts BSA programs in 2024 are as follows:
 
 **NYLT:**
 
-* $400/Scout
+* $410/Scout
 
 **Scuba Program:**
 
-* Open Water Certification is $450/person
-* Advanced Certification is $300/person
+* Open Water Certification is $550/person
+* Advanced Certification is $225/person
 
 **Campsite Reservations:**
 
-* $25/night
-
-**Family Camping:**
-
-* Bring your own tent: $15/night
-* Standard 7'x9' tent with beds: $25/night
-* Deluxe 12'x16' tent with bedding: $50/night
+* $50/night
 
 **Other Facility Reservations:**
 

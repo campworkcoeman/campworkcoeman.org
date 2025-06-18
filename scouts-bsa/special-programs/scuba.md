@@ -6,10 +6,6 @@ description: In conjunction with outside instructors, Camp Workcoeman offers a S
 keywords: scuba, diving, sea base, certification, florida
 ---
 
-<div class="alert alert-info">
-Information on Summer 2025 programs is coming soon.
-</div>
-
 ## Going to the BSA's Florida Sea Base? Get your SCUBA certification at Workcoeman!
 
 Is your unit planning on attending the Florida Sea Base? If so, get your required SCUBA certification while staying at Camp Workcoeman. Located in the scenic hills of northwestern Connecticut, Camp Workcoeman boasts one of the cleanest lakes around---perfect for learning to SCUBA dive locally in New England.
@@ -18,7 +14,7 @@ Is your unit planning on attending the Florida Sea Base? If so, get your require
 
 Camp Workcoeman is entering new waters.
 
-In conjunction with outside instructors, Camp Workcoeman offers the Discover Scuba program both as an individual program during our Aquatics & More weeks and as a unit à la carte activity. This course will introduce you to Scuba diving and allow you to earn the Scuba BSA award. Individuals can [register]({{ site.url }}/scouts-bsa/register) online (see Aquatics & More); units should contact Jeff Seiser ([jseiser@campworkcoeman.org](maito:jseiser@campworkcoeman.org)) for more information and to register.
+In conjunction with outside instructors, Camp Workcoeman offers the Discover Scuba program as a unit à la carte activity. This course will introduce you to Scuba diving and allow you to earn the Scuba BSA award. Units should contact Jeff Seiser ([jseiser@campworkcoeman.org](maito:jseiser@campworkcoeman.org)) for more information and to register.
 
 Certified instructors will come to camp and offer a full Discover Scuba course. The Discover
 Scuba Diving program lets you experience the thrill of diving under the
@@ -34,9 +30,9 @@ medical history and informed consent form (provided from camp).
 
 ## SDI Open Water Scuba Certification & Scuba Diving Merit Badge
 
-Twice per summer, outside instructors
+Thrice per summer, outside instructors
 will also offer a full open water certification course. The
-cost of the full certification course is $450; the fee includes optional overnight camping as well as all meals.
+cost of the full certification course is $550; the fee includes optional overnight camping as well as all meals.
 
 Scouts will also work on BSA's Scuba Merit Badge and have the opportunity to
 work on additional scuba programs.
@@ -47,8 +43,7 @@ Registration Form or can contact camp directly.
 For additional information contact Jeff Seiser, [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org).
 
 > %list-group%
-> <a href="{{ site.url }}/year-round-programs/events/2024/07/08/scuba-week-1/" class="list-group-item">Register for SDI Open Water Scuba Certification Course (Week 1)</a>
-> <a href="{{ site.url }}/year-round-programs/events/2024/07/29/scuba-week-2/" class="list-group-item">Register for SDI Open Water Scuba Certification Course (Week 2)</a>
+> <a href="{{ site.url }}/scouts-bsa/register/" class="list-group-item">Register for SDI Open Water Scuba Certification Course</a>
 
 ## Advanced Scuba Certification
 
@@ -57,4 +52,4 @@ This advanced level SCUBA course will focus on the Underwater Navigation and Nig
 *Participants must have an entry level open water certification to participate in this advanced course.*
 
 > %list-group%
-> <a href="{{ site.url }}/year-round-programs/events/2024/08/02/advanced-scuba/" class="list-group-item">Register for Advanced Scuba Certification Course</a>
+> <a href="{{ site.url }}/scouts-bsa/register/" class="list-group-item">Register for Advanced Scuba Certification Course</a>

@@ -5,14 +5,10 @@ title: Special Programs
 keywords: special programs, programs
 ---
 
-<div class="alert alert-info">
-Information on Summer 2025 programs is coming soon.
-</div>
-
 ## Scuba
 
 A new challenge for Scouts who would like to discover the depths of West
-Hill Pond. During our two Aquatics & More Weeks, a professional instructor will come to camp to teach
+Hill Pond. During several weeks this summer, a professional instructor will come to camp to teach
 Scouts about scuba diving. All participants will have a chance to
 spend time under water to see what it is all about.
 
@@ -32,7 +28,7 @@ Camp Workcoeman is one of a select few camps that participates in the Boy Scouts
 Summer Camp Pistol Shooting Program. The program is open to all Scouts who are at least 13 and have
 completed the eighth grade. Scouts will receive a safety briefing and instruction followed by the opportunity
 to earn various pistol marksmanship qualifications. Due to the low instructor to shooter ratio, space is
-extremely limited. The program will be offered on Wednesdays during our Outdoor Skills & More weeks: July 3 & 24, 2024; the cost is $50. An additional signed
+extremely limited. The program will be offered on Wednesdays during our merit badge weeks: July 2, 9, 23, & 30, 2025; the cost is $50. An additional signed
 participation waiver is required.
 
 > %list-group%
