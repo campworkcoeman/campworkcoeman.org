@@ -11,11 +11,13 @@ This program includes the merit badge session, lunch, and a presentation on the 
 
 Merit Badges Offered (Max of 20 for each class):
 
-- Camping
-- Citizenship in the Nation
+- Camping*
+- Citizenship in the Nation*
 - Citizenship in the World
-- Emergency Preparedness
+- Emergency Preparedness*
 - Environmental Science
+
+\* See prerequisite forms (below)
 
 Time: December 6, 8:30 AM -- 4:30 PM
 
@@ -25,3 +27,4 @@ Contact: Jeffrey Seiser, [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoe
 
 > %list-group%
 > <a href="https://scoutingevent.com/066-102225" class="list-group-item">Register for Trail to Eagle Merit Badge Day</a>
+> <a href="{{ site.url }}/pdf/2025/2025-cw-t2e-weekend-prereqs.pdf" class="list-group-item">Merit Badge Prerequisite Forms</a>
