@@ -7,7 +7,7 @@ keywords: Cub Scout, day camp
 ---
 
 <div class="alert alert-info">
-<a href="{{ site.url }}/cub-scouts/register/">Registration</a> for Summer 2025 Cub Scout programs is now open!
+The Camp Workcoeman website will be updated for summer 2026 programs sometime during the winter or early spring.
 </div>
 
 ## Cub Scout Day Camp

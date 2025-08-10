@@ -6,6 +6,10 @@ description: This page lists the fees to attend summer Scouts BSA programs at Ca
 keywords: fees
 ---
 
+<div class="alert alert-info">
+The Camp Workcoeman website will be updated for summer 2026 programs sometime during the winter or early spring.
+</div>
+
 The fees to attend summer Scouts BSA programs in 2025 are as follows:
 
 ### Scout Fees

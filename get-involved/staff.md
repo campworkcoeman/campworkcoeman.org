@@ -6,6 +6,10 @@ description: Opportunities to serve Scouting as a member of the Summer Camp staf
 keywords: staff, counselor In training, CIT
 ---
 
+<div class="alert alert-info">
+The Camp Workcoeman website will be updated for summer 2026 programs sometime during the winter or early spring.
+</div>
+
 ## Camp Staff
 
 Opportunities to serve Scouting as a member of the Connecticut Rivers Council Summer Camp staff at Camp

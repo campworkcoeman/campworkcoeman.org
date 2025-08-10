@@ -41,6 +41,7 @@ March 7--9, 2025 and October 31--November 2, 2025
 Building on last year's success, the Citizens of Shawtown are once again planning spring and fall weekend events for work and fellowship. The events, held in addition to the regular Saturday workdays, run from Friday evening through lunch on Sunday, but volunteers are welcome for whatever portion of the weekend they're able to attend.
 
 > %list-group%
+> <a href="https://scoutingevent.com/066-98132/" class="list-group-item">2025 Fall Shawtown Fellowship Work Weekend Registration (Free)</a>
 > <a href="{{ site.url }}/#" class="list-group-item">2025 Fall Shawtown Fellowship Work Weekend RSVP Form (Coming Soon)</a>
 > <a href="{{ site.url }}/#" class="list-group-item">2025 Fall Shawtown Fellowship Work Weekend Flier (Coming Soon)</a>
 

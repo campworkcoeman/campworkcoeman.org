@@ -6,7 +6,7 @@ keywords: program guides, guides, summer
 ---
 
 <div class="alert alert-info">
-Information on Summer 2025 programs is coming soon.
+The Camp Workcoeman website will be updated for summer 2026 programs sometime during the winter or early spring.
 </div>
 
 > %list-group%
