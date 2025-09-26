@@ -42,8 +42,8 @@ Building on last year's success, the Citizens of Shawtown are once again plannin
 
 > %list-group%
 > <a href="https://scoutingevent.com/066-98132/" class="list-group-item">2025 Fall Shawtown Fellowship Work Weekend Registration (Free)</a>
-> <a href="{{ site.url }}/#" class="list-group-item">2025 Fall Shawtown Fellowship Work Weekend RSVP Form (Coming Soon)</a>
-> <a href="{{ site.url }}/#" class="list-group-item">2025 Fall Shawtown Fellowship Work Weekend Flier (Coming Soon)</a>
+> <a href="https://forms.gle/Zt4QYwztoyq7AXj39" class="list-group-item">2025 Fall Shawtown Fellowship Work Weekend RSVP Form</a>
+> <a href="{{ site.url }}/pdf/2025/2025-shawtown-fall-weekend.pdf" class="list-group-item">2025 Fall Shawtown Fellowship Work Weekend Flier</a>
 
 ## Steak Dinner
 
