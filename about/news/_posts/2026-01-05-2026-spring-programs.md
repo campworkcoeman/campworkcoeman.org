@@ -1,7 +1,7 @@
 ---
 published: true
 layout: news-item
-title: 2026 Spring Programs at Camp Workcoeman
+title: 2026 Winter/Spring Programs at Camp Workcoeman
 ---
 
 A variety of day and weekend Scouting programs are planned for this spring at Camp Workcoeman. These activities include Scouts BSA, Cub Scout, training, and volunteer events.
