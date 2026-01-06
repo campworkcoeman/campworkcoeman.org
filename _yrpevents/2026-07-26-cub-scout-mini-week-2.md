@@ -3,7 +3,7 @@ published: true
 layout: event-item
 title: Cub Scout Mini Week (Week 2)
 tag: cub-scouts
-dates: July 26&ndash;29, 2026
+dates: July 26&ndash;28, 2026
 ---
 
 See the Cub Scout [Summer Camp]({{ site.url }}/cub-scouts/summer-camp/) page for more information.

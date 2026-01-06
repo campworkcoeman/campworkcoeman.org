@@ -2,42 +2,68 @@
 published: true
 layout: generic
 title: Cub Scout Summer Camp
-description: Cub Scout Day Camp is a 5 day program perfect for Tiger, Wolf, and Bear Scouts. Day camp has all the fun of a summer camp experience without the overnight element. Cub Scout Summer Adventure weekend is a shorter, overnight option for packs, dens, and families.
-keywords: Cub Scout, day camp
+description: Camp Workcoeman offers a variety of summer camp programs for Cub Scouts and their packs, dens, and families.
+keywords: Cub Scout, day camp, resident camp
 ---
 
 <div class="alert alert-info">
-The Camp Workcoeman website will be updated for summer 2026 programs sometime during the winter or early spring.
+<a href="{{ site.url }}/cub-scouts/register/">Registration</a> for Summer 2026 Cub Scout programs is now open!
 </div>
 
-## Cub Scout Day Camp
-
-### July 14--18 and August 4--8, 2025
-
-Camp Workcoeman will once again host a week long Cub Scout Day Camp!
-
-Day Camp is a great way for your Cub Scout age son or daughter to experience the thrill of the outdoors and is a good introduction to independence from mom and dad without being too far from home. The week-long program fills each day with the adventure and experiences that families join the Scouting program for.  Activities include archery, BB, swimming, crafts, nature, STEM, and much more.
-
-Day Camp runs 8:30 AM -- 4:00 PM and also features several special activities including a cookout, campfire, and awards ceremony. Lunch is included.
+Get ready for the ultimate Cub Scout camp experience at Camp Workcoeman in the summer of 2026! Scouts will discover adventure, friendship, and the great outdoors during our Cub Scout Resident Camp, Mini Week, Day Camp, and Family Camping programs—all built around an exciting theme, Dinosaurs!
 
 All the fun takes place under the watchful eye of our highly trained and
 certified staff ensuring a safe and fun experience. Camp Workcoeman is a
-Nationally Accredited Camp by the BSA and has a long history in Scouting since
+Nationally Accredited Camp by Scouting America and has a long history in Scouting since
 1924.
+
+## Cub Scout Resident Camp
+
+### July 19--24 and 26--31, 2026
+
+Cub Scouts and their leaders will spend a full week living the adventure at one of the oldest continuously operated Scout camps in the country. Days are filled with swimming, boating, archery, BB shooting, crafts, nature exploration, STEM activities, and campfire programs. Evenings bring songs, laughter, and the unforgettable spirit of Scouting around the campfire. Resident Camp is the perfect opportunity for Scouts to build confidence, learn new skills, earn adventure pins and belt loops, and make lasting friendships.
+
+> %list-group%
+> <a href="{{ site.url }}/cub-scouts/register/" class="list-group-item">Register for Resident Camp</a>
+
+## Cub Scout Mini Week Camp
+
+### July 19--21 and 26--28, 2026
+
+For Scouts newer to camping, Mini Week offers a shorter three-day, two-night introduction to the Cub Scout Resident Camp experience. It’s a great way to get a taste of all the fun—outdoor adventures, camp activities, and quality time with fellow Scouts—packed into a perfectly sized adventure.
+
+Come join us this summer and map your adventure at Camp Workcoeman—where every day brings new experiences, new friends, and lifelong memories!
+
+> %list-group%
+> <a href="{{ site.url }}/cub-scouts/register/" class="list-group-item">Register for Mini Week Camp</a>
+
+## Cub Scout Day Camp
+
+### July 20--24 and 27--31, 2026
+
+Get ready for a week of outdoor fun, friendship, and discovery at Cub Scout Day Camp 2026 at Camp Workcoeman! Designed for Cub Scouts entering grades 1--5, this exciting daytime program lets Scouts experience the best of camp life---all while returning home each evening.
+
+Each day, campers will explore new adventures across Workcoeman’s beautiful lakeside setting, including archery, BB shooting, nature exploration, crafts, swimming, and team games. They’ll take part in STEM activities, campfire songs, and theme-based challenges — all led by trained and enthusiastic staff who bring Scouting’s values to life.
+
+Join the adventure—where every day is packed with fun, friendship, and the spirit of Scouting!
 
 > %list-group%
 > <a href="{{ site.url }}/cub-scouts/register/" class="list-group-item">Register for Day Camp</a>
 
-## Cub Scout Summer Adventure Weekends
+## Cub Scout Family Camp Weekends
 
-### July 18--20 and August 1--3, 2025
+### July 10--12 and July 31--August 2, 2026
 
-Scouts will have the chance to enjoy a weekend adventure at Camp Workcoeman. Parents and den leaders can choose the activities their Scouts will participate in—most of which will connect to rank advancement in some way. The weekend program will include three meals in the dining hall, two nights of camping in canvas tents, a special program presentation, and Saturday night campfire. Scouts can attend with their pack, den, or family.
+Experience the magic of Camp Workcoeman together during Family Camp! This special weekend program invites Scouting families of all ages to enjoy the beauty and excitement of camp life—without the need to pack up the whole den.
 
-The Cub Scout Summer Adventure weekends at Camp Workcoeman are a great opportunities for Cub Scouts to enjoy a summer camp experience without the worries of being away from home for an extended period of time. Located along the shore of beautiful West Hill Pond in New Hartford, Cub Scout Adventure weekend is open to all Cub Scouts and their packs, dens, and families as the program centers around fun for all! You will take advantage of our various program areas with activities including BB/archery shooting, swimming, crafts, and more! Scouts and families will stay in the canvas tents with bunks and mattresses while meals will be served in the dining hall.
+Spend the weekend camping outdoors, swimming in the crystal-clear lake, testing your aim at archery and BB ranges, exploring nature trails, and joining in crafts, games, and campfire programs. Whether you prefer swimming, boating, sports, or something else, Camp Workcoeman offers a perfect setting for families to connect, unwind, and make lasting memories.
+
+Enjoy great meals in the dining hall, friendly staff-led activities, and plenty of free time to relax or explore with your family. Family Camp is the perfect blend of fun, fellowship, and outdoor adventure—a true celebration of Scouting and family togetherness.
+
+Join us this summer and make Camp Workcoeman your family’s favorite tradition!
 
 > %list-group%
-> <a href="{{ site.url }}/cub-scouts/register/" class="list-group-item">Register for Cub Scout Summer Adventure Weekend</a>
+> <a href="{{ site.url }}/cub-scouts/register/" class="list-group-item">Register for Cub Scout Family Camp Weekend</a>
 
 ### Pack and Family Camping
 
@@ -46,10 +72,10 @@ Be sure to check out our [unit and family camping]({{ site.url }}/summer-camp/ov
 ## More Information
 
 > %list-group%
-> <a href="{{ site.url }}/#" class="list-group-item">Cub Scout Summer Programs Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2026/2026-cub-scout-summer-flier.pdf" class="list-group-item">Cub Scout Summer Programs Flier</a>
 > <a href="{{ site.url }}/#" class="list-group-item">Cub Scout Summer Program Guide (Coming Soon)</a>
 > <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Camp Medical Forms and Information</a>
 > <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">Cub Camp Fee Information</a>
 
-For more information, contact Camp Director, Jeff Seiser at
-[jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org).
+For more information, contact Camp Director Jeff Seiser at
+[jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org) or Cub Scout Program Director Aline Souza at [cubscouts@campworkcoeman.org](mailto:cubscouts@campworkcoeman.org).
