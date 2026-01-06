@@ -6,10 +6,6 @@ description: Opportunities to serve Scouting as a member of the Summer Camp staf
 keywords: staff, counselor In training, CIT
 ---
 
-<div class="alert alert-info">
-The Camp Workcoeman website will be updated for summer 2026 programs sometime during the winter or early spring.
-</div>
-
 ## Camp Staff
 
 Opportunities to serve Scouting as a member of the Connecticut Rivers Council Summer Camp staff at Camp
@@ -25,21 +21,21 @@ status, or the presence of a disability or any category protected by applicable 
 
 * The minimum age accepted is 15; however, it is strongly recommended that
   those who seek a camp staff position should have previously participated in
-  the Counselors in Training (CIT) Program. Scouting America standards
+  the Counselor in Training (CIT) Program. Scouting America standards
   require ages 18 and 21 minimum for some positions.
 * All staff, as a condition of employment, are required to be registered members of Scouting America.
 * The principles of the Scout Oath and Law must be practiced as a way of life.
 * The staff is expected to set an example of excellence in Scouting, which
   includes the proper wearing of the Scout uniform.
 * Salary is based on position responsibility with consideration given to
-  individual experience.
+  individual experience and is determined per hour by the going State of Connecticut rate.
 
 All applications must be submitted online using the link below. It is
 recommended that you submit your application early. Applicants will be notified
 of the interview schedule by the Camp Director.
 
 > %list-group%
-> <a href="https://forms.gle/peK2HNtNRtSgfaEU9" class="list-group-item">2025 Staff Application</a>
+> <a href="https://forms.gle/rSkEJGaz8xS4vFb2A" class="list-group-item">2026 Staff Application</a>
 
 If you are interested in working at camp this summer, please contact Camp
 Director Jeff Seiser at [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org).
@@ -57,11 +53,11 @@ members. Participants will work in all areas of camp and gain first-hand
 experiences to understand what it really takes to operate the high-quality
 programs of Camp Workcoeman.
 
-The cost for the program in 2025 is $200. Participants must be at least 14 years old.
-All participants will be evaluated at the end of the week and could be offered
+The cost for the program in 2026 is $225. Participants must be 14 or 15 years old.
+All participants will be evaluated at the end of the week and may be offered
 to stay for another week based on their performance.
 
-The program is available starting the second week of the summer season (July 6). The program runs Sunday evening through Friday evening. Participants will sleep on cots in canvas tents. They will spend the day helping the staff run the camp program while evenings may involve various training opportunities such as a Leave No Trace Trainer course.
+The program is available starting the second week of the summer season (July 5). The program runs Sunday evening through Friday evening. Participants will sleep on cots in canvas tents. They will spend the day helping the staff run the camp program while evenings may involve various training opportunities such as a Leave No Trace Trainer course.
 
 Those who successfully complete this program will be seriously considered for
 future camp staff positions. Those that participate in the CIT Program enhance
@@ -70,7 +66,7 @@ guarantee a position. Please understand that participation in the CIT program
 in no way guarantees employment.
 
 > %list-group%
-> <a href="https://forms.gle/ngPNumdUzgaZR2dS7" class="list-group-item">2025 CIT Application</a>
+> <a href="https://forms.gle/hkbNKQrqKQAC9qv19" class="list-group-item">2026 CIT Application</a>
 
 If you are interested in being a CIT, please contact Camp Director Jeff Seiser
 at [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org).

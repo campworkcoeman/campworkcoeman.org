@@ -14,6 +14,9 @@ settlement that is located on the outer area of Camp Workcoeman. Many members
 of the group attended Workcoeman as youth or as adults, and some even served on
 the camp staff.
 
+> %list-group%
+> <a href="https://www.facebook.com/CitizensOfShawtown/" class="list-group-item">Follow the Citizens of Shawtown on Facebook</a>
+
 ## What we do...
 
 The purpose of the Citizens of Shawtown is to organize and complete projects at
@@ -30,28 +33,29 @@ vocations while others have valuable contacts for materials and services.
 The Citizens also fund projects from fund-raisers such as an annual Steak and
 Chicken Dinner! We do not collect dues from the membership.
 
+> %list-group%
+> <a href="https://e.givesmart.com/events/IAv/" class="list-group-item">Donate Online to the Citizens of Shawtown</a>
+
 ## Citizens of Shawtown Activities Calendar
 
 Please see the [workdays]({{ site.url }}/get-involved/work-days/) page for dates of planned workdays.
 
 ## Shawtown Fellowship Work Weekends
 
-March 7--9, 2025 and October 31--November 2, 2025
+March 27--29, 2026
 
-Building on last year's success, the Citizens of Shawtown are once again planning spring and fall weekend events for work and fellowship. The events, held in addition to the regular Saturday workdays, run from Friday evening through lunch on Sunday, but volunteers are welcome for whatever portion of the weekend they're able to attend.
+Based of previous success, the Citizens of Shawtown continue to plan spring and fall weekend events for work and fellowship. The events, held in addition to the regular Saturday workdays, run from Friday evening through lunch on Sunday, but volunteers are welcome for whatever portion of the weekend they're able to attend.
 
 > %list-group%
-> <a href="https://scoutingevent.com/066-98132/" class="list-group-item">2025 Fall Shawtown Fellowship Work Weekend Registration (Free)</a>
-> <a href="https://forms.gle/Zt4QYwztoyq7AXj39" class="list-group-item">2025 Fall Shawtown Fellowship Work Weekend RSVP Form</a>
-> <a href="{{ site.url }}/pdf/2025/2025-shawtown-fall-weekend.pdf" class="list-group-item">2025 Fall Shawtown Fellowship Work Weekend Flier</a>
+> <a href="https://scoutingevent.com/066-106732" class="list-group-item">2026 Spring Shawtown Fellowship Work Weekend Registration (Free)</a>
 
 ## Steak Dinner
 
-The Citizens annually hold a Steak Dinner and Silent Auction in support of camp in early June. All members of the camp and surrounding community are invited. In 2025, the Steak Dinner takes place on Saturday, June 7; it will begin with hors d'oeuvres at 5:30 PM with dinner to follow at 6:00 PM.
+The Citizens annually hold a Steak Dinner and Silent Auction in support of camp in June. All members of the camp and surrounding community are invited. In 2026, the Steak Dinner takes place on Saturday, June 20; it will begin with hors d'oeuvres at 5:30 PM with dinner to follow at 6:00 PM.
 
 > %list-group%
-> <a href="{{ site.url }}/#" class="list-group-item">2025 Steak Dinner Flier (Coming Soon)</a>
-> <a href="https://scoutingevent.com/066-88232" class="list-group-item">2025 Steak Dinner Registration</a>
+> <a href="{{ site.url }}/#" class="list-group-item">2026 Steak Dinner Flier (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066" class="list-group-item">2026 Steak Dinner Registration (Coming Soon)</a>
 
 ## Newsletter
 

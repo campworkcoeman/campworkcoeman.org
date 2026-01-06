@@ -1,8 +1,8 @@
 ---
 published: true
 layout: generic
-title: 2025 Work Days
-description: Members of the Citizens of Shawtown gather at camp on (generally) the fourth Saturday of each month to help the Council Properties Superintendent with projects around camp. Your help is greatly appreciated!
+title: 2026 Work Days
+description: Members of the Citizens of Shawtown gather at camp on (generally) monthly to help the Council Properties Superintendent with projects around camp. Your help is greatly appreciated!
 keywords: work days, volunteer
 ---
 
@@ -10,25 +10,21 @@ keywords: work days, volunteer
 
 Pre-planned mini-work parties (in conjunction with the camp's needs) will be held from 9:00 AM to 3:00 PM on various Saturdays throughout the year; these workdays are scheduled so as not to conflict with other activities at camp where volunteers are needed. The day starts with coffee "and" at 8:45 AM and lunch will be provided. We will tackle jobs large and small throughout the camp to assure an awesome experience for any Scouts or Scouters attending Camp Workcoeman this year and for years to come!
 
-If you plan on attending, please email Daron Colgan ([dcolgan@campworkcoeman.org](mailto:dcolgan@campworkcoeman.org)) by the Wednesday before the work day to let him know you're coming; he'll let you know the projects to be addressed and any special attire or equipment needs.
+If you plan on attending, please register online or email Daron Colgan ([dcolgan@campworkcoeman.org](mailto:dcolgan@campworkcoeman.org)) by the Wednesday before the work day to let him know you're coming; he'll let you know the projects to be addressed and any special attire or equipment needs.
 
-Saturday, January 25, 2025
+Saturday, January 31, 2026
 
-Saturday, February 15, 2025
+Saturday, February 28, 2026
 
-March 7--9, 2025 (Spring Shawtown Fellowship Work Weekend)
+March 27--29, 2026 (Spring Shawtown Fellowship Work Weekend)
 
-Saturday, April 19, 2025
+(No April Work Day)
 
-Saturday, May 31, 2025 (Beaver Day)
+Saturday, May 9, 2026
 
-Saturday, June 28, 2025
+Saturday, June 6, 2026 (Beaver Day)
 
-Saturday, July 26, 2025
-
-October 31--November 2, 2025 (Fall Shawtown Fellowship Work Weekend)
-
-Saturday, November 29, 2025
+Summer and Fall Work Days TBD
 
 ## Shawtown Fellowship Work Weekends
 
@@ -36,7 +32,7 @@ Please see the [Citizens of Shawtown]({{ site.url }}/get-involved/citizens-of-sh
 
 ## Beaver Day
 
-Saturday, May 31, 2025
+Saturday, June 6, 2026
 
 > %list-group%
-> <a href="{{ site.url }}/#" class="list-group-item">2025 Beaver Day Flier (Coming Soon)</a>
+> <a href="{{ site.url }}/#" class="list-group-item">2026 Beaver Day Flier (Coming Soon)</a>
