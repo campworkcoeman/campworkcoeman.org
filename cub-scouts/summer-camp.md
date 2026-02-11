@@ -73,7 +73,7 @@ Be sure to check out our [unit and family camping]({{ site.url }}/summer-camp/ov
 
 > %list-group%
 > <a href="{{ site.url }}/pdf/2026/2026-cub-scout-summer-flier.pdf" class="list-group-item">Cub Scout Summer Programs Flier</a>
-> <a href="{{ site.url }}/#" class="list-group-item">Cub Scout Summer Program Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2026/2026-cub-scout-summer-program-guide.pdf" class="list-group-item">Cub Scout Summer Program Guide</a>
 > <a href="{{ site.url }}/summer-camp/forms/medical-form-info/" class="list-group-item">Camp Medical Forms and Information</a>
 > <a href="{{ site.url }}/cub-scouts/fees/" class="list-group-item">Cub Camp Fee Information</a>
 
