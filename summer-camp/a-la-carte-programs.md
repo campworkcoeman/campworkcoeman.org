@@ -6,10 +6,6 @@ description: This page provides information on summertime à la carte program op
 keywords: à la carte, programs, facility reservation, summer
 ---
 
-<div class="alert alert-info">
-The Camp Workcoeman website will be updated for summer 2026 programs sometime during the winter or early spring.
-</div>
-
 Various camp facilities can be reserved by your troop for programs. You can take advantage of these
 experiences while staying at camp during an overnight camping trip or as a day event. A full list of activities,
 costs, and included items is available below. To reserve a facility, please email Jeff Seiser
@@ -86,8 +82,4 @@ costs, and included items is available below. To reserve a facility, please emai
 
 ## Meals
 
-Upon request, Camp Workcoeman can prepare meals for your unit or family while they are in camp this summer. Meals will be served in the Dining Hall. Breakfast is $6, lunch is $8, and dinner is $10. Meal requests must be made at least two weeks in advance, and payment will be collected at camp.
-
-> %list-group%
-> <a href="{{ site.url }}/#" class="list-group-item">2025 Summer Meal Order Form (Coming Soon)</a>
-
+Upon request, Camp Workcoeman can prepare meals for your unit or family while they are in camp this summer. Meals will be served in the Dining Hall. Meal requests must be made at least two weeks in advance, and payment will be collected at camp.
