@@ -1,9 +1,9 @@
 ---
 published: true
 layout: generic
-title: 2025 Scouts BSA Summer Camp Registration
+title: 2026 Scouts BSA Summer Camp Registration
 description: This page contains links to the council website to register for the 2025 Camp Workcoeman summer season.
-keywords: "Boy Scout, Scouts BSA, camp, 2025, registration, reservation"
+keywords: "Boy Scout, Scouts BSA, camp, 2026, registration, reservation"
 ---
 
 <div class="alert alert-info">

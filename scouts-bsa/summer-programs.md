@@ -9,7 +9,7 @@ Building on the success of the past few seasons, Camp Workcoeman will continue t
 
 > %list-group%
 > <a href="{{ site.url }}/scouts-bsa/year-round-programs/" class="list-group-item">2026 Scouts BSA Summer Programs</a>
-> <a href="{{ site.url }}/summer-camp/a-la-carte-programs/" class="list-group-item">2025 Summer À La Carte Programs</a>
+> <a href="{{ site.url }}/summer-camp/a-la-carte-programs/" class="list-group-item">2026 Summer À La Carte Programs</a>
 
 ## Promotional Video
 
