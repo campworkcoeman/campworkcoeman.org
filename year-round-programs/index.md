@@ -1,11 +1,11 @@
 ---
 published: true
 layout: generic
-title: Winter/Spring 2026 @ Workcoeman
-keywords: "Boy Scout, Scouts BSA, Cub Scouts, summer camp, day camp, overview, Scouting, Fall 2025, Overnight Camping, Merit Badges"
+title: Upcoming Programs at Camp Workcoeman
+keywords: "Boy Scout, Scouts BSA, Cub Scouts, summer camp, day camp, overview, Scouting, Overnight Camping, Merit Badges"
 ---
 
-Camp Workcoeman is offering a variety of day and overnight weekend opportunities for both Scouts BSA and Cub Scout participants throughout the winter and spring.
+In addition to summer programs, Camp Workcoeman is offering a variety of day and overnight weekend opportunities for both Scouts BSA and Cub Scout participants throughout the fall, winter, and spring.
 
 > %text-center%
 >> %row%

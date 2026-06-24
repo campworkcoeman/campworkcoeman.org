@@ -28,7 +28,7 @@ Camp Workcoeman is one of a select few camps that participates in the Boy Scouts
 Summer Camp Pistol Shooting Program. The program is open to all Scouts who are at least 13 and have
 completed the eighth grade. Scouts will receive a safety briefing and instruction followed by the opportunity
 to earn various pistol marksmanship qualifications. Due to the low instructor to shooter ratio, space is
-extremely limited. The program will be offered on Wednesdays during our merit badge weeks: July 2, 9, 23, & 30, 2025; the cost is $50. An additional signed
+extremely limited. The program will be offered on Wednesdays during our merit badge weeks. An additional signed
 participation waiver is required.
 
 > %list-group%
