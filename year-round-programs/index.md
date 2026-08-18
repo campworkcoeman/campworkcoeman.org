@@ -12,42 +12,16 @@ In addition to summer programs, Camp Workcoeman is offering a variety of day and
 >>> %col-sm-4%
 >>>> %list-group%
 >>>> <li class="list-group-item active h3">Scouts BSA Opportunities</li>
->>>> <li class="list-group-item">
-        <ul class="text-left">
-            <li>Winter Adventure Merit Badge Day</li>
-            <li>STEM Merit Badge Day</li>
-            <li>Crafts and Trades Merit Badge Day</li>
-            <li>Tenderfoot's Compass Five Mile Hike</li>
-            <li>America's Semiquincentennial Camporee</li>
-        </ul>
-     </li>
 >>>> <a href="{{ site.url }}/scouts-bsa/year-round-programs/" class="list-group-item">More Information & Registration</a>
 >>
 >>> %col-sm-4%
 >>>> %list-group%
 >>>> <li class="list-group-item active h3">Cub Scout Opportunities</li>
->>>> <li class="list-group-item">
-        <ul class="text-left">
-            <li>Cub Scout Blizzard</li>
-            <li>Covered Wagon Derby</li>
-        </ul>
-     </li>
 >>>> <a href="{{ site.url }}/cub-scouts/year-round-programs/" class="list-group-item">More Information & Registration</a>
 >>
 >>> %col-sm-4%
 >>>> %list-group%
 >>>> <li class="list-group-item active h3">Adult Scouter Trainings</li>
->>>> <li class="list-group-item">
-        <ul class="text-left">
-            <li>Full Slate of Shooting Sports Trainings</li>
-            <li>Scoutmaster Specific Training</li>
-            <li>Troop Committee Challenge Training</li>
-            <li>Introduction to Outdoor Leadership Skills (IOLS) Training</li>
-            <li>BALOO Cub Leader Training</li>
-            <li>Wood Badge</li>
-            <li>Wilderness First Aid Training</li>
-        </ul>
-     </li>
 >>>> <a href="{{ site.url }}/training/" class="list-group-item">More Information & Registration</a>
 
 > %list-group%
