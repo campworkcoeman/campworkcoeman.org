@@ -13,8 +13,6 @@ Connecticut Rivers Council is also making overnight accommodations available to 
 
 Contact Council Training Chair [Bill Shea](mailto:william.shea@sbcglobal.net) with questions pertaining to the training portion of the event and Camp Workcoeman Staff Member [Jeff Seiser](mailto:jseiser@campworkcoeman.org) with questions pertaining to overnight accommodations, food, or facilities.
 
-Time: November 16
-
 Cost:<br>
 $45 (Course, via scouting.org registration) (subject to change)<br>
 $15/night (Overnight accommodations [optional], via scoutingevent.com registration)
