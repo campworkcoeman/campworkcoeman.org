@@ -24,7 +24,9 @@ Saturday, May 9, 2026
 
 Saturday, June 6, 2026 (Beaver Day)
 
-Summer and Fall Work Days TBD
+Saturday, September 19, 2026
+
+Remaining Fall Work Days TBD
 
 ## Shawtown Fellowship Work Weekends
 
@@ -33,6 +35,3 @@ Please see the [Citizens of Shawtown]({{ site.url }}/get-involved/citizens-of-sh
 ## Beaver Day
 
 Saturday, June 6, 2026
-
-> %list-group%
-> <a href="{{ site.url }}/#" class="list-group-item">2026 Beaver Day Flier (Coming Soon)</a>
