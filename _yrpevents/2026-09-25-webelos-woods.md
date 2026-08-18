@@ -6,18 +6,20 @@ tag: cub-scouts
 dates: September 25&ndash;27, 2026
 ---
 
-More information coming soon.
+This popular event is back for 2026 and is open to all Webelos, Arrow of Light Scouts, Den Chiefs, and their leaders and parents. This program combines learning and fun, during a program where den leaders can pre-select badges and activities their Scouts can work towards during the weekend.
 
-Time: September 25 6:00 PM -- September 27 9:00 AM (subject to change)
+In addition to activity badge opportunities, Scouts will have the opportunity to participate in range and target activities, climbing, enjoy a special program, and a campwide campfire on Saturday evening. Meals will be provided through the dining hall throughout the day on Saturday.
 
-Scout Cost: $40 (subject to change)
+Time: September 25 6:00 PM -- September 27 9:00 AM
 
-Adult Cost: $20 (subject to change)
+Scout Cost: $50
 
-Den Chief Cost: $20 (subject to change)
+Adult Cost: $25
+
+Den Chief Cost: $25
 
 Contact: Jeffrey Seiser, [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org)
 
 > %list-group%
 > <a href="{{ site.url }}/#" class="list-group-item">2026 Webelos Woods Program Guide (Coming Soon)</a>
-> <a href="https://scoutingevent.com/066" class="list-group-item">Register for Webelos Woods (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-111920" class="list-group-item">Register for Webelos Woods</a>

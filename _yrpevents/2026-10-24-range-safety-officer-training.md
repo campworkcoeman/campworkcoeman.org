@@ -9,11 +9,11 @@ The RSO course content consists of RSO's roles and responsibilities, range stand
 
 Required Pre-training: None
 
-Time: December 5, 8:00 AM -- 5:00 PM (subject to change)
+Time: October 24, 8:00 AM -- 5:00 PM
  
-Cost: $65 (subject to change)
+Cost: $75
  
 Contact: Joe Iannello, [jiannello@gmail.com](mailto:jiannello@gmail.com)
 
 > %list-group%
-> <a href="https://scoutingevent.com/066" class="list-group-item">Register for NRA Range Safety Officer (RSO) Training (Coming Soon)</a>
+> <a href="https://scoutingevent.com/066-112187" class="list-group-item">Register for NRA Range Safety Officer (RSO) Training</a>
