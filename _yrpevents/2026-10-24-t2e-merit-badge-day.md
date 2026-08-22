@@ -19,7 +19,7 @@ Merit Badges Offered (Max of 20 for each class):
 
 \* See prerequisite forms (below)
 
-Time: December 5, 8:30 AM -- 4:00 PM
+Time: October 24, 8:30 AM -- 4:00 PM
 
 Scout Cost: $50
 
