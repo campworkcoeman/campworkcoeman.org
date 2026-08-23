@@ -21,5 +21,5 @@ Den Chief Cost: $25
 Contact: Jeffrey Seiser, [jseiser@campworkcoeman.org](mailto:jseiser@campworkcoeman.org)
 
 > %list-group%
-> <a href="{{ site.url }}/#" class="list-group-item">2026 Webelos Woods Program Guide (Coming Soon)</a>
+> <a href="{{ site.url }}/pdf/2026/2026-webelos-woods-program-guide.pdf" class="list-group-item">2026 Webelos Woods Program Guide</a>
 > <a href="https://scoutingevent.com/066-111920" class="list-group-item">Register for Webelos Woods</a>
