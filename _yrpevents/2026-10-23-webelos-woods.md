@@ -3,14 +3,16 @@ published: true
 layout: event-item
 title: Webelos Woods
 tag: cub-scouts
-dates: September 25&ndash;27, 2026
+dates: October 23&ndash;25, 2026
 ---
+
+**Note: Webelos Woods has been rescheduled from September 25--27 to October 23--25, 2026 due to weather.**
 
 This popular event is back for 2026 and is open to all Webelos, Arrow of Light Scouts, Den Chiefs, and their leaders and parents. This program combines learning and fun, during a program where den leaders can pre-select badges and activities their Scouts can work towards during the weekend.
 
 In addition to activity badge opportunities, Scouts will have the opportunity to participate in range and target activities, climbing, enjoy a special program, and a campwide campfire on Saturday evening. Meals will be provided through the dining hall throughout the day on Saturday.
 
-Time: September 25 6:00 PM -- September 27 9:00 AM
+Time: October 23 6:00 PM -- October 25 9:00 AM
 
 Scout Cost: $50
 
